@@ -4,7 +4,7 @@ Research on the relationship between packages in Python.
 
 以下为统计、分析结果：
 
-##Github仓库中packages使用情况统计
+## Github仓库中packages使用情况统计
 在通过爬虫获取的1000个仓库中，统计它们使用的packages，最常被使用的packages为：
 <table>
     <thead> 
@@ -171,7 +171,7 @@ Research on the relationship between packages in Python.
 </tbody>
 </table>
 
-##同时出现在一个工程中的packages统计
+## 同时出现在一个工程中的packages统计
 在通过爬虫获取的1000个仓库中，统计它们使用的packages，最常被使用在同一个工程中的packages对为：
 
 <table>
@@ -428,7 +428,7 @@ Research on the relationship between packages in Python.
 </tbody>
 </table>
 
-##GitHub上仓库使用的协议统计
+## GitHub上仓库使用的协议统计
 
 在通过爬虫获取的16800个仓库中，使用协议的统计情况（协议项为None的在统计中会被忽略）：
 <table>

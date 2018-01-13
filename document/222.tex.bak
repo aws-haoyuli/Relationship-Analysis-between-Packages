@@ -1,0 +1,705 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{fancybox}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage[toc,page,title,titletoc,header]{appendix}
+\usepackage{color}
+\usepackage{titlesec}
+\usepackage{ifthen,calc,lastpage,listings}
+\usepackage{amsthm}
+\usepackage{latexsym}
+\usepackage{amsmath}        % AMSLaTeX
+\usepackage{amssymb}        % AMSLaTeX sym-bols
+\usepackage{indentfirst}    % indent first line of each paragraph
+\usepackage{longtable}      % table that occupies multiple pages
+\usepackage{subfigure}      %
+\usepackage{slashbox}       %@@表格头画斜线
+\usepackage{graphicx}       %@@图象
+\usepackage{graphics}       %@@图象
+\usepackage[centerlast]{caption2}
+\usepackage{flafter}
+\usepackage{pifont}
+\usepackage{picinpar}
+\usepackage{geometry}
+\usepackage{CJK}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{picinpar}
+\usepackage{listings}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{supertabular}
+\usepackage{algorithmic}
+\usepackage{algorithm,float}
+\usepackage{array}
+
+
+%\usepackage{times}
+%\usepackage{mathptmx}  % times roman, including math (where possible)
+%\usepackage{palatino}
+\usepackage{mathpazo}  % palatino, including math (where possible)
+
+\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+
+\renewcommand{\figurename}{Fig}
+\renewcommand{\tablename}{Tab}
+
+% 中文 ====================================================
+\usepackage{ctex}
+\renewcommand{\figurename}{图}
+\renewcommand{\tablename}{表}
+\renewcommand{\contentsname}{目录}
+\renewcommand{\abstractname}{摘要}
+\renewcommand{\refname}{参考文献}
+\renewcommand{\appendixname}{附录}
+% =========================================================
+\makeatletter
+\newenvironment{breakablealgorithm}
+  {% \begin{breakablealgorithm}
+   \begin{center}
+     \refstepcounter{algorithm}% New algorithm
+     \hrule height.8pt depth0pt \kern2pt% \@fs@pre for \@fs@ruled 画线
+     \renewcommand{\caption}[2][\relax]{% Make a new \caption
+       {\raggedright\textbf{\ALG@name~\thealgorithm} ##2\par}%
+       \ifx\relax##1\relax % #1 is \relax
+         \addcontentsline{loa}{algorithm}{\protect\numberline{\thealgorithm}##2}%
+       \else % #1 is not \relax
+         \addcontentsline{loa}{algorithm}{\protect\numberline{\thealgorithm}##1}%
+       \fi
+       \kern2pt\hrule\kern2pt
+     }
+  }{% \end{breakablealgorithm}
+     \kern2pt\hrule\relax% \@fs@post for \@fs@ruled 画线
+   \end{center}
+  }
+\makeatother
+
+
+\title{No Title}
+\author{https://github.com/HarryHaoLee/Relationship-Analysis-between-Packages}
+
+\begin{document}
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\chead{大连理工大学软件学院本科生课程设计报告}
+\cfoot{\thepage/\pageref{LastPage}}
+%\renewcommand{\headrulewidth}{0.4pt}
+%\renewcommand{\footrulewidth}{0.4pt}
+
+\maketitle
+\tableofcontents
+\newpage
+%内容应涵盖软件工程主要生命周期，包括需求分析，设计（概要设计、详细设计）、实现、测试几个主要环节，鼓励做分析开源软件仓库相关的题目
+%应有一定的工作量和技术难度，鼓励使用课程讲授知识，如数据获取、数据过滤、数据分析、数据可视化等功能
+
+\section{问题与需求分析}
+\subsection{问题提出} 我们将要以python极其各种包、库为主题进行一些分析：分析python的哪些包被使用或提及的频率最高；哪些包之间存在着一些联系；python最常被用于哪些话题；使用python的开源仓库，最经常使用什么协议等。
+
+\subsection{思路分析}
+
+首先，我们需要获取一些关于python及其包、库的数据。Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。gitHub是一个提供了git代码仓库托管及基本的 Web管理界，以及订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能的大型网站。这两个网站包含了大量与Python包相关的信息，所以我们将主要选择github，StackOverflow这两个网站作为数据来源。为了得到每个包被提及或使用的“热度”，我们可以选用它们在tags 中出现的次数，以及在工程代码中被使用的次数；为了获取各个包之间的联系，我们可以统计它们同时出现在一个问题或仓库下以及同时被一个工程所使用的次数。
+
+在具体的数据选择上，我们将分别通过爬虫得到：
+\begin{itemize}
+  \item[-]StackOverflow上与python相关的问题的“热度”，每个问题下的各个tag
+  \item[-]github上语言为python的仓库所使用的协议，每个仓库的各个tag
+  \item[-]github上语言为python的仓库，每个仓库中的每个*.py文件中，import的各个包名字
+\end{itemize}
+
+获取数据后，我们将根据每个包自身被提及的“热度”，它们之间同时出现的关联度（每对包每同时出现一次，则认为它们的关联+1），以及其他由爬虫获取的相关信息，对它们进行分析。
+
+在数据可视化上，我们将采用表格、直方图、Gephi绘制网络关系图等的方式，将分析得到的结果进行直观的显示。
+
+\subsection{需求分析}
+\paragraph{功能需求}：
+\begin{enumerate}
+  \item 从指定网站爬取指定数据
+  \item 通过爬取的数据分析出现频率高的库
+  \item 通过爬取的数据分析热度高的库
+  \item 通过爬取的数据分析容易在一起出现的库
+  \item 通过爬取的数据分析开源软件仓库使用频率高的协议
+\end{enumerate}
+
+\paragraph{性能需求}：
+\begin{enumerate}
+  \item 程序规模需限制在普通笔记本电脑可以运行的范围
+  \item 所需存储空间不应过大
+  \item 考虑到项目的时间限制，程序的运行时间必须在可接受范围内
+\end{enumerate}
+
+\paragraph{可靠性和出错处理需求}：
+\begin{enumerate}
+  \item 爬虫必须有一定的重启机制和对反爬虫机制的预防机制，以防在没有人关注的时候被停止或爬取到大量错误数据。
+接口需求
+  \item 程序运行结果必须按照用户需求保存在不同格式的文件如.csv、.txt、.json中，以供保存、阅读或者由其他程序调用。
+\end{enumerate}
+
+
+\paragraph{约束}：
+\begin{enumerate}
+  \item 此程序为对开源软件仓库的爬取分析程序
+  \item 需使用Python语言完成
+  \item 需包含数据的获取、清洗、分析、可视化等步骤
+\end{enumerate}
+
+\paragraph{将来可能提出的需求}：
+\begin{enumerate}
+  \item 未来可能从更多角度对数据进行分析，所以需要多元化的数据，如Stackoverflow问题中问题的题目、浏览次数、标签等
+\end{enumerate}
+
+
+\section{设计}
+\subsection{概要设计}
+我们的程序在功能上可分为三个模块，数据获取、数据处理、数据可视化，每个模块又可分为若干子模块，较详细的概要设计可参考下图：
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=6.5in]{design.png}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{层次分析图}
+\end{figure}
+\newpage
+\subsection{详细设计}
+% url列表 response（一页）交给parse（获取next的url，然后用于跳转过去），发request然后parse item（详情页）
+使用scrapy对StackOverflow上的问题进行爬取，流程如下：
+\begin{breakablealgorithm} %算法开始
+\caption{爬取StackOverflow上问题} %算法的题目
+\label{alg1} %算法的标签
+\begin{algorithmic}[1] %此处的[1]控制一下算法中的每句前面都有标号
+\REQUIRE 待爬取的startUrl %输入条件(此处的REQUIRE默认关键字为Require，在上面已自定义为Input)
+\ENSURE 存入MongoDB中的爬取结果 %输出结果(此处的ENSURE默认关键字为Ensure在上面已自定义为Output)
+% if-then-else
+\STATE currentUrl = startUrl
+\WHILE{未达到需要的数量}
+\STATE 获取currentUrl（为搜索页url，每页有若干个问题摘要）的页面currentPage
+\STATE 将currentPage交给parse函数
+\STATE 解析得到每个问题的url: urlList，解析得到下一页的url: nextUrl
+\FOR{each url in urlList}
+\STATE 获取页面内容content
+\STATE 将content交给parse item函数，解析得到页面具体信息info
+\STATE 将info存入数据库中
+\ENDFOR
+\STATE currentUrl = nextUrl
+\ENDWHILE
+\end{algorithmic}
+\end{breakablealgorithm}
+
+使用url.request对GitHub上的仓库基本信息以及每个仓库内import的packages进行爬取，流程如下：
+\begin{breakablealgorithm} %算法开始
+\caption{爬取GitHub上的仓库} %算法的题目
+\label{alg1} %算法的标签
+\begin{algorithmic}[1] %此处的[1]控制一下算法中的每句前面都有标号
+\REQUIRE GitHub的token，search页面url的组成规则 %输入条件(此处的REQUIRE默认关键字为Require，在上面已自定义为Input)
+\ENSURE 存入json文件的结果 %输出结果(此处的ENSURE默认关键字为Ensure在上面已自定义为Output)
+% if-then-else
+\STATE maxStar = inf
+\WHILE{未达到需要的数量}
+\FOR{page = 1:10}
+\STATE 获取搜索页面的url（语言为python，star数小于maxStar，按照star数降序排列，perpage = 100） // GitHub的search API对每次搜索结果仅返回1000 条，因此，为了获得足够的仓库信息，将按照不同的star数范围进行多次搜索
+\STATE 得到当前页面的内容 //为json数据，返回值由字典接收
+\FOR{each repository in this page}
+\STATE 获取该仓库的基本信息basicInfo与仓库内代码内容的url: contentUrl
+\STATE packageInfo = getPackage(contentUrl)
+\STATE 将basicInfo与packageInfo存入json文件中中
+\IF{当前为第10页最后一条仓库信息}
+\STATE maxStar = 此仓库的star数 - 1
+\ENDIF
+\ENDFOR
+\ENDFOR
+\ENDWHILE
+\end{algorithmic}
+\end{breakablealgorithm}
+
+getPackage的过程如下：
+\begin{breakablealgorithm} %算法开始
+\caption{getPackage} %算法的题目
+\label{alg1} %算法的标签
+\begin{algorithmic}[1] %此处的[1]控制一下算法中的每句前面都有标号
+\REQUIRE contentUrl %输入条件(此处的REQUIRE默认关键字为Require，在上面已自定义为Input)
+\ENSURE packageInfo %输出结果(此处的ENSURE默认关键字为Ensure在上面已自定义为Output)
+% if-then-else
+\STATE contentInfo = []
+\STATE 获取contentUrl页面信息
+\FOR{each content in this page}
+\IF{Type == file and Name == *.py}
+\STATE 下载此文件内容并解析得到其中import的所有内容packages
+\STATE contentInfo += packages
+\ENDIF
+\IF{Type == dict}
+\STATE url = 当前目录的contentUrl
+\STATE packageInfo += getPackage(contentUrl)
+\ENDIF
+\ENDFOR
+\RETURN packageInfo
+\end{algorithmic}
+\end{breakablealgorithm}
+
+分析处理数据的流程（对GitHub与StackOverflow上获取的各项数据都可按照相似的流程进行处理，只是对不同数据在一些处理细节上有所不同）如下：
+\begin{algorithm} %算法开始
+\caption{getPackage} %算法的题目
+\label{alg1} %算法的标签
+\begin{algorithmic}[1] %此处的[1]控制一下算法中的每句前面都有标号
+\REQUIRE 爬虫获取的数据文件，较常被使用的包列表packageList %输入条件(此处的REQUIRE默认关键字为Require，在上面已自定义为Input)
+\ENSURE 分析统计结果 %输出结果(此处的ENSURE默认关键字为Ensure在上面已自定义为Output)
+% if-then-else
+\STATE packageCount = \{\}, packagePopular = \{\}, packageRelationship = \{\}, licenseCount = \{\}
+\FOR{each record in the database/file（问题或仓库的信息）}
+\STATE tags = 此条记录中属于packageList的tag/package
+\STATE licenseCount[license] += 1
+\FOR{each tag in tags}
+\STATE packageCount[tag] += 1
+\STATE packagePopular += 此条记录的“热度”
+\FOR{each tag2 in tags}
+\STATE packageRelationship[(tag, tag2)] += 1
+\ENDFOR
+\ENDFOR
+\ENDFOR
+\RETURN 统计得到的各个结果
+\end{algorithmic}
+\end{algorithm}
+
+
+\section{数据获取与过滤处理}
+\subsection{从GitHub获取的数据}
+按照“详细设计”中的爬虫逻辑，共从GitHub上获取了16800个语言为python的仓库的基本信息用于分析它们的许可证，标签内容。由于下载获取*.py文件较慢，仅爬取了1000个仓库具体代码内容的import packages 内容，用于后续分析。
+\subsection{从StackOverflow获取的数据}
+按照“详细设计”中的爬虫逻辑，共从StackOverflow上爬取了36000个问题的热度，标签，用户等信息，用于后续分析。由于部分问题存在数据缺失，例如没有用户回答或者缺少votes数据，我们对这部分残缺的问题进行了删除。
+\subsection{其他数据}
+从网络上获取了Python库列表。其中包含Anaconda官网、Python内置库列表、Python第三方库列表等，由于一些数据并没有以清晰的列表的形式给出，我们还设计了一些正则匹配的方法进行获取。最后得到了比较全面的Python常用库列表。
+\section{数据分析}
+我们认为一个包出现在Stackoverflow问题中的次数越多，包含它的问题的热度越高，使用它的人数便越多，便可以认为它活跃度较高。同时，若两个包同时出现在一个问题中的次数越高，我们便认为它们的关系越密切。Github中同理。基于这个认知，我们决定统计Stackoverflow中问题出现的次数及与之相关的问题热度，并分别一句出现次数与热度对包排序；统计包共同出现情况并对之进行排序。对于Github亦进行类似统计，由于我们还对Github中1000个工程进行了分析，直接统计了同一工程中包的出现情况，我们认为这部分的数据可信度是较高的。
+
+\section{结果可视化与展示}
+\subsection{packages被使用的“热度”结果}
+
+在通过爬虫获取的1000个GitHub仓库中，统计它们使用的packages，最常被使用的packages直方图如下：
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=6in]{b1.jpg}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{统计GitHub上python语言的工程中使用包的情况直方图}
+\end{figure}
+
+
+他们的详细信息如下:
+
+\begin{table}[H]
+\centering
+\caption{统计GitHub上python语言的工程中使用包的情况}
+\begin{tabular}{l|l|l}
+\toprule
+序号&	package名	&被使用次数 \\
+  \hline
+1&	os	& 419 \\
+2&	sys	& 366 \\
+3&	time	&183 \\
+4&	numpy	&180 \\
+5&	re	&136 \\
+6&	json&	118 \\
+7&	setuptools&	117                 \\
+8&	datetime	&112                 \\
+9&	django	&95                 \\
+10&	random	&89                 \\
+11	&logging	&89                 \\
+12&	matplotlib	&83                 \\
+13&	requests	&82                 \\
+14&	argparse	&78                 \\
+15&	\_\_future\_\_	&76                 \\
+16&	math	&69                 \\
+17&	subprocess	&64                 \\
+18&	pandas	&63                 \\
+19	&unittest	&59                 \\
+20	&urllib	&57                 \\
+21	&collections&	53                 \\
+22&	tensorflow&	48                 \\
+23&	sklearn	&47                 \\
+24&	flask	&44                 \\
+25&	distutils	&41                 \\
+26&	threading	&39                 \\
+27&	scipy	&37                 \\
+28&	shutil&	36                 \\
+29&	csv	&35                 \\
+30&	hashlib	& 33                 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+
+统计爬虫获取的16800个仓库中，统计其中提及的packages，最常被提及的packages如下:
+
+
+\begin{table}[H]
+\centering
+%\caption{表的名字}
+
+\caption{统计GitHub上python为语言的仓库中tags里提及到包的情况}
+\begin{tabular}[!http]{l|l|l}
+\toprule
+序号	&包名	&出现次数               \\
+\hline
+1 &	tensorflow	&330               \\
+2&	http	&42               \\
+3&	numpy	&39               \\
+4&	json	&37               \\
+5&	sqlalchemy	&36               \\
+6&	pandas	&33               \\
+7&	theano	&32               \\
+8&	jupyter	&29               \\
+9&	scikit-learn	&28               \\
+10&	html	&23               \\
+11&	ipython	&21               \\
+12&	email	&20               \\
+13&	opencv	&20               \\
+14&	matplotlib	&20               \\
+15&	parser	&18               \\
+16&	logging&	18               \\
+17&	requests&	17               \\
+18&	twisted&	16               \\
+19&	csv&	16               \\
+20&	aiohttp&	16               \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+统计Stackoverflow36k个问题，最常被提问的packages直方图如下：
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=6in]{b4.jpg}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{Stackoverflow上python相关的问题中tags里提及到包的次数直方图}
+\end{figure}
+
+\newpage
+
+
+它们的具体信息如下：
+\begin{table}[htbp]
+\centering
+\caption{统计Stackoverflow上python相关的问题中tags里提及到包的情况}
+\begin{longtable}[htbp]{l|l|l}
+\toprule
+序号	&包名	&出现次数               \\
+\hline
+0 & 	numpy&	2229              \\
+1&	pandas	&1902             \\
+2&	matplotlib&	1584             \\
+3&	string	&797             \\
+4&	scipy	&654             \\
+5&	regex	&527             \\
+6&	tkinter	&478             \\
+7&	pip	&474             \\
+8&	json&	401             \\
+9&	opencv&	396             \\
+10&	csv	&386        \\
+11	&sqlalchemy	&378             \\
+12	&datetime	&359             \\
+13	&subprocess	&348             \\
+14	&multiprocessing	&345             \\
+15	&tensorflow	&340             \\
+16	&virtualenv	&297             \\
+17	&scikit-learn	&289             \\
+18	&pyqt	&276             \\
+19	&ipython&	264             \\
+20	&html	&261             \\
+21	&nltk	&223             \\
+22	&logging	&202             \\
+23	&lxml	&174             \\
+24	&math	&170             \\
+25	&pyqt4	&167             \\
+26	&cython	&161             \\
+27	&pickle	&149             \\
+28	&pygame	&142             \\
+29	&random	&139             \\
+30&	argparse	&133              \\
+\bottomrule
+\end{longtable}
+\end{table}
+\newpage
+然后我们采用计算votes、favorite\_count、answers、views和的方式衡量该问题给该标签添加的热度，并统计每个标签的热度和，可得热度（每个问题的热度和）最高的标签如下：
+\begin{table}[http]
+\centering
+\caption{统计Stackoverflow上python为语言的仓库中标签的热度情况}
+\begin{tabular}[!http]{l|l|l}
+\toprule
+序号&	包名	&热度         \\
+\hline
+0&	string	&69064758         \\
+1&	pandas	&45328071         \\
+2&	numpy	&43093597         \\
+3&	matplotlib	&36833422         \\
+4&	pip	&27232593         \\
+5&	datetime	&19288259         \\
+6&	json	&17297712         \\
+7&	regex	&12370782         \\
+8&	subprocess	&10981344         \\
+9&	csv	&10966890         \\
+10&	scipy	&10668052         \\
+11&	tkinter	&8859804         \\
+12&	virtualenv	&8447119         \\
+13&	time	&7351270         \\
+14&	opencv	&6600929         \\
+15&	types	&6246745         \\
+16&	math	&6126282         \\
+17&	random	&6106164         \\
+18&	ipython	&4965214         \\
+19&	html	&4889697         \\
+20&	logging&	4587029         \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+上面的结果显示，在python工程中，一些python自带的包（os, sys, time）最常被使用；第三方库中，numpy被使用频率最高；网页制作框架，数据可视化与数据处理相关的包，机器学习/深度学习相关的包等，出现频率也很高。
+
+在StackOverflow中的提问里，string包有着最高的热度，可以反映出用户在使用该包时遇到的问题是比较多的，数据处理与可视化相关的包（numpy, pandas, matplotlib）被提及的频率均较高，有较高的“热度”。
+
+
+\subsection{packages间的“联系”结果}
+通过统计得到的信息，我们进行了关系网络图的绘制，起初我们想使用Python中的matplotlib与Networkx进行绘制，但可能是由于点与边的数量过多，且Networkx 与\newline Python3.x 的兼容性不好，没有办法绘制出图形，所以我们采用了Gephi进行可视化。
+将stackoverflow上爬取的数据按照['Source','Target','Weight']的形式导入之后，调整参数，可以看到可视化后的图形如下。
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=6.3in]{stack1.png}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{StackOverFlow问题中的包关系网络图}
+\end{figure}
+
+查看图形的细节如下，边的颜色与尺寸代表了变的权重，点的颜色与尺寸代表了点的度。
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=5in]{stack2.jpg}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{StackOverFlow问题中的包关系网络图细节}
+\end{figure}
+
+将鼠标放置的点上，可以看到与该点相连的点，其含义为与该包共同出现过的包。
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=6in]{stack3.jpg}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{举例：与Pandas有关的包}
+\end{figure}
+
+
+将GitHub上爬取的数据也分别进行可视化，结果如下：
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=5.5in]{data1-1.png}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{GitHub上python工程中import的包关系网络图}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=5in]{data1-2.png}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{GitHub上python工程中import的包关系网络图细节}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=5.5in]{data2-1.png}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{GitHub上仓库标签中提及的包的关系网络图}
+\end{figure}
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=5.5in]{data2-2.png}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{GitHub上仓库标签中提及的包的关系网络图细节}
+\end{figure}
+其中，最经常出现在一起的结果分别如下：
+
+\begin{table}[htbp]
+\centering
+\caption{统计StackOverflow中同一问题下包出现情况}
+\begin{tabular}[!htb]{l|l|l|l}
+\toprule
+序号	&package1	&package2	&出现次数 \\
+\hline
+1 &	numpy	&scipy	&790            \\
+2&	numpy	&pandas	&430            \\
+3&	matplotlib	&numpy	&384            \\
+4&	matplotlib	&pandas	&288            \\
+5&	matplotlib	&scipy	&146            \\
+6&	pyqt4	&pyqt	&146            \\
+7&	pip	&virtualenv	&138            \\
+8&	csv	&pandas	&126            \\
+9&	datetime	&pandas	&104            \\
+10&	regex	&string	&92            \\
+11	&cython	&numpy	&92            \\
+12	&scikit-learn	&numpy	&90            \\
+13	&opencv	&numpy	&86            \\
+14	&setuptools	&pip	&64            \\
+15	&matplotlib	&ipython	&62            \\
+16	&pyqt	&pyside	&62            \\
+17	&setuptools	&distutils	&60            \\
+18	&scikit-learn	&pandas	&60            \\
+19	&numpy	&math	&60            \\
+20	&pandas	&ipython	&56            \\
+21	&jupyter	&ipython	&54            \\
+22	&csv	&numpy	&54            \\
+23	&datetime	&time	&50            \\
+24	&pandas	&scipy	&50            \\
+25	&tkinter	&matplotlib	&44            \\
+26	&pip	&numpy	&44            \\
+%27	&random	&numpy	&44            \\
+%28	&multiprocessing	&numpy	&42            \\
+%29	&matplotlib	&heatmap	&38            \\
+%30&	datetime	&pytz	&36            \\
+\bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\begin{table}[htbp]
+\centering
+\caption{同时出现在一个工程中的packages统计}
+\begin{tabular}[!htb]{l|l|l|l}
+\toprule
+序号&	package-1&	package-2	&同时出现次数            \\
+\hline
+1&	os	&sys	&283            \\
+2&	os	&time	&118            \\
+3&	os	&re	&101            \\
+4&	time&	sys	&97            \\
+5&	os	&django	&93            \\
+6&	django&	sys	&91            \\
+7&	numpy&	matplotlib	&86            \\
+8&	re	&sys	&86            \\
+9&	os	&numpy	&82            \\
+10&	logging	&os	&73            \\
+11&	os	&datetime	&70            \\
+12&	os	&json	&70            \\
+13&	os	&setuptools	&66            \\
+14&	numpy	&sys	&66            \\
+15&	datetime	&sys	&60            \\
+16&	os	&argparse	&60            \\
+17&	json	&sys	&57            \\
+18&	os	&\_\_future\_\_	&57            \\
+19&	time	&re	&55            \\
+20&	os	&subprocess&	54            \\
+21&	numpy	&sklearn	&53            \\
+22&	time &datetime	&52            \\
+23&	time	&json	&51            \\
+24&	pandas	&numpy	&50            \\
+25&	logging	&sys	&49            \\
+26&	os	&random	&49            \\
+\bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\begin{table}[htbp]
+\centering
+\caption{组合出现在标签中的packages统计}
+\begin{tabular}[!htb]{l|l|l|l}
+\toprule
+序号&	package-1&	package-2	&同时出现次数            \\
+\hline
+1&	theano&	tensorflow	&14           \\
+2&	numpy&	pandas	&9           \\
+3&	http	&requests	&8           \\
+4&	jupyter&	ipython&	7           \\
+5&	pandas&	matplotlib	&6           \\
+6&	numpy&	scipy	&5           \\
+7&	pyside&	pyqt4	&5           \\
+8&	pandas&	scikit-learn&	5           \\
+9&	scipy	&numpy	&5           \\
+10&	numpy	&opencv	&4           \\
+11	&numpy	&tensorflow	&4           \\
+12&	json&	html	&4           \\
+13&	opencv	&tensorflow	&4           \\
+14&	pip&	virtualenv	&4           \\
+15&	tensorflow&	numpy	&4           \\
+16&	numpy	&scikit-learn	&3           \\
+17&	csv	json&	3           \\
+18&	threading&	multiprocessing	&3           \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+其中，在GitHub的工程中，与系统相关的包（如，os,time,sys）经常出现；与科学计算，数据处理相关的包（如，numpy, matplotlib, pandas）也经常一起出现。
+
+
+在StackOverflow的提问里，与科学计算，数据处理相关的包（如，numpy, matplotlib, pandas, scipy）也经常一起出现在同一个问题中。
+\newpage
+\subsection{其他结果}
+\paragraph{tags中最多被提到的话题}
+统计GitHub仓库所有标签的出现次数，结果如下：
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=6in]{b3.jpg}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{GitHub仓库所有标签的出现次数直方图}
+\end{figure}
+
+
+\begin{table}[htbp]
+\centering
+\caption{GitHub仓库所有标签的出现次数}
+\begin{tabular}[!http]{l|l|l}
+\toprule
+序号	& 标签	& 出现次数         \\
+\hline
+1	& python&	2403         \\
+2&	deep-learning&	373         \\
+3&	tensorflow& 330         \\
+4&	machine-learning&	307         \\
+5&	django	&289         \\
+6&	python3	&188         \\
+7&	pytorch	&151         \\
+8&	security&	139         \\
+9&	linux&	128         \\
+10&	flask&	124         \\
+11&	cli	&99         \\
+12&	keras&	97         \\
+13&	docker&	93         \\
+14&	nlp	&90         \\
+15&	data-science&	82         \\
+16&	natural-language-processing&	77         \\
+17&	computer-vision&	76         \\
+18&	python-3	& 72         \\
+19&	asyncio	&71         \\
+20	& neural-network	& 69         \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+以上结果中，最常被使用的标签如下。其中，深度学习相关标签（如，deep-learning, pytorch, tensorflow, neural-network, keras, gan等），占了很大一部分；网页制作框架（如，django, flask），也出现了较多次。
+
+
+\paragraph{被使用最多的许可证}
+统计GitHub仓库中被使用许可证的频率，结果如下：
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=6in]{b2.jpg}  %width规定图片宽度，111.jpg是要插入的图片的名字，图片和.tex放在一个文件夹里
+\caption{GitHub仓库中使用许可证的统计直方图}
+\end{figure}
+详细结果如下：
+\begin{table}[htbp]
+\centering
+\caption{GitHub仓库中使用许可证的统计}
+\begin{tabular}[!http]{l|l|l}
+\toprule
+许可证名	& 仓库数	& 百分比              \\
+\hline
+MIT License	& 4736	& 38.90\%              \\
+Apache License 2.0	& 1558	& 12.80\%              \\
+Other	& 1551	& 12.74\%              \\
+BSD 3-clause "New" or "Revised" License	& 1478	& 12.14\%              \\
+GNU General Public License v3.0	& 1157	& 9.50\%              \\
+GNU General Public License v2.0	& 532	& 4.37\%              \\
+BSD 2-clause "Simplified" License	& 433	& 3.56\%              \\
+GNU Affero General Public License v3.0	& 191	& 1.57\%              \\
+GNU Lesser General Public License v3.0	& 133& 	1.09\%              \\
+The Unlicense	& 96& 	0.79\%              \\
+ISC License	& 80	& 0.66\%              \\
+GNU Lesser General Public License v2.1	& 67& 	0.55\%              \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+其中mit许可证占了超过三分之一的比例，被使用最多。
+
+\section{总结}
+
+\end{document}

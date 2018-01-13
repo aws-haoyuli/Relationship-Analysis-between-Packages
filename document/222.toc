@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}问题与需求分析}{2}
+\contentsline {subsection}{\numberline {1.1}问题提出}{2}
+\contentsline {subsection}{\numberline {1.2}思路分析}{2}
+\contentsline {subsection}{\numberline {1.3}需求分析}{2}
+\contentsline {paragraph}{功能需求}{2}
+\contentsline {paragraph}{性能需求}{3}
+\contentsline {paragraph}{可靠性和出错处理需求}{3}
+\contentsline {paragraph}{约束}{3}
+\contentsline {paragraph}{将来可能提出的需求}{3}
+\contentsline {section}{\numberline {2}设计}{3}
+\contentsline {subsection}{\numberline {2.1}概要设计}{3}
+\contentsline {subsection}{\numberline {2.2}详细设计}{4}
+\contentsline {section}{\numberline {3}数据获取与过滤处理}{6}
+\contentsline {subsection}{\numberline {3.1}从GitHub获取的数据}{6}
+\contentsline {subsection}{\numberline {3.2}从StackOverflow获取的数据}{6}
+\contentsline {subsection}{\numberline {3.3}其他数据}{6}
+\contentsline {section}{\numberline {4}数据分析}{7}
+\contentsline {section}{\numberline {5}结果可视化与展示}{7}
+\contentsline {subsection}{\numberline {5.1}packages被使用的“热度”结果}{7}
+\contentsline {subsection}{\numberline {5.2}packages间的“联系”结果}{12}
+\contentsline {subsection}{\numberline {5.3}其他结果}{20}
+\contentsline {paragraph}{tags中最多被提到的话题}{20}
+\contentsline {paragraph}{被使用最多的许可证}{22}
+\contentsline {section}{\numberline {6}总结}{23}

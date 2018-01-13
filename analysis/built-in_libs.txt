@@ -1,0 +1,223 @@
+﻿6.1. string — Common string operations
+6.2. re — Regular expression operations
+6.3. struct — Interpret bytes as packed binary data
+6.4. difflib — Helpers for computing deltas
+6.5. textwrap — Text wrapping and filling
+6.6. codecs — Codec registry and base classes
+6.7. unicodedata — Unicode Database
+6.8. stringprep — Internet String Preparation
+7.1. datetime — Basic date and time types
+7.2. calendar — General calendar-related functions
+7.3. collections — Container datatypes
+7.4. heapq — Heap queue algorithm
+7.5. bisect — Array bisection algorithm
+7.6. array — Efficient arrays of numeric values
+7.7. sched — Event scheduler
+7.8. queue — A synchronized queue class
+7.9. weakref — Weak references
+7.10. types — Names for built-in types
+7.11. copy — Shallow and deep copy operations
+7.12. pprint — Data pretty printer
+7.13. reprlib — Alternate repr() implementation
+8.1. numbers — Numeric abstract base classes
+8.2. math — Mathematical functions
+8.3. cmath — Mathematical functions for complex numbers
+8.4. decimal — Decimal fixed point and floating point arithmetic
+8.5. fractions — Rational numbers
+8.6. random — Generate pseudo-random numbers
+9.1. itertools — Functions creating iterators for efficient looping
+9.2. functools — Higher order functions and operations on callable objects
+9.3. operator — Standard operators as functions
+9.4. Inplace Operators
+10.1. os.path — Common pathname manipulations
+10.2. fileinput — Iterate over lines from multiple input streams
+10.3. stat — Interpreting stat() results
+10.4. filecmp — File and Directory Comparisons
+10.5. tempfile — Generate temporary files and directories
+10.6. glob — Unix style pathname pattern expansion
+10.7. fnmatch — Unix filename pattern matching
+10.8. linecache — Random access to text lines
+10.9. shutil — High-level file operations
+10.10. macpath — Mac OS 9 path manipulation functions
+11.1. pickle — Python object serialization
+11.2. copyreg — Register pickle support functions
+11.3. shelve — Python object persistence
+11.4. marshal — Internal Python object serialization
+11.5. dbm — Interfaces to Unix “databases”
+11.6. sqlite3 — DB-API 2.0 interface for SQLite databases
+12.1. zlib — Compression compatible with gzip
+12.2. gzip — Support for gzip files
+12.3. bz2 — Compression compatible with bzip2
+12.4. zipfile — Work with ZIP archives
+12.5. tarfile — Read and write tar archive files
+13.1. csv — CSV File Reading and Writing
+13.2. configparser — Configuration file parser
+13.3. netrc — netrc file processing
+13.4. xdrlib — Encode and decode XDR data
+13.5. plistlib — Generate and parse Mac OS X .plist files
+14.1. hashlib — Secure hashes and message digests
+14.2. hmac — Keyed-Hashing for Message Authentication
+15.1. os — Miscellaneous operating system interfaces
+15.2. io — Core tools for working with streams
+15.3. time — Time access and conversions
+15.4. argparse — Parser for command-line options, arguments and sub-commands
+15.5. optparse — Parser for command line options
+15.6. getopt — C-style parser for command line options
+15.7. logging — Logging facility for Python
+15.8. logging.config — Logging configuration
+15.9. logging.handlers — Logging handlers
+15.10. getpass — Portable password input
+15.11. curses — Terminal handling for character-cell displays
+15.12. curses.textpad — Text input widget for curses programs
+15.13. curses.ascii — Utilities for ASCII characters
+15.14. curses.panel — A panel stack extension for curses
+15.15. platform — Access to underlying platform’s identifying data
+15.16. errno — Standard errno system symbols
+15.17. ctypes — A foreign function library for Python
+16.1. select — Waiting for I/O completion
+16.2. threading — Thread-based parallelism
+16.3. multiprocessing — Process-based parallelism
+16.4. concurrent.futures — Launching parallel tasks
+16.5. mmap — Memory-mapped file support
+16.6. readline — GNU readline interface
+16.7. rlcompleter — Completion function for GNU readline
+16.8. dummy_threading — Drop-in replacement for the threading module
+16.9. _thread — Low-level threading API
+16.10. _dummy_thread — Drop-in replacement for the _thread module
+17.1. subprocess — Subprocess management
+17.2. socket — Low-level networking interface
+17.3. ssl — TLS/SSL wrapper for socket objects
+17.4. signal — Set handlers for asynchronous events
+17.5. asyncore — Asynchronous socket handler
+17.6. asynchat — Asynchronous socket command/response handler
+18.1. email — An email and MIME handling package
+18.2. json — JSON encoder and decoder
+18.3. mailcap — Mailcap file handling
+18.4. mailbox — Manipulate mailboxes in various formats
+18.5. mimetypes — Map filenames to MIME types
+18.6. base64 — RFC 3548: Base16, Base32, Base64 Data Encodings
+18.7. binhex — Encode and decode binhex4 files
+18.8. binascii — Convert between binary and ASCII
+18.9. quopri — Encode and decode MIME quoted-printable data
+18.10. uu — Encode and decode uuencode files
+19.1. html — HyperText Markup Language support
+19.2. html.parser — Simple HTML and XHTML parser
+19.3. html.entities — Definitions of HTML general entities
+19.4. xml.parsers.expat — Fast XML parsing using Expat
+19.5. xml.dom — The Document Object Model API
+19.6. xml.dom.minidom — Lightweight DOM implementation
+19.7. xml.dom.pulldom — Support for building partial DOM trees
+19.8. xml.sax — Support for SAX2 parsers
+19.9. xml.sax.handler — Base classes for SAX handlers
+19.10. xml.sax.saxutils — SAX Utilities
+19.11. xml.sax.xmlreader — Interface for XML parsers
+19.12. xml.etree.ElementTree — The ElementTree XML API
+20.1. webbrowser — Convenient Web-browser controller
+20.2. cgi — Common Gateway Interface support
+20.3. cgitb — Traceback manager for CGI scripts
+20.4. wsgiref — WSGI Utilities and Reference Implementation
+20.5. urllib.request — Extensible library for opening URLs
+20.6. urllib.response — Response classes used by urllib
+20.7. urllib.parse — Parse URLs into components
+20.8. urllib.error — Exception classes raised by urllib.request
+20.9. urllib.robotparser — Parser for robots.txt
+20.10. http.client — HTTP protocol client
+20.11. ftplib — FTP protocol client
+20.12. poplib — POP3 protocol client
+20.13. imaplib — IMAP4 protocol client
+20.14. nntplib — NNTP protocol client
+20.15. smtplib — SMTP protocol client
+20.16. smtpd — SMTP Server
+20.17. telnetlib — Telnet client
+20.18. uuid — UUID objects according to RFC 4122
+20.19. socketserver — A framework for network servers
+20.20. http.server — HTTP servers
+20.21. http.cookies — HTTP state management
+20.22. http.cookiejar — Cookie handling for HTTP clients
+20.23. xmlrpc.client — XML-RPC client access
+20.24. xmlrpc.server — Basic XML-RPC servers
+21.1. audioop — Manipulate raw audio data
+21.2. aifc — Read and write AIFF and AIFC files
+21.3. sunau — Read and write Sun AU files
+21.4. wave — Read and write WAV files
+21.5. chunk — Read IFF chunked data
+21.6. colorsys — Conversions between color systems
+21.7. imghdr — Determine the type of an image
+21.8. sndhdr — Determine type of sound file
+21.9. ossaudiodev — Access to OSS-compatible audio devices
+22.1. gettext — Multilingual internationalization services
+22.2. locale — Internationalization services
+23.1. turtle — Turtle graphics
+23.2. cmd — Support for line-oriented command interpreters
+23.3. shlex — Simple lexical analysis
+24.1. tkinter — Python interface to Tcl/Tk
+24.2. tkinter.ttk — Tk themed widgets
+24.3. tkinter.tix — Extension widgets for Tk
+24.4. tkinter.scrolledtext — Scrolled Text Widget
+24.5. IDLE
+24.6. Other Graphical User Interface Packages
+25.1. pydoc — Documentation generator and online help system
+25.2. doctest — Test interactive Python examples
+25.3. unittest — Unit testing framework
+25.4. 2to3 - Automated Python 2 to 3 code translation
+25.5. test — Regression tests package for Python
+25.6. test.support — Utilities for the Python test suite
+26.1. bdb — Debugger framework
+26.2. pdb — The Python Debugger
+26.3. The Python Profilers
+26.4. timeit — Measure execution time of small code snippets
+26.5. trace — Trace or track Python statement execution
+27.1. sys — System-specific parameters and functions
+27.2. sysconfig — Provide access to Python’s configuration information
+27.3. builtins — Built-in objects
+27.4. __main__ — Top-level script environment
+27.5. warnings — Warning control
+27.6. contextlib — Utilities for with-statement contexts
+27.7. abc — Abstract Base Classes
+27.8. atexit — Exit handlers
+27.9. traceback — Print or retrieve a stack traceback
+27.10. __future__ — Future statement definitions
+27.11. gc — Garbage Collector interface
+27.12. inspect — Inspect live objects
+27.13. site — Site-specific configuration hook
+27.14. fpectl — Floating point exception control
+27.15. distutils — Building and installing Python modules
+28.1. code — Interpreter base classes
+28.2. codeop — Compile Python code
+29.1. imp — Access the import internals
+29.2. zipimport — Import modules from Zip archives
+29.3. pkgutil — Package extension utility
+29.4. modulefinder — Find modules used by a script
+29.5. runpy — Locating and executing Python modules
+29.6. importlib – An implementation of import
+30.1. parser — Access Python parse trees
+30.2. ast — Abstract Syntax Trees
+30.3. symtable — Access to the compiler’s symbol tables
+30.4. symbol — Constants used with Python parse trees
+30.5. token — Constants used with Python parse trees
+30.6. keyword — Testing for Python keywords
+30.7. tokenize — Tokenizer for Python source
+30.8. tabnanny — Detection of ambiguous indentation
+30.9. pyclbr — Python class browser support
+30.10. py_compile — Compile Python source files
+30.11. compileall — Byte-compile Python libraries
+30.12. dis — Disassembler for Python bytecode
+30.13. pickletools — Tools for pickle developers
+31.1. formatter — Generic output formatting
+32.1. msilib — Read and write Microsoft Installer files
+32.2. msvcrt – Useful routines from the MS VC++ runtime
+32.3. winreg – Windows registry access
+32.4. winsound — Sound-playing interface for Windows
+33.1. posix — The most common POSIX system calls
+33.2. pwd — The password database
+33.3. spwd — The shadow password database
+33.4. grp — The group database
+33.5. crypt — Function to check Unix passwords
+33.6. termios — POSIX style tty control
+33.7. tty — Terminal control functions
+33.8. pty — Pseudo-terminal utilities
+33.9. fcntl — The fcntl() and ioctl() system calls
+33.10. pipes — Interface to shell pipelines
+33.11. resource — Resource usage information
+33.12. nis — Interface to Sun’s NIS (Yellow Pages)
+33.13. syslog — Unix syslog library routines

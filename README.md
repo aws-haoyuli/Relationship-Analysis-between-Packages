@@ -572,7 +572,7 @@ Research on the relationship between packages in Python.
 
 ## GitHub上最常见的标签
 
-在通过爬虫获取的16800个仓库中，最常被使用的标签如下。其中，深度学习相关标签（如，deep-learning, tensorflow, neural-network, keras, gan等），占了很大一部分；网页制作框架（如，django, flask），也出现了较多次。
+在通过爬虫获取的16800个仓库中，最常被使用的标签如下。其中，深度学习相关标签（如，deep-learning, pytorch, tensorflow, neural-network, keras, gan等），占了很大一部分；网页制作框架（如，django, flask），也出现了较多次。
 <table>
     <thead> 
         <thead>

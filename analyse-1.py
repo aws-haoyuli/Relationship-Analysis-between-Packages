@@ -65,3 +65,11 @@ for re in result2:
     print('</tr>')
     if cntt >= 40:
         break 
+
+import csv
+csvFile = open("data.csv", "w",newline='')
+writer = csv.writer(csvFile)
+writer.writerow(['Source', 'Target', 'Weight'])
+for re in result2:
+    writer.writerow((re[0][0], re[0][1], str(re[1])))
+csvFile.close()

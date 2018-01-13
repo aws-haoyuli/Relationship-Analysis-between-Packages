@@ -99,3 +99,12 @@ for re in result1:
     if cnt > 30:
         break
 """
+
+import csv
+csvFile = open("data.csv", "w",newline='')
+writer = csv.writer(csvFile)
+writer.writerow(['Source', 'Target', 'Weight'])
+for re in result2:
+    if re[1] > 0:
+        writer.writerow((re[0][0], re[0][1], str(re[1])))
+csvFile.close()

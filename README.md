@@ -5,7 +5,8 @@ Research on the relationship between packages in Python.
 以下为统计、分析结果：
 
 ## Github仓库中packages使用情况统计
-在通过爬虫获取的1000个仓库中，统计它们使用的packages，最常被使用的packages为：
+在通过爬虫获取的1000个仓库中，统计它们使用的packages，最常被使用的packages如下。其中，一些python自带的包（os, sys, time）最常被使用；第三方库中，numpy被使用频率最高；网页制作框架，数据可视化与数据处理相关的包，机器学习/深度学习相关的包等，出现频率也很高。
+
 <table>
     <thead> 
         <thead>
@@ -172,7 +173,7 @@ Research on the relationship between packages in Python.
 </table>
 
 ## 同时出现在一个工程中的packages统计
-在通过爬虫获取的1000个仓库中，统计它们使用的packages，最常被使用在同一个工程中的packages对为：
+在通过爬虫获取的1000个仓库中，统计它们使用的packages，最常被使用在同一个工程中的packages如下。其中，与系统相关的包（如，os,time,sys）经常出现；与科学计算，数据处理相关的包（如，numpy, matplotlib, pandas）也经常一起出现。
 
 <table>
     <thead> 
@@ -430,7 +431,7 @@ Research on the relationship between packages in Python.
 
 ## GitHub上仓库使用的协议统计
 
-在通过爬虫获取的16800个仓库中，使用协议的统计情况（协议项为None的在统计中会被忽略）：
+在通过爬虫获取的16800个仓库中，使用协议的统计情况（协议项为None的在统计中会被忽略）如下。其中mit协议占了超过三分之一的比例，被使用最多。
 <table>
     <thead> 
         <thead>
@@ -569,6 +570,420 @@ Research on the relationship between packages in Python.
 </tbody>
 </table>
 
+## GitHub上最常见的标签
+
+在通过爬虫获取的16800个仓库中，最常被使用的标签如下。其中，深度学习相关标签（如，deep-learning, tensorflow, neural-network, keras, gan等），占了很大一部分；网页制作框架（如，django, flask），也出现了较多次。
+<table>
+    <thead> 
+        <thead>
+        <tr>
+            <th>序号</th>
+            <th>标签</th>
+            <th>出现次数</th>
+        </tr>
+    </thead>
+<tbody>
+<tr>
+<td> 1 </td>
+<td> python </td>
+<td> 2403 </td>
+</tr>
+<tr>
+<td> 2 </td>
+<td> deep-learning </td>
+<td> 373 </td>
+</tr>
+<tr>
+<td> 3 </td>
+<td> tensorflow </td>
+<td> 330 </td>
+</tr>
+<tr>
+<td> 4 </td>
+<td> machine-learning </td>
+<td> 307 </td>
+</tr>
+<tr>
+<td> 5 </td>
+<td> django </td>
+<td> 289 </td>
+</tr>
+<tr>
+<td> 6 </td>
+<td> python3 </td>
+<td> 188 </td>
+</tr>
+<tr>
+<td> 7 </td>
+<td> pytorch </td>
+<td> 151 </td>
+</tr>
+<tr>
+<td> 8 </td>
+<td> security </td>
+<td> 139 </td>
+</tr>
+<tr>
+<td> 9 </td>
+<td> linux </td>
+<td> 128 </td>
+</tr>
+<tr>
+<td> 10 </td>
+<td> flask </td>
+<td> 124 </td>
+</tr>
+<tr>
+<td> 11 </td>
+<td> cli </td>
+<td> 99 </td>
+</tr>
+<tr>
+<td> 12 </td>
+<td> keras </td>
+<td> 97 </td>
+</tr>
+<tr>
+<td> 13 </td>
+<td> docker </td>
+<td> 93 </td>
+</tr>
+<tr>
+<td> 14 </td>
+<td> nlp </td>
+<td> 90 </td>
+</tr>
+<tr>
+<td> 15 </td>
+<td> data-science </td>
+<td> 82 </td>
+</tr>
+<tr>
+<td> 16 </td>
+<td> natural-language-processing </td>
+<td> 77 </td>
+</tr>
+<tr>
+<td> 17 </td>
+<td> computer-vision </td>
+<td> 76 </td>
+</tr>
+<tr>
+<td> 18 </td>
+<td> python-3 </td>
+<td> 72 </td>
+</tr>
+<tr>
+<td> 19 </td>
+<td> asyncio </td>
+<td> 71 </td>
+</tr>
+<tr>
+<td> 20 </td>
+<td> neural-network </td>
+<td> 69 </td>
+</tr>
+<tr>
+<td> 21 </td>
+<td> api </td>
+<td> 68 </td>
+</tr>
+<tr>
+<td> 22 </td>
+<td> visualization </td>
+<td> 64 </td>
+</tr>
+<tr>
+<td> 23 </td>
+<td> reinforcement-learning </td>
+<td> 63 </td>
+</tr>
+<tr>
+<td> 24 </td>
+<td> terminal </td>
+<td> 61 </td>
+</tr>
+<tr>
+<td> 25 </td>
+<td> windows </td>
+<td> 60 </td>
+</tr>
+<tr>
+<td> 26 </td>
+<td> javascript </td>
+<td> 56 </td>
+</tr>
+<tr>
+<td> 27 </td>
+<td> bot </td>
+<td> 51 </td>
+</tr>
+<tr>
+<td> 28 </td>
+<td> python-library </td>
+<td> 50 </td>
+</tr>
+<tr>
+<td> 29 </td>
+<td> raspberry-pi </td>
+<td> 49 </td>
+</tr>
+<tr>
+<td> 30 </td>
+<td> gan </td>
+<td> 49 </td>
+</tr>
+</tbody>
+</table>
+
+## 标签中最常见的packages
+<table>
+    <thead> 
+        <thead>
+        <tr>
+            <th>序号</th>
+            <th>包名</th>
+            <th>出现次数</th>
+        </tr>
+    </thead>
+<tbody>
+<tr>
+<td> 1 </td>
+<td> tensorflow </td>
+<td> 330 </td>
+</tr>
+<tr>
+<td> 2 </td>
+<td> http </td>
+<td> 42 </td>
+</tr>
+<tr>
+<td> 3 </td>
+<td> numpy </td>
+<td> 39 </td>
+</tr>
+<tr>
+<td> 4 </td>
+<td> json </td>
+<td> 37 </td>
+</tr>
+<tr>
+<td> 5 </td>
+<td> sqlalchemy </td>
+<td> 36 </td>
+</tr>
+<tr>
+<td> 6 </td>
+<td> pandas </td>
+<td> 33 </td>
+</tr>
+<tr>
+<td> 7 </td>
+<td> theano </td>
+<td> 32 </td>
+</tr>
+<tr>
+<td> 8 </td>
+<td> jupyter </td>
+<td> 29 </td>
+</tr>
+<tr>
+<td> 9 </td>
+<td> scikit-learn </td>
+<td> 28 </td>
+</tr>
+<tr>
+<td> 10 </td>
+<td> html </td>
+<td> 23 </td>
+</tr>
+<tr>
+<td> 11 </td>
+<td> ipython </td>
+<td> 21 </td>
+</tr>
+<tr>
+<td> 12 </td>
+<td> email </td>
+<td> 20 </td>
+</tr>
+<tr>
+<td> 13 </td>
+<td> opencv </td>
+<td> 20 </td>
+</tr>
+<tr>
+<td> 14 </td>
+<td> matplotlib </td>
+<td> 20 </td>
+</tr>
+<tr>
+<td> 15 </td>
+<td> parser </td>
+<td> 18 </td>
+</tr>
+<tr>
+<td> 16 </td>
+<td> logging </td>
+<td> 18 </td>
+</tr>
+<tr>
+<td> 17 </td>
+<td> requests </td>
+<td> 17 </td>
+</tr>
+<tr>
+<td> 18 </td>
+<td> twisted </td>
+<td> 16 </td>
+</tr>
+<tr>
+<td> 19 </td>
+<td> csv </td>
+<td> 16 </td>
+</tr>
+<tr>
+<td> 20 </td>
+<td> aiohttp </td>
+<td> 16 </td>
+</tr>
+</tbody>
+<table>
+
+## 最常组合出现在标签中的packages
+
+<table>
+    <thead> 
+        <thead>
+        <tr>
+            <th>序号</th>
+            <th>包名</th>
+            <th>出现次数</th>
+        </tr>
+    </thead>
+<tbody>
+<tr>
+<td> 1 </td>
+<td> theano </td>
+<td> tensorflow </td>
+<td> 14 </td>
+</tr>
+<tr>
+<td> 2 </td>
+<td> numpy </td>
+<td> pandas </td>
+<td> 9 </td>
+</tr>
+<tr>
+<td> 3 </td>
+<td> http </td>
+<td> requests </td>
+<td> 8 </td>
+</tr>
+<tr>
+<td> 4 </td>
+<td> jupyter </td>
+<td> ipython </td>
+<td> 7 </td>
+</tr>
+<tr>
+<td> 5 </td>
+<td> pandas </td>
+<td> matplotlib </td>
+<td> 6 </td>
+</tr>
+<tr>
+<td> 6 </td>
+<td> numpy </td>
+<td> scipy </td>
+<td> 5 </td>
+</tr>
+<tr>
+<td> 7 </td>
+<td> pyside </td>
+<td> pyqt4 </td>
+<td> 5 </td>
+</tr>
+<tr>
+<td> 8 </td>
+<td> pandas </td>
+<td> scikit-learn </td>
+<td> 5 </td>
+</tr>
+<tr>
+<td> 9 </td>
+<td> scipy </td>
+<td> numpy </td>
+<td> 5 </td>
+</tr>
+<tr>
+<td> 10 </td>
+<td> numpy </td>
+<td> opencv </td>
+<td> 4 </td>
+</tr>
+<tr>
+<td> 11 </td>
+<td> numpy </td>
+<td> tensorflow </td>
+<td> 4 </td>
+</tr>
+<tr>
+<td> 12 </td>
+<td> json </td>
+<td> html </td>
+<td> 4 </td>
+</tr>
+<tr>
+<td> 13 </td>
+<td> html </td>
+<td> json </td>
+<td> 4 </td>
+</tr>
+<tr>
+<td> 14 </td>
+<td> opencv </td>
+<td> tensorflow </td>
+<td> 4 </td>
+</tr>
+<tr>
+<td> 15 </td>
+<td> pip </td>
+<td> virtualenv </td>
+<td> 4 </td>
+</tr>
+<tr>
+<td> 16 </td>
+<td> tensorflow </td>
+<td> numpy </td>
+<td> 4 </td>
+</tr>
+<tr>
+<td> 17 </td>
+<td> numpy </td>
+<td> scikit-learn </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td> 18 </td>
+<td> csv </td>
+<td> json </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td> 19 </td>
+<td> threading </td>
+<td> multiprocessing </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td> 20 </td>
+<td> json </td>
+<td> http </td>
+<td> 3 </td>
+</tr>
+</tbody>
+</table>
 
 ## Stackoverflow36k个问题中包出现情况
 <table>

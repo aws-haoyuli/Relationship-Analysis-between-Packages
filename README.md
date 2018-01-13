@@ -429,14 +429,14 @@ Research on the relationship between packages in Python.
 </tbody>
 </table>
 
-## GitHub上仓库使用的协议统计
+## GitHub上仓库使用的许可证统计
 
-在通过爬虫获取的16800个仓库中，使用协议的统计情况（协议项为None的在统计中会被忽略）如下。其中mit协议占了超过三分之一的比例，被使用最多。
+在通过爬虫获取的16800个仓库中，使用许可证的统计情况（许可证项为None的在统计中会被忽略）如下。其中mit许可证占了超过三分之一的比例，被使用最多。
 <table>
     <thead> 
         <thead>
         <tr>
-            <th>协议名</th>
+            <th>许可证名</th>
             <th>仓库数</th>
             <th>百分比</th>
         </tr>

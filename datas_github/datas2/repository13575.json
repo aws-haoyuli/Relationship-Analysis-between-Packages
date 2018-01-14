@@ -1,0 +1,1 @@
+{"name": "RHEL6-STIG", "description": "Ansible role for Red Hat 6 DISA STIG", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 76, "folkNum": 44, "watchNum": 76, "topic": ["ansible-role", "rhel6", "security", "security-hardening", "stig"]}

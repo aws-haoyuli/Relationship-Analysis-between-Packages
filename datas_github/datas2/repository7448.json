@@ -1,0 +1,1 @@
+{"name": "rnn.wgan", "description": "Code for training and evaluation of the model from \"Language Generation with Recurrent Generative Adversarial Networks without Pre-training\"", "license": null, "starNum": 156, "folkNum": 45, "watchNum": 156, "topic": ["gan", "gans", "nlp", "text-generation", "text-generator", "wgan"]}

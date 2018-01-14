@@ -1,0 +1,1 @@
+{"name": "sqlmap", "description": "Automatic SQL injection and database takeover tool", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 10362, "folkNum": 2397, "watchNum": 10362, "topic": ["database", "detection", "exploitation", "pentesting", "python", "sql-injection", "takeover", "vulnerability-scanner"]}

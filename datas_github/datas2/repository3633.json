@@ -1,0 +1,1 @@
+{"name": "libsass-python", "description": "A straightforward binding of libsass for Python.  Compile Sass/SCSS in Python with no Ruby stack at all!", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 341, "folkNum": 32, "watchNum": 341, "topic": ["python", "sass", "scss"]}

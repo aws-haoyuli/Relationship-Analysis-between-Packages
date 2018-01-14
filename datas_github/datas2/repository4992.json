@@ -1,0 +1,1 @@
+{"name": "ffmpeg", "description": "Docker build for FFmpeg on Ubuntu / Alpine / Centos 7 / Scratch", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 244, "folkNum": 107, "watchNum": 244, "topic": ["alpine", "centos", "docker", "ffmpeg", "scratch", "ubuntu"]}

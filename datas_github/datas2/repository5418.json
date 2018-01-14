@@ -1,0 +1,1 @@
+{"name": "subconscious", "description": "redis-backed (in memory) db for python3 that is asyncio compatible", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 223, "folkNum": 13, "watchNum": 223, "topic": []}

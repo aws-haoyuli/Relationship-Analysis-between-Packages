@@ -1,0 +1,1 @@
+{"name": "csvtomd", "description": "\ud83d\udcdd\ud83d\udcca Convert your CSV files into Markdown tables.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 399, "folkNum": 45, "watchNum": 399, "topic": ["csv-files", "markdown", "python"]}

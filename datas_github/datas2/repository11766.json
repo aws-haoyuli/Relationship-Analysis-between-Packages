@@ -1,0 +1,1 @@
+{"name": "PhasedLSTM-Keras", "description": "Keras implementation of Phased LSTM [https://arxiv.org/abs/1610.09513]", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 91, "folkNum": 33, "watchNum": 91, "topic": ["deep-learning", "keras-layer", "lstm-neural-networks"]}

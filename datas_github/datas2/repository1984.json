@@ -1,0 +1,1 @@
+{"name": "completor.vim", "description": "Async completion framework made ease.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 633, "folkNum": 29, "watchNum": 633, "topic": ["code-completion", "neovim-plugin", "omni-completion", "python", "vim", "vim-plugin"]}

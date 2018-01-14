@@ -1,0 +1,1 @@
+{"name": "RTLSDR-Scanner", "description": "A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 322, "folkNum": 72, "watchNum": 322, "topic": ["radio", "rtl-sdr", "sdr", "spectrum-analyzer"]}

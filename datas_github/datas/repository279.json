@@ -1,0 +1,1 @@
+{"name": "telegram", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["yam24bot"], "packages": ["random", "sqlite3", "constants", "telebot"]}

@@ -1,0 +1,1 @@
+{"name": "Qt.py", "description": "Minimal Python 2 & 3 shim around all Qt bindings - PySide, PySide2, PyQt4 and PyQt5.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 263, "folkNum": 89, "watchNum": 263, "topic": ["pyqt4", "pyqt5", "pyside", "pyside2", "shim"]}

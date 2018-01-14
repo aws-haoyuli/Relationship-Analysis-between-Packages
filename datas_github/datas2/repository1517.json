@@ -1,0 +1,1 @@
+{"name": "django-widget-tweaks", "description": "Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered. ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 814, "folkNum": 78, "watchNum": 814, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "mixer", "description": "Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects. ", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 452, "folkNum": 55, "watchNum": 452, "topic": []}

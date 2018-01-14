@@ -1,0 +1,1 @@
+{"name": "djorm-ext-pgfulltext", "description": "PostgreSQL full-text search integration with django orm.", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 243, "folkNum": 84, "watchNum": 243, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "Bitwise-Separation", "description": "Bitwise Neural Network for Source Separation", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["higa2", "rhiga2"], "packages": ["visdom", "librosa", "mir_eval", "argparse", "numpy as np", "pdm_data", "pdb", "tqdm", "glob2", "torch"]}

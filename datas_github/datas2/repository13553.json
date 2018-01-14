@@ -1,0 +1,1 @@
+{"name": "aiohttp-devtools", "description": "dev tools for aiohttp", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 77, "folkNum": 15, "watchNum": 77, "topic": ["aiohttp", "asyncio", "cookiecutter", "developer-tools", "development", "devtools", "reload"]}

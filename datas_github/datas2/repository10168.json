@@ -1,0 +1,1 @@
+{"name": "llvmcpy", "description": "Python bindings for LLVM auto-generated from the LLVM-C API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 108, "folkNum": 13, "watchNum": 108, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "kapre", "description": "kapre: Keras Audio Preprocessors", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 195, "folkNum": 41, "watchNum": 195, "topic": ["audio", "convnet", "keras", "melspectrogram", "preprocess", "rnn", "spectrogram"]}

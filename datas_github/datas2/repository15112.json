@@ -1,0 +1,1 @@
+{"name": "deeppose_tf", "description": "DeepPose implementation on TensorFlow. Original Paper http://arxiv.org/abs/1312.4659", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 67, "folkNum": 24, "watchNum": 67, "topic": ["computer-vision", "deep-learning", "deep-neural-networks", "lsp-dataset", "mpii-dataset", "tensorflow"]}

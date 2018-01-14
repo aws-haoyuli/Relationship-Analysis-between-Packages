@@ -1,0 +1,1 @@
+{"name": "myo-python", "description": "Python bindings for the Myo SDK", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 98, "folkNum": 37, "watchNum": 98, "topic": ["ctypes", "myo-sdk", "python", "python-bindings", "python-library"]}

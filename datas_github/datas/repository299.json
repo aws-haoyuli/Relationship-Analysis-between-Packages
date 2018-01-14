@@ -1,0 +1,1 @@
+{"name": "deep-learning-connect-four", "description": "Deep Learning AI for Connect Four", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["ai", "connect-four", "keras", "machine-learning"], "contributors": ["csvance"], "packages": ["c4_game", "keras", "typing", "numpy as np", "tensorflow as tf"]}

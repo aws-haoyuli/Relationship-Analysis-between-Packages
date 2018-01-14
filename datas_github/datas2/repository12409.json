@@ -1,0 +1,1 @@
+{"name": "tensorflow_fasttext", "description": "Simple embedding based text classifier inspired by fastText, implemented in tensorflow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 85, "folkNum": 15, "watchNum": 85, "topic": ["fasttext", "language-identification", "tensorflow", "text-classifier"]}

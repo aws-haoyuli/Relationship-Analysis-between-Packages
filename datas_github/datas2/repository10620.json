@@ -1,0 +1,1 @@
+{"name": "dockselpy", "description": "Dockerized Selenium and Python with support for Chrome, Firefox and PhantomJS", "license": null, "starNum": 103, "folkNum": 7, "watchNum": 103, "topic": ["chrome", "docker", "docker-compose", "firefox", "python", "pyvirtualdisplay", "selenium", "xvfb"]}

@@ -1,0 +1,1 @@
+{"name": "django-elasticsearch-dsl", "description": "This is a package that allows indexing of django models in elasticsearch with elasticsearch-dsl-py.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 100, "folkNum": 31, "watchNum": 100, "topic": []}

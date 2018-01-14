@@ -1,0 +1,1 @@
+{"name": "troposphere", "description": "troposphere - Python library to create AWS CloudFormation descriptions", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 2441, "folkNum": 729, "watchNum": 2441, "topic": ["aws-cloudformation", "python", "python3"]}

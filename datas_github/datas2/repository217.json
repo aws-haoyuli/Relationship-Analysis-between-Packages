@@ -1,0 +1,1 @@
+{"name": "gevent", "description": "Coroutine-based concurrency library for Python", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 3852, "folkNum": 741, "watchNum": 3852, "topic": ["asyncio", "coroutines", "greenlet", "python"]}

@@ -1,0 +1,1 @@
+{"name": "django-swappable-models", "description": "Swapper - The unofficial Django swappable models API.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 96, "folkNum": 14, "watchNum": 96, "topic": ["django", "django-models", "foreign-keys", "migrations", "reusable-app", "swappable-models", "swapper"]}

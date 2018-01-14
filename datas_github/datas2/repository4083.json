@@ -1,0 +1,1 @@
+{"name": "kodi-alexa", "description": "Alexa skill for controlling Kodi", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 299, "folkNum": 122, "watchNum": 299, "topic": ["alexa-skill", "alexa-skills-kit", "amazon-echo", "aws-lambda", "kodi"]}

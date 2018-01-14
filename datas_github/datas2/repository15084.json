@@ -1,0 +1,1 @@
+{"name": "CapsNet-PyTorch", "description": "My attempt at implementing CapsNet from the paper Dynamic Routing Between Capsules", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 67, "folkNum": 12, "watchNum": 67, "topic": ["convolutional-neural-networks", "deep-learning", "pytorch"]}

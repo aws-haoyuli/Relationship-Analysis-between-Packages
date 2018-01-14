@@ -1,0 +1,1 @@
+{"name": "pynsq", "description": "The official Python client library for NSQ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 255, "folkNum": 105, "watchNum": 255, "topic": ["client-library", "nsq", "python"]}

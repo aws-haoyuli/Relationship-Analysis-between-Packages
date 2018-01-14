@@ -1,0 +1,1 @@
+{"name": "my-messenger-bot", "description": "An assistive bot in python", "license": null, "starNum": 12, "folkNum": 10, "watchNum": 12, "topic": [], "contributors": ["vernwalrahul", "anuran-Chakraborty", "kashyap2108"], "packages": ["requests", "pyowm"]}

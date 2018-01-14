@@ -1,0 +1,1 @@
+{"name": "Mailu", "description": "Insular email distribution - mail server as Docker images", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 390, "folkNum": 92, "watchNum": 390, "topic": ["dkim", "dmarc", "docker", "docker-compose", "email", "fetchmail", "imap", "letsencrypt", "mail", "mailserver", "pop3", "smtp", "webmail"]}

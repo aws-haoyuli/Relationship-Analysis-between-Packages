@@ -1,0 +1,1 @@
+{"name": "Pytroj", "description": "A tool for infected .pyc files with arbitrary code that spreads out to infect all other .pyc files", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 104, "folkNum": 10, "watchNum": 104, "topic": []}

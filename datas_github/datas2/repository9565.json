@@ -1,0 +1,1 @@
+{"name": "protobuf-to-dict", "description": "A small Python library for creating dicts from protocol buffers. Useful as an intermediate step before serialization (e.g. to JSON).", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 117, "folkNum": 63, "watchNum": 117, "topic": []}

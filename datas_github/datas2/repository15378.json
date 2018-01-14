@@ -1,0 +1,1 @@
+{"name": "python-dateutil", "description": "Useful extensions to the standard Python datetime features. This repo tracks the upstream and also contains fixes/patches from https://github.com/cozi/python-dateutil", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 65, "folkNum": 27, "watchNum": 65, "topic": []}

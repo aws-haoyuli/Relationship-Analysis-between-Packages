@@ -1,0 +1,1 @@
+{"name": "CoinProfitCalculator", "description": "Calculates profit for coin investments.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Hubber116sx"], "packages": ["argparse", "time", "csv", "datetime"]}

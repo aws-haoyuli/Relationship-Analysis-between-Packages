@@ -1,0 +1,1 @@
+{"name": "app-turbo", "description": "A framework based on tornado for easier development, scaling up and maintenance", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 122, "folkNum": 13, "watchNum": 122, "topic": ["mongodb", "motor", "mysql", "tornado", "turbo"]}

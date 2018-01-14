@@ -1,0 +1,1 @@
+{"name": "sdk-artifact-sync", "description": "A script which synchronizes all of the artifacts in your local Android SDK to a remote Maven artifact host.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 194, "folkNum": 13, "watchNum": 194, "topic": []}

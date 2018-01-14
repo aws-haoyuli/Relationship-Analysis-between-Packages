@@ -1,0 +1,1 @@
+{"name": "tcp_killer", "description": "Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 89, "folkNum": 11, "watchNum": 89, "topic": []}

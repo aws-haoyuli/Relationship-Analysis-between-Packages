@@ -1,0 +1,1 @@
+{"name": "django-mail-queue", "description": "Django app for queueing up and sending mail.  Nothing too special.  ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 66, "folkNum": 36, "watchNum": 66, "topic": []}

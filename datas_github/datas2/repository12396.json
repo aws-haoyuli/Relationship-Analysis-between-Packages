@@ -1,0 +1,1 @@
+{"name": "senza", "description": "Deploy immutable application stacks and create and execute AWS CloudFormation templates in a sane way", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 85, "folkNum": 59, "watchNum": 85, "topic": ["aws", "cloud-formation"]}

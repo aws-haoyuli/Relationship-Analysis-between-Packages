@@ -1,0 +1,1 @@
+{"name": "docker-nginx-loadbalancer", "description": "Nginx Load Balancer for Docker. It reads links to containers which expose and generates a suitable Nginx config file at startup.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 74, "folkNum": 30, "watchNum": 74, "topic": []}

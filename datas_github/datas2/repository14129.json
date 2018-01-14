@@ -1,0 +1,1 @@
+{"name": "kubetop", "description": "A top(1)-like tool for Kubernetes.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 73, "folkNum": 7, "watchNum": 73, "topic": ["kubernetes", "kubernetes-monitoring", "kubernetes-operator", "python", "sysadmin", "top", "twisted"]}

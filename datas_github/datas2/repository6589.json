@@ -1,0 +1,1 @@
+{"name": "Selenium-Requests", "description": "Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 181, "folkNum": 18, "watchNum": 181, "topic": []}

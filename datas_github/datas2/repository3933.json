@@ -1,0 +1,1 @@
+{"name": "meza", "description": "A Python toolkit for processing tabular data", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 314, "folkNum": 13, "watchNum": 314, "topic": ["csv", "data", "excel", "featured", "functional-programming", "library", "pandas", "tabular-data", "xlsx", "xml"]}

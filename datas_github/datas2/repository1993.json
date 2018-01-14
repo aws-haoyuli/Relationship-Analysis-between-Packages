@@ -1,0 +1,1 @@
+{"name": "pyftpdlib", "description": "Extremely fast and scalable Python FTP server library", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 631, "folkNum": 121, "watchNum": 631, "topic": ["asynchronous", "ftp", "ftp-server", "ftps", "python"]}

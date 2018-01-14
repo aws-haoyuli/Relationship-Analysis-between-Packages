@@ -1,0 +1,1 @@
+{"name": "tournament-data-integrity", "description": "Integrity checks to run on new tournament data before release", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 1, "folkNum": 2, "watchNum": 1, "topic": [], "contributors": ["kwgoodman", "xanderdunn"], "packages": ["distutils", "setuptools"]}

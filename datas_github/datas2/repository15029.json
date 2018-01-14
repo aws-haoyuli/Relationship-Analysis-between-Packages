@@ -1,0 +1,1 @@
+{"name": "pytorch-dnc", "description": "Differentiable Neural Computers, for Pytorch", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 67, "folkNum": 6, "watchNum": 67, "topic": ["differentiable-neural-computers", "dnc", "pytorch", "rnn"]}

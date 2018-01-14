@@ -1,0 +1,1 @@
+{"name": "ttpy", "description": "Python implementation of the TT-Toolbox", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 75, "folkNum": 28, "watchNum": 75, "topic": ["tensors", "tt-format"]}

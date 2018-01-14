@@ -1,0 +1,1 @@
+{"name": "VisionGaming", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["DevRayy"], "packages": ["time", "threading", "vision_gaming", "cv2"]}

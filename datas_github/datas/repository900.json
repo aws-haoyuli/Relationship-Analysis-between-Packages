@@ -1,0 +1,1 @@
+{"name": "fantasy_movie_league", "description": "An Object-Oriented version of the Knapsack Problem, fantasy_movie_league parses third-party box-office projections and computes the highest-earning Fantasy Movie League bracket for a given week.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["frankieeder"], "packages": ["fml"]}

@@ -1,0 +1,1 @@
+{"name": "jinjasql", "description": "Simplify creation and maintenance of complex SQL queries by using Jinja based template language", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 272, "folkNum": 24, "watchNum": 272, "topic": ["jinja2", "python", "sql", "sql-builder", "sql-injection", "sql-query"]}

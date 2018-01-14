@@ -1,0 +1,1 @@
+{"name": "django-debug-toolbar-template-timings", "description": "A django-debug-toolbar panel that displays template rendering times for your Django application", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 266, "folkNum": 20, "watchNum": 266, "topic": []}

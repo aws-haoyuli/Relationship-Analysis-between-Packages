@@ -1,0 +1,1 @@
+{"name": "soft-dtw", "description": "Python implementation of soft-DTW.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 75, "folkNum": 18, "watchNum": 75, "topic": ["dtw", "dynamic-time-warping", "neural-networks", "time-series"]}

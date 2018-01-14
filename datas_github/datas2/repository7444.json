@@ -1,0 +1,1 @@
+{"name": "nodemcu-pyflasher", "description": "Self-contained NodeMCU flasher with GUI based on esptool.py and wxPython.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 156, "folkNum": 32, "watchNum": 156, "topic": ["esptool", "nodemcu", "pyinstaller", "wxpython"]}

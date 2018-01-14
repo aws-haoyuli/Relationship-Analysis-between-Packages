@@ -1,0 +1,1 @@
+{"name": "pyaib", "description": "An easy to use Python Framework (that uses gevent) for writing IRC Bots.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 305, "folkNum": 56, "watchNum": 305, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "paramiko-expect", "description": "A Python expect-like extension for the Paramiko SSH library which also supports tailing logs.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 92, "folkNum": 45, "watchNum": 92, "topic": []}

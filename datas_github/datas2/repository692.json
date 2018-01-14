@@ -1,0 +1,1 @@
+{"name": "pre-commit", "description": "A framework for managing and maintaining multi-language pre-commit hooks.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1689, "folkNum": 136, "watchNum": 1689, "topic": ["git", "linter", "pre-commit", "python", "refactoring"]}

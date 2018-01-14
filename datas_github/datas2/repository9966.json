@@ -1,0 +1,1 @@
+{"name": "rules_protobuf", "description": "Bazel rules for building protocol buffers and gRPC services (java, c++, go, ...)", "license": null, "starNum": 111, "folkNum": 81, "watchNum": 111, "topic": ["bazel", "bazel-rules", "grpc", "grpc-gateway", "protobuf", "protoc", "protocol-buffers"]}

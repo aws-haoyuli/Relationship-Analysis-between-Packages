@@ -1,0 +1,1 @@
+{"name": "fona-pi-zero", "description": "Read from the Fona's GPS and then stream that data using it's cellular connection", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 60, "folkNum": 13, "watchNum": 60, "topic": []}

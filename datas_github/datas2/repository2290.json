@@ -1,0 +1,1 @@
+{"name": "aiopg", "description": "aiopg is a library for accessing a PostgreSQL database from the asyncio", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 550, "folkNum": 76, "watchNum": 550, "topic": ["asyncio", "postgresql", "sqlalchemy"]}

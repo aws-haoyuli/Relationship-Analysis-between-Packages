@@ -1,0 +1,1 @@
+{"name": "jenkinsmon", "description": null, "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["BastienM"], "packages": ["yaml", "jenkins", "sys", "tabulate", "urllib", "argparse", "colorama"]}

@@ -1,0 +1,1 @@
+{"name": "Okaka", "description": "\u3079\u3093\u308a\u306a\u3079\u3093\u308a\u306a\u304a\u304b\u304b\u3061\u3083\u3093bot", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["furikake6000"], "packages": ["time", "os", "requests", "selenium"]}

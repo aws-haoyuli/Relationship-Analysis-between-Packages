@@ -1,0 +1,1 @@
+{"name": "sparqlwrapper", "description": "A wrapper for a remote SPARQL endpoint", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 130, "folkNum": 45, "watchNum": 130, "topic": ["pypi", "python", "rdf", "sparql", "sparql-endpoints", "sparql-query", "wrapper"]}

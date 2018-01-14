@@ -1,0 +1,1 @@
+{"name": "laspy", "description": "Laspy is a pythonic interface for reading/modifying/creating .LAS LIDAR files matching specification 1.0-1.4.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 88, "folkNum": 42, "watchNum": 88, "topic": []}

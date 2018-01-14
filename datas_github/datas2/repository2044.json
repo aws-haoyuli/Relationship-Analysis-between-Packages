@@ -1,0 +1,1 @@
+{"name": "gitsuggest", "description": "A tool to suggest github repositories based on the repositories you have shown interest in.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 617, "folkNum": 17, "watchNum": 617, "topic": ["github", "lda-model", "nltk", "repository", "suggestion-engine"]}

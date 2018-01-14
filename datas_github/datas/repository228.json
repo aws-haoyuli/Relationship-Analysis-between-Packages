@@ -1,0 +1,1 @@
+{"name": "3_training_models", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["natalienie"], "packages": ["ance", "sklearn", "numpy as np", "pandas as pd", "macd_importance = cfl"]}

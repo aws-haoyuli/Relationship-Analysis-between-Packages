@@ -1,0 +1,1 @@
+{"name": "dateutil", "description": "Useful extensions to the standard Python datetime features", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 545, "folkNum": 153, "watchNum": 545, "topic": ["datetime", "library", "parsing", "python", "time", "timezones"]}

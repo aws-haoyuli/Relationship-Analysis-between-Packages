@@ -1,0 +1,1 @@
+{"name": "flintrock", "description": "A command-line tool for launching Apache Spark clusters.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 259, "folkNum": 54, "watchNum": 259, "topic": ["apache-spark", "apache-spark-cluster", "ec2", "orchestration", "spark-ec2"]}

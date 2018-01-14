@@ -1,0 +1,1 @@
+{"name": "tf_chatbot_seq2seq_antilm", "description": "Seq2seq chatbot with attention and anti-language model to suppress generic response, option for further improve by deep reinforcement learning.", "license": null, "starNum": 294, "folkNum": 127, "watchNum": 294, "topic": ["beam-search", "deep-reinforcement-learning", "language-model", "seq2seq-chatbot", "seq2seq-model"]}

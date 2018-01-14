@@ -1,0 +1,1 @@
+{"name": "flask-graphql", "description": "Adds GraphQL support to your Flask application.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 352, "folkNum": 46, "watchNum": 352, "topic": ["flask", "flask-application", "graphene", "graphql", "python", "web"]}

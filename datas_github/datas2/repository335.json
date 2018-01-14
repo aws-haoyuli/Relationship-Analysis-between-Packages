@@ -1,0 +1,1 @@
+{"name": "qutebrowser", "description": "A keyboard-driven, vim-like browser based on PyQt5.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 3002, "folkNum": 414, "watchNum": 3002, "topic": ["browser", "pyqt5", "python", "qt", "qtwebengine", "vim", "web"]}

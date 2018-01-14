@@ -1,0 +1,1 @@
+{"name": "robotframework-requests", "description": "Robot Framework keyword library wrapper for requests", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 170, "folkNum": 140, "watchNum": 170, "topic": ["python", "requests", "robot-framework"]}

@@ -1,0 +1,1 @@
+{"name": "iml", "description": "Introduction to Machine Learning", "license": null, "starNum": 1, "folkNum": 1, "watchNum": 1, "topic": [], "contributors": ["rodarima", "sbernal93"], "packages": ["os", "scipy", "sklearn", "matplotlib", "sys", "skfuzzy", "__future__", "numpy as np", "numpy", "pandas as pd", "tabulate", "mlxtend", "time", "pylab as pl", "argparse", "re", "cvxopt"]}

@@ -1,0 +1,1 @@
+{"name": "django-admin-rangefilter", "description": "django-admin-rangefilter app, add the filter by a custom date range on the admin UI", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 60, "folkNum": 9, "watchNum": 60, "topic": ["admin-ui", "django", "python"]}

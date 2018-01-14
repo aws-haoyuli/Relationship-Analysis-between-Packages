@@ -1,0 +1,1 @@
+{"name": "3dsconv", "description": "Python script to convert Nintendo 3DS CCI (\".cci\", \".3ds\") files to the CIA format", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 106, "folkNum": 8, "watchNum": 106, "topic": ["3ds", "cci", "cia", "nintendo-3ds", "python"]}

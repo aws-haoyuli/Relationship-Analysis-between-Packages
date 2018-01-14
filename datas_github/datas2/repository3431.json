@@ -1,0 +1,1 @@
+{"name": "rm-protection", "description": "A safe alternative for \"rm\".", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 358, "folkNum": 29, "watchNum": 358, "topic": ["filesystem", "linux", "macos", "python", "rm", "unix", "utility"]}

@@ -1,0 +1,1 @@
+{"name": "team19", "description": "Deep Learning\u5fdc\u7528\u8b1b\u5ea7\u306eTeam 19\u306e\u30ea\u30dd\u30b8\u30c8\u30ea", "license": null, "starNum": 3, "folkNum": 1, "watchNum": 3, "topic": [], "contributors": [], "packages": ["os", "argparse", "glob", "numpy as np", "time", "lstm_model", "torch", "re", "prepare_data"]}

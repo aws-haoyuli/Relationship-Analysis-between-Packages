@@ -1,0 +1,1 @@
+{"name": "lstm_ctc_ocr", "description": "Use CTC + tensorflow to OCR", "license": null, "starNum": 132, "folkNum": 63, "watchNum": 132, "topic": ["crnn", "tensorflow", "warpctc-tensorflow-binding"]}

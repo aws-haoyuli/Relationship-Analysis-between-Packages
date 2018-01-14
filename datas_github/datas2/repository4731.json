@@ -1,0 +1,1 @@
+{"name": "multitun", "description": "Tunnel arbitrary traffic through an innocuous WebSocket.  Clients can 'see' each other, resulting in a stealth WebSocket VPN.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 259, "folkNum": 25, "watchNum": 259, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "dotdrop", "description": "Save your dotfiles once, deploy them everywhere", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 93, "folkNum": 13, "watchNum": 93, "topic": ["dotfiles", "jinja2", "python3"]}

@@ -1,0 +1,1 @@
+{"name": "django-environ", "description": "Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 860, "folkNum": 99, "watchNum": 860, "topic": ["django", "python", "settings", "twelve-factor"]}

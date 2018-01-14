@@ -1,0 +1,1 @@
+{"name": "PortableCellNetwork", "description": "Utilize a Raspberry Pi and a Nuand BladeRF to generate your own portable local cell network", "license": null, "starNum": 171, "folkNum": 31, "watchNum": 171, "topic": ["bladerf", "nib", "nuand", "pysim", "python", "raspberry-pi", "sd-card", "yate", "yatebts"]}

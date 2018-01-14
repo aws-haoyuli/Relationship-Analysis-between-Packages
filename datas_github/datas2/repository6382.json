@@ -1,0 +1,1 @@
+{"name": "daiquiri", "description": "Python library to easily setup basic logging functionality", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 187, "folkNum": 15, "watchNum": 187, "topic": ["log", "logging", "logging-library", "python"]}

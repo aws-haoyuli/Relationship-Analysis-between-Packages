@@ -1,0 +1,1 @@
+{"name": "MNIST", "description": "An adaptation of the LeNet Convolutional Neural network to classify MNIST digits.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["sirghiny"], "packages": ["pickle", "keras", "numpy"]}

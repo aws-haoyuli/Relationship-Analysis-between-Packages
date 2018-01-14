@@ -1,0 +1,1 @@
+{"name": "nbstripout", "description": "strip output from Jupyter and IPython notebooks", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 185, "folkNum": 30, "watchNum": 185, "topic": ["filter", "git", "hooks", "ipython", "ipython-notebook", "jupyter", "jupyter-notebook"]}

@@ -1,0 +1,1 @@
+{"name": "fibratus", "description": "Tool for exploration and tracing of the Windows kernel", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 400, "folkNum": 64, "watchNum": 400, "topic": ["cython", "etw", "instrumentation", "python", "windows", "windows-kernel"]}

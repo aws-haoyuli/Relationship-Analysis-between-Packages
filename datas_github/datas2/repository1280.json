@@ -1,0 +1,1 @@
+{"name": "yagmail", "description": "yagmail makes sending emails very easy by doing all the magic for you", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 957, "folkNum": 87, "watchNum": 957, "topic": ["email", "magic", "mime-types", "python", "smtp", "yagmail"]}

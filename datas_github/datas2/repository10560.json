@@ -1,0 +1,1 @@
+{"name": "trytravis", "description": "Send local git changes to Travis CI without commits or pushes.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 104, "folkNum": 3, "watchNum": 104, "topic": ["ci", "github", "integration", "tool", "travis", "travis-ci"]}

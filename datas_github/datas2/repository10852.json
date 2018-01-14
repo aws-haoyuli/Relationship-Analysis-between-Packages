@@ -1,0 +1,1 @@
+{"name": "tornadis", "description": "async minimal redis client for tornado ioloop designed for performances (use C hiredis parser)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 100, "folkNum": 14, "watchNum": 100, "topic": ["async", "hiredis-parser", "python", "redis", "tornado"]}

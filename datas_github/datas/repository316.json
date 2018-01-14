@@ -1,0 +1,1 @@
+{"name": "bel", "description": "BEL python package", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["library", "python3"], "contributors": ["wshayes", "davidchen"], "packages": ["os", "sys", "io", "bel", "shutil", "re", "setuptools"]}

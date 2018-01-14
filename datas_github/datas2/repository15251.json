@@ -1,0 +1,1 @@
+{"name": "minimal-nn", "description": "A minimal implementation of neural network for MNIST experiment. Used as an exercise to help understanding Backpropagation by implementing it in NumPy. ", "license": null, "starNum": 66, "folkNum": 10, "watchNum": 66, "topic": []}

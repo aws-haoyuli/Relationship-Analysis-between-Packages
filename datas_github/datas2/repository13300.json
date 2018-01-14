@@ -1,0 +1,1 @@
+{"name": "word2phrase", "description": "Python port of Mikolov's word2phrase.c from the word2vec toolkit", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 78, "folkNum": 13, "watchNum": 78, "topic": []}

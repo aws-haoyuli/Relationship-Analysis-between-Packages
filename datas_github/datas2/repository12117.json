@@ -1,0 +1,1 @@
+{"name": "Flask-FeatureFlags", "description": "A Flask extension that enables or disables features based on configuration.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 88, "folkNum": 15, "watchNum": 88, "topic": []}

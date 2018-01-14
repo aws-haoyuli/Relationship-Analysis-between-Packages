@@ -1,0 +1,1 @@
+{"name": "vcrpy", "description": "Automatically mock your HTTP interactions to simplify and speed up testing", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1051, "folkNum": 154, "watchNum": 1051, "topic": ["http", "mocking", "python", "testing"]}

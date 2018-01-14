@@ -1,0 +1,1 @@
+{"name": "lang-emerge-parlai", "description": "Implementation of EMNLP 2017 Paper \"Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog\" using PyTorch and ParlAI", "license": null, "starNum": 88, "folkNum": 3, "watchNum": 88, "topic": ["emnlp", "language-grounding", "parlai", "pytorch", "reinforcement-learning"]}

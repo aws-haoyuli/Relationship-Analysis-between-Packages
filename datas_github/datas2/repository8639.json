@@ -1,0 +1,1 @@
+{"name": "nox", "description": "Tools to make nix nicer to use", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 131, "folkNum": 28, "watchNum": 131, "topic": ["nix", "nixos", "nixpkgs"]}

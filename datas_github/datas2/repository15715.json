@@ -1,0 +1,1 @@
+{"name": "Face-Detect", "description": "A Python based tool to extract faces from any picture.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 64, "folkNum": 16, "watchNum": 64, "topic": ["face", "face-detector", "face-extractor", "opencv"]}

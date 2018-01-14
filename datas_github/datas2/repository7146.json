@@ -1,0 +1,1 @@
+{"name": "chainer-char-rnn", "description": "karpathy's char-rnn (https://github.com/karpathy/char-rnn) implementation by Chainer", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 164, "folkNum": 62, "watchNum": 164, "topic": []}

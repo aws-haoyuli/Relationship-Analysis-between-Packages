@@ -1,0 +1,1 @@
+{"name": "DLMBI", "description": "Deep Learning for population structure prediction", "license": null, "starNum": 2, "folkNum": 1, "watchNum": 2, "topic": [], "contributors": ["simongeek"], "packages": ["allel", "numpy as np", "sklearn", "pandas as pd"]}

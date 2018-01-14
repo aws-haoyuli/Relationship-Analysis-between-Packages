@@ -1,0 +1,1 @@
+{"name": "remarshal", "description": "Convert between TOML, YAML and JSON", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 208, "folkNum": 13, "watchNum": 208, "topic": ["cli", "command-line-tool", "conversion", "converter", "json", "toml", "utility", "yaml"]}

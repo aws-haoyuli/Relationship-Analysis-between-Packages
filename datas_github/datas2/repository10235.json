@@ -1,0 +1,1 @@
+{"name": "ptracer", "description": "A library for ptrace-based tracing of Python programs", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 107, "folkNum": 10, "watchNum": 107, "topic": ["ptrace", "python", "syscalls"]}

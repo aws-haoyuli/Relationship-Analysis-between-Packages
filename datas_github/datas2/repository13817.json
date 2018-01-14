@@ -1,0 +1,1 @@
+{"name": "route53-transfer", "description": "Backup and restore Route53 zones, or transfer between AWS accounts.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 75, "folkNum": 23, "watchNum": 75, "topic": []}

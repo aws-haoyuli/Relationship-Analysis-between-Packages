@@ -1,0 +1,1 @@
+{"name": "libheap", "description": "python library to examine ptmalloc (the glibc userland heap implementation)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 301, "folkNum": 61, "watchNum": 301, "topic": ["gdb", "glibc", "ptmalloc", "python"]}

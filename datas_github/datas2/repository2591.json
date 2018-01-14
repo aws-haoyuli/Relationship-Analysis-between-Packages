@@ -1,0 +1,1 @@
+{"name": "aioredis", "description": "asyncio (PEP 3156) Redis support", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 483, "folkNum": 83, "watchNum": 483, "topic": ["asyncio", "python", "python-3", "redis", "redis-client", "redis-sentinel"]}

@@ -1,0 +1,1 @@
+{"name": "django-drip", "description": ":droplet: Use Django admin to manage drip campaign emails using querysets on Django's User model.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 572, "folkNum": 116, "watchNum": 572, "topic": ["featured"]}

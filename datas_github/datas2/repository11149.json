@@ -1,0 +1,1 @@
+{"name": "pi-facerec-box", "description": "Raspberry Pi powered box which uses face recognition with OpenCV to lock and unlock itself.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 97, "folkNum": 42, "watchNum": 97, "topic": []}

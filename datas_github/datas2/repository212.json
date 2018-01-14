@@ -1,0 +1,1 @@
+{"name": "records", "description": "SQL for Humans\u2122", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 3887, "folkNum": 284, "watchNum": 3887, "topic": ["forhumans", "kennethreitz", "orm", "postgres", "python", "schemas", "sql", "sqlalchemy"]}

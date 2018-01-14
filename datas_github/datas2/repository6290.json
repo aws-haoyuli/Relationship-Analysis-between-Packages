@@ -1,0 +1,1 @@
+{"name": "django_replicated", "description": "Django DB router for stateful master-slave replication", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 190, "folkNum": 48, "watchNum": 190, "topic": []}

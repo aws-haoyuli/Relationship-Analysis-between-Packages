@@ -1,0 +1,1 @@
+{"name": "django-template", "description": "just a django template", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["youngershen"], "packages": ["may fail for some other reason", "os", "sys", "other_app", "Django", "core", "my_app", "multiprocessing", "environ", "django"]}

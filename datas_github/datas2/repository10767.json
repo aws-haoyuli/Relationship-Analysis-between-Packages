@@ -1,0 +1,1 @@
+{"name": "scout", "description": "RESTful search server written in Python, powered by SQLite.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 101, "folkNum": 11, "watchNum": 101, "topic": ["flask", "full-text-search", "python", "search", "search-engine", "sqlite"]}

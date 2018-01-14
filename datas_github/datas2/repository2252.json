@@ -1,0 +1,1 @@
+{"name": "abseil-py", "description": "Abseil Common Libraries (Python)", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 562, "folkNum": 54, "watchNum": 562, "topic": ["application", "flags", "logging", "python", "python-library", "testing"]}

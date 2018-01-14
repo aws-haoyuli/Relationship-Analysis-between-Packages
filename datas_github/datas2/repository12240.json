@@ -1,0 +1,1 @@
+{"name": "All-Conv-Keras", "description": "All Convolutional Network: (https://arxiv.org/abs/1412.6806#) implementation in Keras", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 86, "folkNum": 35, "watchNum": 86, "topic": ["convolutional-neural-networks", "data-augmentation", "deeplearning", "keras"]}

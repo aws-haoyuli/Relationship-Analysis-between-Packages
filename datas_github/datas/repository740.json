@@ -1,0 +1,1 @@
+{"name": "stackcite.api", "description": "A common library for StackCite REST endpoints", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Kobnar"], "packages": ["", "os", "re", "stackcite", "unittest", "json", "setuptools", "pyramid"]}

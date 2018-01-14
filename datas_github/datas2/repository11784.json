@@ -1,0 +1,1 @@
+{"name": "gramfuzz", "description": "gramfuzz is a grammar-based fuzzer that lets one define complex grammars to generate text and binary data formats.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 91, "folkNum": 21, "watchNum": 91, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "python-memcached-stats", "description": "Python class to gather stats and slab keys from memcached via the memcached telnet interface", "license": null, "starNum": 99, "folkNum": 43, "watchNum": 99, "topic": []}

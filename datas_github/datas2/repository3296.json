@@ -1,0 +1,1 @@
+{"name": "buildout", "description": "Buildout is a deployment  automation tool written in and extended with Python", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 373, "folkNum": 148, "watchNum": 373, "topic": ["build", "build-automation", "build-tool", "python"]}

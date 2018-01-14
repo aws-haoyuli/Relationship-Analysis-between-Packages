@@ -1,0 +1,1 @@
+{"name": "kube-shell", "description": "Kubernetes shell: An integrated shell for working with the Kubernetes CLI", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 529, "folkNum": 30, "watchNum": 529, "topic": ["autocomplete", "kube-shell", "kubectl", "kubernetes", "python"]}

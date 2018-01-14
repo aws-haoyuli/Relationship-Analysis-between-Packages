@@ -1,0 +1,1 @@
+{"name": "sodagram", "description": "Instagram clone using Python Django", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["junlee91"], "packages": ["os", "django  # noqa", "django", "Django", "may fail for some other reason", "sys"]}

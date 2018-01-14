@@ -1,0 +1,1 @@
+{"name": "webspider", "description": "Python\u722c\u866b \u5728\u7ebf\u6f14\u793a\u5730\u5740 -> http://www.jobinfo.cc:8000/", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 120, "folkNum": 33, "watchNum": 120, "topic": ["celery", "python", "requests", "spider", "tornado"]}

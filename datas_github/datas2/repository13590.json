@@ -1,0 +1,1 @@
+{"name": "django-hashid-field", "description": "Django Model Field that uses Hashids to obscure the value", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 76, "folkNum": 6, "watchNum": 76, "topic": ["django", "django-rest-framework", "hashid", "hashids"]}

@@ -1,0 +1,1 @@
+{"name": "manage", "description": "Command Line Manager + Interactive Shell for Python Projects", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 89, "folkNum": 8, "watchNum": 89, "topic": ["click", "commandline", "commandline-interface", "management", "shell"]}

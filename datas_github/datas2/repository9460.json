@@ -1,0 +1,1 @@
+{"name": "telegram-send", "description": "Send messages and files over Telegram from the command-line.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 119, "folkNum": 11, "watchNum": 119, "topic": ["command-line", "python", "telegram"]}

@@ -1,0 +1,1 @@
+{"name": "coffeesource_app", "description": null, "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2, "folkNum": 1, "watchNum": 2, "topic": [], "contributors": ["aaquirogal", "coffeesource-net", "AlexTrapp", "not-a-bird"], "packages": ["may fail for some other reason", "os", "sys", "Django", "django"]}

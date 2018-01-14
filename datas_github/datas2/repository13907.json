@@ -1,0 +1,1 @@
+{"name": "VQA-tensorflow", "description": "Tensorflow Implementation of Deeper LSTM+ normalized CNN for Visual Question Answering", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 74, "folkNum": 33, "watchNum": 74, "topic": ["question-answering", "tensorflow", "vqa"]}

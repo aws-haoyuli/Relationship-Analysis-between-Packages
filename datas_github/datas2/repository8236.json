@@ -1,0 +1,1 @@
+{"name": "MusicNow", "description": "CLI tool to download songs with metadata.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 139, "folkNum": 19, "watchNum": 139, "topic": ["cli", "downloads-music", "music", "musicnow", "spotify", "youtube-dl"]}

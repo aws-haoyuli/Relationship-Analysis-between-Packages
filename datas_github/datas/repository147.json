@@ -1,0 +1,1 @@
+{"name": "PyTurboJPEG", "description": "An experimental Python wrapper of TurboJPEG for decoding and encoding JPEG image.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["lilohuang"], "packages": ["ctypes", "numpy as np", "platform", "cv2"]}

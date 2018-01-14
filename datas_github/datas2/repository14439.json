@@ -1,0 +1,1 @@
+{"name": "bag-of-holding", "description": "An application to assist in the organization and prioritization of software security activities.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 71, "folkNum": 27, "watchNum": 71, "topic": ["appsec", "django", "django-rest-framework", "security", "security-tools", "threadfix"]}

@@ -1,0 +1,1 @@
+{"name": "mezzanine-api", "description": "RESTful web API for Mezzanine CMS", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 65, "folkNum": 18, "watchNum": 65, "topic": ["api", "cms", "django", "mezzanine", "python", "rest-api"]}

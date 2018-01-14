@@ -1,0 +1,1 @@
+{"name": "locust", "description": "Scalable user load testing tool written in Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 6626, "folkNum": 953, "watchNum": 6626, "topic": ["benchmarking", "http", "load-testing", "locust", "performance-testing", "python"]}

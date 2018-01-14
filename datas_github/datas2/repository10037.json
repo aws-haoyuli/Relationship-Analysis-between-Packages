@@ -1,0 +1,1 @@
+{"name": "django-sliver", "description": "Lightweight REST API built on top of Django's class-based generic views", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 110, "folkNum": 8, "watchNum": 110, "topic": []}

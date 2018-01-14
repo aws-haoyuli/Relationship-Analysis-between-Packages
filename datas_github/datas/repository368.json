@@ -1,0 +1,1 @@
+{"name": "utilis_cc", "description": "Utilities about CrypyoCurrency/ \u4eee\u60f3\u901a\u8ca8\u95a2\u9023\u306e\u81ea\u4f5c\u30e6\u30fc\u30c6\u30a3\u30ea\u30c6\u30a3", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["hiroga-cc"], "packages": ["pdb", "requests", "json", "pandas as pd"]}

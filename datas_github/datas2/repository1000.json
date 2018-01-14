@@ -1,0 +1,1 @@
+{"name": "Radicale", "description": "A simple CalDAV (calendar) and CardDAV (contact) server.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 1199, "folkNum": 255, "watchNum": 1199, "topic": ["caldav", "cardav", "icalendar", "python"]}

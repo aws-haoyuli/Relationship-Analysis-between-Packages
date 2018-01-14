@@ -1,0 +1,1 @@
+{"name": "aiobotocore", "description": "asyncio support for botocore library using aiohttp", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 176, "folkNum": 39, "watchNum": 176, "topic": ["aiohttp", "asyncio", "aws", "aws-sdk", "botocore", "cloud", "cloud-management"]}

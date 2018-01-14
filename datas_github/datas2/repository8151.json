@@ -1,0 +1,1 @@
+{"name": "django-encrypted-fields", "description": "This is a collection of Django Model Field classes that are encrypted using Keyczar.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 140, "folkNum": 34, "watchNum": 140, "topic": []}

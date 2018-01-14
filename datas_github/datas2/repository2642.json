@@ -1,0 +1,1 @@
+{"name": "django-phonenumber-field", "description": "A django model and form field for normalised phone numbers using python-phonenumbers", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 474, "folkNum": 179, "watchNum": 474, "topic": []}

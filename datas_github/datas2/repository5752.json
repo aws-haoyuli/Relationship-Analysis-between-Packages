@@ -1,0 +1,1 @@
+{"name": "cget", "description": "Cmake package retrieval", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 209, "folkNum": 5, "watchNum": 209, "topic": ["c", "cget", "cmake", "cmake-packages", "cplusplus", "cpp", "crossplatform", "dependency-manager", "linux", "osx", "package-manager", "pkgconfig", "windows"]}

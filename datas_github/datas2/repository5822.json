@@ -1,0 +1,1 @@
+{"name": "getfavicon", "description": "Google App Engine app that retrieves the relevant favicon for a URL, or returns a default icon should it not be able to find it.", "license": null, "starNum": 207, "folkNum": 23, "watchNum": 207, "topic": []}

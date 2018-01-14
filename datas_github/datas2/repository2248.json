@@ -1,0 +1,1 @@
+{"name": "object_detector_app", "description": "Real-Time Object Recognition App with Tensorflow and OpenCV", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 562, "folkNum": 292, "watchNum": 562, "topic": ["opencv", "tensorflow"]}

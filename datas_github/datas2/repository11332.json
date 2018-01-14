@@ -1,0 +1,1 @@
+{"name": "lambda-apigateway-twilio-tutorial", "description": "Getting started with AWS Lambda + Amazon API Gateway. Use Twilio MMS to upload photos to S3 without servers. ", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 95, "folkNum": 36, "watchNum": 95, "topic": []}

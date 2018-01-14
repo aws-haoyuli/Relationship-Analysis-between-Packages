@@ -1,0 +1,1 @@
+{"name": "ev3dev-lang-python", "description": "Pure python bindings for ev3dev", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 147, "folkNum": 60, "watchNum": 147, "topic": ["ev3dev", "lego", "mindstorms", "python"]}

@@ -1,0 +1,1 @@
+{"name": "django-chartit", "description": "A Django app to plot charts and pivot charts directly from the models. Uses HighCharts and jQuery JavaScript libraries to render the charts on the webpage.", "license": null, "starNum": 416, "folkNum": 151, "watchNum": 416, "topic": []}

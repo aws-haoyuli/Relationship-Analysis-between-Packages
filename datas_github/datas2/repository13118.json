@@ -1,0 +1,1 @@
+{"name": "python-redis-log", "description": "A Python logging handler that publishes to redis pub/sub channels", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 80, "folkNum": 24, "watchNum": 80, "topic": []}

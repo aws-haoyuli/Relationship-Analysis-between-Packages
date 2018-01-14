@@ -1,0 +1,1 @@
+{"name": "django-ses", "description": "A Django email backend for Amazon's Simple Email Service", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 531, "folkNum": 137, "watchNum": 531, "topic": []}

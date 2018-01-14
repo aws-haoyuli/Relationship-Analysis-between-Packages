@@ -1,0 +1,1 @@
+{"name": "tarsnapper", "description": "tarsnap wrapper which expires backups using a gfs-scheme.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 182, "folkNum": 24, "watchNum": 182, "topic": []}

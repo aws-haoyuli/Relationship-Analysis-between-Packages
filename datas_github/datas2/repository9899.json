@@ -1,0 +1,1 @@
+{"name": "alfred-fixum", "description": "Fix Alfred 3 Python workflows affected by the Sierra/Alfred-Workflow background process bug", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 112, "folkNum": 1, "watchNum": 112, "topic": ["alfred-workflow", "bugfix", "sierra"]}

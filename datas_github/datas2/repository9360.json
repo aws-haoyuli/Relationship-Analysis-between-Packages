@@ -1,0 +1,1 @@
+{"name": "django-excel", "description": "A Django middleware to read, manipulate and write data in different excel formats: csv, ods, xls, xlsx and xlsm.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 120, "folkNum": 40, "watchNum": 120, "topic": ["django", "excel"]}

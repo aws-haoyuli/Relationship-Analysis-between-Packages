@@ -1,0 +1,1 @@
+{"name": "spans", "description": "Spans is a pure Python implementation of PostgreSQL's range types.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 102, "folkNum": 7, "watchNum": 102, "topic": ["datatype", "interval", "python-2", "python-3", "range", "set"]}

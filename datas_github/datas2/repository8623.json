@@ -1,0 +1,1 @@
+{"name": "encrypted-bigquery-client", "description": "An experimental version of the BQ client which adds client-side encryption", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 132, "folkNum": 22, "watchNum": 132, "topic": []}

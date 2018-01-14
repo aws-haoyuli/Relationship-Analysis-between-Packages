@@ -1,0 +1,1 @@
+{"name": "foresight", "description": "A tool for predicting the output of random number generators", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 133, "folkNum": 24, "watchNum": 133, "topic": ["foresight", "random-number-generators", "rng"]}

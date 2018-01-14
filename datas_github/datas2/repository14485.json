@@ -1,0 +1,1 @@
+{"name": "fastai-course-1", "description": "Docker environment for fast.ai Deep Learning Course 1 at http://course.fast.ai", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 71, "folkNum": 29, "watchNum": 71, "topic": ["deep-learning", "docker", "fastai", "jupyter", "notebook", "nvidia-docker"]}

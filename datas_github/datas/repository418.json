@@ -1,0 +1,1 @@
+{"name": "advent-of-code", "description": "\ud83c\udf84 Advent of Code solutions http://adventofcode.com/", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["advent-of-code-2017", "python"], "contributors": ["jollyra"], "packages": ["re", "numpy as np", "util", "sys"]}

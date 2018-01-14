@@ -1,0 +1,1 @@
+{"name": "plastic-v2", "description": "plastic language version 2", "license": null, "starNum": 2, "folkNum": 1, "watchNum": 2, "topic": [], "contributors": ["danielwaterworth", "JoelWaterworth"], "packages": ["':", "environment", "kind_checker", "copy", "types", "ir"]}

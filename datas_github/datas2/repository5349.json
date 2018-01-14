@@ -1,0 +1,1 @@
+{"name": "TwitterStockMonitor", "description": "Monitors a single or many Twitter Handle's tweets and if a company name is within their tweets, monitors the company's stock levels for the next week. Was originally the \"TrumpStockMonitor\"", "license": null, "starNum": 227, "folkNum": 36, "watchNum": 227, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "pep8ify", "description": "A library that modifies python source code to conform to pep8.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 98, "folkNum": 11, "watchNum": 98, "topic": []}

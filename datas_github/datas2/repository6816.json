@@ -1,0 +1,1 @@
+{"name": "audioread", "description": "cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python", "license": null, "starNum": 175, "folkNum": 50, "watchNum": 175, "topic": ["audio", "python"]}

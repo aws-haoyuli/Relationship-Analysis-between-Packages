@@ -1,0 +1,1 @@
+{"name": "django-static", "description": "Template tags for better serving static files from templates in Django", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 193, "folkNum": 30, "watchNum": 193, "topic": []}

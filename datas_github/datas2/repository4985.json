@@ -1,0 +1,1 @@
+{"name": "madmom", "description": "Python audio and music signal processing library", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 245, "folkNum": 46, "watchNum": 245, "topic": ["audio-analysis", "cython", "machine-learning", "music-information-retrieval", "numpy", "python", "scipy", "signal-processing"]}

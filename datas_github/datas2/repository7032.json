@@ -1,0 +1,1 @@
+{"name": "glacier-vault-remove", "description": "Remove all archives stored inside an Amazon Glacier vault, even if you have a huge number of them.", "license": null, "starNum": 168, "folkNum": 24, "watchNum": 168, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "soldat-pystats", "description": "Python/Flask/Redis Soldat server kill stats app", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 4, "folkNum": 1, "watchNum": 4, "topic": [], "contributors": ["jrgp", "daniellawrence"], "packages": ["os", "mock", "piestats", "unittest", "setuptools"]}

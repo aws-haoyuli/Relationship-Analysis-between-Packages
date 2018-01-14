@@ -1,0 +1,1 @@
+{"name": "gxgk-wechat-server", "description": "\u6821\u56ed\u5fae\u4fe1\u516c\u4f17\u53f7\u540e\u7aef\uff0c\u4f7f\u7528 Python\u3001Flask\u3001Redis\u3001MySQL\u3001Celery", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 958, "folkNum": 404, "watchNum": 958, "topic": ["flask", "python", "wechat"]}

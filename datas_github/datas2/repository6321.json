@@ -1,0 +1,1 @@
+{"name": "json2csv", "description": "Converts JSON files to CSV (pulling data from nested structures). Useful for Mongo data", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 189, "folkNum": 85, "watchNum": 189, "topic": []}

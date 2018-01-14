@@ -1,0 +1,1 @@
+{"name": "redis-rdb-tools", "description": "Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2322, "folkNum": 351, "watchNum": 2322, "topic": []}

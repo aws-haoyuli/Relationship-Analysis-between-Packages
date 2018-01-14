@@ -1,0 +1,1 @@
+{"name": "py-evm", "description": "A Python implementation of the Ethereum Virtual Machine", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 225, "folkNum": 76, "watchNum": 225, "topic": ["ethereum", "ethereum-virtual-machine", "evm", "python"]}

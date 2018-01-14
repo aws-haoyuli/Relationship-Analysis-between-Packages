@@ -1,0 +1,1 @@
+{"name": "pyVisOS", "description": "An easy to use, easy to extend python framework for OSIRIS hdf5 data analysis and visualization", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": [], "packages": ["re", "numpy as np", "fractions"]}

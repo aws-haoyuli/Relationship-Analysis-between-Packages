@@ -1,0 +1,1 @@
+{"name": "hy", "description": "A dialect of Lisp that's embedded in Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2260, "folkNum": 251, "watchNum": 2260, "topic": ["hy", "lisps", "python"]}

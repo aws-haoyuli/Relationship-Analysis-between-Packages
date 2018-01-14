@@ -1,0 +1,1 @@
+{"name": "AWSBucketDump", "description": "Security Tool to Look For Interesting Files in S3 Buckets", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 327, "folkNum": 59, "watchNum": 327, "topic": ["bugbounty", "enumeration", "penetration-testing", "s3-bucket"]}

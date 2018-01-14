@@ -1,0 +1,1 @@
+{"name": "pyshark", "description": "Python wrapper for tshark, allowing python packet parsing using wireshark dissectors", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 480, "folkNum": 147, "watchNum": 480, "topic": ["capture-packets", "packet-capture", "python", "tshark", "wireshark"]}

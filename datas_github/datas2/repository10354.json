@@ -1,0 +1,1 @@
+{"name": "ipwb", "description": "A distributed and persistent archive replay system using IPFS", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 106, "folkNum": 8, "watchNum": 106, "topic": ["ipfs", "memento", "memento-rfc", "python", "service-worker", "warc", "wayback", "web-archiving"]}

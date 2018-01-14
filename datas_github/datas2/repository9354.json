@@ -1,0 +1,1 @@
+{"name": "redis-hashring", "description": "A Python library that implements a consistent hash ring for building distributed apps", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 120, "folkNum": 6, "watchNum": 120, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "argcomplete", "description": "Python and tab completion, better together.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 578, "folkNum": 73, "watchNum": 578, "topic": ["argparse", "bash", "bash-completion", "python", "tab-completion"]}

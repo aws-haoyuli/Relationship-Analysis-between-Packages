@@ -1,0 +1,1 @@
+{"name": "memristive-spinal-cord", "description": "The memristive schematic implementation for spinal cord segment", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 2, "watchNum": 0, "topic": [], "contributors": ["late-goodbye", "vogdb", "max-talanov"], "packages": ["setuptools"]}

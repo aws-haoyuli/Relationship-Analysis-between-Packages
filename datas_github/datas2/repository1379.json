@@ -1,0 +1,1 @@
+{"name": "motor", "description": "Motor - the async Python driver for MongoDB and Tornado or asyncio", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 901, "folkNum": 92, "watchNum": 901, "topic": []}

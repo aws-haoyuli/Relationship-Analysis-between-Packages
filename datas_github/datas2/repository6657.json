@@ -1,0 +1,1 @@
+{"name": "hyperband", "description": "Tuning hyperparams fast with Hyperband", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 179, "folkNum": 31, "watchNum": 179, "topic": ["gradient-boosting", "gradient-boosting-classifier", "hyperparameter-optimization", "hyperparameter-tuning", "hyperparameters", "machine-learning"]}

@@ -1,0 +1,1 @@
+{"name": "duckhunt", "description": ":dart: Prevent RubberDucky (or other keystroke injection) attacks", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 114, "folkNum": 16, "watchNum": 114, "topic": ["attack", "keyboard", "keystroke-injection", "mousejack", "protection", "rubber-ducky"]}

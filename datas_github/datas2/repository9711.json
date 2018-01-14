@@ -1,0 +1,1 @@
+{"name": "Umbrella", "description": "A Phishing Dropper designed to Pentest.", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 115, "folkNum": 55, "watchNum": 115, "topic": ["dropper", "linux", "pentest", "phishing", "windows"]}

@@ -1,0 +1,1 @@
+{"name": "dask-ec2", "description": "Start a cluster in EC2 for dask.distributed", "license": null, "starNum": 64, "folkNum": 30, "watchNum": 64, "topic": ["aws", "dask"]}

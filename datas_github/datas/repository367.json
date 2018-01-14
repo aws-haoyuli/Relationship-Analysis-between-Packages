@@ -1,0 +1,1 @@
+{"name": "mercuty-lambda-legacy", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["kreutzer91"], "packages": ["uuid", "boto3", "time", "unittest", "random", "json"]}

@@ -1,0 +1,1 @@
+{"name": "PynamoDB", "description": "A pythonic interface to Amazon's DynamoDB", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 576, "folkNum": 152, "watchNum": 576, "topic": ["aws", "dynamodb", "python"]}

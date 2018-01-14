@@ -1,0 +1,1 @@
+{"name": "manuale", "description": "A fully manual Let's Encrypt/ACME client", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 192, "folkNum": 9, "watchNum": 192, "topic": ["acme", "letsencrypt", "security", "ssl", "tls"]}

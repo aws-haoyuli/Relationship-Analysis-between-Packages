@@ -1,0 +1,1 @@
+{"name": "tripleo-heat-templates", "description": "Heat templates for deploying OpenStack", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 103, "folkNum": 99, "watchNum": 103, "topic": []}

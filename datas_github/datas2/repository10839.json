@@ -1,0 +1,1 @@
+{"name": "WCT-TF", "description": "TensorFlow/Keras implementation of \"Universal Style Transfer via Feature Transforms\" from https://arxiv.org/abs/1705.08086", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 100, "folkNum": 19, "watchNum": 100, "topic": []}

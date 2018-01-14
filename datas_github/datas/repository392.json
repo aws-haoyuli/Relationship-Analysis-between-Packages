@@ -1,0 +1,1 @@
+{"name": "kdgan", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["xiaojiew1", "suyixin12123"], "packages": ["sys", "__future__", "numpy as np", "deployment", "preprocessing", "teacher_model", "tensorflow as tf", "pickle", "random", "datasets", "setuptools", "nets", "nltk"]}

@@ -1,0 +1,1 @@
+{"name": "requests-threads", "description": "\ud83c\udfad Twisted Deferred Thread backend for Requests. ", "license": null, "starNum": 166, "folkNum": 6, "watchNum": 166, "topic": ["async", "asyncio", "deferred", "requests", "threads", "twisted"]}

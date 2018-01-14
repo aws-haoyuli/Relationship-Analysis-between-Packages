@@ -1,0 +1,1 @@
+{"name": "yeonghoey", "description": "A personal knowledge base", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 6, "folkNum": 0, "watchNum": 6, "topic": ["knowledgebase", "org-mode", "wiki"], "contributors": ["yeonghoey"], "packages": ["functools", "collections", "math", "re", "pprint"]}

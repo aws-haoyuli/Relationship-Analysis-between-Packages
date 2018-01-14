@@ -1,0 +1,1 @@
+{"name": "django-river", "description": "Django workflow library supports on the fly changes.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 328, "folkNum": 31, "watchNum": 328, "topic": ["django", "python", "python-2", "python-3", "workflow", "workflow-engine"]}

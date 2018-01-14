@@ -1,0 +1,1 @@
+{"name": "trellis", "description": "Ansible playbooks for a WordPress LEMP stack", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1571, "folkNum": 434, "watchNum": 1571, "topic": ["ansible", "bedrock", "trellis", "vagrant", "wordpress", "wp-cli"]}

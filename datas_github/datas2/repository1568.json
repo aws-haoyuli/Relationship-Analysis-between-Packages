@@ -1,0 +1,1 @@
+{"name": "Autopilot-TensorFlow", "description": "A TensorFlow implementation of this Nvidia paper: https://arxiv.org/pdf/1604.07316.pdf with some changes", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 788, "folkNum": 209, "watchNum": 788, "topic": []}

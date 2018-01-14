@@ -1,0 +1,1 @@
+{"name": "ngram2vec", "description": "Four word embedding models implemented in Python. Supporting arbitrary context features", "license": null, "starNum": 172, "folkNum": 56, "watchNum": 172, "topic": ["analogy", "chinese", "embedding", "glove", "n-gram", "ngram", "ngram2vec", "ppmi", "svd", "word", "word-embedding", "word2vec"]}

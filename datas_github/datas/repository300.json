@@ -1,0 +1,1 @@
+{"name": "CSE7053_toprakucar_canayhan", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["ktoprakucar"], "packages": ["cairocffi as cairo", "visualization", "networkx as nx", "csv", "network", "pandas as pd", "repository", "math", "igraph", "reader", "component"]}

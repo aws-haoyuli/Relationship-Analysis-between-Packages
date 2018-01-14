@@ -1,0 +1,1 @@
+{"name": "selinon", "description": " An advanced distributed task flow management on top of Celery ", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 66, "folkNum": 8, "watchNum": 66, "topic": ["big-data", "celery", "distributed-computing", "flow-management", "kubernetes", "openshift", "python", "schedule-tasks", "selinon", "task"]}

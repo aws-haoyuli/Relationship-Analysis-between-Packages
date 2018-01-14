@@ -1,0 +1,1 @@
+{"name": "netdisco", "description": ":mag_right: Python library to scan local network for services and devices.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 122, "folkNum": 79, "watchNum": 122, "topic": ["discovery", "home-assistant", "home-automation", "internet-of-things", "mdns", "python", "upnp"]}

@@ -1,0 +1,1 @@
+{"name": "python-tumblpy", "description": "A Python Library to interface with Tumblr v2 REST API & OAuth", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 122, "folkNum": 36, "watchNum": 122, "topic": ["api", "python", "tumblr", "tumblr-api"]}

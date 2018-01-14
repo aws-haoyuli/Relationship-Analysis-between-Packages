@@ -1,0 +1,1 @@
+{"name": "phishing_catcher", "description": "Phishing catcher using Certstream", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 518, "folkNum": 111, "watchNum": 518, "topic": ["certificate-transparency", "osint", "phishing", "threat-intelligence", "threatintel"]}

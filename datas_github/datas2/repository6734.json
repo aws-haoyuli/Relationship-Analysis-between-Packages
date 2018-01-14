@@ -1,0 +1,1 @@
+{"name": "face-landmark-localization", "description": "cnn network predict face landmarks (68 points) and head pose (3d pose, yaw,roll,pitch).", "license": null, "starNum": 177, "folkNum": 107, "watchNum": 177, "topic": []}

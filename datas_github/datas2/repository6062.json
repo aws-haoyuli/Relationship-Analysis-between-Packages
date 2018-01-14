@@ -1,0 +1,1 @@
+{"name": "es2csv", "description": "Export from an Elasticsearch into a CSV file", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 197, "folkNum": 66, "watchNum": 197, "topic": ["cli", "csv", "elasticsearch", "export", "kibana", "python", "python-2"]}

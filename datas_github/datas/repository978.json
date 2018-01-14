@@ -1,0 +1,1 @@
+{"name": "whut_get_seat", "description": "\u6b66\u6c49\u7406\u5de5\u4f59\u533a\u56fe\u4e66\u9986\u81ea\u52a8\u62a2\u5ea7\u7a0b\u5e8f", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["DavidLyc"], "packages": ["os", "sys", "subprocess", "tool", "PIL", "time"]}

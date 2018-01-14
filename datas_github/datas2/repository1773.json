@@ -1,0 +1,1 @@
+{"name": "cloudflare-scrape", "description": "A Python module to bypass Cloudflare's anti-bot page.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 709, "folkNum": 108, "watchNum": 709, "topic": ["anti-bot-page", "cloudflare", "protected-page", "scrape", "scraping-websites"]}

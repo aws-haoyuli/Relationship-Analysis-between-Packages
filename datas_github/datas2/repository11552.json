@@ -1,0 +1,1 @@
+{"name": "requests-unixsocket", "description": "Use requests to talk HTTP via a UNIX domain socket", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 93, "folkNum": 16, "watchNum": 93, "topic": ["http", "python", "requests", "unix-domain-socket"]}

@@ -1,0 +1,1 @@
+{"name": "OpenSeq2Seq", "description": "Multi-GPU sequence to sequence learning", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 88, "folkNum": 27, "watchNum": 88, "topic": ["deep-learning", "multi-gpu", "neural-machine-translation", "question-answering", "sequence-to-sequence"]}

@@ -1,0 +1,1 @@
+{"name": "dryscrape", "description": "[not actively maintained] A lightweight Python library that uses Webkit to enable easy scraping of dynamic, Javascript-heavy web pages", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 485, "folkNum": 58, "watchNum": 485, "topic": []}

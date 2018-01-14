@@ -1,0 +1,1 @@
+{"name": "django-permission", "description": "An enhanced permission system which support object permission in Django", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 266, "folkNum": 43, "watchNum": 266, "topic": ["django", "framework", "permission", "python"]}

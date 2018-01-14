@@ -1,0 +1,1 @@
+{"name": "HttpProxyMiddleware", "description": "A middleware for scrapy. Used to change HTTP proxy from time to time.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 245, "folkNum": 109, "watchNum": 245, "topic": []}

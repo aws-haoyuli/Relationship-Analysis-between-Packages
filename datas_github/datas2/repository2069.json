@@ -1,0 +1,1 @@
+{"name": "eventlet", "description": "Concurrent networking library for Python", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 612, "folkNum": 192, "watchNum": 612, "topic": ["c10k", "concurrency", "greenlet", "network", "python"]}

@@ -1,0 +1,1 @@
+{"name": "holding", "description": "Calculate and plot holding entry patterns.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["tamfr"], "packages": ["matplotlib", "numpy as np"]}

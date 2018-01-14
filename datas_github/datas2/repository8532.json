@@ -1,0 +1,1 @@
+{"name": "dropout", "description": "A theano implementation of Hinton's dropout.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 133, "folkNum": 62, "watchNum": 133, "topic": []}

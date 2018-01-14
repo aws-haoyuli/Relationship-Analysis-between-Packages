@@ -1,0 +1,1 @@
+{"name": "DeepVein", "description": "From RGB to NIR", "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": [], "packages": ["tensorlayer", "scipy", "numpy as np", "tensorflow as tf", "tensorlayer as tl"]}

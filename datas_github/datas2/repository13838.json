@@ -1,0 +1,1 @@
+{"name": "nmapdb", "description": "Parse nmap's XML output files and insert them into an SQLite database", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 75, "folkNum": 35, "watchNum": 75, "topic": []}

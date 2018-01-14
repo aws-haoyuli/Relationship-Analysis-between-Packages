@@ -1,0 +1,1 @@
+{"name": "ner-lstm", "description": "Named Entity Recognition using multilayered bidirectional LSTM", "license": null, "starNum": 337, "folkNum": 117, "watchNum": 337, "topic": ["deep-neural-networks", "embeddings", "lstm", "named-entity-recognition", "natural-language-processing", "recurrent-neural-networks", "tensorflow"]}

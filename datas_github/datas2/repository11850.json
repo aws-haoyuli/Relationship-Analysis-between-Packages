@@ -1,0 +1,1 @@
+{"name": "dnsAutoRebinding", "description": "ssrf\u3001ssrfIntranetFuzz\u3001dnsRebinding\u3001recordEncode\u3001dnsPoisoning\u3001Support ipv4/ipv6", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 90, "folkNum": 22, "watchNum": 90, "topic": ["dns", "rebinding", "ssrf"]}

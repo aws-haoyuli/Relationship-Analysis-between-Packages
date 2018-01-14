@@ -1,0 +1,1 @@
+{"name": "multiprocessing-logging", "description": "Handler for logging from multiple processes", "license": {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0"}, "starNum": 64, "folkNum": 20, "watchNum": 64, "topic": ["linux", "logging", "multiprocessing", "python"]}

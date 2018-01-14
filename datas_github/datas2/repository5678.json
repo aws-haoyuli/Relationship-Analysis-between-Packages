@@ -1,0 +1,1 @@
+{"name": "scirius", "description": "Scirius is a web application for Suricata ruleset management.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 213, "folkNum": 48, "watchNum": 213, "topic": ["interface", "management", "python", "security", "signatures", "suricata"]}

@@ -1,0 +1,1 @@
+{"name": "pydantic", "description": "Data validation using Python 3.6 type hinting", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 290, "folkNum": 14, "watchNum": 290, "topic": ["data-validation", "python3", "python36", "schema", "type-hints", "validation"]}

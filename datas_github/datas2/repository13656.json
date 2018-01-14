@@ -1,0 +1,1 @@
+{"name": "gaupol", "description": "Editor for text-based subtitle files", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 76, "folkNum": 21, "watchNum": 76, "topic": ["gstreamer", "gtk", "python", "subtitles"]}

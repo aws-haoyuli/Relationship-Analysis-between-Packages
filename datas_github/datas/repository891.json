@@ -1,0 +1,1 @@
+{"name": "chamelium-utils", "description": "My personal set of utilities for making use of the Chamelium outside of testing", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Lyude"], "packages": ["setuptools"]}

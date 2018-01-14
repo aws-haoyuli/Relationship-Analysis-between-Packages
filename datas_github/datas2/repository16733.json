@@ -1,0 +1,1 @@
+{"name": "BinderFilter", "description": "A Linux kernel IPC firewall and logger for Android and Binder", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 58, "folkNum": 21, "watchNum": 58, "topic": ["android", "binder", "ipc-message", "kernel", "netfilter"]}

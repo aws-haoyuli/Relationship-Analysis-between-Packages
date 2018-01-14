@@ -1,0 +1,1 @@
+{"name": "uSpeech", "description": "Speech recognition toolkit for the arduino", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 349, "folkNum": 90, "watchNum": 349, "topic": ["arduino", "signal", "speech-processing", "speech-recognition"]}

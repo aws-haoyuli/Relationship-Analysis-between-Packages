@@ -1,0 +1,1 @@
+{"name": "Flask-Excel", "description": "A flask extension using pyexcel to read, manipulate and write data in different excel formats: csv, ods, xls, xlsx and xlsm.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 102, "folkNum": 36, "watchNum": 102, "topic": ["excel", "flask-extensions"]}

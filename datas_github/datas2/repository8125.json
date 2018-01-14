@@ -1,0 +1,1 @@
+{"name": "django-querycount", "description": "Middleware that Prints the number of DB queries to the runserver console.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 141, "folkNum": 14, "watchNum": 141, "topic": ["database", "debugging", "developer-tools", "django", "python"]}

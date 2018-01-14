@@ -1,0 +1,1 @@
+{"name": "BookLoad", "description": "no", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Cosette1997"], "packages": ["app", "flask_migrate", "ant_option = config", "sqlalchemy as sa", "myapp", "sqlalchemy", "flask_script", "__future__", "flask", "logging", "alembic"]}

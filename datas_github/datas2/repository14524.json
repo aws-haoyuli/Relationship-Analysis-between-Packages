@@ -1,0 +1,1 @@
+{"name": "plugins", "description": "Various plugins and scripts for various programs.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 71, "folkNum": 30, "watchNum": 71, "topic": ["hexchat", "hexchat-addons", "irc", "lua", "python"]}

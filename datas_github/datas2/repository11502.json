@@ -1,0 +1,1 @@
+{"name": "vimiv", "description": "An image viewer with vim-like keybindings.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 94, "folkNum": 8, "watchNum": 94, "topic": ["gtk", "image-viewer", "python", "vim"]}

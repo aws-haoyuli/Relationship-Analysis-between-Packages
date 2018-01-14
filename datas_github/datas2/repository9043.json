@@ -1,0 +1,1 @@
+{"name": "TensorflowProjects", "description": "Deep learning using tensorflow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 125, "folkNum": 46, "watchNum": 125, "topic": ["context-encoder", "cppn", "deepdream", "model-pruning", "neural-art", "neural-style", "tensorflow", "unsupervised-learning"]}

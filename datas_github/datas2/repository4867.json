@@ -1,0 +1,1 @@
+{"name": "flask-jwt-extended", "description": "A Flask JWT extension that supports refresh tokens, blacklisting/revoking tokens, and token freshness (for accessing critical views)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 252, "folkNum": 46, "watchNum": 252, "topic": []}

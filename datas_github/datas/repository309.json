@@ -1,0 +1,1 @@
+{"name": "Python_Data_Analysis", "description": "Collection of my experiments with data", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["93akshara"], "packages": ["scipy", "matplotlib", "sqlite3", "numpy as np", "numpy", "pandas as pd", "psycopg2", "json"]}

@@ -1,0 +1,1 @@
+{"name": "django-rest-angular2-example", "description": "A simple example of a Django REST app + Angular2", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 120, "folkNum": 51, "watchNum": 120, "topic": ["angular", "angular2", "django"]}

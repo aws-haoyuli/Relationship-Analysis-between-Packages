@@ -1,0 +1,1 @@
+{"name": "brewpi-script", "description": "This is the repository for the BrewPi Python script. The python script logs the data, monitors the temperature profile and communicates with the BrewPi slave and the web server", "license": null, "starNum": 112, "folkNum": 75, "watchNum": 112, "topic": []}

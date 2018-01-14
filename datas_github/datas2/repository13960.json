@@ -1,0 +1,1 @@
+{"name": "ethjsonrpc", "description": "Python JSON-RPC client for the Ethereum blockchain", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 74, "folkNum": 67, "watchNum": 74, "topic": ["ethereum", "json-rpc-client", "python"]}

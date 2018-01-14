@@ -1,0 +1,1 @@
+{"name": "bashhub-client", "description": ":cloud: Bash history in the cloud. Indexed and searchable. ", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 436, "folkNum": 29, "watchNum": 436, "topic": ["bash", "cloud", "history", "shell", "shell-extension", "terminal", "zsh"]}

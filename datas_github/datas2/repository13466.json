@@ -1,0 +1,1 @@
+{"name": "godaddy-dyndns", "description": "DynDNS-like public IP auto-updater script for GoDaddy", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 77, "folkNum": 29, "watchNum": 77, "topic": ["dyndns", "godaddy", "godaddy-dns", "python"]}

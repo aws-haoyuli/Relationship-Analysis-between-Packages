@@ -1,0 +1,1 @@
+{"name": "vim_turing_machine", "description": "An implementation of a Turing machine using only normal mode Vim commands", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 63, "folkNum": 2, "watchNum": 63, "topic": ["turing-machine", "vim"]}

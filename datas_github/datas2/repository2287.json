@@ -1,0 +1,1 @@
+{"name": "tensorflow-deeplab-resnet", "description": "DeepLab-ResNet rebuilt in TensorFlow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 550, "folkNum": 232, "watchNum": 550, "topic": ["deeplab-resnet", "pascal-voc", "semantic-segmentation", "tensorflow"]}

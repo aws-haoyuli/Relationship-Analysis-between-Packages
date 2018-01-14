@@ -1,0 +1,1 @@
+{"name": "tf-SNDCGAN", "description": "Tensorflow Implementation of the paper \"Spectral Normalization for Generative Adversarial Networks\" (ICML 2017 workshop)", "license": null, "starNum": 101, "folkNum": 20, "watchNum": 101, "topic": ["deep-learning", "generative-adversarial-network", "python", "tensorflow"]}

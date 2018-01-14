@@ -1,0 +1,1 @@
+{"name": "prometheus-es-exporter", "description": "Prometheus Elasticsearch Exporter", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 63, "folkNum": 12, "watchNum": 63, "topic": ["elasticsearch", "prometheus", "prometheus-exporter"]}

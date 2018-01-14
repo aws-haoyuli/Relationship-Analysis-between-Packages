@@ -1,0 +1,1 @@
+{"name": "match", "description": ":crystal_ball: Scalable reverse image search built on Kubernetes and Elasticsearch", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 786, "folkNum": 61, "watchNum": 786, "topic": ["elasticsearch", "image-signatures", "kubernetes-cluster"]}

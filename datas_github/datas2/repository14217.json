@@ -1,0 +1,1 @@
+{"name": "salt-state-graph", "description": "A tool for visualising the dependency graph of Salt states.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 72, "folkNum": 12, "watchNum": 72, "topic": []}

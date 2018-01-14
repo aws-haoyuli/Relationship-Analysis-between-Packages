@@ -1,0 +1,1 @@
+{"name": "ldap2pg", "description": ":elephant: :busts_in_silhouette: PostgreSQL roles and ACL management", "license": {"key": "postgresql", "name": "PostgreSQL License", "spdx_id": "PostgreSQL", "url": "https://api.github.com/licenses/postgresql"}, "starNum": 64, "folkNum": 7, "watchNum": 64, "topic": ["acl", "ldap", "postgresql", "privileges", "python", "roles", "yaml"]}

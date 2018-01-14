@@ -1,0 +1,1 @@
+{"name": "punic", "description": "Clean room reimplementation of Carthage tool", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 242, "folkNum": 14, "watchNum": 242, "topic": ["carthage", "cocoa", "package-manager", "swift"]}

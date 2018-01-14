@@ -1,0 +1,1 @@
+{"name": "guardonce", "description": "Utilities for converting from C/C++ include guards to #pragma once and back again.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 65, "folkNum": 2, "watchNum": 65, "topic": ["c", "c-plus-plus", "converter", "cpp", "include-guards", "pragma-once"]}

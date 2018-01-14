@@ -1,0 +1,1 @@
+{"name": "kubectl-aliases", "description": "Programmatically generated and smart kubectl aliases.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 168, "folkNum": 10, "watchNum": 168, "topic": ["kubectl", "kubernetes"]}

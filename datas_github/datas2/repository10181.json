@@ -1,0 +1,1 @@
+{"name": "playlistfromsong", "description": "Create an offline music playlist from a single song :notes:", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 108, "folkNum": 8, "watchNum": 108, "topic": ["music", "music-discovery", "playlist", "server", "songs"]}

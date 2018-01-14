@@ -1,0 +1,1 @@
+{"name": "sharingan", "description": "Tool to extract news articles from newspaper and give the context about the news", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 148, "folkNum": 13, "watchNum": 148, "topic": ["context-extraction", "news-extraction", "nlp", "opencv"]}

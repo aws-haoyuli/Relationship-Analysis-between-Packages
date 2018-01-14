@@ -1,0 +1,1 @@
+{"name": "django-rq", "description": "A simple app that provides django integration for RQ (Redis Queue)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 721, "folkNum": 154, "watchNum": 721, "topic": []}

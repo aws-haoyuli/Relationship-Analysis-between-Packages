@@ -1,0 +1,1 @@
+{"name": "pytest-qt", "description": "pytest plugin for Qt (PyQt4, PyQt5 and PySide) application testing", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 86, "folkNum": 26, "watchNum": 86, "topic": ["pytest", "qt"]}

@@ -1,0 +1,1 @@
+{"name": "patron", "description": "Patron - Access Control as a Service for OpenStack", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 192, "folkNum": 1, "watchNum": 192, "topic": ["access-control", "authorization", "openstack", "patron"]}

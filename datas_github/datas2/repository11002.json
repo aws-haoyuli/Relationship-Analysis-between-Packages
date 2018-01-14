@@ -1,0 +1,1 @@
+{"name": "python-hl7", "description": "A simple library for parsing messages of Health Level 7 (HL7) version 2.x into Python objects.", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 98, "folkNum": 35, "watchNum": 98, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "Picar", "description": null, "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["Chirath02", "akshayharidas"], "packages": ["motor", "picamera", "socket", "os", "pygame", "sys", "glob", "ultrasonic", "numpy as np", "numpy", "time", "cv2 as cv", "multiprocessing", "cv2"]}

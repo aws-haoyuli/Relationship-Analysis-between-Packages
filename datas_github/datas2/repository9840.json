@@ -1,0 +1,1 @@
+{"name": "pylxd", "description": "Python module for LXD", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 113, "folkNum": 71, "watchNum": 113, "topic": ["containers", "lxd", "python"]}

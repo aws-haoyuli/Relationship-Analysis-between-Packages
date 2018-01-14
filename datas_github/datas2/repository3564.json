@@ -1,0 +1,1 @@
+{"name": "flask-profiler", "description": "a flask profiler which watches endpoint calls and tries to make some analysis.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 347, "folkNum": 42, "watchNum": 347, "topic": ["admin", "analytics", "dashboard", "flask", "monitoring", "profiler", "python"]}

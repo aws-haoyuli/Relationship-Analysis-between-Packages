@@ -1,0 +1,1 @@
+{"name": "flask-konch", "description": "An improved shell command for the Flask CLI", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 58, "folkNum": 1, "watchNum": 58, "topic": ["cli", "flask", "python", "repl", "shell"]}

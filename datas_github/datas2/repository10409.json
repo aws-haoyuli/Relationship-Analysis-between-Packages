@@ -1,0 +1,1 @@
+{"name": "swift3", "description": "Swift3 Middleware for OpenStack Swift, allowing access to OpenStack swift via the Amazon S3 API.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 106, "folkNum": 42, "watchNum": 106, "topic": []}

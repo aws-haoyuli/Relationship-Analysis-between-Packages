@@ -1,0 +1,1 @@
+{"name": "autobahn-python", "description": "WebSocket and WAMP in Python for Twisted and asyncio", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 1644, "folkNum": 496, "watchNum": 1644, "topic": ["autobahn", "pubsub", "python", "real-time", "rpc", "wamp", "websocket"]}

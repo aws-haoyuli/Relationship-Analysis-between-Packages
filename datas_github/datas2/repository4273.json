@@ -1,0 +1,1 @@
+{"name": "redis-memory-analyzer", "description": "Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 286, "folkNum": 21, "watchNum": 286, "topic": []}

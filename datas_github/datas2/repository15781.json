@@ -1,0 +1,1 @@
+{"name": "asteval", "description": "minimalistic evaluator of python expression using ast module", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 63, "folkNum": 13, "watchNum": 63, "topic": ["ast", "eval", "python"]}

@@ -1,0 +1,1 @@
+{"name": "pypinfo", "description": "Easily view PyPI download statistics via Google's BigQuery.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 103, "folkNum": 7, "watchNum": 103, "topic": ["bigquery", "pypi", "python", "statistics"]}

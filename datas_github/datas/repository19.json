@@ -1,0 +1,1 @@
+{"name": "itbn_classifier", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["carpio3"], "packages": ["os", "aud_classifier", "scipy as sp", "datetime", "common", "opt_classifier", "scipy", "sys"]}

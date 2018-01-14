@@ -1,0 +1,1 @@
+{"name": "pystock-crawler", "description": "Crawl and parse financial reports (XBRL) from SEC EDGAR, and daily stock prices from Yahoo Finance", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 176, "folkNum": 63, "watchNum": 176, "topic": []}

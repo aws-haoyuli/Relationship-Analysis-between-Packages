@@ -1,0 +1,1 @@
+{"name": "ai-care-starter", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["6peterlu"], "packages": ["os", "matplotlib", "s need to be below this line", "numpy as np", "pickle", "but I don't know why", "cv2"]}

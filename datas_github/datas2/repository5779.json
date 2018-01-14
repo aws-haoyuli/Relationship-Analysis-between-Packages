@@ -1,0 +1,1 @@
+{"name": "s3-parallel-put", "description": "Parallel uploads to Amazon AWS S3", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 208, "folkNum": 71, "watchNum": 208, "topic": ["parallel", "python", "s3", "s3-parallel"]}

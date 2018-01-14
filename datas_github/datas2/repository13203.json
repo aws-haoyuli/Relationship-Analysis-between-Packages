@@ -1,0 +1,1 @@
+{"name": "proxmoxer", "description": "python wrapper for Proxmox API v2 (http://pve.proxmox.com/pve2-api-doc/)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 79, "folkNum": 30, "watchNum": 79, "topic": []}

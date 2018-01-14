@@ -1,0 +1,1 @@
+{"name": "connexion", "description": "Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 1044, "folkNum": 217, "watchNum": 1044, "topic": ["api-rest", "flask-extensions", "openapi", "python", "swagger"]}

@@ -1,0 +1,1 @@
+{"name": "Market-Analytics", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["christianewert", "collarad"], "packages": ["time", "pandas as pd", "sqlalchemy", "model"]}

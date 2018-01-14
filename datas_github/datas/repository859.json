@@ -1,0 +1,1 @@
+{"name": "PerceptronAndAdalineIntro", "description": "Packt code commented to understand how ML process works for Perceptron and Adaline. ", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["F-said"], "packages": ["numpy as np"]}

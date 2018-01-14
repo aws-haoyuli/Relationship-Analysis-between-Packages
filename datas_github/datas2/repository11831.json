@@ -1,0 +1,1 @@
+{"name": "MemoryPatchDetector", "description": "Detects code differentials between executables in disk and the corresponding processes/modules in memory", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 91, "folkNum": 23, "watchNum": 91, "topic": []}

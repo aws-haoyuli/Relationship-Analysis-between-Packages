@@ -1,0 +1,1 @@
+{"name": "proxy_pool", "description": "Python\u722c\u866b\u4ee3\u7406IP\u6c60(proxy pool)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2267, "folkNum": 719, "watchNum": 2267, "topic": ["crawl", "crawler", "flask", "proxy", "proxypool", "schedule", "spider", "ssdb"]}

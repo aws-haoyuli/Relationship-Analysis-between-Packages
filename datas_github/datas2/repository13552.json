@@ -1,0 +1,1 @@
+{"name": "hart", "description": "Hierarchical Attentive Recurrent Tracking", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 77, "folkNum": 19, "watchNum": 77, "topic": ["attention-mechanism", "kitti-dataset", "neural-nets", "object-tracking", "rnn", "tensorflow"]}

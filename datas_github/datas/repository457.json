@@ -1,0 +1,1 @@
+{"name": "Tensorflow", "description": "Tensorflow playground", "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["JasonShin"], "packages": ["tensorflow as tf", "tensorflow", "matplotlib"]}

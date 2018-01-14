@@ -1,0 +1,1 @@
+{"name": "shellpy", "description": "Python Reverse Shell (Linux/Windows)", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["thelinuxchoice"], "packages": ["os", "socket", "subprocess", "threading", "sys;"]}

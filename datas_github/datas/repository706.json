@@ -1,0 +1,1 @@
+{"name": "MCS-Cloud", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["ITE03051082"], "packages": ["Adafruit_DHT as dht", "socket", "sys", "httplib", "threading", "time", "RPi", "logging", "urllib", "requests", "json"]}

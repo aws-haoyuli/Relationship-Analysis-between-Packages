@@ -1,0 +1,1 @@
+{"name": "pyaes", "description": "Pure-Python implementation of AES block-cipher and common modes of operation.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 163, "folkNum": 44, "watchNum": 163, "topic": ["aes", "cbc", "cfb", "ctr", "ecb", "ofb", "python"]}

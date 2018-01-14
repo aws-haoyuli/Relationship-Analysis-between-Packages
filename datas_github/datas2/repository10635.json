@@ -1,0 +1,1 @@
+{"name": "django-polymorphic-tree", "description": "Polymorphic MPTT tree support for models", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 103, "folkNum": 36, "watchNum": 103, "topic": ["django", "django-admin", "django-mptt", "django-orm"]}

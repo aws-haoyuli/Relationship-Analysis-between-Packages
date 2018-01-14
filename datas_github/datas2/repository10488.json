@@ -1,0 +1,1 @@
+{"name": "pyglmnet", "description": "Python implementation of elastic-net regularized generalized linear models", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 104, "folkNum": 40, "watchNum": 104, "topic": ["data-science", "elastic-net", "glm", "lasso", "machine-learning", "python"]}

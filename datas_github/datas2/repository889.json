@@ -1,0 +1,1 @@
+{"name": "yandex-tank", "description": "Load and performance benchmark tool", "license": {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "spdx_id": "LGPL-2.1", "url": "https://api.github.com/licenses/lgpl-2.1"}, "starNum": 1334, "folkNum": 151, "watchNum": 1334, "topic": ["framework", "load-testing", "performance", "performance-test", "python"]}

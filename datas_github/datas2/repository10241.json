@@ -1,0 +1,1 @@
+{"name": "PyAPNs2", "description": "Python library for interacting with the Apple Push Notification service (APNs) via HTTP/2 protocol", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 107, "folkNum": 41, "watchNum": 107, "topic": ["apns", "apple", "python-library"]}

@@ -1,0 +1,1 @@
+{"name": "zero-to-jupyterhub-k8s", "description": "Resources for deploying JupyterHub to a Kubernetes Cluster", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 98, "folkNum": 55, "watchNum": 98, "topic": ["jupyter", "jupyter-notebook", "jupyterhub", "jupyterhub-deployment", "kubernetes", "kubernetes-cluster", "kubespawner"]}

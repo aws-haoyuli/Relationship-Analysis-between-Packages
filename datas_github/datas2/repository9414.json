@@ -1,0 +1,1 @@
+{"name": "SfmLearner-Pytorch", "description": "Pytorch version of SfmLearner from Tinghui Zhou et al.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 119, "folkNum": 13, "watchNum": 119, "topic": ["depth", "disparity", "kitti", "pytorch", "unsupervised"]}

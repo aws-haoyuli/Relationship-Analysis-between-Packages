@@ -1,0 +1,1 @@
+{"name": "whole-program-llvm", "description": "A wrapper script to build whole-program LLVM bitcode files", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 170, "folkNum": 52, "watchNum": 170, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "python-ring-doorbell", "description": "Python Ring Door Bell is a library written in Python 2.7/3x that exposes the Ring.com devices as Python objects.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 60, "folkNum": 12, "watchNum": 60, "topic": ["doorbell", "home-automation", "python", "python27", "python3", "ring-doorbell"]}

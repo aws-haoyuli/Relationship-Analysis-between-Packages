@@ -1,0 +1,1 @@
+{"name": "slowloris", "description": "Low bandwidth DoS tool. Slowloris rewrite in Python.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 318, "folkNum": 115, "watchNum": 318, "topic": []}

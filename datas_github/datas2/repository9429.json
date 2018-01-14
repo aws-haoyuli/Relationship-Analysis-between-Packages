@@ -1,0 +1,1 @@
+{"name": "ffmpeg-normalize", "description": "Audio Normalization Script for Python/ffmpeg", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 119, "folkNum": 23, "watchNum": 119, "topic": ["audio", "ffmpeg", "python"]}

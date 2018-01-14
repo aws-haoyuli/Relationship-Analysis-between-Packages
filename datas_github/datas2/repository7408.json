@@ -1,0 +1,1 @@
+{"name": "CNN-LSTM-Caption-Generator", "description": "A Tensorflow implementation of CNN-LSTM image caption generator architecture that achieves close to state-of-the-art results on the MSCOCO dataset.", "license": null, "starNum": 157, "folkNum": 66, "watchNum": 157, "topic": []}

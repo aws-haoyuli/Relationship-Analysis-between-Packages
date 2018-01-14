@@ -1,0 +1,1 @@
+{"name": "SSHKeyDistribut0r", "description": "A tool to automate key distribution with user authorization", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 149, "folkNum": 10, "watchNum": 149, "topic": ["authorization", "authorized-keys", "python", "ssh-key", "sysop", "system-administration", "yml"]}

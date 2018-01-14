@@ -1,0 +1,1 @@
+{"name": "trueskill", "description": "An implementation of the TrueSkill rating system for Python", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 326, "folkNum": 45, "watchNum": 326, "topic": ["python", "rating-system", "trueskill"]}

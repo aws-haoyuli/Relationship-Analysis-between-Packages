@@ -1,0 +1,1 @@
+{"name": "Flask-SocketIO", "description": "Socket.IO integration for Flask applications.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2043, "folkNum": 374, "watchNum": 2043, "topic": ["flask", "flask-socketio", "python", "socket-io", "websocket"]}

@@ -1,0 +1,1 @@
+{"name": "Bachelorarbeit_JonasIls", "description": "Text mining and sentiment analysis of news concering the 30 DowJones stocks", "license": null, "starNum": 0, "folkNum": 1, "watchNum": 0, "topic": [], "contributors": ["MonksterFX"], "packages": ["boto3", "contextlib", "tempfile", "tweepy"]}

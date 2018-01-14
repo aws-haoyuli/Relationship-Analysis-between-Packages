@@ -1,0 +1,1 @@
+{"name": "pytorch", "description": "Tensors and Dynamic neural networks in Python  with strong GPU acceleration", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 11152, "folkNum": 2308, "watchNum": 11152, "topic": ["autograd", "deep-learning", "gpu", "neural-network", "numpy", "python", "tensor"]}

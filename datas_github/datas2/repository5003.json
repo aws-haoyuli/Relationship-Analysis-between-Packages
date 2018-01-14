@@ -1,0 +1,1 @@
+{"name": "borgmatic", "description": "A simple wrapper script for the Borg backup software that creates and prunes backups", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 243, "folkNum": 25, "watchNum": 243, "topic": ["backup", "borg", "python"]}

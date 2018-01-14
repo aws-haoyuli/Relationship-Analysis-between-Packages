@@ -1,0 +1,1 @@
+{"name": "pysession", "description": "Automatically saves python shell code to a local file or secret Gist", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 78, "folkNum": 9, "watchNum": 78, "topic": ["gist", "ipython", "python", "terminal"]}

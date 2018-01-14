@@ -1,0 +1,1 @@
+{"name": "cipherscan", "description": "A very simple way to find out which SSL ciphersuites are supported by a target.", "license": {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MPL-2.0", "url": "https://api.github.com/licenses/mpl-2.0"}, "starNum": 1234, "folkNum": 181, "watchNum": 1234, "topic": []}

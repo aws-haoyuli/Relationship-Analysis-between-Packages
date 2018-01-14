@@ -1,0 +1,1 @@
+{"name": "django-nyt", "description": "Notification system for Django with batteries included: Email digests, user settings, JSON API", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 83, "folkNum": 32, "watchNum": 83, "topic": []}

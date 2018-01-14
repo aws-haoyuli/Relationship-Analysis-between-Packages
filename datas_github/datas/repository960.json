@@ -1,0 +1,1 @@
+{"name": "hero", "description": "\u4f60\u5c31\u662f\u82f1\u96c4", "license": null, "starNum": 10, "folkNum": 0, "watchNum": 10, "topic": [], "contributors": [], "packages": ["os", "sys", "PIL", "time", "urllib", "commands", "requests", "pytesseract"]}

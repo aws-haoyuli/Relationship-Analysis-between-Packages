@@ -1,0 +1,1 @@
+{"name": "openshift-ansible", "description": "OpenShift Installation and Configuration Management", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 705, "folkNum": 1096, "watchNum": 705, "topic": ["ansible", "openshift"]}

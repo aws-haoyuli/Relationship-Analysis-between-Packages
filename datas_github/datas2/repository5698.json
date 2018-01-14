@@ -1,0 +1,1 @@
+{"name": "uefi-firmware-parser", "description": "Parse BIOS/Intel ME/UEFI firmware related structures: Volumes, FileSystems, Files, etc", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 212, "folkNum": 51, "watchNum": 212, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "money", "description": "Python money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 116, "folkNum": 14, "watchNum": 116, "topic": []}

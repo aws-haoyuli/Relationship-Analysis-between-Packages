@@ -1,0 +1,1 @@
+{"name": "Spawning", "description": "Spawning is a wsgi server which supports multiple processes, multiple threads, green threads, non-blocking HTTP io, and automatic graceful upgrading of code", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 117, "folkNum": 18, "watchNum": 117, "topic": []}

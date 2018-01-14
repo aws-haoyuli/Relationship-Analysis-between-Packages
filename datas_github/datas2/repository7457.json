@@ -1,0 +1,1 @@
+{"name": "django-conch", "description": "Expose the Django shell as an SSH server.", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 156, "folkNum": 7, "watchNum": 156, "topic": []}

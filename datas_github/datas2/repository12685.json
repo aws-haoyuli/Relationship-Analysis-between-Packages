@@ -1,0 +1,1 @@
+{"name": "tensorflow-socher-ntn", "description": "Reimplementation of \"Reasoning With Neural Tensor Networks for Knowledge Base Completion\" (Socher, Chen 2013) in Google's TensorFlow framework. MIT 6.806 Final Project. NOTE: Not maintained.", "license": null, "starNum": 83, "folkNum": 30, "watchNum": 83, "topic": []}

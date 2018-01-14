@@ -1,0 +1,1 @@
+{"name": "HealthPy", "description": "A bunch of health scripts written in python", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["GonzaloMurillo"], "packages": ["numpy as np", "matplotlib", "os"]}

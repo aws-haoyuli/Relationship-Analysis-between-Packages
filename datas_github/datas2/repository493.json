@@ -1,0 +1,1 @@
+{"name": "kubeflow", "description": "Machine Learning Toolkit for Kubernetes", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 2249, "folkNum": 189, "watchNum": 2249, "topic": ["google-kubernetes-engine", "jupyterhub", "kubernetes", "minikube", "ml", "notebook", "tensorflow"]}

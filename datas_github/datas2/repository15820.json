@@ -1,0 +1,1 @@
+{"name": "deluge-streaming", "description": "Streaming plugin for deluge, making it possible to read torrents and download required parts on-demand.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 63, "folkNum": 10, "watchNum": 63, "topic": ["deluge", "python", "stream", "tidalstream", "torrent"]}

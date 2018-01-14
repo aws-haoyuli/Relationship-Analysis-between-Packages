@@ -1,0 +1,1 @@
+{"name": "Adafruit_Python_BluefruitLE", "description": "Python library to simplify access to Bluetooth low energy devices and services on Linux (using bluez) and Mac OSX.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 190, "folkNum": 75, "watchNum": 190, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "PyJFuzz", "description": "PyJFuzz - Python JSON Fuzzer", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 192, "folkNum": 46, "watchNum": 192, "topic": ["crash", "fuzzer", "fuzzing", "json", "json-api", "json-schema", "json-serialization", "process-crashes"]}

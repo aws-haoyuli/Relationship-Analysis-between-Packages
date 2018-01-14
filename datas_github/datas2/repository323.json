@@ -1,0 +1,1 @@
+{"name": "facenet", "description": "Face recognition using Tensorflow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 3072, "folkNum": 1306, "watchNum": 3072, "topic": ["computer-vision", "deep-learning", "face-detection", "face-recognition", "facenet", "mtcnn", "tensorflow"]}

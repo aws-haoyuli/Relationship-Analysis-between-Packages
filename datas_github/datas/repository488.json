@@ -1,0 +1,1 @@
+{"name": "desk-controller", "description": "Software deployed on raspberry pi devices to sense inputs and update server status", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["MikeVezina", "erickadbay"], "packages": ["socket", "desk", "threading", "config_loader", "time", "unittest"]}

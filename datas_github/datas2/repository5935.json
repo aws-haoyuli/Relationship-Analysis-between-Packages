@@ -1,0 +1,1 @@
+{"name": "autonomous-rc-car", "description": "Autonomous RC car using Raspberry Pi and ANN", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 203, "folkNum": 64, "watchNum": 203, "topic": ["autonomous-car", "machine-learning", "neural-network", "raspberry-pi", "rc-car"]}

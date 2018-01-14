@@ -1,0 +1,1 @@
+{"name": "swftp", "description": " An FTP and SFTP interface for OpenStack Object Storage (swift).", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 60, "folkNum": 25, "watchNum": 60, "topic": []}

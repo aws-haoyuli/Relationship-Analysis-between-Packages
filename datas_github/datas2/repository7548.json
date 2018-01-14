@@ -1,0 +1,1 @@
+{"name": "eve-sqlalchemy", "description": "SQLAlchemy data layer for Eve-powered RESTful APIs", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 154, "folkNum": 50, "watchNum": 154, "topic": ["flask", "python", "rest", "sqlalchemy"]}

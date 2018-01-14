@@ -1,0 +1,1 @@
+{"name": "linux-soft-exploit-suggester", "description": "Search Exploitable Software on Linux", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 70, "folkNum": 13, "watchNum": 70, "topic": ["elevate", "hacking-tool", "linux", "pentest", "software", "vulnerabilities"]}

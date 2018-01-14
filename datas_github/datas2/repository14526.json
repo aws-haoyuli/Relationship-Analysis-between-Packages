@@ -1,0 +1,1 @@
+{"name": "SparseLSH", "description": "A Locality Sensitive Hashing (LSH) library with an emphasis on large, highly-dimensional datasets.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 71, "folkNum": 22, "watchNum": 71, "topic": ["clustering", "data-mining", "sparse-matrices", "text-mining"]}

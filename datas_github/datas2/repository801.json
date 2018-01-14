@@ -1,0 +1,1 @@
+{"name": "hangups", "description": "the first third-party instant messaging client for Google Hangouts", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1473, "folkNum": 171, "watchNum": 1473, "topic": ["asyncio", "chat", "google-hangouts", "python", "python-3"]}

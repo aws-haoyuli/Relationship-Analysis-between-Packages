@@ -1,0 +1,1 @@
+{"name": "django-starter-template", "description": "A project template for Django 2.0 that follows best practices.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 90, "folkNum": 30, "watchNum": 90, "topic": ["django", "project-creation", "project-template"]}

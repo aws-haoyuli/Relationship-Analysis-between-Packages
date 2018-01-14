@@ -1,0 +1,1 @@
+{"name": "django-simple-serializer", "description": "serialize django data in a simple way", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 86, "folkNum": 25, "watchNum": 86, "topic": ["django", "serializer", "serializer-django"]}

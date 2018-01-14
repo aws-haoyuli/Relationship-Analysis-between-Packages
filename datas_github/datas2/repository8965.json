@@ -1,0 +1,1 @@
+{"name": "fauxmo", "description": "Emulated Belkin WeMo devices that work with the Amazon Echo", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 126, "folkNum": 26, "watchNum": 126, "topic": ["amazon-echo", "echo", "home-automation", "python3"]}

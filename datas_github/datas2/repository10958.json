@@ -1,0 +1,1 @@
+{"name": "tf-layer-norm", "description": "TensorFlow implementation of normalizations such as Layer Normalization, HyperNetworks.", "license": null, "starNum": 99, "folkNum": 16, "watchNum": 99, "topic": ["hyper-networks", "layer-normalization", "tensorflow"]}

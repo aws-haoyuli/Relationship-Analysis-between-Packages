@@ -1,0 +1,1 @@
+{"name": "docker-nfqueue-scapy", "description": "Docker container for intercepting packets with scapy from a netfilter queue (nfqueue)", "license": null, "starNum": 59, "folkNum": 6, "watchNum": 59, "topic": ["docker", "iptables", "netfilter", "nfqueue", "python", "scapy"]}

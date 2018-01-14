@@ -1,0 +1,1 @@
+{"name": "deepcut", "description": "A Thai word tokenization library using Deep Neural Network", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 173, "folkNum": 45, "watchNum": 173, "topic": ["deep-neural-networks", "keras", "keras-tensorflow", "python", "segmentation", "thai"]}

@@ -1,0 +1,1 @@
+{"name": "snakebite", "description": "A pure python HDFS client", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 625, "folkNum": 176, "watchNum": 625, "topic": ["hdfs", "python", "python-hdfs-client"]}

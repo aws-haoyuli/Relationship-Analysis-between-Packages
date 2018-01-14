@@ -1,0 +1,1 @@
+{"name": "ScriptedJsonEditor", "description": "Scripted JSON editor to make changes for example to rFactor 2 player.json", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["TonyWhitley"], "packages": ["os", "re", "collections", "__future__", "argparse", "json"]}

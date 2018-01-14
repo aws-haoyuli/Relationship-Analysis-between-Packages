@@ -1,0 +1,1 @@
+{"name": "limbo", "description": "A simple, clean, easy to modify Slack chatbot", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 311, "folkNum": 161, "watchNum": 311, "topic": ["chatbot", "docker", "python", "slack"]}

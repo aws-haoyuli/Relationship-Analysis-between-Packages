@@ -1,0 +1,1 @@
+{"name": "rnn-nlu", "description": "A TensorFlow implementation of Recurrent Neural Networks for Sequence Classification and Sequence Labeling", "license": null, "starNum": 215, "folkNum": 96, "watchNum": 215, "topic": ["attention", "intent-detection", "recurrent-neural-networks", "sequence-classification", "sequence-labeling", "slot-filling", "tensorflow"]}

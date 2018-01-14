@@ -1,0 +1,1 @@
+{"name": "django_blog_site", "description": "a django based site", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Jimzjy"], "packages": ["os", "Django", "sys", "django"]}

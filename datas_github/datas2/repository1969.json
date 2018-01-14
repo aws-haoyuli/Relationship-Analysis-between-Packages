@@ -1,0 +1,1 @@
+{"name": "capsule-networks", "description": "A PyTorch implementation of the NIPS 2017 paper \"Dynamic Routing Between Capsules\".", "license": null, "starNum": 641, "folkNum": 104, "watchNum": 641, "topic": ["capsule-networks", "machine-learning", "mnist", "pytorch"]}

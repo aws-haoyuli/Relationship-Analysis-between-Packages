@@ -1,0 +1,1 @@
+{"name": "DockerMake", "description": "A reproducible Docker image build system for complex software stacks", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 71, "folkNum": 17, "watchNum": 71, "topic": ["dependency-graph", "docker", "docker-image", "dockerfile"]}

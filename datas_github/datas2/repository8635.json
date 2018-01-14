@@ -1,0 +1,1 @@
+{"name": "ResNeXt.pytorch", "description": "Reproduces ResNet-V3 with pytorch", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 132, "folkNum": 24, "watchNum": 132, "topic": ["cifar", "pytorch", "resnet", "resnext"]}

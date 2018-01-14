@@ -1,0 +1,1 @@
+{"name": "gw_work", "description": "Our GW work", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["KevinVinsen", "dodsonicrar"], "packages": ["os", "astropy", "socket", "constants", "sys", "__future__", "zmq", "time", "timeit", "torchvision", "math", "logging", "model", "argparse", "torch"]}

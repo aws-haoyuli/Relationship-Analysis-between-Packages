@@ -1,0 +1,1 @@
+{"name": "gpustat", "description": "\ud83d\udcca A simple command-line utility for querying and monitoring GPU status", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 530, "folkNum": 70, "watchNum": 530, "topic": ["gpu", "gpustat", "nvidia-smi", "pypi", "python"]}

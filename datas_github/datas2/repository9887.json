@@ -1,0 +1,1 @@
+{"name": "ansible-human_log", "description": "This Ansible callback plugin for human-readable result logging for Ansible 1.9/2.0-2.4.", "license": null, "starNum": 112, "folkNum": 46, "watchNum": 112, "topic": ["ansible", "plugins"]}

@@ -1,0 +1,1 @@
+{"name": "flask_ishuhui", "description": "Comic reading website built by flask.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 113, "folkNum": 29, "watchNum": 113, "topic": ["flask", "flask-application", "flask-server", "flask-sqlalchemy"]}

@@ -1,0 +1,1 @@
+{"name": "django-reversion-compare", "description": "Add compare view to django-reversion for comparing two versions of a reversion model.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 165, "folkNum": 82, "watchNum": 165, "topic": ["django", "python", "reversion"]}

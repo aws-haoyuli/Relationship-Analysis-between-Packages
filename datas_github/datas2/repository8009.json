@@ -1,0 +1,1 @@
+{"name": "django-postgres-extra", "description": "Bringing all of PostgreSQL's awesomeness to Django.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 143, "folkNum": 9, "watchNum": 143, "topic": ["django", "extra", "hstore", "ltree", "postgresql"]}

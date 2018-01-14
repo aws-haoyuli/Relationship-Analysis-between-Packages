@@ -1,0 +1,1 @@
+{"name": "python-escpos", "description": "Python library to manipulate ESC/POS printers", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 266, "folkNum": 109, "watchNum": 266, "topic": ["escpos", "pos-printer-driver", "pos-printers", "printer", "python", "python-escpos"]}

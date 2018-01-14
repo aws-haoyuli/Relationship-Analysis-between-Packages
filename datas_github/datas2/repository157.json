@@ -1,0 +1,1 @@
+{"name": "falcon", "description": "Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 4703, "folkNum": 503, "watchNum": 4703, "topic": ["api", "framework", "http", "microservices", "python", "rest", "web"]}

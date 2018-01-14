@@ -1,0 +1,1 @@
+{"name": "peewee-async", "description": "Asynchronous interface for peewee ORM powered by asyncio", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 270, "folkNum": 46, "watchNum": 270, "topic": ["asyncio", "mysql", "orm", "peewee", "postgresql", "python"]}

@@ -1,0 +1,1 @@
+{"name": "camellia-stats", "description": "Scrape webcomic sites for likes, views and subscribes", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["kshitijl"], "packages": ["datetime"]}

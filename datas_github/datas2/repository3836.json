@@ -1,0 +1,1 @@
+{"name": "tensorflow-char-rnn", "description": "Char-RNN implemented using TensorFlow. ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 322, "folkNum": 260, "watchNum": 322, "topic": ["recurrent-neural-networks", "rnn", "rnn-tensorflow", "tensorflow"]}

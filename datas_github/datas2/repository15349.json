@@ -1,0 +1,1 @@
+{"name": "tps_stn_pytorch", "description": "PyTorch implementation of Spatial Transformer Network (STN) with Thin Plate Spline (TPS)", "license": null, "starNum": 66, "folkNum": 9, "watchNum": 66, "topic": ["pytorch", "spatial-transformer-network", "thin-plate-splines"]}

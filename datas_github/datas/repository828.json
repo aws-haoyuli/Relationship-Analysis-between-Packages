@@ -1,0 +1,1 @@
+{"name": "CS111PsetHighlights", "description": "Psets from CS111 on Machine Learning, Recursion, Dictionaries, Lists, Animation, and APIs", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["istaccun"], "packages": ["os", "cs1graphics", "sys", "string", "vocabulary", "math", "wordprops", "turtle"]}

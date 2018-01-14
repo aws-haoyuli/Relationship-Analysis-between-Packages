@@ -1,0 +1,1 @@
+{"name": "ScraXBRL", "description": "SEC Edgar Scraper and XBRL Parser/Renderer", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 102, "folkNum": 29, "watchNum": 102, "topic": ["edgar-scraper", "xbrl", "xbrl-parser"]}

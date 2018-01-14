@@ -1,0 +1,1 @@
+{"name": "dumb-init", "description": "A minimal init system for Linux containers", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2525, "folkNum": 141, "watchNum": 2525, "topic": ["c", "docker", "docker-container", "dumb", "init", "pid1", "unix"]}

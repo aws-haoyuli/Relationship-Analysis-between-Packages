@@ -1,0 +1,1 @@
+{"name": "pytest", "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2098, "folkNum": 539, "watchNum": 2098, "topic": ["hacktoberfest", "test", "testing", "unit-testing"]}

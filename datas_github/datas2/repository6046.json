@@ -1,0 +1,1 @@
+{"name": "markupsafe", "description": "A Python module that implements the jinja2.Markup string", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 197, "folkNum": 64, "watchNum": 197, "topic": ["html", "html-escape", "python", "template-engine"]}

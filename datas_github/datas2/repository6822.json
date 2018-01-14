@@ -1,0 +1,1 @@
+{"name": "gr-satellites", "description": "GNU Radio decoders for several Amateur satellites", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 174, "folkNum": 22, "watchNum": 174, "topic": ["decoder", "gnuradio", "satellite", "telemetry"]}

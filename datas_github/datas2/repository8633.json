@@ -1,0 +1,1 @@
+{"name": "markdown-pp", "description": "Preprocessor for Markdown files to generate a table of contents and other documentation needs", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 132, "folkNum": 32, "watchNum": 132, "topic": ["markdown", "python"]}

@@ -1,0 +1,1 @@
+{"name": "netcdf4-python", "description": "netcdf4-python: python/numpy interface to the netCDF C library", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 215, "folkNum": 115, "watchNum": 215, "topic": ["netcdf", "netcdf4", "python"]}

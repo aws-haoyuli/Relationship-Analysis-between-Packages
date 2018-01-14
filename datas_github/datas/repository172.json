@@ -1,0 +1,1 @@
+{"name": "ISEL-LEIM-PDS", "description": "PDS class projects and resources of LEIM course at ISEL", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["data-visualization", "fourier", "sound"], "contributors": ["andrewfonseca", "DanielCSantos"], "packages": ["numpy as np", "math", "scipy", "matplotlib"]}

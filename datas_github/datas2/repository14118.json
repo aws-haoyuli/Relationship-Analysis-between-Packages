@@ -1,0 +1,1 @@
+{"name": "cache_deco", "description": "Backend agnostic cache decorator", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 73, "folkNum": 7, "watchNum": 73, "topic": ["cache", "cache-control", "cache-deco", "redis"]}

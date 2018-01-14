@@ -1,0 +1,1 @@
+{"name": "sphinx-autobuild", "description": "Watch a Sphinx directory and rebuild the documentation when a change is detected. Also includes a livereload enabled web server.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 151, "folkNum": 32, "watchNum": 151, "topic": []}

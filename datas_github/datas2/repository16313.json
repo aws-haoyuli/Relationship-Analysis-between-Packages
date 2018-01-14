@@ -1,0 +1,1 @@
+{"name": "django-postgres-fuzzycount", "description": "Fast / fuzzy PostgreSQL counts for Django", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 60, "folkNum": 9, "watchNum": 60, "topic": []}

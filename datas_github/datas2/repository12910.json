@@ -1,0 +1,1 @@
+{"name": "lcov-to-cobertura-xml", "description": "Converts lcov output to Cobertura-compatible XML for CI", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 81, "folkNum": 29, "watchNum": 81, "topic": ["cobertura", "coverage"]}

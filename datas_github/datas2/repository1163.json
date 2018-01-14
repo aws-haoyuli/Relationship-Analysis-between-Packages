@@ -1,0 +1,1 @@
+{"name": "cubes", "description": "Light-weight Python OLAP framework for multi-dimensional data analysis", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1058, "folkNum": 236, "watchNum": 1058, "topic": ["cube", "data", "data-analysis", "data-warehouse", "multidimensional-analysis", "olap", "sql"]}

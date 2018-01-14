@@ -1,0 +1,1 @@
+{"name": "Blog-GPraz", "description": "My personal blog created using Django Framework", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["GottfriedCP"], "packages": ["os", "imp", "sys"]}

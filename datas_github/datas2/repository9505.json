@@ -1,0 +1,1 @@
+{"name": "color_transfer", "description": "Performs color transfer between two images. Loosely based on the \"Color Transfer between Images\" paper by Reinhard et al., 2001.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 118, "folkNum": 48, "watchNum": 118, "topic": []}

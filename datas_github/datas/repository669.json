@@ -1,0 +1,1 @@
+{"name": "vk-channelify", "description": "Create Telegram channel from VK group", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 9, "folkNum": 2, "watchNum": 9, "topic": ["bot", "telegram", "vk"], "contributors": ["reo7sp"], "packages": ["vk_channelify", "os", "logging"]}

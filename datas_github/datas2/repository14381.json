@@ -1,0 +1,1 @@
+{"name": "twitter-tap", "description": "A python tool for collecting tweets in mongoDB using the search API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 71, "folkNum": 28, "watchNum": 71, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "MMeTokenDecrypt", "description": "Decrypts and extracts iCloud and MMe authorization tokens on Apple macOS / OS X. No user authentication needed. \ud83c\udfc5\ud83c\udf29", "license": null, "starNum": 269, "folkNum": 48, "watchNum": 269, "topic": ["account", "authentication", "decryption", "dsid", "icloud", "keychain", "macos", "token"]}

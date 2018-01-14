@@ -1,0 +1,1 @@
+{"name": "projection", "description": "A custom sytnax parser for LaTeX -> Markdown conversion. Very much indev. Probably don't try to use this in production.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["JBorrow"], "packages": ["", "os", "parser", "typing", "re"]}

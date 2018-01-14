@@ -1,0 +1,1 @@
+{"name": "django-typed-models", "description": "polymorphic django models using automatic type-field downcasting", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 112, "folkNum": 19, "watchNum": 112, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "Stockeye", "description": "Keep track of short term stock movement by monitoring breaking news activity", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 88, "folkNum": 19, "watchNum": 88, "topic": ["data-scraping", "google", "news-aggregator"]}

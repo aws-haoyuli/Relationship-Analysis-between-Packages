@@ -1,0 +1,1 @@
+{"name": "bist-parser", "description": "Graph-based and Transition-based dependency parsers based on BiLSTMs", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 140, "folkNum": 50, "watchNum": 140, "topic": ["dependency-parser", "natural-language-processing"]}

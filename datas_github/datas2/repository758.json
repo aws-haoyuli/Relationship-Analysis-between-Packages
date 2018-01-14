@@ -1,0 +1,1 @@
+{"name": "huey", "description": "a little task queue for python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1548, "folkNum": 175, "watchNum": 1548, "topic": ["dank", "python", "queue", "redis", "task-queue"]}

@@ -1,0 +1,1 @@
+{"name": "django-cacheops", "description": "A slick ORM cache with automatic granular event-driven invalidation.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 808, "folkNum": 122, "watchNum": 808, "topic": ["caching", "django", "orm", "python"]}

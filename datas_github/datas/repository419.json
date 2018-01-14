@@ -1,0 +1,1 @@
+{"name": "self-bot", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Eternal-Chaos", "birthday-mika"], "packages": ["discord", "aiohttp", "os", "re", "textwrap", "sys", "collections", "asyncio", "datetime", "PIL", "time", "io", "ext", "psutil", "json"]}

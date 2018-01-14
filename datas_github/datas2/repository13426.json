@@ -1,0 +1,1 @@
+{"name": "DiscoGAN-Tensorflow", "description": "An implementation of DiscoGAN in tensorflow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 77, "folkNum": 14, "watchNum": 77, "topic": ["discogan", "generative-adversarial-networks", "machine-learning", "neural-networks", "tensorflow"]}

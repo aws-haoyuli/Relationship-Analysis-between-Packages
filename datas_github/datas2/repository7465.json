@@ -1,0 +1,1 @@
+{"name": "fusesoc", "description": "FuseSoC is a package manager and a set of build tools for FPGA/ASIC development", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 156, "folkNum": 67, "watchNum": 156, "topic": ["eda", "fpga", "package-manager", "python", "reuse"]}

@@ -1,0 +1,1 @@
+{"name": "chromatica.nvim", "description": "Clang based syntax highlighting for Neovim", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 178, "folkNum": 11, "watchNum": 178, "topic": ["libclang", "neovim", "nvim", "syntax-highlighting"]}

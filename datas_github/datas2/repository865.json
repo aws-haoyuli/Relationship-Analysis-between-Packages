@@ -1,0 +1,1 @@
+{"name": "conan", "description": "Conan.io - The open-source C/C++ package manager", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1381, "folkNum": 193, "watchNum": 1381, "topic": ["c", "cmake", "cplusplus", "cpp", "multi-platform", "package-manager"]}

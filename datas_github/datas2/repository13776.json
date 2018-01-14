@@ -1,0 +1,1 @@
+{"name": "arpspoof", "description": "Python clone of arpspoof that can poison hosts via arp-requests as well as arp-replies", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 75, "folkNum": 30, "watchNum": 75, "topic": []}

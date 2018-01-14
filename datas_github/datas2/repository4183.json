@@ -1,0 +1,1 @@
+{"name": "exscript", "description": "A Python module making Telnet and SSH easy", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 291, "folkNum": 102, "watchNum": 291, "topic": ["automation", "expect", "exscript", "network", "networking", "protocol", "python", "ssh", "telnet"]}

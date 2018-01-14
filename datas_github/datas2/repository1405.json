@@ -1,0 +1,1 @@
+{"name": "merchant", "description": "A Django app to accept payments from various payment processors via Pluggable backends.", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 883, "folkNum": 160, "watchNum": 883, "topic": []}

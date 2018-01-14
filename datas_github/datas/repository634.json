@@ -1,0 +1,1 @@
+{"name": "Machine_Learning", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["jusui"], "packages": ["matplotlib", "sklearn", "bhtsne", "sqlite3", "pandas_datareader", "numpy as np", "nbayes2", "numpy", "pandas as pd", "datetime", "io", "pylab", "perceptron", "pandas", "seaborn as sns", "requests", "re"]}

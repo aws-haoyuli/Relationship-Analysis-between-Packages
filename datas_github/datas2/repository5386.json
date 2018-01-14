@@ -1,0 +1,1 @@
+{"name": "reddit-analysis", "description": "A Python script that parses post titles, self-texts, and comments on reddit and makes word clouds out of the word frequencies.", "license": null, "starNum": 225, "folkNum": 52, "watchNum": 225, "topic": ["python", "reddit", "word-cloud"]}

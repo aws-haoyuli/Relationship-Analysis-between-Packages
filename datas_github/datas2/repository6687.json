@@ -1,0 +1,1 @@
+{"name": "csvdedupe", "description": ":id: Command line tool for deduplicating CSV files", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 178, "folkNum": 42, "watchNum": 178, "topic": ["cli", "csv-files", "dedupe", "entity-resolution", "record-linkage"]}

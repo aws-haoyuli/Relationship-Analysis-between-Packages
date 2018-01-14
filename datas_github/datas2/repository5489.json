@@ -1,0 +1,1 @@
+{"name": "django-layout", "description": "Django 1.4+ project template layout. Run: django-admin.py startproject --template=https://github.com/lincolnloop/django-layout/zipball/master --extension=py,rst project_name", "license": null, "starNum": 221, "folkNum": 63, "watchNum": 221, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "CapsNet-tensorflow", "description": "With reconstruct, capsule representation, adversarial experiments. Implementation of NIPS2017 paper \"Dynamic Routing Between Capsules\" in tensorflow. ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 58, "folkNum": 13, "watchNum": 58, "topic": []}

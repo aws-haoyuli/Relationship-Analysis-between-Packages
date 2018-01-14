@@ -1,0 +1,1 @@
+{"name": "nova", "description": "OpenStack Compute (Nova)", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 2149, "folkNum": 2050, "watchNum": 2149, "topic": ["api-server", "compute-starter-kit"]}

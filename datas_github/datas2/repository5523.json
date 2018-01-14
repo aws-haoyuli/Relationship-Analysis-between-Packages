@@ -1,0 +1,1 @@
+{"name": "SRGAN", "description": "A tensorflow implemenation of Christian et al's SRGAN(super-resolution generative adversarial network)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 219, "folkNum": 70, "watchNum": 219, "topic": []}

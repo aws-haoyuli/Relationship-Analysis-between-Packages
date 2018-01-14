@@ -1,0 +1,1 @@
+{"name": "gino", "description": "GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 121, "folkNum": 12, "watchNum": 121, "topic": ["asyncio", "asyncpg", "orm", "python3", "sanic", "sqlalchemy"]}

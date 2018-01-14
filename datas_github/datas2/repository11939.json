@@ -1,0 +1,1 @@
+{"name": "python-mss", "description": "An ultra fast cross-platform multiple screenshots module in pure Python using ctypes.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 90, "folkNum": 13, "watchNum": 90, "topic": ["ctypes", "python", "python-library", "screenshot"]}

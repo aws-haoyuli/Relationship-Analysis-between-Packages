@@ -1,0 +1,1 @@
+{"name": "LNKUp", "description": "Generates malicious LNK file payloads for data exfiltration", "license": null, "starNum": 103, "folkNum": 27, "watchNum": 103, "topic": ["data-exfiltration", "lnk", "lnk-payloads", "microsoft", "ntlm", "payload", "penetration-testing", "pentesting", "security", "usb", "windows"]}

@@ -1,0 +1,1 @@
+{"name": "rms", "description": "Resource Management System for local business in Sudan", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Awab-Abdoun"], "packages": ["ast", "re", "pip", "setuptools"]}

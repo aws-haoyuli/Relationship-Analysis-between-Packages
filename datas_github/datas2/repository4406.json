@@ -1,0 +1,1 @@
+{"name": "steamapi", "description": "An unofficial object-oriented Python library for accessing the Steam Web API.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 277, "folkNum": 82, "watchNum": 277, "topic": ["python", "rest", "rest-api", "steam", "steamapi"]}

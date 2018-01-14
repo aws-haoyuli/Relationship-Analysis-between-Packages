@@ -1,0 +1,1 @@
+{"name": "fix-yahoo-finance", "description": "Yahoo! Finance Fix for Pandas Datareader", "license": {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0"}, "starNum": 118, "folkNum": 33, "watchNum": 118, "topic": ["pandas", "python", "yahoo-finance", "yahoo-finance-api"]}

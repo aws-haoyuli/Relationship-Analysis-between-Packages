@@ -1,0 +1,1 @@
+{"name": "smart_open", "description": "Utils for streaming large files (S3, HDFS, gzip, bz2...)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 660, "folkNum": 112, "watchNum": 660, "topic": ["boto", "bz2", "file", "gzip-stream", "hdfs", "python", "s3", "streaming", "streaming-data", "webhdfs"]}

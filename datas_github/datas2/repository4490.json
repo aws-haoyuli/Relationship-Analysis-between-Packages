@@ -1,0 +1,1 @@
+{"name": "labelme", "description": "Image Annotation Tool with Python.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 272, "folkNum": 128, "watchNum": 272, "topic": ["computer-vision", "image-annotation", "python"]}

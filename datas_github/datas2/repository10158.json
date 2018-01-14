@@ -1,0 +1,1 @@
+{"name": "requests-kerberos", "description": "An authentication handler for using Kerberos with Python Requests.", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 108, "folkNum": 55, "watchNum": 108, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "shellpy", "description": "A tool for convenient shell scripting in python", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 446, "folkNum": 48, "watchNum": 446, "topic": ["python", "shell", "shell-script"]}

@@ -1,0 +1,1 @@
+{"name": "Word2VecExample", "description": "An example application using Word2Vec. Given a list of words, it finds the one which isn't 'like' the others - a typical language understanding evaluation task.", "license": null, "starNum": 265, "folkNum": 87, "watchNum": 265, "topic": []}

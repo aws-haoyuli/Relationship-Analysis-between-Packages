@@ -1,0 +1,1 @@
+{"name": "flask-restless-security", "description": "Concise skeleton for development of Flask, Flask-Restless, SQLAlchemy, JWT based REST APIs.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 109, "folkNum": 24, "watchNum": 109, "topic": ["flask", "flask-security", "jwt", "python", "sqlalchemy"]}

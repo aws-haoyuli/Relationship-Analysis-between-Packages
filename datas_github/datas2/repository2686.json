@@ -1,0 +1,1 @@
+{"name": "scrapy-cluster", "description": "This Scrapy project uses Redis and Kafka to create a distributed on demand scraping cluster.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 464, "folkNum": 170, "watchNum": 464, "topic": ["distributed", "kafka", "python", "redis", "scraping", "scrapy"]}

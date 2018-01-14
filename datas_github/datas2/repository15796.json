@@ -1,0 +1,1 @@
+{"name": "psync", "description": "Synchronize project based on rsync; support watching changes and sync automatically", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 63, "folkNum": 8, "watchNum": 63, "topic": ["developer-tools", "project-management", "sync"]}

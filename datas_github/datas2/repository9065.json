@@ -1,0 +1,1 @@
+{"name": "wgan", "description": "Tensorflow Implementation of Wasserstein GAN (and Improved version in wgan_v2)", "license": null, "starNum": 124, "folkNum": 41, "watchNum": 124, "topic": ["generative", "generative-adversarial-network", "generative-model", "tensorflow", "tensorflow-experiments", "tensorflow-models"]}

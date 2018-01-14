@@ -1,0 +1,1 @@
+{"name": "asks", "description": "Async requests-like httplib for python.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 109, "folkNum": 11, "watchNum": 109, "topic": ["async", "async-requests", "concurrency", "curio", "http", "io", "network", "python3", "requests", "trio"]}

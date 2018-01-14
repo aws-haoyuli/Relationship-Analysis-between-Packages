@@ -1,0 +1,1 @@
+{"name": "irs", "description": ":guitar: :notes: A music downloader that understands your metadata needs.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 125, "folkNum": 13, "watchNum": 125, "topic": ["cli", "downloader", "id3", "metadata", "mp3", "music", "python"]}

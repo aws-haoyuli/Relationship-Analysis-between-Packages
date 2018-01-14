@@ -1,0 +1,1 @@
+{"name": "aws-git-backed-static-website", "description": "Git-backed Static Website powered entirely by AWS CloudFormation stack", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 192, "folkNum": 33, "watchNum": 192, "topic": []}

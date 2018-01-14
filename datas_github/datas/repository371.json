@@ -1,0 +1,1 @@
+{"name": "pysim", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["sy0302"], "packages": ["pdb", "", "os", "sys", "subprocess", "typing", "pysim", "logging", "pandas", "argparse", "ipdb"]}

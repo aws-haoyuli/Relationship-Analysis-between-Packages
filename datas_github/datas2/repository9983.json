@@ -1,0 +1,1 @@
+{"name": "rkflashkit", "description": "rkflashkit is an open source toolkit for flashing Linux kernel images to rockchip rk3066/rk3188/rk3288 etc. based devices.  It's programmed with python and gtk2.", "license": null, "starNum": 111, "folkNum": 52, "watchNum": 111, "topic": ["flashkit", "gtk", "python", "rockchip"]}

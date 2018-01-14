@@ -1,0 +1,1 @@
+{"name": "alexandra", "description": "Python toolkit for writing Amazon Echo skills as web services", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 74, "folkNum": 9, "watchNum": 74, "topic": ["amazon-alexa-skill", "amazon-echo", "libraries", "python"]}

@@ -1,0 +1,1 @@
+{"name": "gunicorn_thrift", "description": "Thrift app and worker for gunicorn!", "license": null, "starNum": 127, "folkNum": 60, "watchNum": 127, "topic": ["gevent", "gunicorn-thrift", "python", "thrift", "thrift-server", "thriftpy"]}

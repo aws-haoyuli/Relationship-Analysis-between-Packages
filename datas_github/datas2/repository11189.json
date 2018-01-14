@@ -1,0 +1,1 @@
+{"name": "python-acoustics", "description": "A Python library aimed at acousticians.", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 97, "folkNum": 34, "watchNum": 97, "topic": ["acoustics", "audio", "python", "signal-processing"]}

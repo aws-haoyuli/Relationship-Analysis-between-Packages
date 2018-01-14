@@ -1,0 +1,1 @@
+{"name": "vba-dynamic-hook", "description": "VBA Dynamic Hook dynamically analyzes VBA macros inside Office documents by hooking function calls", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 80, "folkNum": 26, "watchNum": 80, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "fluent-logger-python", "description": "A structured logger for Fluentd (Python)", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 205, "folkNum": 91, "watchNum": 205, "topic": ["fluentd", "fluentd-logger", "python"]}

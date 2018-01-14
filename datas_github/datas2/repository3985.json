@@ -1,0 +1,1 @@
+{"name": "exploitable", "description": "The 'exploitable' GDB plugin. I don't work at CERT anymore, but here is the original homepage: http://www.cert.org/vuls/discovery/triage.html", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 310, "folkNum": 78, "watchNum": 310, "topic": []}

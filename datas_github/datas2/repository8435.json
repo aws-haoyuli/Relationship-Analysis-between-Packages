@@ -1,0 +1,1 @@
+{"name": "aiodns", "description": "Simple DNS resolver for asyncio", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 134, "folkNum": 22, "watchNum": 134, "topic": ["asyncio", "dns", "python"]}

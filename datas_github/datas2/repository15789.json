@@ -1,0 +1,1 @@
+{"name": "bloat", "description": "analyze code size via nm/objdump output", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 63, "folkNum": 14, "watchNum": 63, "topic": []}

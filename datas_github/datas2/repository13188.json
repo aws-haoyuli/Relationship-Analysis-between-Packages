@@ -1,0 +1,1 @@
+{"name": "ashttp", "description": "Shell command, that expose any other command as http. To expose top as http, try : ashttp -p8080 top ; then try http://localhost/8080 and hit F5 to refresh your top :)", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 79, "folkNum": 6, "watchNum": 79, "topic": []}

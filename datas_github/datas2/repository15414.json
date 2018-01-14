@@ -1,0 +1,1 @@
+{"name": "flask-social-blueprint", "description": "An OAuth based authentication blueprint for flask. Easy to extend and override.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 65, "folkNum": 28, "watchNum": 65, "topic": ["flask", "python"]}

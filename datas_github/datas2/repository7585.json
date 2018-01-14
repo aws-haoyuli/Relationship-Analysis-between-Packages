@@ -1,0 +1,1 @@
+{"name": "django-behaviors", "description": "Easily integrate common behaviors for Django models, e.g. Timestamps, Publishing, Authoring, Editing and more.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 153, "folkNum": 6, "watchNum": 153, "topic": ["behaviors", "django", "models"]}

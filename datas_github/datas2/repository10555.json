@@ -1,0 +1,1 @@
+{"name": "subpar", "description": "Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.", "license": null, "starNum": 104, "folkNum": 20, "watchNum": 104, "topic": ["bazel", "python"]}

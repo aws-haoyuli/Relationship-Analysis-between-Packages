@@ -1,0 +1,1 @@
+{"name": "django-background-task", "description": "A database-backed work queue for Django", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 63, "folkNum": 45, "watchNum": 63, "topic": []}

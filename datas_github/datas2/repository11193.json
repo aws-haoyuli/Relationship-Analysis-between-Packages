@@ -1,0 +1,1 @@
+{"name": "django-saml2-auth", "description": "Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 97, "folkNum": 30, "watchNum": 97, "topic": ["authentication", "django", "saml2"]}

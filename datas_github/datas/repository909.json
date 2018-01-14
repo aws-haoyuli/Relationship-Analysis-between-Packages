@@ -1,0 +1,1 @@
+{"name": "mepigram_released", "description": "released version of mepigram", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["APOYS"], "packages": ["sys", "string", "__future__", "time", "math", "copy", "re"]}

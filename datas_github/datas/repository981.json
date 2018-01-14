@@ -1,0 +1,1 @@
+{"name": "url-shortner", "description": null, "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["yosukesuzuki"], "packages": ["models", "os", "google", "user_agents", "bigquery", "logging", "json", "oauth2client"]}

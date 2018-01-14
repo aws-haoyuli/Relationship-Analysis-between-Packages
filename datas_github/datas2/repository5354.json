@@ -1,0 +1,1 @@
+{"name": "django-field-history", "description": "A Django app to track changes to a model field.", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 226, "folkNum": 25, "watchNum": 226, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "gdal2tiles-leaflet", "description": "Generate raster image tiles for use with leaflet.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 143, "folkNum": 44, "watchNum": 143, "topic": ["coordinates", "leaflet", "raster", "tile-generator"]}

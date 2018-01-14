@@ -1,0 +1,1 @@
+{"name": "tweeql", "description": "TweeQL is a Query Language for Tweets: SELECT brand(text) AS brand, sentiment(text) AS sentiment FROM twitter_sample;", "license": null, "starNum": 194, "folkNum": 22, "watchNum": 194, "topic": []}

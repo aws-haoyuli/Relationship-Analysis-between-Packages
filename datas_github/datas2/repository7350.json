@@ -1,0 +1,1 @@
+{"name": "btfxwss", "description": "Bitfinex Websocket API Client written in Python3", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 159, "folkNum": 92, "watchNum": 159, "topic": ["bitfinex-websocket-api", "bitfinex-wss", "cryptocurrency", "exchange-api", "python"]}

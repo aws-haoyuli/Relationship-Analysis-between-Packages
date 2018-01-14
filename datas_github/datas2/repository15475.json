@@ -1,0 +1,1 @@
+{"name": "appstore", "description": " :convenience_store: App Store for Nextcloud", "license": {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0"}, "starNum": 65, "folkNum": 34, "watchNum": 65, "topic": ["apps", "django", "foss", "nextcloud", "python", "store", "typescript"]}

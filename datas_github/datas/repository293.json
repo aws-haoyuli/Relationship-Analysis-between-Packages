@@ -1,0 +1,1 @@
+{"name": "UvA_API_Alumni", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["tlrh314", "Sepulta", "apialumni", "Flewtje", "MarcellaJP"], "packages": ["os", "bs4", "sys", "datetime", "wget", "pickle", "logging", "requests", "django"]}

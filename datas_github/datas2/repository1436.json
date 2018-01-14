@@ -1,0 +1,1 @@
+{"name": "asciimatics", "description": "A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 864, "folkNum": 74, "watchNum": 864, "topic": []}

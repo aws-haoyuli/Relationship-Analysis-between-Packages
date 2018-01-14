@@ -1,0 +1,1 @@
+{"name": "chaostoolkit", "description": "An Open API to Chaos Engineering", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 102, "folkNum": 6, "watchNum": 102, "topic": ["chaos", "chaos-engineering", "distributed-systems", "microservices"]}

@@ -1,0 +1,1 @@
+{"name": "The-Django-gunicorn-fabfile-project", "description": "This is a bare Django project that includes a Fabric file, commonly known as a fabfile, to setup an Ubuntu 11.10 server with Django, Nginx, gunicorn and upstart.", "license": null, "starNum": 128, "folkNum": 16, "watchNum": 128, "topic": []}

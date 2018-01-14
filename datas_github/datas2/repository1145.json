@@ -1,0 +1,1 @@
+{"name": "django-push-notifications", "description": "Send push notifications to mobile devices through GCM or APNS in Django.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1072, "folkNum": 363, "watchNum": 1072, "topic": ["apns", "django", "fcm", "gcm", "push-notifications", "python", "wns"]}

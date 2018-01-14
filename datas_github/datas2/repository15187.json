@@ -1,0 +1,1 @@
+{"name": "RHEL7-STIG", "description": "Ansible role for RedHat 7 STIG Baseline", "license": null, "starNum": 66, "folkNum": 49, "watchNum": 66, "topic": ["ansible-role", "rhel7", "security", "security-hardening", "stig"]}

@@ -1,0 +1,1 @@
+{"name": "rarfile", "description": "Python module for RAR archive reading", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 93, "folkNum": 29, "watchNum": 93, "topic": ["archive", "python", "rar", "unrar"]}

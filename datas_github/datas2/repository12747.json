@@ -1,0 +1,1 @@
+{"name": "pytorch-dqn", "description": "Deep Q-Learning Network in pytorch", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 83, "folkNum": 27, "watchNum": 83, "topic": ["deep-q-network", "deep-reinforcement-learning", "pytorch"]}

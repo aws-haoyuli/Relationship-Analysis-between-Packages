@@ -1,0 +1,1 @@
+{"name": "tensorboard_logger", "description": "Log TensorBoard events without touching TensorFlow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 338, "folkNum": 24, "watchNum": 338, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "maltrail", "description": "Malicious traffic detection system", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2374, "folkNum": 425, "watchNum": 2374, "topic": ["heuristics", "intrusion-detection", "malware", "network-monitoring", "python", "security", "sensor"]}

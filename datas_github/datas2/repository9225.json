@@ -1,0 +1,1 @@
+{"name": "python-redis-lock", "description": "Lock context manager implemented via redis SET NX EX and BLPOP.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 122, "folkNum": 33, "watchNum": 122, "topic": []}

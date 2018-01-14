@@ -1,0 +1,1 @@
+{"name": "docker-compose-swarm-mode", "description": "docker-compose that works with Docker 1.12 swarm mode and converter to Kubernetes format.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 79, "folkNum": 12, "watchNum": 79, "topic": []}

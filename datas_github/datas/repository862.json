@@ -1,0 +1,1 @@
+{"name": "ufoprice_bot", "description": "Telegram bot that displays price of UFO coin in BTC, USD and RUB.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["lorien"], "packages": ["re", "grab", "telebot", "collections", "datetime", "time", "logging", "urllib", "argparse", "json", "pprint"]}

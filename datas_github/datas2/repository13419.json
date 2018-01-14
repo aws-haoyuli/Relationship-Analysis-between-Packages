@@ -1,0 +1,1 @@
+{"name": "generic_django_project", "description": "starting point for a new Django site (with FeinCMS, deployable on Nginx using Fabric)", "license": null, "starNum": 77, "folkNum": 7, "watchNum": 77, "topic": ["certbot", "django", "fabric", "feincms", "git", "nginx", "python", "supervisord"]}

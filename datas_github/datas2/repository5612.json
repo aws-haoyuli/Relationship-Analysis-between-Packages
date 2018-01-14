@@ -1,0 +1,1 @@
+{"name": "pygogo", "description": "A Python logging library with super powers", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 215, "folkNum": 11, "watchNum": 215, "topic": ["cli", "featured", "library", "logger", "logging", "shell", "structured-logging"]}

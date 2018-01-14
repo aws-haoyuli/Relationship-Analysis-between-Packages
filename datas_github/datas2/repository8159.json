@@ -1,0 +1,1 @@
+{"name": "kuryr", "description": "Bridge between container framework networking and storage models to OpenStack networking and storage abstractions.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 140, "folkNum": 46, "watchNum": 140, "topic": []}

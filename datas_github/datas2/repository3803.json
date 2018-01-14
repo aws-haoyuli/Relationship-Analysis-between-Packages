@@ -1,0 +1,1 @@
+{"name": "uplink", "description": "A Declarative HTTP Client for Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 326, "folkNum": 13, "watchNum": 326, "topic": ["api-client", "http", "http-client", "python", "requests", "rest-api", "retrofit"]}

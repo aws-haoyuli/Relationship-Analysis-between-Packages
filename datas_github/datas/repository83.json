@@ -1,0 +1,1 @@
+{"name": "Machine_Learning_Playground", "description": "play Machine Learning here", "license": null, "starNum": 8, "folkNum": 0, "watchNum": 8, "topic": [], "contributors": ["yao23"], "packages": ["operator", "Webserver", "numpy", "numpy as np", "matplotlib", "sklearn"]}

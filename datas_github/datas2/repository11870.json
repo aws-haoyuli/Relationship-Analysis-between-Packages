@@ -1,0 +1,1 @@
+{"name": "tornado-sqlalchemy-template", "description": "Template for tornado app with sqlalchemy, wtforms preconfigured", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 90, "folkNum": 18, "watchNum": 90, "topic": []}

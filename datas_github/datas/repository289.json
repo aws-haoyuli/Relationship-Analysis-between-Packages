@@ -1,0 +1,1 @@
+{"name": "Matching", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Vieirakuh", "Letimed", "lechevet"], "packages": ["makeGame", "PlayerParser", "Graph", "Algo", "Edge", "Vertex", "math", "joueurs", "copy "]}

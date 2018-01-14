@@ -1,0 +1,1 @@
+{"name": "ansible-dockerswarm", "description": "Docker Engine clustering using \"Swarm Mode\" and Ansible", "license": null, "starNum": 106, "folkNum": 41, "watchNum": 106, "topic": ["ansible", "docker", "docker-swarm", "swarm-mode"]}

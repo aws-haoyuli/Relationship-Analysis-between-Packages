@@ -1,0 +1,1 @@
+{"name": "pdb-tutorial", "description": "A simple tutorial about effectively using pdb", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 400, "folkNum": 20, "watchNum": 400, "topic": ["debugger", "pdb", "python", "tutorial"]}

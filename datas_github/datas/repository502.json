@@ -1,0 +1,1 @@
+{"name": "pomop", "description": "Poor man pomodoro - CLI ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": ["cli", "pomodoro", "python"], "contributors": ["hvnsweeting"], "packages": ["distutils", "setuptools"]}

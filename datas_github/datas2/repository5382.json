@@ -1,0 +1,1 @@
+{"name": "keras-squeezenet", "description": "SqueezeNet implementation with Keras Framework", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 225, "folkNum": 69, "watchNum": 225, "topic": ["deeplearning", "keras", "squeezenet", "tensorflow"]}

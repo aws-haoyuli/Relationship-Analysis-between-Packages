@@ -1,0 +1,1 @@
+{"name": "flask-boilerplate", "description": "Boilerplate template for a Python Flask application with Flask-SQLAlchemy, Flask-WTF, Fabric, Coverage, and Bootstrap", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 527, "folkNum": 180, "watchNum": 527, "topic": []}

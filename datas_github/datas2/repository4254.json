@@ -1,0 +1,1 @@
+{"name": "aredis", "description": "redis client for Python asyncio (has support for redis server, sentinel and cluster)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 287, "folkNum": 29, "watchNum": 287, "topic": ["async", "asyncio", "redis-client", "redis-cluster"]}

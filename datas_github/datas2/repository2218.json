@@ -1,0 +1,1 @@
+{"name": "PyHive", "description": "Python interface to Hive and Presto. \ud83d\udc1d", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 571, "folkNum": 174, "watchNum": 571, "topic": ["dbapi", "hive", "hiveserver2", "presto", "python", "sqlalchemy"]}

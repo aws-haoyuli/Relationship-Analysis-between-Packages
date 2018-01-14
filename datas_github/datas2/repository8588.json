@@ -1,0 +1,1 @@
+{"name": "twistar", "description": "Twistar is an object-relational mapper (ORM) for Python that uses the Twisted library to provide asynchronous DB interaction.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 132, "folkNum": 32, "watchNum": 132, "topic": []}

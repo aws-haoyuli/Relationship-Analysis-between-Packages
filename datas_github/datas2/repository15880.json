@@ -1,0 +1,1 @@
+{"name": "django-storage-swift", "description": "OpenStack Swift storage backend for Django", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 63, "folkNum": 43, "watchNum": 63, "topic": ["django", "openstack-swift", "python"]}

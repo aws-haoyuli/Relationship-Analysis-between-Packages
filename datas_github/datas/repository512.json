@@ -1,0 +1,1 @@
+{"name": "erp", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["MiniGunnR"], "packages": ["may fail for some other reason", "", "os", "sys", "datetime", "utils", "Django", "uuid", "num2words", "itertools", "django"]}

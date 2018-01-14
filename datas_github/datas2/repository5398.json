@@ -1,0 +1,1 @@
+{"name": "OWASP-Xenotix-XSS-Exploit-Framework", "description": "OWASP Xenotix XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.", "license": null, "starNum": 224, "folkNum": 80, "watchNum": 224, "topic": ["dom-xss", "exploitation-framework", "xenotix", "xss", "xss-detection", "xss-exploitation", "xss-scanner"]}

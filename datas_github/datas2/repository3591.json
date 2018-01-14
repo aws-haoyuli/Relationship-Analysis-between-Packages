@@ -1,0 +1,1 @@
+{"name": "aws-cloudformation-templates", "description": "A collection of useful CloudFormation templates ", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 345, "folkNum": 198, "watchNum": 345, "topic": ["aws-cloudformation", "cloudformation-template"]}

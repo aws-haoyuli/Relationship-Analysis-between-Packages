@@ -1,0 +1,1 @@
+{"name": "TFFRCNN", "description": "FastER RCNN built on tensorflow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 575, "folkNum": 283, "watchNum": 575, "topic": ["detection", "faster-rcnn", "pedestrian", "pvanet", "rcnn", "tensorflow"]}

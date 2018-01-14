@@ -1,0 +1,1 @@
+{"name": "Fashion-Classification", "description": "Its a Kaggle Data-set.The Step-by-step guide is in the below link", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["vishwasgpai"], "packages": ["keras", "sklearn", "CSV file I/O (e", "pandas as pd # data processing", "numpy as np # linear algebra"]}

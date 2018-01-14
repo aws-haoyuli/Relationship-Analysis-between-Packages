@@ -1,0 +1,1 @@
+{"name": "django-shibboleth-remoteuser", "description": "Middleware for using Shibboleth with Django", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 58, "folkNum": 45, "watchNum": 58, "topic": ["django", "shibboleth", "users"]}

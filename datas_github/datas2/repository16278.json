@@ -1,0 +1,1 @@
+{"name": "django-pglocks", "description": "PostgreSQL locking context managers and functions for Django.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 60, "folkNum": 21, "watchNum": 60, "topic": []}

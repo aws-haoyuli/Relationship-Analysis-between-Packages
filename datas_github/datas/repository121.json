@@ -1,0 +1,1 @@
+{"name": "reactionsystem", "description": "Symbolic dynamics for stochastic interation of populations", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["lukasgeyrhofer"], "packages": ["scipy", "sys", "numpy as np", "math", "argparse"]}

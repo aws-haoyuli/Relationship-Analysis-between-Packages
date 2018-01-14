@@ -1,0 +1,1 @@
+{"name": "python-etcd3", "description": "Python client for the etcd API v3", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 67, "folkNum": 41, "watchNum": 67, "topic": ["etcd"]}

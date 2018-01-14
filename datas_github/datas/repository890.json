@@ -1,0 +1,1 @@
+{"name": "kurssim.me-backend", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["TeemuKoivisto", "koskJan"], "packages": ["boto3", "scrapy"]}

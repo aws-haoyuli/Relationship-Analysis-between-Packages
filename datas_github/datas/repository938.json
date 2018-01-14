@@ -1,0 +1,1 @@
+{"name": "touch_dome", "description": null, "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["emctechnician", "vanbujm", "derwentx"], "packages": ["pygame", "sys", "numpy as np", "serial", "math", "cv2"]}

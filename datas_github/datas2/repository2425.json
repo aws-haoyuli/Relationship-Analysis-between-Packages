@@ -1,0 +1,1 @@
+{"name": "bowtie", "description": ":bowtie: Create a dashboard with python!", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 515, "folkNum": 45, "watchNum": 515, "topic": ["dashboard", "data-science", "flask", "interactive", "plotly", "python", "react", "socket-io", "visualization", "webapp"]}

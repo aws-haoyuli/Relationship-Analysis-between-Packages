@@ -1,0 +1,1 @@
+{"name": "dissectors", "description": "This project is part of improving Cuckoo Sandbox, for more information https://honeynet.org/gsoc/slot3  I will use Scapy to write protocols dissectors for: TCP, UDP, ICMP, DNS, HTTP, FTP, IRC, SMB, SIP, TELNET, SSH, IMAP, POP and H.323", "license": null, "starNum": 67, "folkNum": 34, "watchNum": 67, "topic": []}

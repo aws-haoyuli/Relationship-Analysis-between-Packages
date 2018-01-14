@@ -1,0 +1,1 @@
+{"name": "pep8radius", "description": "PEP8 clean only the parts of the files touched since the last commit, a previous commit or (the merge-base of) a branch.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 162, "folkNum": 8, "watchNum": 162, "topic": []}

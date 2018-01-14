@@ -1,0 +1,1 @@
+{"name": "django-rest-framework-social-oauth2", "description": "python-social-auth and oauth2 support for django-rest-framework", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 439, "folkNum": 82, "watchNum": 439, "topic": ["django", "django-rest-framework", "oauth2", "python", "python-social-auth"]}

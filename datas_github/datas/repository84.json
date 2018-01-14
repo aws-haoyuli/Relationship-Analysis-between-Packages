@@ -1,0 +1,1 @@
+{"name": "Config_files", "description": "Configuration files for my own linux machines", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["ZarnoldChoppanegger"], "packages": ["os", "re", "functools", "ranger", "shlex", "sys", "tempfile"]}

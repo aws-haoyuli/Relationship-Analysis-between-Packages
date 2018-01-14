@@ -1,0 +1,1 @@
+{"name": "django-sendsms", "description": "A simple API to send SMS messages. It is modeled after the django email api.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 113, "folkNum": 52, "watchNum": 113, "topic": []}

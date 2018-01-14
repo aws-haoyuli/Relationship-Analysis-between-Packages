@@ -1,0 +1,1 @@
+{"name": "minimal-docker-python-setup", "description": "A demo of a minimal Nginx-uWSGI-Flask-Redis stack using Docker in less than 42 mb.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 137, "folkNum": 14, "watchNum": 137, "topic": []}

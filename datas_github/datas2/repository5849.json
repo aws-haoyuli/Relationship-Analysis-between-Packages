@@ -1,0 +1,1 @@
+{"name": "flask-redis", "description": "A Flask extension for using Redis", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 206, "folkNum": 43, "watchNum": 206, "topic": ["flask", "python", "redis"]}

@@ -1,0 +1,1 @@
+{"name": "BugTracker", "description": "This is simple bug tracker.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["ravipal86"], "packages": ["may fail for some other reason", "os", "sys", "Django", "django"]}

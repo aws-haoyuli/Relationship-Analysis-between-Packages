@@ -1,0 +1,1 @@
+{"name": "deep-crf", "description": "An implementation of Conditional Random Fields (CRFs) with Deep Learning Method", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 64, "folkNum": 24, "watchNum": 64, "topic": ["crf", "deep-learning", "neural-network", "sequence-tagger"]}

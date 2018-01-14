@@ -1,0 +1,1 @@
+{"name": "py3status", "description": "py3status is an extensible i3status wrapper written in python", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 474, "folkNum": 171, "watchNum": 474, "topic": ["i3bar", "i3status", "i3wm", "python"]}

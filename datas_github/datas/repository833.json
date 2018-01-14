@@ -1,0 +1,1 @@
+{"name": "AEDensityEstimation", "description": "A Hybrid of AE and Density Estimation for Anomaly Detection ", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["caovanloi"], "packages": ["numpy as np", "sklearn"]}

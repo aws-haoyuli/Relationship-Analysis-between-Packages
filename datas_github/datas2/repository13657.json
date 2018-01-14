@@ -1,0 +1,1 @@
+{"name": "Source.Python", "description": "This plugin aims to use boost::python and create an easily accessible wrapper around the Source Engine API for scripter use.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 76, "folkNum": 20, "watchNum": 76, "topic": ["source-python"]}

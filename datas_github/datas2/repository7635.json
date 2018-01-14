@@ -1,0 +1,1 @@
+{"name": "gaphor", "description": "Gaphor is a UML modeling tool", "license": {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "spdx_id": "LGPL-2.1", "url": "https://api.github.com/licenses/lgpl-2.1"}, "starNum": 149, "folkNum": 27, "watchNum": 149, "topic": ["gtk2", "modeling", "python", "uml"]}

@@ -1,0 +1,1 @@
+{"name": "netflix-proxy", "description": "Smart DNS proxy to watch Netflix", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 912, "folkNum": 157, "watchNum": 912, "topic": ["caddyserver", "dns-proxy", "dns-server", "dnsmasq", "ipv4", "netflix", "python", "shell", "sniproxy", "support-ipv6"]}

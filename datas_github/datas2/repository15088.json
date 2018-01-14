@@ -1,0 +1,1 @@
+{"name": "GoGuru", "description": "GoGuru is a Golang plugin for SublimeText 3 that integrates the Go guru tool.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 67, "folkNum": 8, "watchNum": 67, "topic": ["editor", "golang-plugin", "guru", "sublime-text"]}

@@ -1,0 +1,1 @@
+{"name": "LianjiaCrawler", "description": "\u4e00\u4e2a\u7b80\u5355\u7684\u94fe\u5bb6\u4e8c\u624b\u623f\u722c\u866b", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["crawler", "lianjia"], "contributors": ["liwb27"], "packages": ["HouseList", "os", "pymongo", "codecs", "urllib", "re", "HouseDetail"]}

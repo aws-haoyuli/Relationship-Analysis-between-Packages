@@ -1,0 +1,1 @@
+{"name": "goatools", "description": "Python scripts to find enrichment of GO terms", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 154, "folkNum": 88, "watchNum": 154, "topic": ["fdr", "gene-ontology", "gene-set-enrichment", "genomics"]}

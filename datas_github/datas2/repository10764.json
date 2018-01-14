@@ -1,0 +1,1 @@
+{"name": "django-rest-marshmallow", "description": "Marshmallow schemas for Django REST framework", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 101, "folkNum": 4, "watchNum": 101, "topic": ["django", "django-rest-marshmallow", "marshmallow", "rest-api", "schema", "serialization"]}

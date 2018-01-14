@@ -1,0 +1,1 @@
+{"name": "nn_robust_attacks", "description": "Robust evasion attacks against neural network to find adversarial examples", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 106, "folkNum": 43, "watchNum": 106, "topic": []}

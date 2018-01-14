@@ -1,0 +1,1 @@
+{"name": "cutadapt", "description": "cutadapt removes adapter sequences from sequencing reads", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 182, "folkNum": 61, "watchNum": 182, "topic": ["bioinformatics", "python"]}

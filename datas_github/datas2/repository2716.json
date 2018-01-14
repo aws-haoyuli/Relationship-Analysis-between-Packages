@@ -1,0 +1,1 @@
+{"name": "certbot-s3front", "description": "Certbot CLI plugin for S3/CloudFront validation and installation", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 459, "folkNum": 46, "watchNum": 459, "topic": []}

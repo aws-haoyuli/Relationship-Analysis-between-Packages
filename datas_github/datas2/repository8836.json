@@ -1,0 +1,1 @@
+{"name": "python-lambda-local", "description": "Run AWS Lambda function on local machine", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 128, "folkNum": 14, "watchNum": 128, "topic": ["aws-lambda", "local-machine", "python-lambda-local", "python27", "python36", "virtualenv"]}

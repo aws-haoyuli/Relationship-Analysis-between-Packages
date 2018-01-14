@@ -1,0 +1,1 @@
+{"name": "PlaceLDA", "description": "A python module for extracting activities from place webpages", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["simonscheider", "darwinzer0"], "packages": ["lxml", "bs4", "requests", "re", "urllib2"]}

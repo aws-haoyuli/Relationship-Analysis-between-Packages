@@ -1,0 +1,1 @@
+{"name": "pywinrm", "description": "Python library for Windows Remote Management (WinRM)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 470, "folkNum": 149, "watchNum": 470, "topic": ["python", "winrm"]}

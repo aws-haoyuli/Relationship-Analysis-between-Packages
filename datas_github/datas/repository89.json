@@ -1,0 +1,1 @@
+{"name": "alpinebook", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["vodchella"], "packages": ["os", "logging", "glob", "time", "lib", "argparse", "uvloop", "aio_pika", "importlib", "asyncio", "pkg", "jinja2", "pid", "sys", "tempfile", "psycopg2"]}

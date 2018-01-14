@@ -1,0 +1,1 @@
+{"name": "compose", "description": "Define and run multi-container applications with Docker", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 11528, "folkNum": 1834, "watchNum": 11528, "topic": ["docker", "docker-compose", "orchestration", "python"]}

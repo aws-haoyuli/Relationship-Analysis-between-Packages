@@ -1,0 +1,1 @@
+{"name": "pyEA", "description": "MOEA implemented in Python", "license": null, "starNum": 0, "folkNum": 1, "watchNum": 0, "topic": [], "contributors": ["danathughes", "yangautumn"], "packages": ["tensorflow as tf", "cPickle as pickle", "numpy as np", "cnn_NSGAII", "matplotlib", "sys", "sklearn"]}

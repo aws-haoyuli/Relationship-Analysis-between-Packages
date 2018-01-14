@@ -1,0 +1,1 @@
+{"name": "RVRS---Real-Virtual-Reality-Shooter", "description": "Controlling and aiming a \"toy gun\" using a VR headset and control", "license": null, "starNum": 3, "folkNum": 0, "watchNum": 3, "topic": [], "contributors": ["amiravni", "shfanfan", "dannyvai"], "packages": ["SimpleCV", "cv2"]}

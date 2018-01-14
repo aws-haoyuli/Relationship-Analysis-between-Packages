@@ -1,0 +1,1 @@
+{"name": "pypi2nix", "description": "Generate Nix expressions for Python package", "license": null, "starNum": 64, "folkNum": 30, "watchNum": 64, "topic": ["nix", "python"]}

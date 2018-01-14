@@ -1,0 +1,1 @@
+{"name": "triviabox", "description": "Python script for a raspberry pi box that opens only trivia questions are answered correctly", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["bbriles"], "packages": ["random", "sqlite3", "sys"]}

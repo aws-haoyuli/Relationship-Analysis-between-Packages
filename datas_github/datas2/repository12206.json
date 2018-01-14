@@ -1,0 +1,1 @@
+{"name": "aiohttp_admin", "description": "admin interface for aiohttp application http://aiohttp-admin.readthedocs.io", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 87, "folkNum": 24, "watchNum": 87, "topic": ["aiohttp", "async-await", "asyncio"]}

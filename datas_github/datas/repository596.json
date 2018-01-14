@@ -1,0 +1,1 @@
+{"name": "hephaestus", "description": "Queue Consumer", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2, "folkNum": 2, "watchNum": 2, "topic": ["python", "sqs", "sqs-queue"], "contributors": ["arijeetmkh", "DebasishMaji"], "packages": ["hephaestus", "setuptools"]}

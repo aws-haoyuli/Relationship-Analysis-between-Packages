@@ -1,0 +1,1 @@
+{"name": "redislite", "description": "Redis in a python module", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 400, "folkNum": 36, "watchNum": 400, "topic": ["database", "key-value", "python", "redis"]}

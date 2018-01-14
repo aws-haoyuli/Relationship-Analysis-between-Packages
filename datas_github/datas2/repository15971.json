@@ -1,0 +1,1 @@
+{"name": "systemd-cron", "description": "systemd units to run cron scripts", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 63, "folkNum": 8, "watchNum": 63, "topic": []}

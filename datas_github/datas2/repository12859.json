@@ -1,0 +1,1 @@
+{"name": "Kadot", "description": "Kadot, the unsupervised natural language processing library.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 82, "folkNum": 4, "watchNum": 82, "topic": ["natural-language-processing", "text-classification", "text-generation", "tokenizer", "word-embeddings"]}

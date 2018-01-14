@@ -1,0 +1,1 @@
+{"name": "scaleable-crawler-with-docker-cluster", "description": "a scaleable and efficient crawelr with docker cluster , crawl million pages in 2 hours with a single machine", "license": null, "starNum": 65, "folkNum": 8, "watchNum": 65, "topic": ["celery", "cluster", "crawler", "distributed", "docker", "python", "rabbitmq", "scaleable"]}

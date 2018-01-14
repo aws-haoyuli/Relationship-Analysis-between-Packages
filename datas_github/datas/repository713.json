@@ -1,0 +1,1 @@
+{"name": "angryjoin", "description": "Punishing Join Tests", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["bmdavi3"], "packages": ["psycopg2", "time"]}

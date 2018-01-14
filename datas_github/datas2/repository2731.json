@@ -1,0 +1,1 @@
+{"name": "cdiff", "description": "View colored, incremental diff in workspace or from stdin with side by side and auto pager support", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 457, "folkNum": 25, "watchNum": 457, "topic": []}

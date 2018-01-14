@@ -1,0 +1,1 @@
+{"name": "bumblebee-status", "description": "bumblebee-status is a modular, theme-able status line generator for the i3 window manager.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 194, "folkNum": 54, "watchNum": 194, "topic": ["gruvbox", "i3bar", "i3wm", "powerline", "solarized"]}

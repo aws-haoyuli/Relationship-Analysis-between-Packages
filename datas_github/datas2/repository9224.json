@@ -1,0 +1,1 @@
+{"name": "MusicGenerator", "description": "Experiment diverse Deep learning models for music generation with TensorFlow", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 122, "folkNum": 40, "watchNum": 122, "topic": ["deep-learning", "music-generation", "rnn", "tensorflow"]}

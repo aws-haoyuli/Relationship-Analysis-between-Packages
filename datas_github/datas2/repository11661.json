@@ -1,0 +1,1 @@
+{"name": "docker-django", "description": "A project to get you started with Docker and Django.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 92, "folkNum": 31, "watchNum": 92, "topic": ["django", "docker", "nginx", "postgresql", "uwsgi"]}

@@ -1,0 +1,1 @@
+{"name": "timeseries_gan", "description": "A tensorflow implementation of GAN ( exactly InfoGAN or Info GAN ) to one dimensional ( 1D ) time series data.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 139, "folkNum": 47, "watchNum": 139, "topic": []}

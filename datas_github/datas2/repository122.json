@@ -1,0 +1,1 @@
+{"name": "faker", "description": "Faker is a Python package that generates fake data for you.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 5482, "folkNum": 662, "watchNum": 5482, "topic": ["dataset", "fake", "fake-data", "python", "test-data", "test-data-generator", "testing"]}

@@ -1,0 +1,1 @@
+{"name": "symbolic", "description": "A flexible compiler front-end for C-style Domain Specific Languages", "license": null, "starNum": 2, "folkNum": 0, "watchNum": 2, "topic": [], "contributors": ["yoshimon"], "packages": ["os", "yaml", "sys", "sphinx_rtd_theme", "datetime", "symbolic", "argparse"]}

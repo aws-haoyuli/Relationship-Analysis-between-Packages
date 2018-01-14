@@ -1,0 +1,1 @@
+{"name": "python-intro", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["khanamoto"], "packages": ["sqlalchemy as sa", "yaml", "sqlalchemy", "sys", "collections", "flask", "report as wr", "struct", "time", "urllib", "redis", "requests", "sources"]}

@@ -1,0 +1,1 @@
+{"name": "tensorflow-deeplab-lfov", "description": "DeepLab-LargeFOV implemented in tensorflow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 147, "folkNum": 66, "watchNum": 147, "topic": ["deeplab-largefov", "deeplab-tensorflow", "pascal-voc", "semantic-segmentation", "tensorflow"]}

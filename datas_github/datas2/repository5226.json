@@ -1,0 +1,1 @@
+{"name": "chess-alpha-zero", "description": "Chess reinforcement learning by AlphaGo Zero methods.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 230, "folkNum": 65, "watchNum": 230, "topic": ["alphago-zero", "chess", "keras", "reinforcement-learning", "tensorflow"]}

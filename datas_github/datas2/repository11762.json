@@ -1,0 +1,1 @@
+{"name": "wavenet_vocoder", "description": "WaveNet vocoder", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 91, "folkNum": 13, "watchNum": 91, "topic": ["python", "pytorch", "speech-processing", "speech-synthesis", "wavenet", "wavenet-vocoder"]}

@@ -1,0 +1,1 @@
+{"name": "python-pgextras", "description": "Unofficial Python port of Heroku's pgextras that provides various statistics for a Postgres instance.", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 79, "folkNum": 7, "watchNum": 79, "topic": []}

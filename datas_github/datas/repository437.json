@@ -1,0 +1,1 @@
+{"name": "ps4-exploit-host", "description": "Easy PS4 Exploit Hosting", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 19, "folkNum": 7, "watchNum": 19, "topic": [], "contributors": ["Al-Azif"], "packages": ["__future__", "os", "urllib3", "sys"]}

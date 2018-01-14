@@ -1,0 +1,1 @@
+{"name": "scrapy-redis", "description": "Redis-based components for Scrapy.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2771, "folkNum": 1019, "watchNum": 2771, "topic": ["crawler", "distributed", "redis", "scrapy"]}

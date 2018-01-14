@@ -1,0 +1,1 @@
+{"name": "convert_torch_to_pytorch", "description": "Convert torch t7 model to pytorch model and source.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 204, "folkNum": 49, "watchNum": 204, "topic": ["pytorch"]}

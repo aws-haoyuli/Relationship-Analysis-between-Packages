@@ -1,0 +1,1 @@
+{"name": "gunicorn", "description": "gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 4433, "folkNum": 898, "watchNum": 4433, "topic": ["http", "http-server", "python", "wsgi", "wsgi-server"]}

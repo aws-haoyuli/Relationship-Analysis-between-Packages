@@ -1,0 +1,1 @@
+{"name": "remodel", "description": "Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 175, "folkNum": 27, "watchNum": 175, "topic": ["object-document-mapper", "python", "rethinkdb"]}

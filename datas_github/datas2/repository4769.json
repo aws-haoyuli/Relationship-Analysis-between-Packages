@@ -1,0 +1,1 @@
+{"name": "support", "description": "An evented server framework designed for building scalable and introspectable services, built at PayPal.", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 256, "folkNum": 12, "watchNum": 256, "topic": []}

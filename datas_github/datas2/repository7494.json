@@ -1,0 +1,1 @@
+{"name": "django-salesforce", "description": "Salesforce integration for Django's ORM using the SF REST API.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 155, "folkNum": 52, "watchNum": 155, "topic": ["django", "python", "salesforce"]}

@@ -1,0 +1,1 @@
+{"name": "densenet.pytorch", "description": "A PyTorch implementation of DenseNet.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 325, "folkNum": 58, "watchNum": 325, "topic": ["deep-learning", "densenet", "pytorch"]}

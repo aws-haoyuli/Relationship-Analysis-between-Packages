@@ -1,0 +1,1 @@
+{"name": "django-bakery", "description": "A set of helpers for baking your Django site out as flat files", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 218, "folkNum": 40, "watchNum": 218, "topic": ["django", "python", "static-site-generator"]}

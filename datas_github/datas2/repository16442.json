@@ -1,0 +1,1 @@
+{"name": "netflix-no-ipv6-dns-proxy", "description": "Fix for Netflix blocking various IPv6 tunnels by returning no results for AAAA queries of Netflix domains", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 59, "folkNum": 17, "watchNum": 59, "topic": []}

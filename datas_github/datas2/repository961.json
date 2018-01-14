@@ -1,0 +1,1 @@
+{"name": "slacker", "description": "Full-featured Python interface for the Slack API", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 1236, "folkNum": 180, "watchNum": 1236, "topic": ["api", "python", "slack"]}

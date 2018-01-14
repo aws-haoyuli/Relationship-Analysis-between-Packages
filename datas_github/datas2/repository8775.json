@@ -1,0 +1,1 @@
+{"name": "Insanity-Framework", "description": "Generate Payloads and Control Remote Machines.  [Discontinued]", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 129, "folkNum": 71, "watchNum": 129, "topic": ["pentest", "python", "remote-control"]}

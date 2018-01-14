@@ -1,0 +1,1 @@
+{"name": "python-zeep", "description": "A modern/fast python SOAP client based on lxml / requests", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 763, "folkNum": 242, "watchNum": 763, "topic": ["python", "soap", "soap-client", "wsdl"]}

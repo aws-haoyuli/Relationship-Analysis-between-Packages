@@ -1,0 +1,1 @@
+{"name": "djangorestframework-auth0", "description": "Library to simply use Auth0 token authentication in DRF within djangorestframework-jwt ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 59, "folkNum": 11, "watchNum": 59, "topic": []}

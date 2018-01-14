@@ -1,0 +1,1 @@
+{"name": "ffmpeg-python", "description": "Python bindings for FFmpeg - with complex filtering support", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 122, "folkNum": 19, "watchNum": 122, "topic": [], "contributors": ["kkroening", "Depaulicious", "noahstier", "lloti"], "packages": ["textwrap", "setuptools", "subprocess"]}

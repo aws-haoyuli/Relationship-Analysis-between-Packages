@@ -1,0 +1,1 @@
+{"name": "tf_cnnvis", "description": "CNN visualization tool in TensorFlow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 314, "folkNum": 97, "watchNum": 314, "topic": ["cnn", "convolutional-networks", "convolutional-neural-networks", "deepdream", "tensorboard", "tensorflow", "visualization"]}

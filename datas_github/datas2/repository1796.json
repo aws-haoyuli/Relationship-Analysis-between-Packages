@@ -1,0 +1,1 @@
+{"name": "wordvectors", "description": "Pre-trained word vectors of 30+ languages", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 700, "folkNum": 127, "watchNum": 700, "topic": ["fasttext", "language", "vector", "word2vec"]}

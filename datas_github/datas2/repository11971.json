@@ -1,0 +1,1 @@
+{"name": "pytorch-meta-optimizer", "description": "A PyTorch implementation of  Learning to learn by gradient descent by gradient descent", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 89, "folkNum": 15, "watchNum": 89, "topic": ["deep-learning", "gradient-descent", "pytorch"]}

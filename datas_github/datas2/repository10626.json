@@ -1,0 +1,1 @@
+{"name": "ng", "description": "Get password of the wifi you're connected, and your current ip address.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 103, "folkNum": 20, "watchNum": 103, "topic": ["ip", "password", "wifi"]}

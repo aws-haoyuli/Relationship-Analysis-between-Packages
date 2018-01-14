@@ -1,0 +1,1 @@
+{"name": "pyesridump", "description": "Scrapes an ESRI MapServer REST endpoint to spit out more generally-usable geodata.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 60, "folkNum": 13, "watchNum": 60, "topic": []}

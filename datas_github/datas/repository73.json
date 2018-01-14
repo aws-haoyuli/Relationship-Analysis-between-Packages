@@ -1,0 +1,1 @@
+{"name": "zhaocha", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["thippo"], "packages": ["os", "skimage", "time", "argparse", "numpy as np", "cv2", "sklearn"]}

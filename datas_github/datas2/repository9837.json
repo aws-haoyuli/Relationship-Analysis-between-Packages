@@ -1,0 +1,1 @@
+{"name": "spacy-nlp", "description": "Expose Spacy nlp text parsing to Nodejs (and other languages) via socketIO", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 113, "folkNum": 25, "watchNum": 113, "topic": []}

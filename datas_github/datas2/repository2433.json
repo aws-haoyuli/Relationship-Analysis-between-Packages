@@ -1,0 +1,1 @@
+{"name": "pinax-stripe", "description": "a payments Django app for Stripe", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 513, "folkNum": 240, "watchNum": 513, "topic": ["django", "django-apps", "payments", "pinax", "python", "saas", "stripe", "stripe-api", "subscriptions"]}

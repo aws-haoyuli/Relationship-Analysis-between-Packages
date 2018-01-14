@@ -1,0 +1,1 @@
+{"name": "keras-rcnn", "description": "Keras package for region-based convolutional neural networks", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 100, "folkNum": 34, "watchNum": 100, "topic": ["cntk", "deep-learning", "image-segmentation", "object-detection", "tensorflow", "theano"]}

@@ -1,0 +1,1 @@
+{"name": "wiwo", "description": "wiwo is a distributed 802.11 monitoring and injecting system that was designed to be simple and scalable, in which all workers (nodes) can be managed by a Python framework.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 68, "folkNum": 25, "watchNum": 68, "topic": []}

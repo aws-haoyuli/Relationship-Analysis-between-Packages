@@ -1,0 +1,1 @@
+{"name": "tdf.templateuploadcenter", "description": "A Plone add-on to upload LibreOffice templates.", "license": null, "starNum": 1, "folkNum": 2, "watchNum": 1, "topic": [], "contributors": ["andreasma", "sneridagh"], "packages": ["os", "pkgutil", "__('pkg_resources')", "logging", "tdf", "plone", "setuptools"]}

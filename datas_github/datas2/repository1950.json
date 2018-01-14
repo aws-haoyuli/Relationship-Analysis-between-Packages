@@ -1,0 +1,1 @@
+{"name": "django-c10k-demo", "description": "10 000 concurrent real-time connections to Django", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 650, "folkNum": 48, "watchNum": 650, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "bay_area", "description": "Waterloo Rocketry's Slack App", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["akmorrison", "jacobdeery"], "packages": ["decimal", "time", "wrt_respond", "wrt_dynamodb_handler"]}

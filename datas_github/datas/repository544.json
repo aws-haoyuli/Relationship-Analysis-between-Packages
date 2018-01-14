@@ -1,0 +1,1 @@
+{"name": "virtualEnv", "description": "simulation envrionment for algorithm test", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["liujiandu"], "packages": ["sys", "tool", "numpy as np", "controller", "algorithm"]}

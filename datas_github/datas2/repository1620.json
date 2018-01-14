@@ -1,0 +1,1 @@
+{"name": "sparkit-learn", "description": "PySpark + Scikit-learn = Sparkit-learn", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 771, "folkNum": 150, "watchNum": 771, "topic": ["apache-spark", "distributed-computing", "machine-learning", "python", "scikit-learn"]}

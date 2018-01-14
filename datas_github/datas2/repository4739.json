@@ -1,0 +1,1 @@
+{"name": "DenseNet", "description": "DenseNet implementation in Keras", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 258, "folkNum": 86, "watchNum": 258, "topic": ["bottleneck", "deep-learning", "densenet", "densenet-model", "keras", "paper"]}

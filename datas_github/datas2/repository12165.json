@@ -1,0 +1,1 @@
+{"name": "PySvn", "description": "Lightweight Subversion library for Python.", "license": {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0"}, "starNum": 87, "folkNum": 71, "watchNum": 87, "topic": ["python", "python2", "python3", "version-control"]}

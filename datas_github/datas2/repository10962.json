@@ -1,0 +1,1 @@
+{"name": "django-sockjs-tornado", "description": "Makes it easy to run a SockJS server in Django through Tornado.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 99, "folkNum": 25, "watchNum": 99, "topic": []}

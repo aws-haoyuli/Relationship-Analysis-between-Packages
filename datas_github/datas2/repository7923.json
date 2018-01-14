@@ -1,0 +1,1 @@
+{"name": "pytest-xdist", "description": "a py.test plugin for distributed testing and loop-on-failures testing modes. ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 145, "folkNum": 62, "watchNum": 145, "topic": []}

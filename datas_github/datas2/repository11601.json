@@ -1,0 +1,1 @@
+{"name": "dumpDex", "description": "IDA python script to dynamically dump DEX in memory", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 93, "folkNum": 77, "watchNum": 93, "topic": []}

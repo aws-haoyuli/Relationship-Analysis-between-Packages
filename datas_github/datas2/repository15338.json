@@ -1,0 +1,1 @@
+{"name": "itc-reporter", "description": "Retrieves Sales- and Financial Reports from iTunes Connect", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 66, "folkNum": 12, "watchNum": 66, "topic": ["autoingestion", "financial-reports", "itc-reporter", "itunes-connect", "sales-report"]}

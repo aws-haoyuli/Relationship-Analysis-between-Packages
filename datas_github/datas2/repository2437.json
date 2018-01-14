@@ -1,0 +1,1 @@
+{"name": "pycuda", "description": "CUDA integration for Python, plus shiny features", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 512, "folkNum": 123, "watchNum": 512, "topic": ["array", "cuda", "gpu", "gpu-computing", "multidimensional-arrays", "pycuda", "python", "scientific-computing"]}

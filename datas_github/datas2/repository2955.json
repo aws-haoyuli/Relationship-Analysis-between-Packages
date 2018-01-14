@@ -1,0 +1,1 @@
+{"name": "SubredditSimulator", "description": "An automated subreddit with posts created using markov chains", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 421, "folkNum": 44, "watchNum": 421, "topic": ["markov-chain", "reddit"]}

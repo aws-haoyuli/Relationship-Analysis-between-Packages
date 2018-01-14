@@ -1,0 +1,1 @@
+{"name": "daemonize", "description": "daemonize is a library for writing system daemons in Python.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 290, "folkNum": 54, "watchNum": 290, "topic": ["daemon", "daemonize", "freebsd", "linux", "netbsd", "openbsd", "osx", "python", "stable", "system"]}

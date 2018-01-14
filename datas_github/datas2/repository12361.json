@@ -1,0 +1,1 @@
+{"name": "pytorch-REINFORCE", "description": "PyTorch Implementation of REINFORCE for both discrete & continuous control", "license": null, "starNum": 86, "folkNum": 16, "watchNum": 86, "topic": ["continuous-control", "gym", "mujoco", "pytorch", "reinforce", "reinforcement-learning"]}

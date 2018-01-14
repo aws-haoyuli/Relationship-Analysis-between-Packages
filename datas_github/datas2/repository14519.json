@@ -1,0 +1,1 @@
+{"name": "docker-fabric", "description": "Integration of Docker deployments into Fabric.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 71, "folkNum": 10, "watchNum": 71, "topic": ["docker", "docker-client", "docker-containers", "dockerfile", "fabric", "python"]}

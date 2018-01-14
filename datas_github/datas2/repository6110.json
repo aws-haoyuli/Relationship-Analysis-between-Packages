@@ -1,0 +1,1 @@
+{"name": "django-swingtime", "description": "Event and occurrence scheduling application for Django", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 195, "folkNum": 62, "watchNum": 195, "topic": ["calendar-events", "django", "python"]}

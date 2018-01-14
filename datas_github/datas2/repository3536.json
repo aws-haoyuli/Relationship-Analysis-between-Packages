@@ -1,0 +1,1 @@
+{"name": "pdf-redact-tools", "description": "a set of tools to help with securely redacting and stripping metadata from documents before publishing", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 350, "folkNum": 32, "watchNum": 350, "topic": []}

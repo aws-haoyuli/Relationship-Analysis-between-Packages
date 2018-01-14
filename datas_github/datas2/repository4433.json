@@ -1,0 +1,1 @@
+{"name": "gmaps", "description": "Google maps for Jupyter notebooks", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 276, "folkNum": 57, "watchNum": 276, "topic": ["google-maps", "jupyter", "jupyter-widget", "maps", "python"]}

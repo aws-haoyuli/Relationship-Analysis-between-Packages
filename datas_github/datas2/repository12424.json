@@ -1,0 +1,1 @@
+{"name": "rpi_wordclock", "description": "Software to create a Raspberry Pi based wordclock", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 84, "folkNum": 46, "watchNum": 84, "topic": ["diy", "led", "leds", "python", "raspberry", "wordclock"]}

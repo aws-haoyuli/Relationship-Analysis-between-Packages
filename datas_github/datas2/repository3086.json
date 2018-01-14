@@ -1,0 +1,1 @@
+{"name": "deluge", "description": "Deluge BitTorrent Client - Official github mirror (PR's only)", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 402, "folkNum": 130, "watchNum": 402, "topic": ["bittorrent-client", "daemon", "extjs", "gtk", "python", "thin-clients"]}

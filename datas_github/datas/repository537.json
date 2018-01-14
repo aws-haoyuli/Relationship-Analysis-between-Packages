@@ -1,0 +1,1 @@
+{"name": "Safari", "description": null, "license": null, "starNum": 0, "folkNum": 2, "watchNum": 0, "topic": [], "contributors": ["djmgit"], "packages": ["flask_migrate", "ant_option = config", "os", "main", "sqlalchemy as sa", "myapp", "sqlalchemy", "flask_script", "__future__", "flask", "logging", "alembic"]}

@@ -1,0 +1,1 @@
+{"name": "infi.clickhouse_orm", "description": "A Python library for working with the ClickHouse database (https://clickhouse.yandex/)", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 78, "folkNum": 35, "watchNum": 78, "topic": []}

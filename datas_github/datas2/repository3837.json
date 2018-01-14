@@ -1,0 +1,1 @@
+{"name": "packstack", "description": "Install utility to deploy OpenStack on multiple hosts.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 322, "folkNum": 152, "watchNum": 322, "topic": []}

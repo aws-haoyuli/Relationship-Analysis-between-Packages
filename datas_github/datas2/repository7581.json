@@ -1,0 +1,1 @@
+{"name": "MazeGenerator", "description": "Scripts for generating random solvable mazes and then solving them with various algorithms.", "license": null, "starNum": 153, "folkNum": 20, "watchNum": 153, "topic": ["maze-algorithms", "maze-generator", "maze-solver", "python", "searching-algorithms", "visualization"]}

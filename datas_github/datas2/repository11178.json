@@ -1,0 +1,1 @@
+{"name": "deep-belief-network", "description": "A Python implementation of Deep Belief Networks built upon NumPy and TensorFlow with scikit-learn compatibility", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 97, "folkNum": 51, "watchNum": 97, "topic": []}

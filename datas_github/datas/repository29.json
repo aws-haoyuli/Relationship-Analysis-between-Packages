@@ -1,0 +1,1 @@
+{"name": "FiberDGR", "description": "hypercuber", "license": null, "starNum": 0, "folkNum": 1, "watchNum": 0, "topic": [], "contributors": ["seclark"], "packages": ["time", "__future__", "numpy as np", "galfa_vel_helpers", "sys ", "astropy"]}

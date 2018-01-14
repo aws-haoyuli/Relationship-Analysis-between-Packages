@@ -1,0 +1,1 @@
+{"name": "struts-pwn", "description": "An exploit for Apache Struts CVE-2017-5638", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 266, "folkNum": 88, "watchNum": 266, "topic": ["apache", "cve-2017-5638", "exploit", "struts", "struts-pwn"]}

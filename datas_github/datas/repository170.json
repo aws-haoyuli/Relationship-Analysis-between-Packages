@@ -1,0 +1,1 @@
+{"name": "CourageBot", "description": "Courage the Cowardly Dog", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["pipriles"], "packages": ["discord", "random", "datetime as dt"]}

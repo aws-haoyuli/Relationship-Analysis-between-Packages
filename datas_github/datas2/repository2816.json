@@ -1,0 +1,1 @@
+{"name": "client-python", "description": "Official Python client library for kubernetes", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 442, "folkNum": 223, "watchNum": 442, "topic": ["client-python", "k8s", "kubernetes", "library", "sig-api-machinery"]}

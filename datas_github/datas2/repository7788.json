@@ -1,0 +1,1 @@
+{"name": "pytorch-pruning", "description": "PyTorch Implementation of [1611.06440] Pruning Convolutional Neural Networks for Resource Efficient Inference", "license": null, "starNum": 149, "folkNum": 37, "watchNum": 149, "topic": ["deep-learning", "pruning", "pytorch"]}

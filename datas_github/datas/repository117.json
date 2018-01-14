@@ -1,0 +1,1 @@
+{"name": "app-raspi-car", "description": "raspi-car project", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["rotace"], "packages": ["pygame", "os", "socket", "PyQt5", "sys", "serial", "sip", "gui", "time", "platform", "logging"]}

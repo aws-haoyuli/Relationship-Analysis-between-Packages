@@ -1,0 +1,1 @@
+{"name": "WorldsFirstSha2Vulnerability", "description": "Sha256 vulnerability for full rounds. Circular hash attack.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 157, "folkNum": 28, "watchNum": 157, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "cssdbpy", "description": "Fastest SSDB client written on Cython. Production ready", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 76, "folkNum": 6, "watchNum": 76, "topic": ["key-value", "leveldb", "python-client", "ssdb", "ssdb-client"]}

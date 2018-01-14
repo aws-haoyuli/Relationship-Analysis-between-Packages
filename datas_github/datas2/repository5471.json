@@ -1,0 +1,1 @@
+{"name": "object-detector", "description": "Object Detection Framework using HOG as descriptor and Linear SVM as classifier.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 221, "folkNum": 156, "watchNum": 221, "topic": []}

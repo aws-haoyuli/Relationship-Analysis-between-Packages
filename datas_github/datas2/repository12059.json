@@ -1,0 +1,1 @@
+{"name": "elasticsearch-test-data", "description": "Generate and upload test data to Elasticsearch for eg. performance and load testing", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 88, "folkNum": 38, "watchNum": 88, "topic": ["data", "elasticsearch", "python", "test-data", "tornado"]}

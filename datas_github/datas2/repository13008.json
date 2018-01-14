@@ -1,0 +1,1 @@
+{"name": "python-xss-filter", "description": "Based on native Python module HTMLParser purifier of HTML, To Clear all javascript in html", "license": null, "starNum": 80, "folkNum": 41, "watchNum": 80, "topic": ["htmlparser-purifier", "xss"]}

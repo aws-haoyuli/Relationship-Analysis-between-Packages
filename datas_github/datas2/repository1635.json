@@ -1,0 +1,1 @@
+{"name": "emcee", "description": "The Python ensemble sampling toolkit for affine-invariant MCMC", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 763, "folkNum": 296, "watchNum": 763, "topic": ["mcmc", "mcmc-sampler", "probabilistic-data-analysis", "python"]}

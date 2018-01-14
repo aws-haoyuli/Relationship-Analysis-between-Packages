@@ -1,0 +1,1 @@
+{"name": "ds_store_exp", "description": "A .DS_Store file disclosure exploit.   It parse .DS_Store file and download files recursively.", "license": null, "starNum": 172, "folkNum": 63, "watchNum": 172, "topic": []}

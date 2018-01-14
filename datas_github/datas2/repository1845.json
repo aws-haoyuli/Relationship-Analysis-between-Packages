@@ -1,0 +1,1 @@
+{"name": "googleapis", "description": "Interface definitions for a small (but growing) set of Google APIs", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 682, "folkNum": 175, "watchNum": 682, "topic": ["protocol-buffers"]}

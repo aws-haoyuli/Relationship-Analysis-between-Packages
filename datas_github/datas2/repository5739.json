@@ -1,0 +1,1 @@
+{"name": "GRU4Rec", "description": "GRU4Rec is the cleaned & simplified implementation of the algorithm of the \"Session-based Recommendations with Recurrent Neural Networks\" paper, published at ICLR 2016. The code is stripped of features that we had found to be unhelpful in increasing accuracy.", "license": null, "starNum": 210, "folkNum": 69, "watchNum": 210, "topic": []}

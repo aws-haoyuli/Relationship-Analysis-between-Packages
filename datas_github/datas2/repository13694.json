@@ -1,0 +1,1 @@
+{"name": "aiosmtpd", "description": "A reimplementation of the Python stdlib smtpd.py based on asyncio.", "license": null, "starNum": 76, "folkNum": 20, "watchNum": 76, "topic": ["asyncio", "lmtp", "smtp", "smtp-server"]}

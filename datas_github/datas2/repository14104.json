@@ -1,0 +1,1 @@
+{"name": "jinja-assets-compressor", "description": "A Jinja extension (compatible with Flask and other frameworks) to compile and/or compress your assets.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 73, "folkNum": 12, "watchNum": 73, "topic": []}

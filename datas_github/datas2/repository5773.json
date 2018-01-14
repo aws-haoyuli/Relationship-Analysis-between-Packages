@@ -1,0 +1,1 @@
+{"name": "ncclient", "description": "Python library for NETCONF clients (http://ncclient.org)", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 208, "folkNum": 183, "watchNum": 208, "topic": ["ncclient", "netconf", "official-python-netconf", "python", "python-library"]}

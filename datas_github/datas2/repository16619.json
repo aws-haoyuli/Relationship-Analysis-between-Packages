@@ -1,0 +1,1 @@
+{"name": "magicblue", "description": "\ud83d\udca1 Unofficial Python API to control Magic Blue bulbs over Bluetooth", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 58, "folkNum": 13, "watchNum": 58, "topic": ["ble", "bluetooth", "bulb", "iot", "magic-blue-bulbs", "python", "raspberry-pi"]}

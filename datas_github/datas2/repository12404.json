@@ -1,0 +1,1 @@
+{"name": "hprof2flamegraph", "description": "Flame Graph visualization for Java (HPROF, Honest-profiler)", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 85, "folkNum": 10, "watchNum": 85, "topic": []}

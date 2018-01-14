@@ -1,0 +1,1 @@
+{"name": "gitman", "description": "Language-agnostic \"dependency manager\" using Git.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 82, "folkNum": 9, "watchNum": 82, "topic": ["command-line", "dependency-manager", "git", "version-control"]}

@@ -1,0 +1,1 @@
+{"name": "ec2-scheduler", "description": "The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance. ", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 77, "folkNum": 32, "watchNum": 77, "topic": []}

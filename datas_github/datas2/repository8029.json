@@ -1,0 +1,1 @@
+{"name": "python-sounddevice", "description": ":sound: Play and Record Sound with Python :snake:", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 143, "folkNum": 28, "watchNum": 143, "topic": ["audio", "portaudio", "python", "soundcard"]}

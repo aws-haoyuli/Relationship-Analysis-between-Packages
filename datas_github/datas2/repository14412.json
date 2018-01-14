@@ -1,0 +1,1 @@
+{"name": "trakt.py", "description": "Python interface for the Trakt.tv API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 71, "folkNum": 20, "watchNum": 71, "topic": ["api-client", "python", "trakt"]}

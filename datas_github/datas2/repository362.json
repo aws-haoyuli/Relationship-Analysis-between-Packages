@@ -1,0 +1,1 @@
+{"name": "jrnl", "description": "A simple command line journal application that stores your journal in a plain text file.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2851, "folkNum": 255, "watchNum": 2851, "topic": ["dayone", "journal", "journal-application", "jrnl", "python"]}

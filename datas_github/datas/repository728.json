@@ -1,0 +1,1 @@
+{"name": "python-chart-raspi-humidity-data", "description": "Track and view humidity/temp data with Rasp Pi and DHT11 sensor ", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["marigerr"], "packages": ["signal", "datetime", "Adafruit_DHT", "pymongo", "traceback", "time", "urllib", "settings", "json"]}

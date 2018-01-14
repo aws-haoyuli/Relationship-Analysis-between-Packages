@@ -1,0 +1,1 @@
+{"name": "datacube-core", "description": "Open Data Cube analyses continental scale Earth Observation data through time", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 75, "folkNum": 36, "watchNum": 75, "topic": ["gdal", "gis", "netcdf", "numpy", "python", "raster", "remote-sensing", "scientific-computing"]}

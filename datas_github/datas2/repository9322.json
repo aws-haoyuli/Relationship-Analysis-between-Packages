@@ -1,0 +1,1 @@
+{"name": "adjustText", "description": "A small library for automatically adjusting text position in matplotlib plots to minimize overlaps.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 121, "folkNum": 18, "watchNum": 121, "topic": ["graph", "matplotlib", "plot", "plotting", "python", "text"]}

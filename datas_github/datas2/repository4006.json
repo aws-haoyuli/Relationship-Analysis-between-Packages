@@ -1,0 +1,1 @@
+{"name": "adversarial-frcnn", "description": "A-Fast-RCNN (CVPR 2017)", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 307, "folkNum": 118, "watchNum": 307, "topic": ["adversarial-networks", "caffe", "fast-rcnn", "object-detection"]}

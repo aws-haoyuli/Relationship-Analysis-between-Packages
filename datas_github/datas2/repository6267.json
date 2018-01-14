@@ -1,0 +1,1 @@
+{"name": "channels-api", "description": "RESTful Websocket APIs with Django Rest Framework and Channels", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 190, "folkNum": 25, "watchNum": 190, "topic": ["django", "django-channels", "django-rest-framework", "python"]}

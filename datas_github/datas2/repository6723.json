@@ -1,0 +1,1 @@
+{"name": "grav", "description": "Performance visualisation tools", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 177, "folkNum": 7, "watchNum": 177, "topic": ["ebpf", "flamegraph", "monitoring", "observability", "performance"]}

@@ -1,0 +1,1 @@
+{"name": "drf-dynamic-fields", "description": "Dynamically select only a subset of fields per DRF resource, either using a whitelist or a blacklist.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 64, "folkNum": 10, "watchNum": 64, "topic": []}

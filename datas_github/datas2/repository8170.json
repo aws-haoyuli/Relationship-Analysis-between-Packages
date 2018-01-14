@@ -1,0 +1,1 @@
+{"name": "docker-blinkt-workshop", "description": "Get into physical computing with Docker and Raspberry Pi", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 140, "folkNum": 20, "watchNum": 140, "topic": ["blinkt", "clustering", "containers", "docker", "iot", "pimoroni", "raspberry-pi", "swarm"]}

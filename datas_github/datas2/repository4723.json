@@ -1,0 +1,1 @@
+{"name": "grab-site", "description": "The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 259, "folkNum": 30, "watchNum": 259, "topic": ["archiving", "crawl", "crawler", "spider", "warc"]}

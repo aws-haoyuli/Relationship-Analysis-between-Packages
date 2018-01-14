@@ -1,0 +1,1 @@
+{"name": "pseudo-python", "description": " :horse: a restricted python to javascript / c# / go / ruby / :horse: compiler", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 77, "folkNum": 6, "watchNum": 77, "topic": ["experiment", "prototype", "python-compiler", "transpiler"]}

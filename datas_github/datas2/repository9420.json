@@ -1,0 +1,1 @@
+{"name": "foremast", "description": "Spinnaker pipeline and infrastructure configuration and templating tool - Pipelines as Code.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 119, "folkNum": 26, "watchNum": 119, "topic": ["aws", "devops", "python", "spinnaker"]}

@@ -1,0 +1,1 @@
+{"name": "botnet-lab", "description": "An IRC based tool for testing the capabilities of a botnet.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 93, "folkNum": 26, "watchNum": 93, "topic": ["botnet", "botnet-lab", "irc", "irc-server", "laboratory", "security"]}

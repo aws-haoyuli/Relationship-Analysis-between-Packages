@@ -1,0 +1,1 @@
+{"name": "Qt-Python-Binding-Examples", "description": "Lots of simple and Pythonic PySide demos", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 223, "folkNum": 51, "watchNum": 223, "topic": ["gui", "pyqt4", "pyqt5", "pyside", "pyside2", "qt"]}

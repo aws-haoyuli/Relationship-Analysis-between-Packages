@@ -1,0 +1,1 @@
+{"name": "flusk", "description": "Flask based API (Flask, SQLAlchemy, Docker)", "license": null, "starNum": 86, "folkNum": 3, "watchNum": 86, "topic": ["blueprints", "cors", "docker", "flask", "json-exceptions", "middleware", "sqlalchemy"]}

@@ -1,0 +1,1 @@
+{"name": "NER-LSTM-CRF", "description": "An easy-to-use named entity recognition (NER) toolkit, implemented the Bi-LSTM+CRF model in tensorflow.", "license": null, "starNum": 96, "folkNum": 38, "watchNum": 96, "topic": ["crf", "deeplearning", "lstm", "ner", "tensorflow"]}

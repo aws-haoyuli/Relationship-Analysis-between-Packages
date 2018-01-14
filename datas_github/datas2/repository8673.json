@@ -1,0 +1,1 @@
+{"name": "onnx-caffe2", "description": "Caffe2 implementation of Open Neural Network Exchange (ONNX)", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 131, "folkNum": 29, "watchNum": 131, "topic": ["caffe2", "deep-learning", "deep-neural-networks"]}

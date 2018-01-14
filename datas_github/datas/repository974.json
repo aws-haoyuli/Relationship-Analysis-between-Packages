@@ -1,0 +1,1 @@
+{"name": "algorithm_code", "description": "\u673a\u5668\u5b66\u4e60\u3001\u7b97\u6cd5 code", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["baixl"], "packages": ["bs4", "sklearn", "numpy as np", "pandas as pd", "random", "re", "nltk"]}

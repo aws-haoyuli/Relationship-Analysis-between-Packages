@@ -1,0 +1,1 @@
+{"name": "python-fitparse", "description": "Python library to parse ANT/Garmin .FIT files", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 179, "folkNum": 92, "watchNum": 179, "topic": ["ant", "fit", "fit-sdk", "fitparse", "garmin", "python-fitparse"]}

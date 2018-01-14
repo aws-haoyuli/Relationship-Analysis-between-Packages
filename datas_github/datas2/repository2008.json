@@ -1,0 +1,1 @@
+{"name": "jexboss", "description": "JexBoss: Jboss (and Java Deserialization Vulnerabilities) verify and EXploitation Tool", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 626, "folkNum": 245, "watchNum": 626, "topic": ["deserialization", "exploit", "exploiting-vulnerabilities", "gadget", "javadeser", "reverse-shell"]}

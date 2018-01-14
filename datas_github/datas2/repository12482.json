@@ -1,0 +1,1 @@
+{"name": "flask-simpleldap", "description": "LDAP authentication extension for the Flask web framework", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 84, "folkNum": 25, "watchNum": 84, "topic": ["flask", "flask-simpleldap", "ldap-authentication", "ldap-user", "openldap", "pyldap", "python"]}

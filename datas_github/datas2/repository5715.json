@@ -1,0 +1,1 @@
+{"name": "metadataproxy", "description": "A proxy for AWS's metadata service that gives out scoped IAM credentials from STS", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 211, "folkNum": 33, "watchNum": 211, "topic": []}

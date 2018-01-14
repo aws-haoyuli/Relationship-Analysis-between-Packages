@@ -1,0 +1,1 @@
+{"name": "aws-snapshot-tool", "description": "A Python/Boto script that automates snapshot making of EBS volumes and rotating.", "license": null, "starNum": 192, "folkNum": 121, "watchNum": 192, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "pytest-rerunfailures", "description": "a py.test plugin that re-runs failed tests up to -n times to eliminate flakey failures", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 58, "folkNum": 25, "watchNum": 58, "topic": []}

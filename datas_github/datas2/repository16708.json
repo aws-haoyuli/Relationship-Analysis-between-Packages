@@ -1,0 +1,1 @@
+{"name": "deceptiveidn", "description": "Use computer vision to determine if an IDN can be interpreted as something it's not", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 58, "folkNum": 8, "watchNum": 58, "topic": ["computer-vision", "idn", "python3", "security"]}

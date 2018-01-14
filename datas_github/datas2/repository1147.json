@@ -1,0 +1,1 @@
+{"name": "tf-faster-rcnn", "description": "Tensorflow Faster RCNN for Object Detection", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1071, "folkNum": 493, "watchNum": 1071, "topic": ["coco", "faster-rcnn", "mobilenet", "object-detection", "resnet", "tensorboard", "tensorflow", "voc"]}

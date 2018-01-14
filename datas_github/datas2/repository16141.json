@@ -1,0 +1,1 @@
+{"name": "zh-NER-TF", "description": "A simple BiLSTM-CRF model for Chinese Named Entity Recognition task", "license": null, "starNum": 61, "folkNum": 31, "watchNum": 61, "topic": ["bilstm-crf-model", "named-entity-recognition", "tensorflow"]}

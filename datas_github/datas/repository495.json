@@ -1,0 +1,1 @@
+{"name": "CoachsCornerApp", "description": "Coachs Corner - A Sports Team Creation App", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["wnpinto"], "packages": ["os", "Django", "sys", "django"]}

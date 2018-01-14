@@ -1,0 +1,1 @@
+{"name": "async_deep_reinforce", "description": "Asynchronous Methods for Deep Reinforcement Learning", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 439, "folkNum": 164, "watchNum": 439, "topic": ["a3c", "deep-learning", "reinforcement-learning", "tensorflow"]}

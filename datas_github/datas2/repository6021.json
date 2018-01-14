@@ -1,0 +1,1 @@
+{"name": "django-webtest", "description": "django-webtest provides integration of Ian Bicking's WebTest (http://docs.pylonsproject.org/projects/webtest/) with django's testing framework.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 199, "folkNum": 43, "watchNum": 199, "topic": []}

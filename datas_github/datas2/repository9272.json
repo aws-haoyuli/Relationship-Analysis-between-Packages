@@ -1,0 +1,1 @@
+{"name": "pymanopt", "description": "Python toolbox for optimization on manifolds with support for automatic differentiation", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 121, "folkNum": 31, "watchNum": 121, "topic": []}

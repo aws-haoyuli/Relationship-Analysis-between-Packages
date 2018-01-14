@@ -1,0 +1,1 @@
+{"name": "maniahandconverter", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["yochess"], "packages": ["", "os", "sys", "Django", "time", "json", "django"]}

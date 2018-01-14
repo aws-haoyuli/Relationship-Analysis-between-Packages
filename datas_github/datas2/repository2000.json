@@ -1,0 +1,1 @@
+{"name": "altify", "description": "Uses deep learning to caption images in an HTML file and fills out its alternative text attributes with the related caption", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 628, "folkNum": 48, "watchNum": 628, "topic": []}

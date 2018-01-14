@@ -1,0 +1,1 @@
+{"name": "perf", "description": "Toolkit to run Python benchmarks", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 113, "folkNum": 16, "watchNum": 113, "topic": ["benchmarking", "python"]}

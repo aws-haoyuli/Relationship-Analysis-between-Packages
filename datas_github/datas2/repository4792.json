@@ -1,0 +1,1 @@
+{"name": "pytorch-caffe-darknet-convert", "description": "convert between pytorch, caffe prototxt/weights and darknet cfg/weights", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 256, "folkNum": 78, "watchNum": 256, "topic": ["caffe", "convert", "darknet", "pytorch", "weight", "yolo", "yolo2"]}

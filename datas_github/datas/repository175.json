@@ -1,0 +1,1 @@
+{"name": "py-distilledESL", "description": null, "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 3, "watchNum": 0, "topic": [], "contributors": ["rht"], "packages": ["message_agent", "economicsl", "unittest", "give_agent", "setuptools"]}

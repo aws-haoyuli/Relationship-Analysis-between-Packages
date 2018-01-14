@@ -1,0 +1,1 @@
+{"name": "tablesnap", "description": "Uses inotify to monitor Cassandra SSTables and upload them to S3", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 137, "folkNum": 79, "watchNum": 137, "topic": []}

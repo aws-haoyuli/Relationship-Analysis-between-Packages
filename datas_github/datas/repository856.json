@@ -1,0 +1,1 @@
+{"name": "studying", "description": "All about cool stuff o/", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["fsdude"], "packages": ["PyQt5", "sys", "numpy as np", "bge;", "the keyboard's logic", "random", "re"]}

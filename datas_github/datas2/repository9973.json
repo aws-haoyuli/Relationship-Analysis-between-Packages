@@ -1,0 +1,1 @@
+{"name": "universal_robot", "description": "ROS-Industrial universal robot meta-package (http://wiki.ros.org/universal_robot)", "license": null, "starNum": 111, "folkNum": 231, "watchNum": 111, "topic": ["driver", "moveit", "ros-industrial", "universal-robots", "ur", "urdf"]}

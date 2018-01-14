@@ -1,0 +1,1 @@
+{"name": "tably", "description": "Python command-line script for converting .csv data to LaTeX tables", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 135, "folkNum": 5, "watchNum": 135, "topic": ["cli", "command-line", "csv", "latex", "python", "python3", "table"]}

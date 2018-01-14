@@ -1,0 +1,1 @@
+{"name": "image_histogram", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["TakakiNishio"], "packages": ["colorsys", "PIL", "numpy as np", "argparse", "cv2"]}

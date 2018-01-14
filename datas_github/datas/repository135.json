@@ -1,0 +1,1 @@
+{"name": "YoloKerasFaceDetection", "description": "Face Detection using Yolo and Keras", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["abars"], "packages": ["os", "keras", "matplotlib", "plaidml", "sys"]}

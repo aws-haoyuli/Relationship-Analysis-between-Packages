@@ -1,0 +1,1 @@
+{"name": "xvfbwrapper", "description": "Manage headless displays with Xvfb (X virtual framebuffer)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 124, "folkNum": 27, "watchNum": 124, "topic": ["display-server", "headless", "headless-testing", "linux", "python", "python3", "x11", "xvfb"]}

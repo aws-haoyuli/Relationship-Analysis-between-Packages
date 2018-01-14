@@ -1,0 +1,1 @@
+{"name": "django-templated-email", "description": "Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 349, "folkNum": 94, "watchNum": 349, "topic": []}

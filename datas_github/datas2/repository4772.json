@@ -1,0 +1,1 @@
+{"name": "sklearn-porter", "description": "Transpile trained scikit-learn estimators to C, Java, JavaScript and others.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 256, "folkNum": 37, "watchNum": 256, "topic": ["data-science", "machine-learning", "scikit-learn", "sklearn"]}

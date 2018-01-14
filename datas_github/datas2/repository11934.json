@@ -1,0 +1,1 @@
+{"name": "pyley", "description": "Python client for an open-source graph database Cayley", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 90, "folkNum": 22, "watchNum": 90, "topic": ["cayley", "graph-database", "python"]}

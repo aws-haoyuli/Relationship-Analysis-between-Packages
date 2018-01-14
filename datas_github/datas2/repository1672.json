@@ -1,0 +1,1 @@
+{"name": "security-growler", "description": ":satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.", "license": null, "starNum": 747, "folkNum": 31, "watchNum": 747, "topic": ["alerts", "logfile", "mac", "menubar", "python", "security", "snitch"]}

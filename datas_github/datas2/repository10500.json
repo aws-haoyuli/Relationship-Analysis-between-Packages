@@ -1,0 +1,1 @@
+{"name": "binja-retdec", "description": "Binary Ninja plugin to decompile binaries using RetDec API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 104, "folkNum": 18, "watchNum": 104, "topic": ["binary-ninja", "decompilation", "retdec", "reverse-engineering"]}

@@ -1,0 +1,1 @@
+{"name": "hidefile", "description": "HideFile", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["tinterpool"], "packages": ["stepic", "getpass", "sys", "PIL", "warnings", "AESdef", "base64", "optparse"]}

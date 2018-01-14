@@ -1,0 +1,1 @@
+{"name": "reading-text-in-the-wild", "description": "A Keras/Theano implementation of \"Reading Text in the Wild with Convolutional Neural Networks\" by M Jaderberg et.al.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 75, "folkNum": 25, "watchNum": 75, "topic": []}

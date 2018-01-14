@@ -1,0 +1,1 @@
+{"name": "django-herald", "description": "A Django messaging library", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 84, "folkNum": 6, "watchNum": 84, "topic": ["attachment", "disable-notifications", "django", "email", "history", "notifications", "preview", "sms"]}

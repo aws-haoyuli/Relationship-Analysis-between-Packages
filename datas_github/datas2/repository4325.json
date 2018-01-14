@@ -1,0 +1,1 @@
+{"name": "shell-functools", "description": "Functional programming tools for the shell", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 282, "folkNum": 10, "watchNum": 282, "topic": ["command-line", "filesystem", "functional-programming", "shell", "string-manipulation"]}

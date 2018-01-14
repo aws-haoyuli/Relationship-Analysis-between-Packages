@@ -1,0 +1,1 @@
+{"name": "deeplearning-cfn", "description": "Distributed Deep Learning on AWS Using CloudFormation (CFN), MXNet and TensorFlow", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 164, "folkNum": 67, "watchNum": 164, "topic": ["deeplearning", "mxnet"]}

@@ -1,0 +1,1 @@
+{"name": "quarry", "description": "A Python library that implements the Minecraft network protocol.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 65, "folkNum": 14, "watchNum": 65, "topic": ["client", "minecraft", "protocol", "proxy", "python", "server"]}

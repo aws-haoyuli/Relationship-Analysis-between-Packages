@@ -1,0 +1,1 @@
+{"name": "Instant-Lyrics", "description": "Shows lyrics of the currently playing Spotify song, or any song, instantly.", "license": null, "starNum": 133, "folkNum": 23, "watchNum": 133, "topic": ["gtk3", "linux-app", "lyrics", "pygobject", "spotify"]}

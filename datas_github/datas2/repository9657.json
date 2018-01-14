@@ -1,0 +1,1 @@
+{"name": "capsule-networks", "description": "A Tensorflow(v1.4) implementation of Capsule Networks (Dynamic Routing Between Capsules , https://arxiv.org/abs/1710.09829)", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 116, "folkNum": 12, "watchNum": 116, "topic": []}

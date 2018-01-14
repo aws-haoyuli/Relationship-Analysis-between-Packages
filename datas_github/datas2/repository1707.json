@@ -1,0 +1,1 @@
+{"name": "django-tenant-schemas", "description": "Tenant support for Django using PostgreSQL schemas.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 734, "folkNum": 239, "watchNum": 734, "topic": []}

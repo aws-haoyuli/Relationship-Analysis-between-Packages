@@ -1,0 +1,1 @@
+{"name": "kaggle101", "description": "Kaggle Master 2nd", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["aimmvp"], "packages": ["numpy as np", "bson", "pymongo", "pandas as pd", "csv"]}

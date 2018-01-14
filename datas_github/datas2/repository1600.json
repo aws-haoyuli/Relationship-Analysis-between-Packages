@@ -1,0 +1,1 @@
+{"name": "spotlight", "description": "Deep recommender models using PyTorch.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 775, "folkNum": 108, "watchNum": 775, "topic": ["deep-learning", "learning-to-rank", "machine-learning", "matrix-factorization", "python", "pytorch", "recommender-system"]}

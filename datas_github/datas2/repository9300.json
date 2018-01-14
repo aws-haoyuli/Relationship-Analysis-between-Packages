@@ -1,0 +1,1 @@
+{"name": "keras-grad-cam", "description": "An implementation of Grad-CAM with keras", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 121, "folkNum": 39, "watchNum": 121, "topic": ["deep-learning", "grad-cam", "keras", "visualization"]}

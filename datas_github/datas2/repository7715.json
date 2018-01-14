@@ -1,0 +1,1 @@
+{"name": "django-oidc-provider", "description": "OpenID Connect Provider implementation for Djangonauts.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 151, "folkNum": 89, "watchNum": 151, "topic": ["django", "identity", "oauth2", "openid", "openid-connect", "python"]}

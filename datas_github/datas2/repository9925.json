@@ -1,0 +1,1 @@
+{"name": "temper-python", "description": "libusb/PyUSB-based driver to read TEMPer USB HID devices (USB ID 0c45:7401) and serve as a NetSNMP passpersist module", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 112, "folkNum": 52, "watchNum": 112, "topic": []}

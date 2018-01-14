@@ -1,0 +1,1 @@
+{"name": "jondis", "description": "Jon's Redis Pool.   Provides Master / Slave discovery and failover ", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 64, "folkNum": 18, "watchNum": 64, "topic": []}

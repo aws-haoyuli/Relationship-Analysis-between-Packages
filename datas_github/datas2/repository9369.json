@@ -1,0 +1,1 @@
+{"name": "mpi4py", "description": "Python bindings for MPI", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 120, "folkNum": 30, "watchNum": 120, "topic": ["mpi", "mpi-applications", "mpi-library", "mpi4py", "parallel-computing", "python", "python-2", "python-3"]}

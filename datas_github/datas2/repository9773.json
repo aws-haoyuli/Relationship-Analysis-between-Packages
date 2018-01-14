@@ -1,0 +1,1 @@
+{"name": "picotool", "description": "Tools and Python libraries for manipulating Pico-8 game files. http://www.lexaloffle.com/pico-8.php", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 114, "folkNum": 7, "watchNum": 114, "topic": ["lua", "pico-8"]}

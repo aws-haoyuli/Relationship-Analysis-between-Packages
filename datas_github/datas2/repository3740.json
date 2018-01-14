@@ -1,0 +1,1 @@
+{"name": "Kyoukai", "description": "[OLD] A fully async web framework for Python3.5+ using asyncio", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 331, "folkNum": 15, "watchNum": 331, "topic": ["asyncio"]}

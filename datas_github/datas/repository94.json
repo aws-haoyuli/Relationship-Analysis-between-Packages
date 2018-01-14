@@ -1,0 +1,1 @@
+{"name": "gogit", "description": "\u4e00\u4e2a\u7ed3\u5408 Crontab \u5b9a\u65f6\u63a8\u9001 Github \u6216 Coding \u5e93\u5c0f\u73a9\u610f\u3002", "license": null, "starNum": 5, "folkNum": 4, "watchNum": 5, "topic": ["crontab-python", "gogit", "python"], "contributors": ["HavenShen"], "packages": ["os", "time", "random", "subprocess", "sys"]}

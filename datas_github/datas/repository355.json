@@ -1,0 +1,1 @@
+{"name": "seirc", "description": null, "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["ToxicFrog"], "packages": ["os", "re", "logging", "html"]}

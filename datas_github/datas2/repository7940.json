@@ -1,0 +1,1 @@
+{"name": "flask-kvsession", "description": "A drop-in replacement for Flask's session handling using server-side sessions.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 145, "folkNum": 35, "watchNum": 145, "topic": []}

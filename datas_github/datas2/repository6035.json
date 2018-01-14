@@ -1,0 +1,1 @@
+{"name": "httplib2", "description": "Small, fast HTTP client library for Python. Features persistent connections, cache, Appengine support. Originally written by Joe Gregorio, now supported by community.", "license": null, "starNum": 198, "folkNum": 61, "watchNum": 198, "topic": ["http", "http-client", "network", "python"]}

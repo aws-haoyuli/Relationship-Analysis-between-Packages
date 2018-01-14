@@ -1,0 +1,1 @@
+{"name": "StyleFrame", "description": "A library that wraps pandas and openpyxl and allows easy styling of dataframes in excel", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 128, "folkNum": 12, "watchNum": 128, "topic": ["data-frame", "dataframe", "excel", "openpyxl"]}

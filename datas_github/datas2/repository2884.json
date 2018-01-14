@@ -1,0 +1,1 @@
+{"name": "walrus", "description": "Lightweight Python utilities for working with Redis", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 431, "folkNum": 29, "watchNum": 431, "topic": ["autocomplete", "database", "full-text-search", "orm", "python", "redis"]}

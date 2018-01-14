@@ -1,0 +1,1 @@
+{"name": "smartFarmProject", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Wo-Ki"], "packages": ["models", "JsonDataManger", "socket", "sqlalchemy", "flask", "datetime", "MysqlUpdateCtrl", "camera_opencv", "exts", "config", "threading", "time", "werkzeug", "json", "fabric"]}

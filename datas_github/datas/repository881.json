@@ -1,0 +1,1 @@
+{"name": "PyRates", "description": "A general purpose analog (firing rate) neural network model framework in Python", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["p-enel"], "packages": ["distutils", "numpy", "matplotlib"]}

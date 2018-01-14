@@ -1,0 +1,1 @@
+{"name": "guv", "description": "A fast event loop like gevent for Python 3, built on greenlets and libuv", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 230, "folkNum": 13, "watchNum": 230, "topic": []}

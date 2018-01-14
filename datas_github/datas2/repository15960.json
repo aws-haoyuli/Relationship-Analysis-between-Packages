@@ -1,0 +1,1 @@
+{"name": "jupyter_tensorboard", "description": "Start Tensorboard in Jupyter Notebook", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 63, "folkNum": 8, "watchNum": 63, "topic": ["jupyter", "jupyter-notebook", "tensorboard", "tensorflow"]}

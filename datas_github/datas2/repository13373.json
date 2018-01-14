@@ -1,0 +1,1 @@
+{"name": "GPflowOpt", "description": "Bayesian Optimization using GPflow", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 78, "folkNum": 16, "watchNum": 78, "topic": ["bayesian-optimization", "gpflow", "hyperparameter-optimization", "machine-learning"]}

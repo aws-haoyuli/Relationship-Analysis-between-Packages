@@ -1,0 +1,1 @@
+{"name": "tensorfow-rbm", "description": "Tensorflow implementation of Restricted Boltzmann Machine", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 127, "folkNum": 71, "watchNum": 127, "topic": ["machine-learning", "machine-learning-algorithms", "rbm", "sklearn-compatible", "tensorflow"]}

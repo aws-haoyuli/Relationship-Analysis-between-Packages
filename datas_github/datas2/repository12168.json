@@ -1,0 +1,1 @@
+{"name": "netius", "description": "Readable, simple and fast asynchronous non-blocking network apps", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 87, "folkNum": 5, "watchNum": 87, "topic": ["http", "http2", "library", "net", "wsgi"]}

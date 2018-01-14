@@ -1,0 +1,1 @@
+{"name": "ec2", "description": "Sugar on top of boto for accessing EC2 instances and security groups", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 137, "folkNum": 13, "watchNum": 137, "topic": []}

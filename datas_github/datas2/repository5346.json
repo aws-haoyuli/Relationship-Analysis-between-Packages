@@ -1,0 +1,1 @@
+{"name": "hotqueue", "description": "HotQueue is a Python library that allows you to use Redis as a message queue within your Python programs.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 227, "folkNum": 40, "watchNum": 227, "topic": []}

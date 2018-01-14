@@ -1,0 +1,1 @@
+{"name": "micropython-upyphone", "description": "A gsm phone using pyboard and sim800l", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 350, "folkNum": 20, "watchNum": 350, "topic": []}

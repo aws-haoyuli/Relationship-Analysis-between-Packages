@@ -1,0 +1,1 @@
+{"name": "imdb", "description": "python script to automatically open up Spreadsheet consisting of details of the movie like Rating,Genre,Runtime,Plot,Awards etc whose folder is passed as parameter to the python script via \"Send-to\"", "license": null, "starNum": 90, "folkNum": 75, "watchNum": 90, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "tesserocr", "description": "A Python wrapper for the tesseract-ocr API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 581, "folkNum": 65, "watchNum": 581, "topic": ["cython", "ocr", "optical-character-recognition", "python-library", "tesseract"]}

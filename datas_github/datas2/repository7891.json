@@ -1,0 +1,1 @@
+{"name": "hide_code", "description": "Code, prompt and output hiding for Jupyter/IPython notebooks.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 146, "folkNum": 16, "watchNum": 146, "topic": ["code-hiding", "export", "jupyter", "nbconvert", "notebook", "pdf-export"]}

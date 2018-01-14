@@ -1,0 +1,1 @@
+{"name": "repository.monster", "description": "Monster Repo", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["bluedangerforyou"], "packages": ["os", "md5", "shutil", "re", "zipfile"]}

@@ -1,0 +1,1 @@
+{"name": "CVE-Scan", "description": "Scan systems with NMap and parse the output to a list of CVE's, CWE's and DPE's", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 114, "folkNum": 33, "watchNum": 114, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "nfcpy", "description": "A Python module to read/write NFC tags or communicate with another NFC device.", "license": {"key": "eupl-1.1", "name": "European Union Public License 1.1", "spdx_id": "EUPL-1.1", "url": "https://api.github.com/licenses/eupl-1.1"}, "starNum": 108, "folkNum": 41, "watchNum": 108, "topic": ["nfc", "nfc-library", "python", "python-library"]}

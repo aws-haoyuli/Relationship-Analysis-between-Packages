@@ -1,0 +1,1 @@
+{"name": "ebooklib", "description": "Python E-book library for handling books in EPUB2/EPUB3 and Kindle format - ", "license": {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0"}, "starNum": 344, "folkNum": 77, "watchNum": 344, "topic": ["epub", "python", "python-library"]}

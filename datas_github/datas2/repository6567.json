@@ -1,0 +1,1 @@
+{"name": "authlib", "description": "An ambitious authentication library for OAuth 1, OAuth 2, OpenID clients and servers.", "license": null, "starNum": 182, "folkNum": 6, "watchNum": 182, "topic": ["authlib", "django", "flask", "oauth", "oauth2", "oauth2-provider", "oauth2-server", "oidc"]}

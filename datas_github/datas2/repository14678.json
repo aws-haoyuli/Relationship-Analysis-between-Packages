@@ -1,0 +1,1 @@
+{"name": "OpenCLGA", "description": "A Python Library for Genetic Algorithm on OpenCL", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 70, "folkNum": 14, "watchNum": 70, "topic": ["cpu", "genetic-algorithm", "gpu-computing", "opencl", "opencl-kernels", "opencl-library", "pyopencl", "python", "tsp"]}

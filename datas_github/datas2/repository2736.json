@@ -1,0 +1,1 @@
+{"name": "django-rest-framework-gis", "description": "Geographic add-ons for Django REST Framework", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 457, "folkNum": 108, "watchNum": 457, "topic": ["django", "django-rest-framework", "geojson", "gis", "python"]}

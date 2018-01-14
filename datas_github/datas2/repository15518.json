@@ -1,0 +1,1 @@
+{"name": "lambda-dynamodb-local", "description": "A Container-based local runtime for AWS Lambda (Python) + DynamoDB", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 65, "folkNum": 6, "watchNum": 65, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "BrundleFuzz", "description": "BrundleFuzz is a distributed fuzzer for Windows and Linux using dynamic binary instrumentation.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 64, "folkNum": 32, "watchNum": 64, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "django-heroku-memcacheify", "description": "Automatic Django memcached configuration on Heroku.", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 94, "folkNum": 11, "watchNum": 94, "topic": []}

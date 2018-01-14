@@ -1,0 +1,1 @@
+{"name": "microblog", "description": "A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1026, "folkNum": 376, "watchNum": 1026, "topic": ["flask", "python", "webapp"]}

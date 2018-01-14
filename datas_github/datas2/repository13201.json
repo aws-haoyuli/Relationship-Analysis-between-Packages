@@ -1,0 +1,1 @@
+{"name": "django-redis-metrics", "description": "Metrics for django apps backed by Redis.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 79, "folkNum": 18, "watchNum": 79, "topic": ["developer-tools", "django", "metrics", "redis"]}

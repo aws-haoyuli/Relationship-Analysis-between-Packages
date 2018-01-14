@@ -1,0 +1,1 @@
+{"name": "MEMDS", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["moveurbody"], "packages": ["log_module", "copy", "math", "numpy as np"]}

@@ -1,0 +1,1 @@
+{"name": "NBAPlayerComparisonsMVPViz", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Filip11"], "packages": ["os ", "bs4", "urllib2", "csv"]}

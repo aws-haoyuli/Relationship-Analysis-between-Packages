@@ -1,0 +1,1 @@
+{"name": "python-paillier", "description": "A library for Partially Homomorphic Encryption in Python", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 100, "folkNum": 24, "watchNum": 100, "topic": ["cryptography", "homomorphic-encryption", "paillier", "python"]}

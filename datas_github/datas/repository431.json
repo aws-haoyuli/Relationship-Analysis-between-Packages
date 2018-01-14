@@ -1,0 +1,1 @@
+{"name": "lightfulcontroller", "description": "Python controller code for my LED lighting project", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["fallenpanda1"], "packages": ["light_engine", "color", "abc", "time", "logging", "copy"]}

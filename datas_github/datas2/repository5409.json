@@ -1,0 +1,1 @@
+{"name": "django-role-permissions", "description": "A django app for role based permissions.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 224, "folkNum": 46, "watchNum": 224, "topic": ["django", "permissions", "python", "roles"]}

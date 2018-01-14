@@ -1,0 +1,1 @@
+{"name": "django-publications", "description": "A Django app for managing scientific publications.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 71, "folkNum": 32, "watchNum": 71, "topic": ["bibtex", "django", "publishing", "python", "science"]}

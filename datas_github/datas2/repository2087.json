@@ -1,0 +1,1 @@
+{"name": "pointnet", "description": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 606, "folkNum": 281, "watchNum": 606, "topic": ["classification", "geometry-processing", "neural-network", "point-cloud", "segmentation", "tensorflow"]}

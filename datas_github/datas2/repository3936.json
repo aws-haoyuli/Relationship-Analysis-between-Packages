@@ -1,0 +1,1 @@
+{"name": "influxdb-relay", "description": "Service to replicate InfluxDB data for high availability", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 313, "folkNum": 119, "watchNum": 313, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "pychromecast", "description": "Library for Python 2 and 3 to communicate with the Google Chromecast.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1005, "folkNum": 163, "watchNum": 1005, "topic": ["cast", "chromecast", "chromecast-audio", "internet-of-things", "python"]}

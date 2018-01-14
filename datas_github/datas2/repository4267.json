@@ -1,0 +1,1 @@
+{"name": "flask-rest-jsonapi", "description": "Flask extension to build REST APIs around JSONAPI 1.0 specification.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 286, "folkNum": 39, "watchNum": 286, "topic": ["flask", "jsonapi", "marshmallow", "sqlalchemy"]}

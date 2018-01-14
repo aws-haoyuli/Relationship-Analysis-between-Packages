@@ -1,0 +1,1 @@
+{"name": "tabula-py", "description": "Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 215, "folkNum": 50, "watchNum": 215, "topic": []}

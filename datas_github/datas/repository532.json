@@ -1,0 +1,1 @@
+{"name": "scrapy", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["oasis2811623"], "packages": ["amazon", "BeautifulSoup", "sys", "pathos", "meipai", "json", "__init__", "time", "multiprocessing", "urllib", "random", "requests", "re", "Queue"]}

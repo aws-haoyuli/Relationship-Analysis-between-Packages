@@ -1,0 +1,1 @@
+{"name": "dashboards_bundlers", "description": "[RETIRED] Converts a notebook to a dashboard and deploys it / downloads it", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 67, "folkNum": 14, "watchNum": 67, "topic": ["dashboards", "jupyter"]}

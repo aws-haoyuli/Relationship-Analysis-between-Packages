@@ -1,0 +1,1 @@
+{"name": "aws-shell", "description": "An integrated shell for working with the AWS CLI.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 3508, "folkNum": 222, "watchNum": 3508, "topic": ["aws", "aws-cli", "cloud", "cloud-management"]}

@@ -1,0 +1,1 @@
+{"name": "Ktinter_Learning", "description": "Learn Ktinter", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["zhangzhentctc"], "packages": ["matplotlib", "tkinter", "numpy as np", "time", "pandas"]}

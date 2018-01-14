@@ -1,0 +1,1 @@
+{"name": "selenium_extensions", "description": "Tools that will make writing tests, bots and scrapers using Selenium much easier", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 119, "folkNum": 9, "watchNum": 119, "topic": ["headless-browsers", "selenium", "selenium-webdriver", "test-automation"]}

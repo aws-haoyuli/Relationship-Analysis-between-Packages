@@ -1,0 +1,1 @@
+{"name": "pdpipe", "description": "Easy pipelines for pandas DataFrames.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 217, "folkNum": 5, "watchNum": 217, "topic": ["data", "data-science", "dataframe", "dataframes", "pandas", "pandas-dataframe", "pipeline"]}

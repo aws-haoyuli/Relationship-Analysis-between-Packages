@@ -1,0 +1,1 @@
+{"name": "pyowm", "description": "A Python wrapper around the OpenWeatherMap web API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 291, "folkNum": 56, "watchNum": 291, "topic": ["api", "api-client", "forhumans", "openweathermap", "openweathermap-api", "pyowm", "python", "python-wrapper"]}

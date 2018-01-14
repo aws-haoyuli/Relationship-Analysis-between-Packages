@@ -1,0 +1,1 @@
+{"name": "ghsync", "description": "Github Syncer. Clones or Pulls all GitHub repos (owned and watched).", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 84, "folkNum": 21, "watchNum": 84, "topic": []}

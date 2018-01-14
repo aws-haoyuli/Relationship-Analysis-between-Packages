@@ -1,0 +1,1 @@
+{"name": "django-websocket-request", "description": "Support for Django's request/response lifecycle to automatically handle WebSocket messages.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 179, "folkNum": 9, "watchNum": 179, "topic": []}

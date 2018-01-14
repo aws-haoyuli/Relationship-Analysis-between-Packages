@@ -1,0 +1,1 @@
+{"name": "OCRmyPDF", "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 582, "folkNum": 75, "watchNum": 582, "topic": ["image-processing", "ocr", "pdf", "python"]}

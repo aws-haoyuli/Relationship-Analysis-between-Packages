@@ -1,0 +1,1 @@
+{"name": "pandas-summary", "description": "An extension to pandas dataframes describe function.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 155, "folkNum": 9, "watchNum": 155, "topic": ["data-analysis", "data-science", "dataframes", "pandas", "pandas-summary"]}

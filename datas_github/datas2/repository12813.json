@@ -1,0 +1,1 @@
+{"name": "python-tdl", "description": "Pythonic part of libtcod using python-cffi", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 82, "folkNum": 6, "watchNum": 82, "topic": ["field-of-view", "libtcod", "pathfinding", "pypy", "python", "python-library", "python2", "python27", "python3", "tdl"]}

@@ -1,0 +1,1 @@
+{"name": "vod-converter", "description": "Convert between visual object detection datasets", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 65, "folkNum": 29, "watchNum": 65, "topic": ["kitti-dataset", "object-detection", "pascal-voc"]}

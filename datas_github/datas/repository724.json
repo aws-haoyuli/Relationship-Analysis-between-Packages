@@ -1,0 +1,1 @@
+{"name": "DQN-2048", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["timohe", "Vollkorn01"], "packages": ["numpy as np", "json", "os", "matplotlib"]}

@@ -1,0 +1,1 @@
+{"name": "pcap2har", "description": "A convertor from .pcap network capture files to HTTP Archive files.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 160, "folkNum": 57, "watchNum": 160, "topic": []}

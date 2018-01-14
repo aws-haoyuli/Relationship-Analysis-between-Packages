@@ -1,0 +1,1 @@
+{"name": "django-jsonfield", "description": "A reusable JSONField model for Django to store ad-hoc data", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 884, "folkNum": 214, "watchNum": 884, "topic": ["django", "json", "python"]}

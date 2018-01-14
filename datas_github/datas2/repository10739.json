@@ -1,0 +1,1 @@
+{"name": "dirbot-mysql", "description": "Scrapy project based on dirbot to show how to use Twisted's adbapi to store the scraped data in MySQL.", "license": null, "starNum": 101, "folkNum": 57, "watchNum": 101, "topic": []}

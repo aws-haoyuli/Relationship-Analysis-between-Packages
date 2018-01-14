@@ -1,0 +1,1 @@
+{"name": "mypy-django", "description": "PEP-484 type hints bindings for the Django web framework", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 142, "folkNum": 12, "watchNum": 142, "topic": []}

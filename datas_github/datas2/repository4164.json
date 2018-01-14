@@ -1,0 +1,1 @@
+{"name": "pytorch-sepconv", "description": "an implementation of Video Frame Interpolation via Adaptive Separable Convolution using PyTorch", "license": null, "starNum": 293, "folkNum": 36, "watchNum": 293, "topic": ["cuda", "deep-learning", "python", "pytorch"]}

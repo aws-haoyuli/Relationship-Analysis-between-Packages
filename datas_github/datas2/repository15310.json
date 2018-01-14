@@ -1,0 +1,1 @@
+{"name": "python-overpy", "description": "Python Wrapper to access the Overpass API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 66, "folkNum": 28, "watchNum": 66, "topic": ["openstreetmap", "overpass-api", "python", "python3", "wrapper"]}

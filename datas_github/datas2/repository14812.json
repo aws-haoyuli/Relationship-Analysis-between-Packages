@@ -1,0 +1,1 @@
+{"name": "DamnWebScanner", "description": "Another web vulnerabilities scanner, this extension works on Chrome and Opera", "license": null, "starNum": 69, "folkNum": 28, "watchNum": 69, "topic": ["extension", "lfi", "plugin", "polyglot-vector", "rce", "scans", "sql-injection", "web-vulnerabilities-scanner", "webbrowser", "xss-vulnerability"]}

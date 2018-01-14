@@ -1,0 +1,1 @@
+{"name": "BurpSmartBuster", "description": "A Burp Suite content discovery plugin that add the smart into the Buster!", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 251, "folkNum": 45, "watchNum": 251, "topic": ["brute", "bruteforce", "dirbuster", "force", "smart", "web"]}

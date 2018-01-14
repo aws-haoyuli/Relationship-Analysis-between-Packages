@@ -1,0 +1,1 @@
+{"name": "explainxkcdbot", "description": "A Reddit bot that posts explanation of the xkcd links posted in the comments", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 67, "folkNum": 13, "watchNum": 67, "topic": ["python3", "reddit-api", "reddit-bot", "scraper"]}

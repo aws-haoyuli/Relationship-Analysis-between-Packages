@@ -1,0 +1,1 @@
+{"name": "quaternion", "description": "Add built-in support for quaternions to numpy", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 80, "folkNum": 16, "watchNum": 80, "topic": ["math", "numpy", "physics", "python", "quaternion"]}

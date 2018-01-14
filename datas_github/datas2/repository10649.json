@@ -1,0 +1,1 @@
+{"name": "pueue", "description": "A fancy daemon for parallel or sequential processing of shell commands", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 102, "folkNum": 3, "watchNum": 102, "topic": ["command-line-tool", "daemon", "python3", "shell-queue"]}

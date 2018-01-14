@@ -1,0 +1,1 @@
+{"name": "Live-Bot", "description": "This bot will allow you to keep your community up to date when you go Live on Twitch", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["bsquidwrd"], "packages": ["may fail for some other reason", "os", "sys", "Django", "web", "django"]}

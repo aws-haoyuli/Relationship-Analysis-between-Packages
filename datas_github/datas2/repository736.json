@@ -1,0 +1,1 @@
+{"name": "magnetico", "description": "Autonomous (self-hosted) BitTorrent DHT search engine suite.", "license": {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0"}, "starNum": 1602, "folkNum": 187, "watchNum": 1602, "topic": ["bittorrent", "dht", "search-engine", "self-hosted", "website"]}

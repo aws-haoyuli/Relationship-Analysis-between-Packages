@@ -1,0 +1,1 @@
+{"name": "wallstreet", "description": "Real time stock and option data.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 128, "folkNum": 41, "watchNum": 128, "topic": ["black-scholes", "finance", "google-finance", "greeks", "options", "stock-data", "yahoo-finance"]}

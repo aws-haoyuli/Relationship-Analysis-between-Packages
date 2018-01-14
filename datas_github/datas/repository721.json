@@ -1,0 +1,1 @@
+{"name": "deep-nlp", "description": "Resources for Deep Learning for NLP", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["karanchahal"], "packages": ["string", "glob", "__future__", "unicodedata", "io", "model", "torch", "random"]}

@@ -1,0 +1,1 @@
+{"name": "foolbox", "description": "Python toolbox to create adversarial examples that fool neural networks", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 310, "folkNum": 43, "watchNum": 310, "topic": ["adversarial-examples", "machine-learning", "neural-networks", "python"]}

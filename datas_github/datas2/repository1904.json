@@ -1,0 +1,1 @@
+{"name": "sage", "description": "Mirror of the Sage source tree -- NO PRs! -- everything must be submitted via https://trac.sagemath.org/", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 665, "folkNum": 217, "watchNum": 665, "topic": ["algorithms", "math", "mathematics", "python", "sage"]}

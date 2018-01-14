@@ -1,0 +1,1 @@
+{"name": "modoboa", "description": "Mail hosting made simple", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 930, "folkNum": 153, "watchNum": 930, "topic": ["django", "dovecot", "email", "hosting", "javascript", "jquery", "modoboa", "postfix", "python"]}

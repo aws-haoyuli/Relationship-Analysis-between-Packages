@@ -1,0 +1,1 @@
+{"name": "pytorch_RVAE", "description": "Recurrent Variational Autoencoder that generates sequential data implemented with pytorch", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 131, "folkNum": 26, "watchNum": 131, "topic": ["deep-learning", "nlp", "python", "pytorch", "vae"]}

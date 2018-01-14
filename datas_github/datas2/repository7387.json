@@ -1,0 +1,1 @@
+{"name": "musthe", "description": "Music theory implemented in Python. Notes, intervals, scales and chords.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 158, "folkNum": 16, "watchNum": 158, "topic": ["chords", "lilypond", "music", "music-theory", "python", "scales"]}

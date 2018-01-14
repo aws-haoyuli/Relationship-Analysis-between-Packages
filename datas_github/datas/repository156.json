@@ -1,0 +1,1 @@
+{"name": "gif", "description": "python gif", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["gif", "images2gif", "python"], "contributors": ["ALISURE"], "packages": ["os", "PIL", "images2gif", "ToolGif"]}

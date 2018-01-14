@@ -1,0 +1,1 @@
+{"name": "digit-classifier", "description": "A single handwritten digit classifier, using the MNIST dataset. Pure Numpy. ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 729, "folkNum": 63, "watchNum": 729, "topic": ["beginner-friendly", "deep-learning", "neural-network"]}

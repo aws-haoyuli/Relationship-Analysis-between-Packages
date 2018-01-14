@@ -1,0 +1,1 @@
+{"name": "mlbgame", "description": "A Python API to retrieve and read MLB GameDay data", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 223, "folkNum": 44, "watchNum": 223, "topic": ["api", "baseball", "mlb", "mlb-gameday", "python", "python-api", "sports", "sports-stats"]}

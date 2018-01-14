@@ -1,0 +1,1 @@
+{"name": "tfdeploy", "description": "Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 311, "folkNum": 36, "watchNum": 311, "topic": []}

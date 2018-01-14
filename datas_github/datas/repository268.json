@@ -1,0 +1,1 @@
+{"name": "basic-sat", "description": "BasicSAT is a very limited and naive SAT Solver written in Python.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["cnf", "python", "sat-solver", "satisfiability"], "contributors": ["sfllhkhan95"], "packages": ["getopt", "sat", "sys"]}

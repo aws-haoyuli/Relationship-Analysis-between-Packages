@@ -1,0 +1,1 @@
+{"name": "netaddr", "description": "A network address manipulation library for Python", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 400, "folkNum": 85, "watchNum": 400, "topic": ["devops", "iab", "ipv4", "ipv6", "mac", "netaddr", "networking", "python", "subnet", "sysadmin"]}

@@ -1,0 +1,1 @@
+{"name": "rdflib-jsonld", "description": "JSON-LD parser and serializer plugins for RDFLib (Python 2.6+)", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 141, "folkNum": 33, "watchNum": 141, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "django-test-plus", "description": "Useful additions to Django's default TestCase", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 250, "folkNum": 31, "watchNum": 250, "topic": ["django", "testing"]}

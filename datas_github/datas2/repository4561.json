@@ -1,0 +1,1 @@
+{"name": "chromote", "description": "Simple wrapper to drive Google Chrome from Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 269, "folkNum": 27, "watchNum": 269, "topic": ["chrome-debugging-protocol", "google-chrome", "python"]}

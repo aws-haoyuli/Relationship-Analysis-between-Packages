@@ -1,0 +1,1 @@
+{"name": "salt-states", "description": "My Salt States for deploying Django/Nginx/Postgresql/uWSGI/memcache on Ubuntu 12.04", "license": null, "starNum": 97, "folkNum": 22, "watchNum": 97, "topic": []}

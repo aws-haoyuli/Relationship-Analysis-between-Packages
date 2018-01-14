@@ -1,0 +1,1 @@
+{"name": "PBA_Group", "description": "COMPGC27-Group Coursework", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Sophialiucs"], "packages": ["os", "train_input", "numpy as np", "tensorflow as tf", "re"]}

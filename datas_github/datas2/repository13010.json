@@ -1,0 +1,1 @@
+{"name": "DistanceGAN", "description": "Pytorch implementation of \"One-Sided Unsupervised Domain Mapping\"", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 80, "folkNum": 16, "watchNum": 80, "topic": ["computer-vision", "gan", "image-generation", "pytorch", "unsupervised-learning"]}

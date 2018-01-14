@@ -1,0 +1,1 @@
+{"name": "pyswagger", "description": "An OpenAPI (fka Swagger) client & converter in python, which is type-safe, dynamic, spec-compliant.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 147, "folkNum": 30, "watchNum": 147, "topic": ["openapi", "python", "swagger"]}

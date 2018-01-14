@@ -1,0 +1,1 @@
+{"name": "wsgidav", "description": "WsgiDAV is a generic WebDAV server written in Python and based on WSGI.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 174, "folkNum": 38, "watchNum": 174, "topic": ["python", "server", "webdav", "webserver", "wsgi"]}

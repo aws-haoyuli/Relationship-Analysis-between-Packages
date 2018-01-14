@@ -1,0 +1,1 @@
+{"name": "CNNGestureRecognizer", "description": "Gesture recognition via CNN. Implemented in Keras + Theano + OpenCV", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 195, "folkNum": 82, "watchNum": 195, "topic": ["gesture-recognition", "machine-learning", "python", "theano"]}

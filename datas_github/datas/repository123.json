@@ -1,0 +1,1 @@
+{"name": "fractal_map", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Oceanous"], "packages": ["scipy", "pyqtgraph as pg", "png", "pyqtgraph", "numpy as np", "math", "random"]}

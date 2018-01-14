@@ -1,0 +1,1 @@
+{"name": "twitter-sent-dnn", "description": "Deep Neural Network for Sentiment Analysis on Twitter", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 194, "folkNum": 68, "watchNum": 194, "topic": ["deep-neural-networks", "sentiment-analysis", "theano", "twitter"]}

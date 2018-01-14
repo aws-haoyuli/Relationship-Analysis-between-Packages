@@ -1,0 +1,1 @@
+{"name": "django-postgres-copy", "description": "Quickly move comma-delimited data in and out of a Django model using PostgreSQL's COPY command.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 67, "folkNum": 13, "watchNum": 67, "topic": ["bulk-loader", "copy", "django", "postgres", "python", "sql"]}

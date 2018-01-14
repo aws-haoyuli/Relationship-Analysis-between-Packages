@@ -1,0 +1,1 @@
+{"name": "flask-peewee", "description": "flask integration for peewee, including admin, authentication, rest api and more", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 601, "folkNum": 145, "watchNum": 601, "topic": ["flask", "peewee", "python", "web-framework"]}

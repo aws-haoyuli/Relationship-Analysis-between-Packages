@@ -1,0 +1,1 @@
+{"name": "ctrlp-py-matcher", "description": "Fast vim CtrlP matcher based on python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 207, "folkNum": 23, "watchNum": 207, "topic": ["ctrlp", "ctrlp-extension", "extension", "matcher", "plugin", "vim"]}

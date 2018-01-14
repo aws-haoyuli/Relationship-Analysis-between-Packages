@@ -1,0 +1,1 @@
+{"name": "CNN_LSTM_CTC_Tensorflow", "description": "CNN+LSTM+CTC based OCR implemented using tensorflow.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 64, "folkNum": 55, "watchNum": 64, "topic": ["cnn", "ctc", "lstm", "ocr", "tensorflow"]}

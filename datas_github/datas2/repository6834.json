@@ -1,0 +1,1 @@
+{"name": "iocage", "description": "A FreeBSD jail manager written in Python 3", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 174, "folkNum": 43, "watchNum": 174, "topic": ["freebsd", "freebsd-jail-manager", "iocage", "jail", "jails", "python", "python36", "vnet", "zfs"]}

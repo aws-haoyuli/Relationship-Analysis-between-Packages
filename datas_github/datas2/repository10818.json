@@ -1,0 +1,1 @@
+{"name": "tls", "description": "A pure Python implementation of the Transport Layer Security protocol version 1.2, using existing libraries for crypto math.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 101, "folkNum": 37, "watchNum": 101, "topic": []}

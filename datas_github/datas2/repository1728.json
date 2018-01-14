@@ -1,0 +1,1 @@
+{"name": "dex", "description": "Index and query analyzer for MongoDB: compares MongoDB log files and index entries to make index recommendations", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 725, "folkNum": 63, "watchNum": 725, "topic": []}

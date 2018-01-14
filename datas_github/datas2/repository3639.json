@@ -1,0 +1,1 @@
+{"name": "pyscaffold", "description": "Python project template generator with batteries included", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 340, "folkNum": 51, "watchNum": 340, "topic": ["distribution", "git", "package-creation", "packagegenerator", "python", "python3", "release-automation"]}

@@ -1,0 +1,1 @@
+{"name": "3gruppo_4_TDP", "description": null, "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["EspositoAlfonso", "giuseppemas"], "packages": ["", "collections", "pkg_1", "TdP_collections", "time", "copy", "random as rand", "graph_examples"]}

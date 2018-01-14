@@ -1,0 +1,1 @@
+{"name": "raftos", "description": "Asynchronous replication framework for distributed Python projects", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 161, "folkNum": 13, "watchNum": 161, "topic": ["asynchronous", "python", "raft", "replication"]}

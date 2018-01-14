@@ -1,0 +1,1 @@
+{"name": "steemrocks", "description": "Activity feed for steem accounts", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 3, "folkNum": 1, "watchNum": 3, "topic": [], "contributors": ["emre", "favcau"], "packages": ["", "steem", "flask", "math", "pymysql", "requests", "json"]}

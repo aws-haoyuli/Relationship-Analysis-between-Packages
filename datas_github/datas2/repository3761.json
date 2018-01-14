@@ -1,0 +1,1 @@
+{"name": "grafanalib", "description": "Python library for building Grafana dashboards", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 329, "folkNum": 33, "watchNum": 329, "topic": ["dashboards", "edsl", "grafana", "monitoring"]}

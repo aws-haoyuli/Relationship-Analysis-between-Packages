@@ -1,0 +1,1 @@
+{"name": "tinyrpc", "description": "A compact, modular transport and protocol agnostic RPC library. Does jsonrpc v2.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 64, "folkNum": 31, "watchNum": 64, "topic": []}

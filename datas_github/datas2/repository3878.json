@@ -1,0 +1,1 @@
+{"name": "github-issues-import", "description": "Python script to import issues from one repository into another, either one at a time or all of them at once.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 318, "folkNum": 128, "watchNum": 318, "topic": []}

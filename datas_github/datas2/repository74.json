@@ -1,0 +1,1 @@
+{"name": "pipenv", "description": " Python Development Workflow for Humans.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 7455, "folkNum": 379, "watchNum": 7455, "topic": ["kennethreitz", "packaging", "pip", "pipfile", "python", "virtualenv"]}

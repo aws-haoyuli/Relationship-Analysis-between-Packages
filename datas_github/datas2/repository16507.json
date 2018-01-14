@@ -1,0 +1,1 @@
+{"name": "agentredrabbit", "description": "Transport agent that moves data from Redis to RabbitMQ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 59, "folkNum": 8, "watchNum": 59, "topic": []}

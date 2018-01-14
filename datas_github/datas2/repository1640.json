@@ -1,0 +1,1 @@
+{"name": "tenacity", "description": "Retrying library for Python", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 760, "folkNum": 40, "watchNum": 760, "topic": ["failure", "python", "retry", "retry-library"]}

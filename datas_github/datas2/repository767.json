@@ -1,0 +1,1 @@
+{"name": "text-to-image", "description": "Text to image synthesis using thought vectors", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1535, "folkNum": 240, "watchNum": 1535, "topic": ["deep-learning", "generative-adversarial-network", "skip-thought-vectors", "tensorflow"]}

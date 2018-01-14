@@ -1,0 +1,1 @@
+{"name": "vim-profiler", "description": ":bar_chart: Utility script to profile (n)vim (e.g. startup times of plugins)", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 102, "folkNum": 2, "watchNum": 102, "topic": []}

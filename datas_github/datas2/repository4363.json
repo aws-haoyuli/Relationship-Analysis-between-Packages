@@ -1,0 +1,1 @@
+{"name": "PackageDev", "description": "Tools to ease the creation of snippets, syntax definitions, etc. for Sublime Text.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 280, "folkNum": 63, "watchNum": 280, "topic": ["package-development", "sublime-text", "syntax-highlighting"]}

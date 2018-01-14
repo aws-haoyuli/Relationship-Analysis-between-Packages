@@ -1,0 +1,1 @@
+{"name": "conpig", "description": "A green threading library with automated concurrency for python based on a processes, signal handlers and greenlets", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 107, "folkNum": 2, "watchNum": 107, "topic": []}

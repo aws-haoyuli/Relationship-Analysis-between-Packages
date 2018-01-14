@@ -1,0 +1,1 @@
+{"name": "pyshorteners", "description": ":electric_plug: A Python lib to consume the most used shorteners APIs (WIP)", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 180, "folkNum": 27, "watchNum": 180, "topic": ["api", "python", "urlshortener"]}

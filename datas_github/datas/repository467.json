@@ -1,0 +1,1 @@
+{"name": "Cryptopals", "description": "My solutions to the Cryptopals crypto challenges (also known as the Masatano challenges)", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["crashb"], "packages": ["os", "Challenge15", "__future__", "Challenge10", "sys ", "struct", "binascii", "io", "math", "argparse", "random", "base64", "msvcrt"]}

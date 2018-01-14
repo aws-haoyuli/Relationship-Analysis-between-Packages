@@ -1,0 +1,1 @@
+{"name": "import_from_github_com", "description": "Python module finder/loader from github, like in golang", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 80, "folkNum": 6, "watchNum": 80, "topic": []}

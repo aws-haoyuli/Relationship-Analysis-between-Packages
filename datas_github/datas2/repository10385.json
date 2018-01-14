@@ -1,0 +1,1 @@
+{"name": "mixpanel-puller", "description": " \ud83d\udcca Pulls raw event & funnel data from Mixpanel and migrates into PostgreSQL.", "license": null, "starNum": 106, "folkNum": 21, "watchNum": 106, "topic": ["funnels-script", "mixpanel-api", "postgresql", "python"]}

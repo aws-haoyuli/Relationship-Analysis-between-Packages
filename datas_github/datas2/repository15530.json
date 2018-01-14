@@ -1,0 +1,1 @@
+{"name": "viral-ngs", "description": "Viral genomics analysis pipelines", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 65, "folkNum": 23, "watchNum": 65, "topic": ["bam", "fastq", "genome", "genome-assembly", "genome-sequencing", "genomics", "illumina", "variant-annotations", "variant-calling", "viral", "viral-ngs"]}

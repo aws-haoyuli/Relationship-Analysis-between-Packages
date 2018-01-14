@@ -1,0 +1,1 @@
+{"name": "docker-graphite-statsd", "description": "Docker image for Graphite & Statsd", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 710, "folkNum": 334, "watchNum": 710, "topic": ["docker", "graphite", "statsd"]}

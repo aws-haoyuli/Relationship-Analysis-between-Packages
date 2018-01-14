@@ -1,0 +1,1 @@
+{"name": "libsdae-autoencoder-tensorflow", "description": "A simple Tensorflow based library for deep and/or denoising AutoEncoder.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 79, "folkNum": 37, "watchNum": 79, "topic": ["deep-learning", "feature-learning"]}

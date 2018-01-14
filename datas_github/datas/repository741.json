@@ -1,0 +1,1 @@
+{"name": "dimana", "description": "DIMensional ANAlysis library for python - Extend Decimal arithmetic with arbitrary named units with unit error detection.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["nejucomo", "nathan-at-least"], "packages": ["setuptools"]}

@@ -1,0 +1,1 @@
+{"name": "weibospider", "description": ":zap: A distributed crawler for weibo, building with celery and requests.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1810, "folkNum": 546, "watchNum": 1810, "topic": ["data-analysis", "distributed-crawler", "python3", "sina", "weibo", "weibospider"]}

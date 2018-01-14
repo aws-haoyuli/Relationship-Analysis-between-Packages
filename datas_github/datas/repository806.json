@@ -1,0 +1,1 @@
+{"name": "hudsond22-google-foobar", "description": "Programming challenges", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["jprasadh"], "packages": ["os", "site", "atexit", "sys", "collections  # Import after _weakref to avoid circular import", "_weakref", "copy", "itertools", "_weakrefset", "gc"]}

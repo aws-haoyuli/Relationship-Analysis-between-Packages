@@ -1,0 +1,1 @@
+{"name": "deep-siamese-text-similarity", "description": "Tensorflow based implementation of deep siamese LSTM network to capture phrase/sentence similarity using character/word embeddings", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 329, "folkNum": 127, "watchNum": 329, "topic": []}

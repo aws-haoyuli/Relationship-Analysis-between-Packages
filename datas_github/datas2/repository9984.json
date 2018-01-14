@@ -1,0 +1,1 @@
+{"name": "the-endorser", "description": "An OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 111, "folkNum": 20, "watchNum": 111, "topic": ["linkedin", "osint", "python", "selenium"]}

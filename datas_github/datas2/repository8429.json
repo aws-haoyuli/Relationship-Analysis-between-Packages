@@ -1,0 +1,1 @@
+{"name": "softlayer-python", "description": "A set of Python libraries that assist in calling the SoftLayer API.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 134, "folkNum": 150, "watchNum": 134, "topic": ["python", "softlayer"]}

@@ -1,0 +1,1 @@
+{"name": "heroku-django-template", "description": "A Django 1.11 base template featuring all recommended best practices for deployment on Heroku and local development. ", "license": null, "starNum": 606, "folkNum": 289, "watchNum": 606, "topic": ["django", "gunicorn", "heroku", "heroku-django-template", "python", "starter-template", "whitenoise"]}

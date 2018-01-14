@@ -1,0 +1,1 @@
+{"name": "Keras_FB", "description": "Enable Keras to send real-time training info to your Messenger account", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 206, "folkNum": 1, "watchNum": 206, "topic": ["facebook-api", "keras", "messenger", "rtc"]}

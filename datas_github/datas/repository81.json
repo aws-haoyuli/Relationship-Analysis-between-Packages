@@ -1,0 +1,1 @@
+{"name": "cabric", "description": "A deploy tool for CentOS, based on Fabric.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 3, "folkNum": 0, "watchNum": 3, "topic": [], "contributors": ["wangwenpei"], "packages": ["setuptools", "distutils", "cabric"]}

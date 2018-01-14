@@ -1,0 +1,1 @@
+{"name": "DismissedBot", "description": "Discord bot repo", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["DismissedGuy"], "packages": ["discord", "os", "subprocess", "logging", "geopy"]}

@@ -1,0 +1,1 @@
+{"name": "DeepJ", "description": "A deep learning model for style-specific music generation.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 251, "folkNum": 15, "watchNum": 251, "topic": ["composition", "deep", "generation", "keras", "learning", "machine", "music", "tensorflow"]}

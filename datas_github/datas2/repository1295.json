@@ -1,0 +1,1 @@
+{"name": "bucket-stream", "description": "Find interesting Amazon S3 Buckets by watching certificate transparency logs.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 949, "folkNum": 94, "watchNum": 949, "topic": ["amazon-s3", "certificate-transparency", "certstream", "cyber", "cyint"]}

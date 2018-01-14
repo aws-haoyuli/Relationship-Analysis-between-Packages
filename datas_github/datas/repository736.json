@@ -1,0 +1,1 @@
+{"name": "gnucash-rest", "description": "A Python based REST framework for the Gnucash accounting application", "license": null, "starNum": 7, "folkNum": 3, "watchNum": 7, "topic": [], "contributors": ["loftx", "zutroy97"], "packages": ["gnucash"]}

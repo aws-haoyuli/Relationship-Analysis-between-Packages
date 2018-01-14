@@ -1,0 +1,1 @@
+{"name": "ssh-ldap-pubkey", "description": "Utility to manage SSH public keys stored in LDAP.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 109, "folkNum": 30, "watchNum": 109, "topic": ["authentication", "ldap", "python", "ssh", "ssh-key"]}

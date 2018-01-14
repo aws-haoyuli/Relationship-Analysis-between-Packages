@@ -1,0 +1,1 @@
+{"name": "sendgrid-django", "description": "Simple django backend to send email through SendGrid", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 159, "folkNum": 59, "watchNum": 159, "topic": []}

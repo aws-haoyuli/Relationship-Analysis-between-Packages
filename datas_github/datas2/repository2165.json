@@ -1,0 +1,1 @@
+{"name": "FormalSystems", "description": "A Python implementation of Douglas Hofstadter formal systems, from his book \"G\u00f6del, Escher, Bach\"", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 585, "folkNum": 28, "watchNum": 585, "topic": ["python"]}

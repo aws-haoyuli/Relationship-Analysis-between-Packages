@@ -1,0 +1,1 @@
+{"name": "disredis", "description": "Distributed Redis. Can be used in place of a StrictRedis client. Enables real-time failover of redis masters to paired slaves for improved reliability.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 81, "folkNum": 8, "watchNum": 81, "topic": []}

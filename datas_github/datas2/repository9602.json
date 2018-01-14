@@ -1,0 +1,1 @@
+{"name": "vscode-lldb", "description": "LLDB Front-End for Visual Studio Code", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 117, "folkNum": 14, "watchNum": 117, "topic": ["debugger", "lldb", "vscode-extension"]}

@@ -1,0 +1,1 @@
+{"name": "SATsolvers", "description": "KR project on SAT solvers", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["julianschoep", "dutchJSCOOP"], "packages": ["os", "bs4", "sys", "numpy as np", "getopt", "requests", "re"]}

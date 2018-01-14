@@ -1,0 +1,1 @@
+{"name": "raisr", "description": "A Python implementation of RAISR.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 65, "folkNum": 23, "watchNum": 65, "topic": ["image-processing", "machine-learning", "opencv", "opencv-python", "python", "super-resolution"]}

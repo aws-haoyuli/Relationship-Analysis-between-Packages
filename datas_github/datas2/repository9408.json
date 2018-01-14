@@ -1,0 +1,1 @@
+{"name": "static-python", "description": "A fork of cpython that supports building a static interpreter and true standalone executables", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 119, "folkNum": 20, "watchNum": 119, "topic": []}

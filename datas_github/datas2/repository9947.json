@@ -1,0 +1,1 @@
+{"name": "fcn", "description": "Chainer Implementation of Fully Convolutional Networks.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 112, "folkNum": 67, "watchNum": 112, "topic": ["chainer", "computer-vision", "convolutional-networks", "deep-learning", "fcn", "segmentation"]}

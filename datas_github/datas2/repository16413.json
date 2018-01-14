@@ -1,0 +1,1 @@
+{"name": "muda", "description": "A library for augmenting annotated audio data", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 59, "folkNum": 10, "watchNum": 59, "topic": ["data-augmentation", "machine-learning", "music", "nyucds", "python"]}

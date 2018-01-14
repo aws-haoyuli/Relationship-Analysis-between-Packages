@@ -1,0 +1,1 @@
+{"name": "terminaltables", "description": "Generate simple tables in terminals from a nested list of strings.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 360, "folkNum": 35, "watchNum": 360, "topic": ["ascii", "box", "console", "library", "python", "table", "terminal"]}

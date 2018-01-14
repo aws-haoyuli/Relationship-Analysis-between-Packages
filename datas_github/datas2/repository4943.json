@@ -1,0 +1,1 @@
+{"name": "typot", "description": "Detect typo automatically, Adopt fix just by checking", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 247, "folkNum": 5, "watchNum": 247, "topic": ["github-app", "python", "typos-check"]}

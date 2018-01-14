@@ -1,0 +1,1 @@
+{"name": "hazmat-game", "description": "story-driven puzzle platformer rougelike action thriller shoot-em-up rhythm game with a twist", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["davidpendergast"], "packages": ["pygame", "entities", "images", "cool_math", "global_state", "random"]}

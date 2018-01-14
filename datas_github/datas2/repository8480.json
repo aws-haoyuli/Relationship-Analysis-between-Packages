@@ -1,0 +1,1 @@
+{"name": "ratelimitcache", "description": "A memcached backed rate limiting decorator for Django.", "license": null, "starNum": 133, "folkNum": 20, "watchNum": 133, "topic": []}

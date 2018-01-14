@@ -1,0 +1,1 @@
+{"name": "pychess", "description": "PyChess - a free chess client for Linux/Windows", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 177, "folkNum": 65, "watchNum": 177, "topic": ["chess", "chess-client", "epd", "fen", "fics", "gtk3", "gui", "icc", "pgn", "python"]}

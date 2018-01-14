@@ -1,0 +1,1 @@
+{"name": "markov-text", "description": "Python utility that uses a Markov Chain to generate random sentences using a source text", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 106, "folkNum": 24, "watchNum": 106, "topic": ["generating-sentences", "markov-text", "python"]}

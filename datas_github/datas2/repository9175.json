@@ -1,0 +1,1 @@
+{"name": "cl-sdl2", "description": "Common Lisp bindings for SDL2 using C2FFI.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 123, "folkNum": 45, "watchNum": 123, "topic": []}

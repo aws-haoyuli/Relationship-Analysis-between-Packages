@@ -1,0 +1,1 @@
+{"name": "Stochastic-Depth", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["aggvarun01"], "packages": ["os", "glob", "datetime", "utils", "numpy as np", "layers", "time", "tensorflow as tf", "urllib", "_pickle as pickle", "tarfile"]}

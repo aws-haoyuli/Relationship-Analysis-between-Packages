@@ -1,0 +1,1 @@
+{"name": "fim", "description": "fim - fortune improved for the 21st century", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": [], "packages": ["os", "sys", "string", "fim", "unittest", "pudb", "logging", "er(", "random", "re", "er(FortuneFileImporter('test_data/'))"]}

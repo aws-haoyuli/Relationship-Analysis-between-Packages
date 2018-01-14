@@ -1,0 +1,1 @@
+{"name": "mysqldump-to-csv", "description": "A quickly-hacked-together Python script to turn mysqldump files to CSV files. Optimized for Wikipedia database dumps.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 159, "folkNum": 65, "watchNum": 159, "topic": []}

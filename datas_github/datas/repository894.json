@@ -1,0 +1,1 @@
+{"name": "NLP3", "description": "Assignment 3 in the course Natural Language Processing (89-680)", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["samuelsd1"], "packages": ["scipy", "collections", "numpy as np", "timeit", "Indexer"]}

@@ -1,0 +1,1 @@
+{"name": "techu-search-server", "description": "RESTful search server built on top of Sphinx full-text search engine. Uses realtime indexes, Django, Nginx & Redis.", "license": null, "starNum": 139, "folkNum": 19, "watchNum": 139, "topic": []}

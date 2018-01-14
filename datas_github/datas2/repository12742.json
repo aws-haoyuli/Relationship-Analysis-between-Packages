@@ -1,0 +1,1 @@
+{"name": "rest_gae", "description": "REST interface for NDB models over webapp2 in Google App Engine Python", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 83, "folkNum": 15, "watchNum": 83, "topic": []}

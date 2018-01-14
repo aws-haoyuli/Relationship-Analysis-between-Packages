@@ -1,0 +1,1 @@
+{"name": "mrq", "description": "Mr. Queue - A distributed worker task queue in Python using Redis & gevent", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 660, "folkNum": 77, "watchNum": 660, "topic": []}

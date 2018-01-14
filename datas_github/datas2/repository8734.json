@@ -1,0 +1,1 @@
+{"name": "egressbuster", "description": "Egressbuster is a method to check egress filtering and identify if ports are allowed. If they are, you can automatically spawn a shell.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 130, "folkNum": 53, "watchNum": 130, "topic": []}

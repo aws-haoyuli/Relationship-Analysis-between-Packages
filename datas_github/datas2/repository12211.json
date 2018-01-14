@@ -1,0 +1,1 @@
+{"name": "pggan-pytorch", "description": ":fire::fire: PyTorch implementation of \"Progressive growing of GANs (PGGAN)\" :fire::fire:", "license": null, "starNum": 87, "folkNum": 7, "watchNum": 87, "topic": ["celeba-hq-dataset", "gan", "generative-adversarial-network", "progressive-gan", "progressively-growing-gan", "pytorch", "tensorboard"]}

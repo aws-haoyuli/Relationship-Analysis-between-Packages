@@ -1,0 +1,1 @@
+{"name": "neovim-remote", "description": ":ok_hand: Support for --remote and friends.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 332, "folkNum": 18, "watchNum": 332, "topic": ["neovim", "remote-control"]}

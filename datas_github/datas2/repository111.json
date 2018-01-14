@@ -1,0 +1,1 @@
+{"name": "Zappa", "description": "Serverless Python Web Services", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 5866, "folkNum": 624, "watchNum": 5866, "topic": ["api-gateway", "aws-lambda", "bottle", "django", "flask", "lambda", "pyramid", "python", "serverless", "serverless-framework", "zappa"]}

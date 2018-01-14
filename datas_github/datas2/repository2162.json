@@ -1,0 +1,1 @@
+{"name": "django-rules", "description": "Awesome Django authorization, without the database", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 585, "folkNum": 54, "watchNum": 585, "topic": ["authorization", "django", "permissions", "predicates", "python", "rules"]}

@@ -1,0 +1,1 @@
+{"name": "python-stanford-corenlp", "description": "Official Python interface to CoreNLP using a bidirectional server-client interface.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 165, "folkNum": 40, "watchNum": 165, "topic": ["corenlp", "corenlp-server", "nlp"]}

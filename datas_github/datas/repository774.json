@@ -1,0 +1,1 @@
+{"name": "patreonsync", "description": "Script to keep supporters on different tiers of a patreon campaign in sync with matrix groups and/or rooms", "license": null, "starNum": 3, "folkNum": 0, "watchNum": 3, "topic": [], "contributors": ["lampholder"], "packages": ["setuptools"]}

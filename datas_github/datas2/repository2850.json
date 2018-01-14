@@ -1,0 +1,1 @@
+{"name": "mopidy-spotify", "description": "Mopidy extension for playing music from Spotify", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 436, "folkNum": 57, "watchNum": 436, "topic": ["mopidy", "mopidy-backend", "python", "spotify"]}

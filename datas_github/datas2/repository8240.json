@@ -1,0 +1,1 @@
+{"name": "ansible-plugins", "description": "A set of custom plugins for ansible (https://github.com/ansible/ansible) configuration management: multi-node deployment/orchestration, and remote task execution system. This project is not affiliated with the ansible project.", "license": null, "starNum": 139, "folkNum": 26, "watchNum": 139, "topic": []}

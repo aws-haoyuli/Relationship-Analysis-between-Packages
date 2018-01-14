@@ -1,0 +1,1 @@
+{"name": "nagios-plugin-mongodb", "description": "A Nagios plugin to check the status of MongoDB", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 322, "folkNum": 247, "watchNum": 322, "topic": []}

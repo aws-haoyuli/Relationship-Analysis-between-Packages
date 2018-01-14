@@ -1,0 +1,1 @@
+{"name": "django-jwt-auth", "description": "JSON Web Token Authentication support for Django", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 117, "folkNum": 35, "watchNum": 117, "topic": ["django", "jwt", "python"]}

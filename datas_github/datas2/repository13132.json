@@ -1,0 +1,1 @@
+{"name": "pytodoist", "description": "A Python wrapper for the Todoist API.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 80, "folkNum": 18, "watchNum": 80, "topic": ["api", "python", "todoist"]}

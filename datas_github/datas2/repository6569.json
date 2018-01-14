@@ -1,0 +1,1 @@
+{"name": "eventsourcing", "description": "Event sourcing in Python", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 182, "folkNum": 20, "watchNum": 182, "topic": ["cassandra", "ddd", "domain-driven-design", "event-sourcing", "eventsourcing", "eventstore", "python", "sqlalchemy"]}

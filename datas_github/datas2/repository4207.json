@@ -1,0 +1,1 @@
+{"name": "simcoin", "description": "Blockchain simulation framework with Docker and Python.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 290, "folkNum": 15, "watchNum": 290, "topic": ["bitcoin", "blockchain", "docker", "ethereum", "litecoin", "python3", "r-markdown", "simulation-framework"]}

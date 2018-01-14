@@ -1,0 +1,1 @@
+{"name": "flashtext", "description": "Extract Keywords from sentence or Replace keywords in sentences.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2065, "folkNum": 200, "watchNum": 2065, "topic": ["data-extraction", "keyword-extraction", "nlp", "search-in-text", "word2vec"]}

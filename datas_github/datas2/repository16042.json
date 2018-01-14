@@ -1,0 +1,1 @@
+{"name": "bacpypes", "description": "BACpypes provides a BACnet application layer and network layer written in Python for daemons, scripting, and graphical interfaces.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 61, "folkNum": 27, "watchNum": 61, "topic": []}

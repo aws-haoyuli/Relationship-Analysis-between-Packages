@@ -1,0 +1,1 @@
+{"name": "steam", "description": "Package for interacting with the Steam network, WebAPI, store and community", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 141, "folkNum": 29, "watchNum": 141, "topic": ["authentication", "authenticator", "python", "steam", "steamworks", "valve", "webapi"]}

@@ -1,0 +1,1 @@
+{"name": "pygrok", "description": "python implementation of jordansissel's grok regular expression library", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 129, "folkNum": 39, "watchNum": 129, "topic": ["extract-information", "grok", "parse-strings", "python", "unstructured-data"]}

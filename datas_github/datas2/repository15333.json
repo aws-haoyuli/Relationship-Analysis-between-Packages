@@ -1,0 +1,1 @@
+{"name": "umongo", "description": "sync/async MongoDB ODM, yes.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 66, "folkNum": 13, "watchNum": 66, "topic": ["asyncio", "mongodb", "odm", "python3", "twisted"]}

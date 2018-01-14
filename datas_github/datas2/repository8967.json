@@ -1,0 +1,1 @@
+{"name": "aiomonitor", "description": "aiomonitor is module that adds monitor and python REPL capabilities for asyncio application", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 126, "folkNum": 6, "watchNum": 126, "topic": ["async-await", "asyncio", "uvloop"]}

@@ -1,0 +1,1 @@
+{"name": "face-identification-tpe", "description": "Face identification with CNN + TPE using Keras", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 157, "folkNum": 47, "watchNum": 157, "topic": ["cnn", "keras", "machine-learning", "machine-learning-algorithms", "tensorflow"]}

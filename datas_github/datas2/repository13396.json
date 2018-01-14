@@ -1,0 +1,1 @@
+{"name": "heat-translator", "description": "Translate non-heat templates to Heat Orchestration Template.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 78, "folkNum": 27, "watchNum": 78, "topic": []}

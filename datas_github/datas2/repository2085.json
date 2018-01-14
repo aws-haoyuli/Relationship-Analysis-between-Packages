@@ -1,0 +1,1 @@
+{"name": "domain-transfer-network", "description": "TensorFlow Implementation of \"Unsupervised Cross-Domain Image Generation\" ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 607, "folkNum": 125, "watchNum": 607, "topic": ["domain-transfer", "image-generation", "tensorflow", "unsupervised-learning"]}

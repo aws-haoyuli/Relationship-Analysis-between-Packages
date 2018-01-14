@@ -1,0 +1,1 @@
+{"name": "MatchTagAlways", "description": "A Vim plugin that always highlights the enclosing html/xml tags", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 397, "folkNum": 19, "watchNum": 397, "topic": ["html", "syntax-highlighting", "vim", "xml"]}

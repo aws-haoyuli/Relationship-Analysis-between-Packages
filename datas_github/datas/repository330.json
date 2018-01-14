@@ -1,0 +1,1 @@
+{"name": "EasyListHebrew", "description": "EasyList Hebrew is a subscription that removes adverts from Hebrew webpages", "license": null, "starNum": 22, "folkNum": 12, "watchNum": 22, "topic": [], "contributors": ["EasyListIsrael", "IsraeliUser", "IsraeliAdblocker", "EasyListHebrew", "ohadcn"], "packages": ["re", "sys", "codecs", "base64", "hashlib"]}

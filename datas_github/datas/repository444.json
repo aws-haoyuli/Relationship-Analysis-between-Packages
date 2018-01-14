@@ -1,0 +1,1 @@
+{"name": "InsiderTrading", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["gengyug2"], "packages": ["datetime as dt", "requests", "pandas as pd"]}

@@ -1,0 +1,1 @@
+{"name": "sendgrid-python", "description": "SendGrids Official Community Led Python API Library", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 484, "folkNum": 320, "watchNum": 484, "topic": ["email", "python", "sendgrid", "transactional-emails"]}

@@ -1,0 +1,1 @@
+{"name": "qtpy", "description": "Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 145, "folkNum": 43, "watchNum": 145, "topic": ["python", "qt-gui", "qtpy", "spyder"]}

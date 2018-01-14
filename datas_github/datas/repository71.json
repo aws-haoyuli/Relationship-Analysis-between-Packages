@@ -1,0 +1,1 @@
+{"name": "TedCruz.discord", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Matt-Hurd"], "packages": ["us", "logging", "discord", "flatlib", "requests", "re", "secrets", "random", "tzwhere", "pytz", "rollbar", "asyncio", "dateutil", "geopy"]}

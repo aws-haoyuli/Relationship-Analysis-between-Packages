@@ -1,0 +1,1 @@
+{"name": "tf_unet", "description": "Generic U-Net Tensorflow implementation for image segmentation", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 424, "folkNum": 219, "watchNum": 424, "topic": ["deep-learning", "image-segmentation", "neural-network", "tensorflow"]}

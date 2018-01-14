@@ -1,0 +1,1 @@
+{"name": "IncrementSelection", "description": "Add a number to each selection in Sublime Text, incremented once per selection", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 84, "folkNum": 10, "watchNum": 84, "topic": ["increment", "insert", "package", "plugin", "python", "sublime-text"]}

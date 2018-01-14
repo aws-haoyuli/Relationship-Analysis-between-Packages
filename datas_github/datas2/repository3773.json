@@ -1,0 +1,1 @@
+{"name": "recipy", "description": "Effortless method to record provenance in Python", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 328, "folkNum": 29, "watchNum": 328, "topic": ["database", "provenance", "python", "recipy", "reproducible-research", "science"]}

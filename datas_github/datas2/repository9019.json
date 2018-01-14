@@ -1,0 +1,1 @@
+{"name": "ReadingListReader", "description": "Python library to read contents of Safari Reading List. Includes scripts to output as CSV or \"bookmarks\" file format and to upload to Instapaper.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 125, "folkNum": 14, "watchNum": 125, "topic": []}

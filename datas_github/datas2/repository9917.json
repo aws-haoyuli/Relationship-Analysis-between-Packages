@@ -1,0 +1,1 @@
+{"name": "tfkaldi", "description": "Speech recognition software where the neural net is trained with TensorFlow and GMM training and decoding is done in Kaldi", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 112, "folkNum": 52, "watchNum": 112, "topic": []}

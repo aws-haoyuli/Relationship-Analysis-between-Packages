@@ -1,0 +1,1 @@
+{"name": "Adafruit_Python_PN532", "description": "Python library for accessing a PN532 NFC breakout over a SPI connection from a Raspberry Pi, BeagleBone Black, etc.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 59, "folkNum": 35, "watchNum": 59, "topic": []}

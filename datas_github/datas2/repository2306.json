@@ -1,0 +1,1 @@
+{"name": "dramatiq", "description": "Simple distributed task processing for Python 3.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 545, "folkNum": 19, "watchNum": 545, "topic": ["distributed-systems", "lock", "messaging", "python", "queue", "rabbitmq", "redis", "taskqueue"]}

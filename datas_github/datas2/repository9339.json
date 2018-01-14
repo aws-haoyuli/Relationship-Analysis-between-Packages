@@ -1,0 +1,1 @@
+{"name": "django-service-objects", "description": "Service objects for Django", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 120, "folkNum": 10, "watchNum": 120, "topic": ["business-logic", "design-patterns", "django", "python", "service"]}

@@ -1,0 +1,1 @@
+{"name": "py_dev", "description": "My PY dev repo", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["ddjded"], "packages": ["may fail for some other reason", "os", "getpass", "subprocess", "sys", "datetime", "Django", "time", "requests", "json", "django"]}

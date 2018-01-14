@@ -1,0 +1,1 @@
+{"name": "pyfakefs", "description": "pyfakefs implements a fake file system that mocks the Python file system modules.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 107, "folkNum": 36, "watchNum": 107, "topic": []}

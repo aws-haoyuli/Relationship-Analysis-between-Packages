@@ -1,0 +1,1 @@
+{"name": "spacy-services", "description": "\ud83d\udcab REST microservices for spaCy demos and visualisers", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 99, "folkNum": 37, "watchNum": 99, "topic": ["falcon", "natural-language-processing", "nlp", "rest-api", "rest-microservice", "spacy"]}

@@ -1,0 +1,1 @@
+{"name": "rules_kotlin", "description": "Bazel rules for Kotlin", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 147, "folkNum": 20, "watchNum": 147, "topic": ["bazel", "bazel-rules", "java", "kotlin"]}

@@ -1,0 +1,1 @@
+{"name": "causeofwhy", "description": "The goal of this project is to implement a Question Answering (QA) system that answers causal type questions. We use Wikipedia as a knowledge base, extracting answers to user questions from the articles.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 79, "folkNum": 29, "watchNum": 79, "topic": []}

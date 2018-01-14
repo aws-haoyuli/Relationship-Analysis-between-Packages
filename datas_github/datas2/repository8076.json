@@ -1,0 +1,1 @@
+{"name": "expan", "description": " A Python library for statistical analysis of randomised control trials (A/B tests)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 142, "folkNum": 25, "watchNum": 142, "topic": ["ab-testing", "abtest", "abtesting", "python", "statistical-analysis", "statistics"]}

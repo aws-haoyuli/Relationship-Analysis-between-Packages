@@ -1,0 +1,1 @@
+{"name": "assistant-sdk-python", "description": "Samples and bindings for the Google Assistant API", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 437, "folkNum": 112, "watchNum": 437, "topic": ["assistant", "protocol-buffers", "python"]}

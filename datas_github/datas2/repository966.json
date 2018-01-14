@@ -1,0 +1,1 @@
+{"name": "streamparse", "description": "Run Python in Apache Storm topologies. Pythonic API, CLI tooling, and a topology DSL.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 1233, "folkNum": 194, "watchNum": 1233, "topic": ["apache-storm", "python", "storm"]}

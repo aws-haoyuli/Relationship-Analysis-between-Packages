@@ -1,0 +1,1 @@
+{"name": "pypette", "description": "Ridiculously simple flow controller for building complex pipelines", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 207, "folkNum": 5, "watchNum": 207, "topic": ["multiprocessing", "multithreading", "python", "threads"]}

@@ -1,0 +1,1 @@
+{"name": "tensorflow_qrnn", "description": "QRNN implementation for TensorFlow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 185, "folkNum": 26, "watchNum": 185, "topic": ["natural-language-processing", "tensorflow"]}

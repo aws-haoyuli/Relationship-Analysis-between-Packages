@@ -1,0 +1,1 @@
+{"name": "sodapy", "description": "Python client for the Socrata Open Data API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 138, "folkNum": 49, "watchNum": 138, "topic": ["api-wrapper", "python-client", "socrata", "socrata-api", "socrata-library", "soda"]}

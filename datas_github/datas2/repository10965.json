@@ -1,0 +1,1 @@
+{"name": "php7-opcache-override", "description": "Security-related PHP7 OPcache abuse tools and demo", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 99, "folkNum": 32, "watchNum": 99, "topic": ["opcache", "php7", "poc", "vulnerability"]}

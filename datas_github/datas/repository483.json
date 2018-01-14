@@ -1,0 +1,1 @@
+{"name": "SemiRestfulUsers-Django", "description": "Dashboard app which displays user info submitted by forms", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Lkikui"], "packages": ["may fail for some other reason", "os", "sys", "Django", "django"]}

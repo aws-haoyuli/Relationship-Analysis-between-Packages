@@ -1,0 +1,1 @@
+{"name": "restrek", "description": "A fast and robust test framework for RESTful APIs", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["rest", "rest-api", "restful-api", "test", "test-automation", "testing", "testing-tools"], "contributors": ["gsuntres"], "packages": ["os", "sys", "restrek", "test_lib", "setuptools"]}

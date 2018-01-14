@@ -1,0 +1,1 @@
+{"name": "django-treebeard", "description": "Efficient tree implementations for Django", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 424, "folkNum": 116, "watchNum": 424, "topic": ["django", "python", "tree-structure"]}

@@ -1,0 +1,1 @@
+{"name": "flack", "description": "Companion code to my PyCon 2016 \"Flask at Scale\" tutorial session.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 280, "folkNum": 90, "watchNum": 280, "topic": ["celery", "flask", "flask-socketio", "scale"]}

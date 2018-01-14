@@ -1,0 +1,1 @@
+{"name": "flask2postman", "description": ":rocket: Generate a Postman collection from your Flask application", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 74, "folkNum": 7, "watchNum": 74, "topic": ["flask", "postman", "python", "python2", "python3"]}

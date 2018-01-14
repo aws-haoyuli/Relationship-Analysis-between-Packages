@@ -1,0 +1,1 @@
+{"name": "Princess-bot", "description": "A bot that get Clash Royale stats and posts it as a comment in Reddit.", "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": ["clashroyale", "praw", "python-3-5", "python-3-6", "reddit-bot"], "contributors": ["Intasx"], "packages": ["clashroyale", "praw", "collections", "config", "time", "logging"]}

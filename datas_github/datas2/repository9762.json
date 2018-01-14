@@ -1,0 +1,1 @@
+{"name": "Windows-10-Toast-Notifications", "description": "Python library to display Windows 10 Toast Notifications", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 114, "folkNum": 21, "watchNum": 114, "topic": ["desktop-application", "python", "python-library", "pywin32", "win32", "windows"]}

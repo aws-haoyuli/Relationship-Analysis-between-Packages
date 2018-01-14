@@ -1,0 +1,1 @@
+{"name": "DocumentClassification", "description": "This code implements a simple CNN model for document classification with tensorflow.", "license": null, "starNum": 67, "folkNum": 46, "watchNum": 67, "topic": ["cnn", "tensorflow"]}

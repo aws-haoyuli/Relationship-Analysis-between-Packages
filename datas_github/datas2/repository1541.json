@@ -1,0 +1,1 @@
+{"name": "msgpack-python", "description": "MessagePack serializer implementation for Python msgpack.org[Python]", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 800, "folkNum": 127, "watchNum": 800, "topic": ["msgpack", "python"]}

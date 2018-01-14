@@ -1,0 +1,1 @@
+{"name": "redis-py-cluster", "description": "Python cluster client for the official redis cluster. Redis 3.0+.", "license": null, "starNum": 452, "folkNum": 153, "watchNum": 452, "topic": ["python", "python3", "redis", "redis-client", "redis-cluster", "redis-cluster-client"]}

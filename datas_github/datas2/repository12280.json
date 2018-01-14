@@ -1,0 +1,1 @@
+{"name": "python-ilorest-library-old", "description": "Python library for iLO RESTful API", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 86, "folkNum": 60, "watchNum": 86, "topic": ["redfish", "rest-client", "restapi", "restful", "restful-api"]}

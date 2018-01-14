@@ -1,0 +1,1 @@
+{"name": "2D_detection", "description": "TensorFlow implementation of SqueezeDet, trained on the KITTI dataset.", "license": null, "starNum": 96, "folkNum": 26, "watchNum": 96, "topic": ["autonomous-driving", "computer-vision", "deep-learning", "object-detection", "tensorflow"]}

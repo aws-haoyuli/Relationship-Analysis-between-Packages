@@ -1,0 +1,1 @@
+{"name": "sms-wp-to-android", "description": "\ud83d\udcf1 Converts .msg (WP) file to standard XML (Android)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 67, "folkNum": 9, "watchNum": 67, "topic": ["android", "mms", "python", "sms", "windows"]}

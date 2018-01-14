@@ -1,0 +1,1 @@
+{"name": "human-motion-prediction", "description": "Simple baselines and RNNs for predicting human motion in tensorflow. Presented at CVPR 17.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 70, "folkNum": 23, "watchNum": 70, "topic": ["computer-vision", "cvpr-2017", "tensorflow"]}

@@ -1,0 +1,1 @@
+{"name": "memegen", "description": "The open source meme generator.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 309, "folkNum": 67, "watchNum": 309, "topic": ["api", "flask", "flask-api", "images", "meme-generator", "memes", "pillow", "python", "slack"]}

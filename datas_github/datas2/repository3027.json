@@ -1,0 +1,1 @@
+{"name": "pytorch-semseg", "description": "Semantic Segmentation Architectures Implemented in PyTorch", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 410, "folkNum": 113, "watchNum": 410, "topic": ["deep-learning", "fully-convolutional-networks", "pytorch", "semantic-segmentation"]}

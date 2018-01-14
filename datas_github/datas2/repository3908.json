@@ -1,0 +1,1 @@
+{"name": "Activation-Visualization-Histogram", "description": "Compare SELUs (scaled exponential linear units) with other activations on MNIST, CIFAR10, etc.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 316, "folkNum": 48, "watchNum": 316, "topic": []}

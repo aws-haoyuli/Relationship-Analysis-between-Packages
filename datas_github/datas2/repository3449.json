@@ -1,0 +1,1 @@
+{"name": "qiskit-api-py", "description": "A Python library for the Quantum Experience API", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 356, "folkNum": 74, "watchNum": 356, "topic": ["api-client", "ibm", "python", "qiskit", "quantum-computing", "quantum-experience"]}

@@ -1,0 +1,1 @@
+{"name": "staticjinja", "description": "Python library for building static sites w/ Jinja2", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 172, "folkNum": 34, "watchNum": 172, "topic": ["python", "static-site-generator"]}

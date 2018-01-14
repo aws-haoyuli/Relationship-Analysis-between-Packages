@@ -1,0 +1,1 @@
+{"name": "HandWritingRecognition-CNN", "description": "This CNN-based model for recognition of hand written digits attains a validation accuracy of 99.2% after training for 12 epochs. Its trained on the MNIST dataset on Kaggle.", "license": null, "starNum": 58, "folkNum": 19, "watchNum": 58, "topic": []}

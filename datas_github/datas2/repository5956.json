@@ -1,0 +1,1 @@
+{"name": "django-user-sessions", "description": "Extend Django sessions with a foreign key back to the user, allowing enumerating all user's sessions.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 202, "folkNum": 61, "watchNum": 202, "topic": ["django", "session-management"]}

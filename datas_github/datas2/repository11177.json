@@ -1,0 +1,1 @@
+{"name": "django-fluent-contents", "description": "A widget engine to display various content on Django pages", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 97, "folkNum": 34, "watchNum": 97, "topic": ["cms-framework", "django-admin", "django-fluent"]}

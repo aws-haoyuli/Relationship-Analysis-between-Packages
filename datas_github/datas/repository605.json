@@ -1,0 +1,1 @@
+{"name": "RoyLineBot", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["kennethreitz", "royhuangg", "jonmountjoy", "rhcarvalho", "essobi", "jdanford", "fanquake", "evansd", "slashme", "dtzitz", "johan718", "ntassone", "ojongerius", "rhyselsmore", "silverbux", "odazai"], "packages": ["argparse", "googleapiclient"]}

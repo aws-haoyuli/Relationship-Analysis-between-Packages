@@ -1,0 +1,1 @@
+{"name": "BanGDream", "description": "Bandori Party - The BanG Dream! Girls Band Party Database & Community", "license": null, "starNum": 6, "folkNum": 2, "watchNum": 6, "topic": [], "contributors": ["db0company", "summertriangle-dev"], "packages": ["os", "sys", "django"]}

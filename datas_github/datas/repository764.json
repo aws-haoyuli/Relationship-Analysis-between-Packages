@@ -1,0 +1,1 @@
+{"name": "solid-prosaic", "description": "solid-prosaic created by GitHub Classroom", "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["deer667", "bs-ug"], "packages": ["sys", "reindeers_song as reinsong", "pytest", "contextlib", "io"]}

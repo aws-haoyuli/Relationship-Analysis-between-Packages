@@ -1,0 +1,1 @@
+{"name": "python-sfml", "description": "Official binding of SFML for Python", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 99, "folkNum": 25, "watchNum": 99, "topic": ["bindings", "cython", "python", "sfml"]}

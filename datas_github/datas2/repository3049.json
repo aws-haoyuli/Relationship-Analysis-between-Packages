@@ -1,0 +1,1 @@
+{"name": "glance", "description": "OpenStack Image Management (Glance)", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 407, "folkNum": 443, "watchNum": 407, "topic": ["api-server", "compute-starter-kit"]}

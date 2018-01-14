@@ -1,0 +1,1 @@
+{"name": "pyjwt", "description": "JSON Web Token implementation in Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1689, "folkNum": 228, "watchNum": 1689, "topic": ["jwt", "python"]}

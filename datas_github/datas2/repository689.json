@@ -1,0 +1,1 @@
+{"name": "pyrasite", "description": "Inject code into running Python processes", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 1696, "folkNum": 138, "watchNum": 1696, "topic": ["debugging", "gdb", "monitoring", "python"]}

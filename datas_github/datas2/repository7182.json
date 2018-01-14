@@ -1,0 +1,1 @@
+{"name": "neural-language-model", "description": "Implementation of neural language models, in particular Collobert + Weston (2008) and a stochastic margin-based version of Mnih's LBL.", "license": null, "starNum": 163, "folkNum": 59, "watchNum": 163, "topic": []}

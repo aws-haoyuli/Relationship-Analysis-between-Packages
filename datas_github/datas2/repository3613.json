@@ -1,0 +1,1 @@
+{"name": "pywb", "description": "Core Python Web Archiving Toolkit for replay and recording of web archives", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 342, "folkNum": 45, "watchNum": 342, "topic": ["python", "pywb", "wayback", "web-archives", "web-archiving"]}

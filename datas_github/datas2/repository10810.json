@@ -1,0 +1,1 @@
+{"name": "janus", "description": "Thread-safe asyncio-aware queue for Python", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 101, "folkNum": 6, "watchNum": 101, "topic": ["asyncio", "queue", "threadsafe"]}

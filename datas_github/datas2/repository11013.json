@@ -1,0 +1,1 @@
+{"name": "ShuffleNet", "description": "ShuffleNet in PyTorch. Based on https://arxiv.org/abs/1707.01083", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 98, "folkNum": 23, "watchNum": 98, "topic": ["artificial-intelligence", "convolution", "deep-learning", "neural-network", "pytorch"]}

@@ -1,0 +1,1 @@
+{"name": "chatterbot-corpus", "description": "A multilingual dialog corpus", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 173, "folkNum": 116, "watchNum": 173, "topic": ["chatterbot", "corpus", "dialog", "language", "yaml"]}

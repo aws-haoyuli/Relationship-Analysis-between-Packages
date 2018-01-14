@@ -1,0 +1,1 @@
+{"name": "SublimeJsPrettier", "description": "JsPrettier is a Sublime Text Plug-in for Prettier, the opinionated code formatter.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 144, "folkNum": 20, "watchNum": 144, "topic": ["beautify", "format", "javascript", "prettier", "python", "sublime-text"]}

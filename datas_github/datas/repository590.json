@@ -1,0 +1,1 @@
+{"name": "WindyGridWorld", "description": "Stochastic Windy Grid-world : Environment for Reinforcement Learning", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Sumeun"], "packages": ["numpy as np", "gym"]}

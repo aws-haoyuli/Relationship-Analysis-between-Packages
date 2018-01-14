@@ -1,0 +1,1 @@
+{"name": "keras-fcn", "description": "A playable implementation of Fully Convolutional Networks with Keras.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 108, "folkNum": 41, "watchNum": 108, "topic": ["convolutional-networks", "keras", "keras-neural-networks"]}

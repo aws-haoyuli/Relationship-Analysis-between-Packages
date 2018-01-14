@@ -1,0 +1,1 @@
+{"name": "assimilator", "description": "Automatic firewall rule orchestator.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 66, "folkNum": 17, "watchNum": 66, "topic": ["apache2", "assimilator", "firewalls", "python", "wsgi"]}

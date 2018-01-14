@@ -1,0 +1,1 @@
+{"name": "ExtractDexFromOat", "description": "This tool is used to extract dex files from oat file.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 84, "folkNum": 49, "watchNum": 84, "topic": ["dex-files", "extracted-dex-files", "oat"]}

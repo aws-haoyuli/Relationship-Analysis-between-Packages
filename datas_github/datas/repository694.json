@@ -1,0 +1,1 @@
+{"name": "newMINI", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["ChapChapChou"], "packages": ["antlr4", "generator", "sys", "recorrector", "gen"]}

@@ -1,0 +1,1 @@
+{"name": "wagtail-modeltranslation", "description": "Simple app containing a mixin model that integrates modeltranslation (https://github.com/deschler/django-modeltranslation) into wagtail panels system.", "license": null, "starNum": 65, "folkNum": 55, "watchNum": 65, "topic": []}

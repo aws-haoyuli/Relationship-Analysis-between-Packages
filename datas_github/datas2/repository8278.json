@@ -1,0 +1,1 @@
+{"name": "cbox", "description": "convert any python function to unix-style command", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 138, "folkNum": 3, "watchNum": 138, "topic": ["cli", "command", "pipes", "python", "python3", "shell", "shellscript", "unix"]}

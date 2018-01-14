@@ -1,0 +1,1 @@
+{"name": "pytorch2c", "description": "A Python module for compiling PyTorch graphs to C", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 70, "folkNum": 4, "watchNum": 70, "topic": ["compiled-graphs", "deep-learning", "graph", "python", "pytorch", "tensor"]}

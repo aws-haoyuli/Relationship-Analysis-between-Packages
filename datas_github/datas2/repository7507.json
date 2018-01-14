@@ -1,0 +1,1 @@
+{"name": "django-secretballot", "description": "\ud83d\uddf3 django voting application that allows semi-anonymous voting", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 155, "folkNum": 54, "watchNum": 155, "topic": ["django"]}

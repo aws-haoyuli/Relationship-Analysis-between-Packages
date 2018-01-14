@@ -1,0 +1,1 @@
+{"name": "txpostgres", "description": "Twisted wrapper for asynchronous PostgreSQL connections", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 96, "folkNum": 25, "watchNum": 96, "topic": []}

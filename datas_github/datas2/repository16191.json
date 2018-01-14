@@ -1,0 +1,1 @@
+{"name": "py-filelock", "description": "A platform independent file lock for Python", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 60, "folkNum": 16, "watchNum": 60, "topic": ["filelock", "python"]}

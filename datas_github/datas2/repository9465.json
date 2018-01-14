@@ -1,0 +1,1 @@
+{"name": "FlowNetPytorch", "description": "Pytorch implementation of FlowNet by Dosovitskiy et al.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 119, "folkNum": 40, "watchNum": 119, "topic": ["flow", "flownet", "pytorch"]}

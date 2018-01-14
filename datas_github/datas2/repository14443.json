@@ -1,0 +1,1 @@
+{"name": "github-stats", "description": ":star2: GitHub Stats is all about stars, forks, repos, followers and more", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 71, "folkNum": 11, "watchNum": 71, "topic": ["flask", "github", "google-appengine", "python", "stats"]}

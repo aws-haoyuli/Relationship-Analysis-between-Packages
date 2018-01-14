@@ -1,0 +1,1 @@
+{"name": "redis-collections", "description": "Set of basic Python collections backed by Redis", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 65, "folkNum": 20, "watchNum": 65, "topic": []}

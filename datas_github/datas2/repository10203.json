@@ -1,0 +1,1 @@
+{"name": "sqlalchemy_mptt", "description": "SQLAlchemy nested sets mixin (MPTT)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 108, "folkNum": 10, "watchNum": 108, "topic": ["mptt", "python"]}

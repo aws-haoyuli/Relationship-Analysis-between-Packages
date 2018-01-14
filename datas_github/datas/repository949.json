@@ -1,0 +1,1 @@
+{"name": "awesome-hand-pose-estimation", "description": "Awesome work on hand pose estimation/tracking", "license": null, "starNum": 207, "folkNum": 70, "watchNum": 207, "topic": ["computer-vision", "deep-learning", "hand-pose-estimation", "human-computer-interaction"], "contributors": ["xinghaochen"], "packages": ["numpy as np"]}

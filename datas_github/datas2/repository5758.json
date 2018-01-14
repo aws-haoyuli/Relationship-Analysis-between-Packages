@@ -1,0 +1,1 @@
+{"name": "awacs", "description": "Python library for AWS Access Policy Language creation", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 209, "folkNum": 52, "watchNum": 209, "topic": ["aws-iam", "python"]}

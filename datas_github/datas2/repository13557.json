@@ -1,0 +1,1 @@
+{"name": "django-simple-rest", "description": "A dead simple \"framework\" that lets you create RESTful APIs using only Django's class based views", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 77, "folkNum": 15, "watchNum": 77, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "frostline", "description": "A dataset, API, and parser for USDA plant hardiness zones.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 60, "folkNum": 11, "watchNum": 60, "topic": ["api", "farm", "garden", "plants", "usda"]}

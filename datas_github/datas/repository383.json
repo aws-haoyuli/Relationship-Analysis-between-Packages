@@ -1,0 +1,1 @@
+{"name": "quake", "description": "BFT consensus in blockchain", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["HumanoidPhantom"], "packages": ["blockchain", "sys", "flask", "threading", "uuid", "Crypto", "operator", "argparse", "requests", "json", "hashlib"]}

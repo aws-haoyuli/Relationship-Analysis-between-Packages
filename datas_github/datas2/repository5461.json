@@ -1,0 +1,1 @@
+{"name": "sqlitedict", "description": "Persistent dict, backed by sqlite3 and pickle, multithread-safe.", "license": null, "starNum": 222, "folkNum": 48, "watchNum": 222, "topic": ["data-store", "multi-threading", "python", "sqlite"]}

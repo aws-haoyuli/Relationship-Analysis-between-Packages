@@ -1,0 +1,1 @@
+{"name": "Age-Gender-Estimate-TF", "description": "Face age and gender estimate using TensorFlow ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 122, "folkNum": 27, "watchNum": 122, "topic": ["age-gender-cnn", "tensorflow-examples"]}

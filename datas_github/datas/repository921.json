@@ -1,0 +1,1 @@
+{"name": "LightweightM2MDataSimulator", "description": "This is a simulator that models entities follows Lightweight M2M data model, and generate resource and data to the receiver.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": [], "packages": ["iotreportsimulator", "time", "json", "logging"]}

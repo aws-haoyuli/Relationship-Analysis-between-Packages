@@ -1,0 +1,1 @@
+{"name": "pycoin", "description": "Python-based Bitcoin and alt-coin utility library.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 662, "folkNum": 256, "watchNum": 662, "topic": ["altcoins", "bip32", "bitcoin", "python", "segwit"]}

@@ -1,0 +1,1 @@
+{"name": "pytorch-dnc", "description": "Neural Turing Machine (NTM) & Differentiable Neural Computer (DNC) with pytorch & visdom", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 165, "folkNum": 30, "watchNum": 165, "topic": ["deep-learning", "dnc", "external-memory", "ntm", "pytorch", "visdom"]}

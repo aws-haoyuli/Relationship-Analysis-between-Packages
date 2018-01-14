@@ -1,0 +1,1 @@
+{"name": "kivy-ios", "description": "Toolchain for compiling Python / Kivy / other libraries for iOS", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 301, "folkNum": 115, "watchNum": 301, "topic": ["ios", "packaging", "python"]}

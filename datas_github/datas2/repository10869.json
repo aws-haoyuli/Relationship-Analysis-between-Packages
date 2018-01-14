@@ -1,0 +1,1 @@
+{"name": "serverless-wsgi", "description": "Serverless plugin to deploy WSGI applications (Flask/Django/Pyramid etc.) and bundle Python packages", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 100, "folkNum": 18, "watchNum": 100, "topic": ["aws-lambda", "flask", "python", "serverless", "wsgi"]}

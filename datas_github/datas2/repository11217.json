@@ -1,0 +1,1 @@
+{"name": "yams", "description": "A collection of Ansible roles for automating infosec builds.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 96, "folkNum": 13, "watchNum": 96, "topic": ["ansible", "penetration-testing", "security", "security-automation"]}

@@ -1,0 +1,1 @@
+{"name": "style_transfer", "description": "Data-parallel image stylization using Caffe. Implements http://arxiv.org/abs/1508.06576.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 72, "folkNum": 11, "watchNum": 72, "topic": ["caffe", "image-stylization", "python", "style-transfer"]}

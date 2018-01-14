@@ -1,0 +1,1 @@
+{"name": "RetinaNet", "description": "An implementation of RetinaNet in PyTorch.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 107, "folkNum": 11, "watchNum": 107, "topic": ["object-detection", "pytorch", "retinanet"]}

@@ -1,0 +1,1 @@
+{"name": "marshmallow-sqlalchemy", "description": "SQLAlchemy integration with marshmallow", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 144, "folkNum": 44, "watchNum": 144, "topic": ["marshmallow", "python", "python-2", "python-3", "sqlalchemy"]}

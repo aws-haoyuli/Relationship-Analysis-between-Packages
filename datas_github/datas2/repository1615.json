@@ -1,0 +1,1 @@
+{"name": "radon", "description": "Various code metrics for Python code", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 771, "folkNum": 49, "watchNum": 771, "topic": ["cli", "code-analysis", "python", "quality-assurance", "static-analysis"]}

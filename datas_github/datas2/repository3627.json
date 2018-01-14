@@ -1,0 +1,1 @@
+{"name": "resnet-in-tensorflow", "description": "Re-implement Kaiming He's deep residual networks in tensorflow. Can be trained with cifar10.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 341, "folkNum": 123, "watchNum": 341, "topic": []}

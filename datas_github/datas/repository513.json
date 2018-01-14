@@ -1,0 +1,1 @@
+{"name": "denite-gitdiff", "description": "Denite source and kind for git diff", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["deresmos"], "packages": ["", "os", "denite", "copy", "git"]}

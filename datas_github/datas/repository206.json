@@ -1,0 +1,1 @@
+{"name": "PersonaBot", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["leedtan", "BarclayII", "lucas-swiniarski"], "packages": ["os", "pickle", "sys", "nltk"]}

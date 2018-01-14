@@ -1,0 +1,1 @@
+{"name": "BrainDamage", "description": "Remote administration tool which uses Telegram as a C&C server", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 501, "folkNum": 126, "watchNum": 501, "topic": ["backdoor", "python", "security", "telegram"]}

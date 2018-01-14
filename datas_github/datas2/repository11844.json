@@ -1,0 +1,1 @@
+{"name": "fmpytorch", "description": "A PyTorch implementation of a Factorization Machine module in cython.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 90, "folkNum": 4, "watchNum": 90, "topic": []}

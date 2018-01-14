@@ -1,0 +1,1 @@
+{"name": "django-post_office", "description": "A Django app that allows you to send email asynchronously in Django. Supports HTML email, database backed templates and logging.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 375, "folkNum": 123, "watchNum": 375, "topic": []}

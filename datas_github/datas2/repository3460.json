@@ -1,0 +1,1 @@
+{"name": "LLDB", "description": "A collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 355, "folkNum": 46, "watchNum": 355, "topic": ["debugging", "ios", "lldb", "python", "xcode"]}

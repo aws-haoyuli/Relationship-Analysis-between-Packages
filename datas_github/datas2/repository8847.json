@@ -1,0 +1,1 @@
+{"name": "FaceSwap", "description": "3D face swapping implemented in Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 128, "folkNum": 69, "watchNum": 128, "topic": ["3d-models", "computer-vision", "face-alignment", "face-swap", "optimization"]}

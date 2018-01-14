@@ -1,0 +1,1 @@
+{"name": "aiohttp", "description": "Async http client/server framework (asyncio) ", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 4397, "folkNum": 757, "watchNum": 4397, "topic": ["aiohttp", "async", "asyncio", "http", "http-client", "http-server", "python"]}

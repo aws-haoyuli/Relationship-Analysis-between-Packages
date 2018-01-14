@@ -1,0 +1,1 @@
+{"name": "angular-django-rest-resource", "description": "An AngularJS module that provides a resource-generation service similar to ngResource, but optimized for the Django REST Framework.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 257, "folkNum": 33, "watchNum": 257, "topic": []}

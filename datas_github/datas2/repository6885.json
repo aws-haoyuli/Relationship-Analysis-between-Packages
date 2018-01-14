@@ -1,0 +1,1 @@
+{"name": "ConfigArgParse", "description": "A drop-in replacement for argparse that allows options to also be set via config files and/or environment variables.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 173, "folkNum": 45, "watchNum": 173, "topic": []}

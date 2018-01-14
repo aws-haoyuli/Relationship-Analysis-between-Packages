@@ -1,0 +1,1 @@
+{"name": "Pi-GPIO-Server", "description": "A server for the Raspberry Pi with access to the digital GPIO pins via RESTful JSON and Socket.io", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 78, "folkNum": 44, "watchNum": 78, "topic": []}

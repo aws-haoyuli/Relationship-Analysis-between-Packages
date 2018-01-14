@@ -1,0 +1,1 @@
+{"name": "machine-learning-using-quandl-for-datasets", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["abhisheksingla02"], "packages": ["matplotlib", "sklearn", "datetime", "numpy as np #used for including arrays", "quandl", "pandas as pd", "math"]}

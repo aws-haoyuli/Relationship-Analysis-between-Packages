@@ -1,0 +1,1 @@
+{"name": "storm", "description": "Manage your SSH like a boss.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 3072, "folkNum": 140, "watchNum": 3072, "topic": ["python", "ssh", "sshconfig"]}

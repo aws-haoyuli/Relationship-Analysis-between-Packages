@@ -1,0 +1,1 @@
+{"name": "django-rest-framework-jwt", "description": "JSON Web Token Authentication support for Django REST Framework", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1625, "folkNum": 323, "watchNum": 1625, "topic": ["django", "django-rest-framework", "jwt", "python"]}

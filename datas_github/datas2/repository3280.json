@@ -1,0 +1,1 @@
+{"name": "ByteNet", "description": "A tensorflow implementation of French-to-English machine translation using DeepMind's ByteNet .", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 375, "folkNum": 75, "watchNum": 375, "topic": []}

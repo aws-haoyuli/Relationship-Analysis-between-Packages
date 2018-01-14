@@ -1,0 +1,1 @@
+{"name": "fabric-bolt", "description": "Fabric deployments via a web interface", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 380, "folkNum": 105, "watchNum": 380, "topic": ["deployment", "fabric", "python"]}

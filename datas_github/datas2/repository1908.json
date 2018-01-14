@@ -1,0 +1,1 @@
+{"name": "datacleaner", "description": "A Python tool that automatically cleans data sets and readies them for analysis.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 663, "folkNum": 110, "watchNum": 663, "topic": ["automation", "data-science", "machine-learning", "python"]}

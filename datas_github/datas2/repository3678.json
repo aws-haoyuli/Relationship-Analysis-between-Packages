@@ -1,0 +1,1 @@
+{"name": "VulnWhisperer", "description": "Create actionable data from your Vulnerability Scans", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 337, "folkNum": 43, "watchNum": 337, "topic": ["elasticsearch", "elasticstack", "logstash", "nessus", "python", "qualys", "vulnerability"]}

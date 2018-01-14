@@ -1,0 +1,1 @@
+{"name": "django-accounting", "description": "Accounting pluggable app for Django 1.7+ projects", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 86, "folkNum": 46, "watchNum": 86, "topic": ["accountant", "accounting", "django", "python"]}

@@ -1,0 +1,1 @@
+{"name": "nflgame", "description": "An API to retrieve and read NFL Game Center JSON data. It can work with real-time data, which can be used for fantasy football.", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 1110, "folkNum": 294, "watchNum": 1110, "topic": []}

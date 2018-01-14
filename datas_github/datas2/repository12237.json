@@ -1,0 +1,1 @@
+{"name": "todoman", "description": "A simple CalDAV-based todo manager.", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 86, "folkNum": 32, "watchNum": 86, "topic": ["caldav", "icalendar", "pim", "productivity", "python", "tasks", "terminal", "todo", "vcard", "vtodo"]}

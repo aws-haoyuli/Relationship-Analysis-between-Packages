@@ -1,0 +1,1 @@
+{"name": "pyOCD", "description": "Open source python library for programming and debugging ARM Cortex-M microcontrollers using CMSIS-DAP", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 179, "folkNum": 129, "watchNum": 179, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "live-py-plugin", "description": "Live coding in Python as an Eclipse plug in or Emacs mode.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 101, "folkNum": 19, "watchNum": 101, "topic": ["eclipse-plugin", "emacs", "emacs-mode", "pydev", "python"]}

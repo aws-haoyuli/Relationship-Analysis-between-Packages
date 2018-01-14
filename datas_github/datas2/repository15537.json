@@ -1,0 +1,1 @@
+{"name": "rate-limit", "description": "Implementation of a Redis rate limiter in Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 65, "folkNum": 12, "watchNum": 65, "topic": []}

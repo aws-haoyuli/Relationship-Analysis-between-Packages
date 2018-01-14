@@ -1,0 +1,1 @@
+{"name": "pytds", "description": "Python DBAPI driver for MSSQL using pure Python TDS (Tabular Data Stream) protocol implementation", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 75, "folkNum": 25, "watchNum": 75, "topic": []}

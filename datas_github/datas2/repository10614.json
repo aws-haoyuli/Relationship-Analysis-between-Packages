@@ -1,0 +1,1 @@
+{"name": "django-typogrify", "description": "Typogrify is a collection of Django template filters that help prettify your web typography by preventing ugly quotes and widows and providing CSS hooks to style some special cases.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 103, "folkNum": 19, "watchNum": 103, "topic": []}

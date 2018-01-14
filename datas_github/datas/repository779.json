@@ -1,0 +1,1 @@
+{"name": "MatrixCapsulesWithEMRouting", "description": "Implementation of 'Matrix Capsules with EM Routing' in TensorFlow", "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["RoganInglis"], "packages": ["models", "numpy as np", "time", "tensorflow as tf", "math"]}

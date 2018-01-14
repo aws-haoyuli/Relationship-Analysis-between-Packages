@@ -1,0 +1,1 @@
+{"name": "pg_activity", "description": "pg_activity is a top like application for PostgreSQL server activity monitoring.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 653, "folkNum": 78, "watchNum": 653, "topic": ["activity", "command-line", "monitoring", "postgresql"]}

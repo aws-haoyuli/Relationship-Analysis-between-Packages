@@ -1,0 +1,1 @@
+{"name": "flask-appconfig", "description": "Configures Flask applications in a canonical way. Also auto-configures Heroku. Aims to standardize configuration.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 76, "folkNum": 10, "watchNum": 76, "topic": []}

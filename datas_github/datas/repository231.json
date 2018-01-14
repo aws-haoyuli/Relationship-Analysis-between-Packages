@@ -1,0 +1,1 @@
+{"name": "ZeroJudge_auto_judge", "description": ":100:zerojudge\u81ea\u52d5\u8a55\u5206", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["cilegann"], "packages": ["time", "os", "requests", "sys"]}

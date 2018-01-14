@@ -1,0 +1,1 @@
+{"name": "quickStart", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["guoliang-dev"], "packages": ["ctypes", "_ctypes", "win32con", "subprocess"]}

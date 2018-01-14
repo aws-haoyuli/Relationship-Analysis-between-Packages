@@ -1,0 +1,1 @@
+{"name": "chainer-gan-lib", "description": "Chainer implementation of recent GAN variants", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 203, "folkNum": 36, "watchNum": 203, "topic": ["dcgan", "deep-learning", "generative-adversarial-network", "wgan-gp"]}

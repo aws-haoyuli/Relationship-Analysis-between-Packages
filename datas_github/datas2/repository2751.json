@@ -1,0 +1,1 @@
+{"name": "ParsePy", "description": "A Python wrapper for the Parse.com API. Supports self hosted parse-server. (the only up-to-date fork)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 455, "folkNum": 172, "watchNum": 455, "topic": ["parse", "parse-server", "python"]}

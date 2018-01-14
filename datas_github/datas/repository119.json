@@ -1,0 +1,1 @@
+{"name": "c2", "description": "Track assets over different exchanges", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["DanielFortuyn"], "packages": ["os", "ccxt", "flask", "dotenv", "influxdb", "time", "etherscan", "psycopg2", "random", "requests", "json", "pprint"]}

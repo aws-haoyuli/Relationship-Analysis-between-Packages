@@ -1,0 +1,1 @@
+{"name": "eastern-snowdepth", "description": "snowdepth data eastern us", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["racarr01"], "packages": ["shapefile", "xml", "sys", "csv", "time", "urllib"]}

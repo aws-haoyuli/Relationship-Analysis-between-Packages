@@ -1,0 +1,1 @@
+{"name": "github-flask", "description": "Flask extension for authenticating users with GitHub and making requests to the API.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 179, "folkNum": 57, "watchNum": 179, "topic": []}

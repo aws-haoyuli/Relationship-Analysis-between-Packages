@@ -1,0 +1,1 @@
+{"name": "AnalyzePE", "description": "Wraps around various tools and provides some additional checks/information to produce a centralized report of a PE file.", "license": null, "starNum": 101, "folkNum": 25, "watchNum": 101, "topic": []}

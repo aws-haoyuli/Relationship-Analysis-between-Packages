@@ -1,0 +1,1 @@
+{"name": "cibuildwheel", "description": "\ud83c\udfa1 Build Python wheels on CI with minimal configuration. ", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 111, "folkNum": 12, "watchNum": 111, "topic": ["appveyor", "ci", "python", "python-wheels", "travis-ci"]}

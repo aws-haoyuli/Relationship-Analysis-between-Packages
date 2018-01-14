@@ -1,0 +1,1 @@
+{"name": "distroless", "description": "\ud83e\udd51  Language focused docker images, minus the operating system.  ", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 1472, "folkNum": 78, "watchNum": 1472, "topic": ["bazel", "docker"]}

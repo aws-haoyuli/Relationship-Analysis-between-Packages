@@ -1,0 +1,1 @@
+{"name": "tsfw", "description": "Taiwan stock analysis framework", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["qoo77"], "packages": ["os", "importlib", "sys", "lib", "datetime", "tsfw", "logging", "shutil"]}

@@ -1,0 +1,1 @@
+{"name": "django-csvimport", "description": "A generic CSV import tool for django models, imports run via admin upload logging model or custom command", "license": null, "starNum": 240, "folkNum": 112, "watchNum": 240, "topic": []}

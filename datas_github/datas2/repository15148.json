@@ -1,0 +1,1 @@
+{"name": "aurproxy", "description": "Load balancer manager with knowledge of Apache Aurora's service discovery mechanism and integration with Aurora's task lifecycle.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 67, "folkNum": 16, "watchNum": 67, "topic": []}

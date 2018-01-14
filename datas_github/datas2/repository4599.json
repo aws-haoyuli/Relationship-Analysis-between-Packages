@@ -1,0 +1,1 @@
+{"name": "BDA", "description": "The vulnerability detector for Hadoop and Spark", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 266, "folkNum": 28, "watchNum": 266, "topic": ["auditing", "bigdata", "hadoop", "security", "spark"]}

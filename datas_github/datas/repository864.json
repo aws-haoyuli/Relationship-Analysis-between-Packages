@@ -1,0 +1,1 @@
+{"name": "stero_mobile-rysteam", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Dangield", "dudekw", "mjbogusz"], "packages": ["os", "pwd", "sys", "rospy", "stero_mobile_init", "std_msgs", "geometry_msgs"]}

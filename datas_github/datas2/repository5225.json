@@ -1,0 +1,1 @@
+{"name": "django-markdown-deux", "description": "A django app that provides Markdown-related template tags using the python-markdown2 library.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 230, "folkNum": 46, "watchNum": 230, "topic": []}

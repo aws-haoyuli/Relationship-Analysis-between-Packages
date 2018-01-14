@@ -1,0 +1,1 @@
+{"name": "picamera", "description": "A pure Python interface to the Raspberry Pi camera module", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 804, "folkNum": 187, "watchNum": 804, "topic": ["python", "raspberry-pi", "raspberry-pi-camera"]}

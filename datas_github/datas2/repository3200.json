@@ -1,0 +1,1 @@
+{"name": "roca", "description": "ROCA: Infineon RSA key vulnerability", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 388, "folkNum": 73, "watchNum": 388, "topic": ["detector", "discrete-logarithm", "fingerprinting", "infineon", "python", "roca", "roca-detec", "roca-detector", "rsa", "rsa-keys"]}

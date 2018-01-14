@@ -1,0 +1,1 @@
+{"name": "neuralcoref", "description": "State-of-the-art coreference resolution based on neural nets and spaCy", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 267, "folkNum": 56, "watchNum": 267, "topic": ["coreference", "coreference-resolution", "machine-learning", "python", "spacy"]}

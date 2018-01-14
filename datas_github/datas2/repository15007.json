@@ -1,0 +1,1 @@
+{"name": "nxpd", "description": "Draw NetworkX graphs using pydot/graphviz, with support for IPython notebooks.", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 67, "folkNum": 11, "watchNum": 67, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "ecs-deploy", "description": "CLI tool to simplify Amazon ECS deployments", "license": null, "starNum": 158, "folkNum": 17, "watchNum": 158, "topic": ["amazon-web-services", "aws", "aws-cli", "aws-ecs", "containers", "deployment", "docker", "ecs", "ecs-cli", "ecs-service", "scaling", "scheduling"]}

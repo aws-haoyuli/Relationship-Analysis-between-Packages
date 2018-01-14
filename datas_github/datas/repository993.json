@@ -1,0 +1,1 @@
+{"name": "Pytorch_train", "description": "Pytorch_train", "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["youngbaby123"], "packages": ["os", "argparse", "lib", "collections", "pickle", "logging", "torch", "net", "_init_paths"]}

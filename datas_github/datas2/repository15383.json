@@ -1,0 +1,1 @@
+{"name": "deepcpg", "description": "Deep neural networks for predicting CpG methylation", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 65, "folkNum": 34, "watchNum": 65, "topic": ["deep-neural-networks", "deeplearning", "epigenetics", "methylation", "single-cell"]}

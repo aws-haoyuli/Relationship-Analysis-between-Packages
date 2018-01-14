@@ -1,0 +1,1 @@
+{"name": "virtualenv-burrito", "description": "One command to have a working virtualenv + virtualenvwrapper environment.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 771, "folkNum": 44, "watchNum": 771, "topic": ["python", "virtualenv", "virtualenvwrapper"]}

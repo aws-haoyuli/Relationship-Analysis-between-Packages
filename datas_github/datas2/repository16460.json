@@ -1,0 +1,1 @@
+{"name": "django-adv-cache-tag", "description": "An advanced template tag for caching in django : versionning, compress, partial caching, easy inheritance...", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 59, "folkNum": 7, "watchNum": 59, "topic": []}

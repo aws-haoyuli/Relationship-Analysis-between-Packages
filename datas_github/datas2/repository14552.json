@@ -1,0 +1,1 @@
+{"name": "ish", "description": "SSH to an AWS server based on name tag, AMI, autoscaling group, or instance ID.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 70, "folkNum": 8, "watchNum": 70, "topic": []}

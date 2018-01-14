@@ -1,0 +1,1 @@
+{"name": "redispapa", "description": "another redis monitor by using flask, angular, socket.io", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 357, "folkNum": 76, "watchNum": 357, "topic": ["angular", "highcharts", "python", "redis-server", "socket"]}

@@ -1,0 +1,1 @@
+{"name": "pyqtdeploy", "description": "synced from https://riverbankcomputing.com/hg/pyqtdeploy", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["philthompson10"], "packages": ["os", "glob", "setuptools", "argparse", "subprocess", "sys"]}

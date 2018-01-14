@@ -1,0 +1,1 @@
+{"name": "imgkit", "description": "\ud83c\udf86 Wkhtmltoimage python wrapper to convert html to image", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 406, "folkNum": 33, "watchNum": 406, "topic": ["imgkit", "wkhtmltoimage", "wkhtmltopdf"]}

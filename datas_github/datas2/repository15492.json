@@ -1,0 +1,1 @@
+{"name": "flask-webpack-cookiecutter", "description": "Auto builds the foundation for a production ready Flask+Webpack application", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 65, "folkNum": 5, "watchNum": 65, "topic": ["flask", "node", "python", "webpack"]}

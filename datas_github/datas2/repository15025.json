@@ -1,0 +1,1 @@
+{"name": "ansible-ec2", "description": "A collection of commands to simplify common tasks built on top of Ansible and the EC2 external inventory plugin", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 67, "folkNum": 15, "watchNum": 67, "topic": []}

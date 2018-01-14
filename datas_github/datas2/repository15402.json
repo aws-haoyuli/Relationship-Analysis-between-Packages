@@ -1,0 +1,1 @@
+{"name": "phobos", "description": "An add-on for Blender allowing to create URDF and SMURF robot models in a WYSIWYG environment.", "license": {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0"}, "starNum": 65, "folkNum": 21, "watchNum": 65, "topic": ["blender", "python", "robot", "urdf"]}

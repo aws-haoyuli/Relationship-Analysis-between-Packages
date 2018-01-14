@@ -1,0 +1,1 @@
+{"name": "pygatt", "description": "Python wrapper for gatttool (from BlueZ) and the BGAPI for accessing Bluetooth LE Devices", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 142, "folkNum": 87, "watchNum": 142, "topic": []}

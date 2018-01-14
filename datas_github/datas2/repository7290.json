@@ -1,0 +1,1 @@
+{"name": "django-google-analytics", "description": "A simple django application to using Google Analytics in your project and tying different GA tags to different sites", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 160, "folkNum": 67, "watchNum": 160, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "json-rpc", "description": "\ud83d\udd01 JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 154, "folkNum": 52, "watchNum": 154, "topic": ["json-rpc", "python"]}

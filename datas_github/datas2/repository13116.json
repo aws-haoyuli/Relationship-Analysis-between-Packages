@@ -1,0 +1,1 @@
+{"name": "MobileNetworks", "description": "Keras implementation of Mobile Networks", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 80, "folkNum": 19, "watchNum": 80, "topic": ["imagenet", "keras", "mobilenets", "neural-network", "tensorflow"]}

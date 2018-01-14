@@ -1,0 +1,1 @@
+{"name": "MobileNet-SSD", "description": "Caffe implementation of Google MobileNet SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.", "license": null, "starNum": 261, "folkNum": 124, "watchNum": 261, "topic": ["caffe", "detection", "mobilenet", "mobilenet-ssd", "ssd"]}

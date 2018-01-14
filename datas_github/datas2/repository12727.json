@@ -1,0 +1,1 @@
+{"name": "python-glob2", "description": "Version of the glob module that supports recursion via **, and can capture patterns.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 83, "folkNum": 16, "watchNum": 83, "topic": []}

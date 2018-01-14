@@ -1,0 +1,1 @@
+{"name": "sqlipy", "description": "SQLiPy is a Python plugin for Burp Suite that integrates SQLMap using the SQLMap API.", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 130, "folkNum": 47, "watchNum": 130, "topic": []}

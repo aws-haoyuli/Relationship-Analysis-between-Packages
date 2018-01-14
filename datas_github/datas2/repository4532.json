@@ -1,0 +1,1 @@
+{"name": "lark", "description": "A modern parsing library for Python, implementing Earley & LALR(1) and an easy interface", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 271, "folkNum": 19, "watchNum": 271, "topic": ["earley", "lalr", "parser", "parser-library", "parsing-engine", "parsing-library"]}

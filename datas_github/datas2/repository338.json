@@ -1,0 +1,1 @@
+{"name": "howmanypeoplearearound", "description": "Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2988, "folkNum": 122, "watchNum": 2988, "topic": ["location", "sensor", "tshark", "wifi"]}

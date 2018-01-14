@@ -1,0 +1,1 @@
+{"name": "pysparkling", "description": "A pure Python implementation of Apache Spark's RDD and DStream interfaces.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 127, "folkNum": 22, "watchNum": 127, "topic": ["apache-spark", "data-processing", "data-science", "python"]}

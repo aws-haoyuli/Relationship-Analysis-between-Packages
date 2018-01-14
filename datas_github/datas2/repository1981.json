@@ -1,0 +1,1 @@
+{"name": "implicit", "description": "Fast Python Collaborative Filtering for Implicit Datasets", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 635, "folkNum": 143, "watchNum": 635, "topic": ["collaborative-filtering", "machine-learning", "matrix-factorization", "recommender-system"]}

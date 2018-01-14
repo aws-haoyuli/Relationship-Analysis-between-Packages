@@ -1,0 +1,1 @@
+{"name": "configuration", "description": "Various configuration files.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Alexmac22347"], "packages": ["os", "conque_globals", "sys", "conque_win32_util", "time", "re", "conque_sole_shared_memory", "conque_sole_subprocess"]}

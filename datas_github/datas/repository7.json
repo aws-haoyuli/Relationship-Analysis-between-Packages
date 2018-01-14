@@ -1,0 +1,1 @@
+{"name": "qq_mood", "description": "qq\u8bf4\u8bf4\u722c\u866b+\u7b80\u5355\u7684\u6570\u636e\u5206\u6790", "license": null, "starNum": 22, "folkNum": 16, "watchNum": 22, "topic": [], "contributors": ["doctorwho77"], "packages": ["requests", "pandas as pd", "ArticleSpider", "datetime", "re", "MySQLdb"]}

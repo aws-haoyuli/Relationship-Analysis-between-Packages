@@ -1,0 +1,1 @@
+{"name": "superboss_auto", "description": null, "license": null, "starNum": 0, "folkNum": 3, "watchNum": 0, "topic": [], "contributors": ["sophiazhuyan", "yanghuai1990"], "packages": ["os", "common", "bs4", "base64", "distutils", "requests", "selenium", "testsuites", "time", "unittest", "logging", "json", "re", "Login_test", "urllib2"]}

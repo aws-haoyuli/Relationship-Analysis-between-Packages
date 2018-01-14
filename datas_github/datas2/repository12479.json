@@ -1,0 +1,1 @@
+{"name": "django-chunked-upload", "description": "Upload large files to Django in multiple chunks, with the ability to resume if the upload is interrupted.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 84, "folkNum": 23, "watchNum": 84, "topic": []}

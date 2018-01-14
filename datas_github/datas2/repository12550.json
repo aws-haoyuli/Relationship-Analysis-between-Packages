@@ -1,0 +1,1 @@
+{"name": "pyfasttext", "description": "Yet another Python binding for fastText", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 84, "folkNum": 9, "watchNum": 84, "topic": ["fasttext", "machine-learning", "nlp", "numpy", "python", "python-bindings", "word-vectors"]}

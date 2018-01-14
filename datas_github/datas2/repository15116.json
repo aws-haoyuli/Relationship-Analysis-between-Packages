@@ -1,0 +1,1 @@
+{"name": "rekognition_osx_tagfile", "description": "Takes local OSX directory of images and uses Amazon Rekognition to tag them using OSX tags", "license": null, "starNum": 67, "folkNum": 8, "watchNum": 67, "topic": []}

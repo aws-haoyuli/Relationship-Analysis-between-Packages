@@ -1,0 +1,1 @@
+{"name": "django-locking", "description": "Prevents users from doing concurrent editing in Django. Works out of the box in the admin interface, or you can integrate it with your own apps using a public API.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 136, "folkNum": 71, "watchNum": 136, "topic": []}

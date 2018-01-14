@@ -1,0 +1,1 @@
+{"name": "scrapy-deltafetch", "description": "Scrapy spider middleware to ignore requests to pages containing items seen in previous crawls", "license": null, "starNum": 94, "folkNum": 22, "watchNum": 94, "topic": []}

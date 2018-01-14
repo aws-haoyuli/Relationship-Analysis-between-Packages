@@ -1,0 +1,1 @@
+{"name": "python-opcua", "description": "LGPL Pure Python OPC-UA Client and Server", "license": {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0"}, "starNum": 219, "folkNum": 122, "watchNum": 219, "topic": ["iec-62541", "library", "opc", "opc-ua", "protocol", "python", "python3"]}

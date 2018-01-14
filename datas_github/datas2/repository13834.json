@@ -1,0 +1,1 @@
+{"name": "prince", "description": ":crown: Python factor analysis library (PCA, CA, MCA, FAMD)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 75, "folkNum": 26, "watchNum": 75, "topic": ["ca", "factor-analysis", "mca", "pandas", "pca", "python", "svd"]}

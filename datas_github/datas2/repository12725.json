@@ -1,0 +1,1 @@
+{"name": "gym-extensions", "description": "This repo is intended as an extension for OpenAI Gym for auxiliary tasks (multitask learning, transfer learning, inverse reinforcement learning, etc.)", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 83, "folkNum": 16, "watchNum": 83, "topic": []}

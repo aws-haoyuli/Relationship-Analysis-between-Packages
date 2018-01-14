@@ -1,0 +1,1 @@
+{"name": "kubeform", "description": "Form your :boat: Kubernetes :anchor: cluster anywhere using CoreOS, Terraform and Ansible", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 298, "folkNum": 56, "watchNum": 298, "topic": ["kubernetes"]}

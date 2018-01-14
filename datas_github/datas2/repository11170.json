@@ -1,0 +1,1 @@
+{"name": "toriptables2", "description": "Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.", "license": null, "starNum": 97, "folkNum": 34, "watchNum": 97, "topic": ["anonymize", "dns", "iptables", "tor", "tor-ip-switcher", "tor-iptables-script", "tor-network", "traffic"]}

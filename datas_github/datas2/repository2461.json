@@ -1,0 +1,1 @@
+{"name": "pymodbus", "description": "A full modbus protocol written in python", "license": null, "starNum": 506, "folkNum": 271, "watchNum": 506, "topic": ["modbus", "modbus-library", "modbus-master", "modbus-protocol", "modbus-rtu", "modbus-serial", "modbus-slave", "modbus-tcp", "python"]}

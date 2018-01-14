@@ -1,0 +1,1 @@
+{"name": "sqlalchemy-datatables", "description": "SQLAlchemy integration of jQuery DataTables >= 1.10.x (Pyramid and Flask examples)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 72, "folkNum": 44, "watchNum": 72, "topic": ["datatables", "python", "sqlalchemy"]}

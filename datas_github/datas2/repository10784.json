@@ -1,0 +1,1 @@
+{"name": "aws-limit-monitor", "description": "Customizable Lambda functions to proactively notify you when you are about to hit an AWS service limit. Requires Enterprise or Business level support to access Support API.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 101, "folkNum": 30, "watchNum": 101, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "redis-simple-cache", "description": "Simple redis based cache for storing results of python function calls, json encoded strings or html.", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 82, "folkNum": 43, "watchNum": 82, "topic": []}

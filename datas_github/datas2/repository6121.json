@@ -1,0 +1,1 @@
+{"name": "Stock-Predictor", "description": "Listens for Stock news on Twitter, performs sentiment  analysis by mining information from an online news source, performs supervised predictive modeling and  suggests buy or sell decisions of the stock. Computes portfolio returns over time.", "license": null, "starNum": 195, "folkNum": 108, "watchNum": 195, "topic": []}

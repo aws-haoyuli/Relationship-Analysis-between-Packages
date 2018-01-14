@@ -1,0 +1,1 @@
+{"name": "face_classification", "description": "Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2138, "folkNum": 411, "watchNum": 2138, "topic": []}

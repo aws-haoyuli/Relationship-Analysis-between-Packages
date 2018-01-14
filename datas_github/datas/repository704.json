@@ -1,0 +1,1 @@
+{"name": "Cifar100_CNN", "description": "Image Classfication Using CNN on the Cifar100 Dataset", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["GGSuchao"], "packages": ["os", "keras", "matplotlib", "__future__", "tensorflow as tf"]}

@@ -1,0 +1,1 @@
+{"name": "Tigress_protection", "description": "Playing with the Tigress binary protection. Automatic deobfuscation using symbolic execution and LLVM.", "license": null, "starNum": 182, "folkNum": 39, "watchNum": 182, "topic": ["deobfuscation", "llvm", "reverse-engineering", "symbolic-execution", "tigress", "tigress-protections", "triton"]}

@@ -1,0 +1,1 @@
+{"name": "tiler", "description": "A no nonsense Vector Tile pipeline", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 77, "folkNum": 9, "watchNum": 77, "topic": ["converter", "docker-container", "dockerfile", "geojson", "mbtiles", "ogr2ogr", "python", "shapefile", "tile", "vector-tiles"]}

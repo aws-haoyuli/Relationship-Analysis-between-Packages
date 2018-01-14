@@ -1,0 +1,1 @@
+{"name": "django-dotenv", "description": "Loads environment variables from .env", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 324, "folkNum": 24, "watchNum": 324, "topic": ["django", "dotenv", "python"]}

@@ -1,0 +1,1 @@
+{"name": "AVSignSeek", "description": "Tool written in python3 to determine where the AV signature is located in a binary/payload", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 175, "folkNum": 35, "watchNum": 175, "topic": ["antivirus-evasion", "antivirus-testing", "python3"]}

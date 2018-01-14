@@ -1,0 +1,1 @@
+{"name": "aops-python-tool", "description": "A python tool for manipulating AoPS via python", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Nepaltechguy2"], "packages": ["time", "os", "selenium", "aops"]}

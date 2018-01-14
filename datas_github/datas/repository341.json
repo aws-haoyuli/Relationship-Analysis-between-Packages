@@ -1,0 +1,1 @@
+{"name": "rivermapper", "description": "Python script to transform a Digital Elevation Model (DEM) image into a map of rivers.", "license": null, "starNum": 2, "folkNum": 0, "watchNum": 2, "topic": ["dem", "digital-elevation-model", "map", "rivers", "slope"], "contributors": ["Gael-de-Sailly"], "packages": ["numpy as np", "heapq", "imageio", "sys"]}

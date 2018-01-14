@@ -1,0 +1,1 @@
+{"name": "alexa_feed", "description": "Alexa\u306bFeedly\u304b\u3089\u6700\u65b0\u8a18\u4e8b\u3092\u6559\u3048\u3066\u3082\u3089\u3046", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": [], "packages": ["logging", "os", "requests", "time", "datetime", "json", "traceback"]}

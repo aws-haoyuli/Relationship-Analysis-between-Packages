@@ -1,0 +1,1 @@
+{"name": "requests-respectful", "description": "Minimalist Requests wrapper to work within rate limits of any amount of services simultaneously. Parallel processing friendly.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 365, "folkNum": 17, "watchNum": 365, "topic": ["python", "rate-limiting", "requests"]}

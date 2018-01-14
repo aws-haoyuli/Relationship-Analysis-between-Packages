@@ -1,0 +1,1 @@
+{"name": "aws-lambda-python-local", "description": "Run and Test locally, Dist and Deploy online your AWS Lambda Python functions with a simple Makefile. Deploy, Stage and Test you API Gateway calls too!", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 85, "folkNum": 18, "watchNum": 85, "topic": []}

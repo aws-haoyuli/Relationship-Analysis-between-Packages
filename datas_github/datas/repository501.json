@@ -1,0 +1,1 @@
+{"name": "neco-look", "description": "A neocomplcache plugin for English, using look command", "license": null, "starNum": 48, "folkNum": 12, "watchNum": 48, "topic": [], "contributors": ["Shougo", "ujihisa", "balta2ar", "pocke", "neilvyas", "ypresto", "itchyny"], "packages": ["", "os", "re", "subprocess"]}

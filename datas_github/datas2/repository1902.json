@@ -1,0 +1,1 @@
+{"name": "pyheatmagic", "description": "IPython magic command to profile and view your python code as a heat map.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 665, "folkNum": 15, "watchNum": 665, "topic": ["heatmap", "ipython", "ipython-magic", "profiler"]}

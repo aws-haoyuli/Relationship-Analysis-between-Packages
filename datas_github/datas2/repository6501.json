@@ -1,0 +1,1 @@
+{"name": "pyflakes", "description": "a faster smurfier pyflakes fork using _ast instead of compiler", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 183, "folkNum": 68, "watchNum": 183, "topic": []}

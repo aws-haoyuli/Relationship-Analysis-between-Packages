@@ -1,0 +1,1 @@
+{"name": "TWindbg", "description": "PEDA-like debugger UI for WinDbg", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 82, "folkNum": 16, "watchNum": 82, "topic": ["debugger", "pykd", "python", "windbg", "windbg-extension"]}

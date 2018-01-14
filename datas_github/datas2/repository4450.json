@@ -1,0 +1,1 @@
+{"name": "visual-analogy-tensorflow", "description": "Tensorflow implementation of \"Deep Visual Analogy-Making\"", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 275, "folkNum": 41, "watchNum": 275, "topic": ["analogy-transformations", "deep-learning", "tensorflow"]}

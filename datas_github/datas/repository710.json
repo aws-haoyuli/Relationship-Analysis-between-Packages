@@ -1,0 +1,1 @@
+{"name": "humanoid_robot", "description": "Read \"humanoid robot\" and implement some algorithms", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["neka-nat"], "packages": ["scipy", "matplotlib", "mpl_toolkits", "__future__", "numpy as np"]}

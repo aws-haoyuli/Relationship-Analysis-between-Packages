@@ -1,0 +1,1 @@
+{"name": "django-aggregate-if", "description": "Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 132, "folkNum": 16, "watchNum": 132, "topic": []}

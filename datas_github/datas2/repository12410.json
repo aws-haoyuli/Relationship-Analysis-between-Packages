@@ -1,0 +1,1 @@
+{"name": "proclaim", "description": "Conditionally roll out features with redis. (Python version of James Golick's http://github.com/jamesgolick/rollout) ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 84, "folkNum": 8, "watchNum": 84, "topic": []}

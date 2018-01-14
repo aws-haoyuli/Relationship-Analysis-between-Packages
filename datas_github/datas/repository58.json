@@ -1,0 +1,1 @@
+{"name": "FlipDot_Controller_Luminator", "description": "FlipDot Controller for Luminator Mark IV", "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["superyaniv"], "packages": ["RPi", "time"]}

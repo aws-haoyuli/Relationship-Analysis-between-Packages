@@ -1,0 +1,1 @@
+{"name": "keystone", "description": "OpenStack Identity (Keystone)", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 398, "folkNum": 541, "watchNum": 398, "topic": ["api-server", "compute-starter-kit"]}

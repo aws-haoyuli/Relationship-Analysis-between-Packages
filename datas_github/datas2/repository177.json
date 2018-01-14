@@ -1,0 +1,1 @@
+{"name": "beeswithmachineguns", "description": "A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 4404, "folkNum": 458, "watchNum": 4404, "topic": []}

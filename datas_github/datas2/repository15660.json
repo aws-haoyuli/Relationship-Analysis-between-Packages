@@ -1,0 +1,1 @@
+{"name": "nnet-ts", "description": "Neural network architecture for time series forecasting.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 64, "folkNum": 17, "watchNum": 64, "topic": ["machine-learning", "neural-network", "time-series"]}

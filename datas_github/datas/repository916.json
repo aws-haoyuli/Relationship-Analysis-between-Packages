@@ -1,0 +1,1 @@
+{"name": "TorSpider", "description": "An index which uses 'spiders' to crawl and explore every discoverable hidden service on Tor.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["eloquentmess"], "packages": ["os", "html", "sys", "datetime", "time", "multiprocessing", "sqlite3 as sql", "random", "requests"]}

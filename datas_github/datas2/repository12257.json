@@ -1,0 +1,1 @@
+{"name": "tf_texture_net", "description": "TensorFlow implementation of DmitryUlyanov/texture_nets", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 86, "folkNum": 14, "watchNum": 86, "topic": ["tensorflow", "texture-nets", "torch"]}

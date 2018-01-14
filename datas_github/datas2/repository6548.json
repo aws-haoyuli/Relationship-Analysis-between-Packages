@@ -1,0 +1,1 @@
+{"name": "nginx-ldap-auth", "description": "Example of LDAP authentication using ngx_http_auth_request_module", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 182, "folkNum": 60, "watchNum": 182, "topic": []}

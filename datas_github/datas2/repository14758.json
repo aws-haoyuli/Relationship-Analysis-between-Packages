@@ -1,0 +1,1 @@
+{"name": "django-pq", "description": "[UNMAINTAINED] A task queue based on the elegant python RQ but with a django postgresql backend.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 69, "folkNum": 8, "watchNum": 69, "topic": []}

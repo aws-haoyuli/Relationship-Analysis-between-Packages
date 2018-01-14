@@ -1,0 +1,1 @@
+{"name": "pywal", "description": "\ud83c\udfa8 Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 709, "folkNum": 27, "watchNum": 709, "topic": ["changing-colorschemes", "colorscheme", "terminal-emulators", "wal"]}

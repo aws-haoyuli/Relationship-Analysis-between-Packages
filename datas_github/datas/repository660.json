@@ -1,0 +1,1 @@
+{"name": "Gandalf", "description": "Artificial intelligence Craft", "license": {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "spdx_id": "LGPL-2.1", "url": "https://api.github.com/licenses/lgpl-2.1"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["longyangking"], "packages": ["numpy as np ", "sys", "gandalf"]}

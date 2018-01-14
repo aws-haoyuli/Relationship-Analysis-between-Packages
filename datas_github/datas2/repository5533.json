@@ -1,0 +1,1 @@
+{"name": "ceph-deploy", "description": "Deploy Ceph with minimal infrastructure, using just SSH access", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 218, "folkNum": 208, "watchNum": 218, "topic": []}

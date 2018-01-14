@@ -1,0 +1,1 @@
+{"name": "nao", "description": "Simple No-meaning Assembly Omitter for IDA pro (CURRENTLY UNDER DEVELOPMENT)", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 159, "folkNum": 34, "watchNum": 159, "topic": ["ida-plugin", "idapython", "malware-analysis", "unicorn-emulator"]}

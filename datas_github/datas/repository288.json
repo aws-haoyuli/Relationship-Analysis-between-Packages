@@ -1,0 +1,1 @@
+{"name": "DaemonInRaspberry", "description": "Simple Telegram bot", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Airplaneless"], "packages": ["os", "sys", "Daemon", "key", "unittest", "telegram"]}

@@ -1,0 +1,1 @@
+{"name": "ndscheduler", "description": "A flexible python library for building your own cron-like system, with REST APIs and a Web UI.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 167, "folkNum": 54, "watchNum": 167, "topic": []}

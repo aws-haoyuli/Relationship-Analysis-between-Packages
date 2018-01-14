@@ -1,0 +1,1 @@
+{"name": "kubebot", "description": "A security testing Slackbot built with a Kubernetes backend on the Google Cloud Platform", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 81, "folkNum": 11, "watchNum": 81, "topic": []}

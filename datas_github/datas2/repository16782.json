@@ -1,0 +1,1 @@
+{"name": "pipetools", "description": "Functional plumbing for Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 58, "folkNum": 7, "watchNum": 58, "topic": ["composition", "functional", "monads", "pipe", "python"]}

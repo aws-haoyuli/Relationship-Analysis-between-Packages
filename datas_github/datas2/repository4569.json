@@ -1,0 +1,1 @@
+{"name": "luatool", "description": "Small python script for loading init.lua to ESP8266 nodemcu firmware", "license": {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0"}, "starNum": 268, "folkNum": 89, "watchNum": 268, "topic": []}

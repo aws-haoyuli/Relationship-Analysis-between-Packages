@@ -1,0 +1,1 @@
+{"name": "tzupdate", "description": "Set the system timezone based on IP geolocation", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 72, "folkNum": 10, "watchNum": 72, "topic": ["clock", "geolocation", "geolocation-api", "linux", "public-domain", "python", "time", "time-clock", "timezone", "timezone-picker"]}

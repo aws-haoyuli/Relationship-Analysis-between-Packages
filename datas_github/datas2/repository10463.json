@@ -1,0 +1,1 @@
+{"name": "rules_scala", "description": "Scala rules for Bazel", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 105, "folkNum": 70, "watchNum": 105, "topic": ["bazel", "bazel-rules", "scala", "scalatest"]}

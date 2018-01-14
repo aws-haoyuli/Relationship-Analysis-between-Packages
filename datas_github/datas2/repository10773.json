@@ -1,0 +1,1 @@
+{"name": "argon2_cffi", "description": "Secure Password Hashes for Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 101, "folkNum": 9, "watchNum": 101, "topic": ["argon2", "cffi", "password", "password-hash", "python", "security"]}

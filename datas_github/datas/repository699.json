@@ -1,0 +1,1 @@
+{"name": "LTL-SAM", "description": "Learning-to-learn Stochastic Association Module", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["krisdamato"], "packages": ["os", "matplotlib", "ltl", "collections", "sam", "numpy as np", "nest", "logging", "itertools", "pypet", "copy "]}

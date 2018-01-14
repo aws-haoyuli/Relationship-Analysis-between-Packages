@@ -1,0 +1,1 @@
+{"name": "arcus", "description": "ARCUS is the NAVER memcached with lists, sets and b+trees. http://naver.github.io/arcus", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 224, "folkNum": 73, "watchNum": 224, "topic": ["cache-cloud"]}

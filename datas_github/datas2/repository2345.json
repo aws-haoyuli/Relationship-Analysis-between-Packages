@@ -1,0 +1,1 @@
+{"name": "tasktiger", "description": "Python task queue. Because celery is gross.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 537, "folkNum": 38, "watchNum": 537, "topic": ["queue", "worker"]}

@@ -1,0 +1,1 @@
+{"name": "python-lambda", "description": "A toolkit for developing and deploying serverless Python code in AWS Lambda. ", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 580, "folkNum": 104, "watchNum": 580, "topic": ["aws", "aws-lambda", "microservices", "python", "serverless"]}

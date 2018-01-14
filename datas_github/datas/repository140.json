@@ -1,0 +1,1 @@
+{"name": "activeGitHub", "description": "Incrementando la actividad", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["api", "bot", "gasolinazo", "octocat"], "contributors": ["EdgarVaguencia"], "packages": ["os", "lxml", "datetime", "json", "argparse", "requests", "re"]}

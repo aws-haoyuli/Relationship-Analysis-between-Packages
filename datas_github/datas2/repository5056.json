@@ -1,0 +1,1 @@
+{"name": "python-flamegraph", "description": "Statistical profiler which outputs in format suitable for FlameGraph (http://www.brendangregg.com/flamegraphs.html)", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 241, "folkNum": 25, "watchNum": 241, "topic": []}

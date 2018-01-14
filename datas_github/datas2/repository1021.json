@@ -1,0 +1,1 @@
+{"name": "mongo-connector", "description": "Data replication from MongoDB to MongoDB, Elasticsearch, Solr, and more!", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 1182, "folkNum": 353, "watchNum": 1182, "topic": ["elasticsearch", "mongodb", "python", "solr"]}

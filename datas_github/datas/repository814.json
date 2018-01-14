@@ -1,0 +1,1 @@
+{"name": "ML_Alvin_3.6", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["alvinwang1021"], "packages": ["scipy", "sklearn", "datetime", "numpy as np", "pandas as pd", "metric_learn", "openpyxl"]}

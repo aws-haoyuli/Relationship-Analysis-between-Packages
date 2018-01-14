@@ -1,0 +1,1 @@
+{"name": "django-sass-processor", "description": "SASS processor to compile SCSS files into *.css, while rendering, or offline.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 128, "folkNum": 31, "watchNum": 128, "topic": []}

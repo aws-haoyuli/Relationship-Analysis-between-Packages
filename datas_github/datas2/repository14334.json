@@ -1,0 +1,1 @@
+{"name": "bitwrap-io", "description": "a state machine eventstore using PostgreSQL schemata defined by Petri-Nets", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 72, "folkNum": 3, "watchNum": 72, "topic": ["blockchain", "event-sourcing", "event-store", "postgresql"]}

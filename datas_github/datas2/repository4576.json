@@ -1,0 +1,1 @@
+{"name": "semisup-learn", "description": "Semi-supervised learning frameworks for python, which allow fitting scikit-learn classifiers to partially labeled data", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 268, "folkNum": 71, "watchNum": 268, "topic": []}

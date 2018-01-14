@@ -1,0 +1,1 @@
+{"name": "git-repo-updater", "description": "A console script that allows you to easily update multiple git repositories at once", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 383, "folkNum": 53, "watchNum": 383, "topic": ["git", "python"]}

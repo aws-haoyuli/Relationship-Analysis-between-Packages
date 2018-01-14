@@ -1,0 +1,1 @@
+{"name": "DictionaryAutoComplete", "description": "This adds dictionary entries to the completions inside comments. For lazy typers!", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 70, "folkNum": 14, "watchNum": 70, "topic": ["autocompletion", "sublime-text"]}

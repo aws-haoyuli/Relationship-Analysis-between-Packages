@@ -1,0 +1,1 @@
+{"name": "cupy", "description": "NumPy-like API accelerated with CUDA", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 1072, "folkNum": 103, "watchNum": 1072, "topic": ["cublas", "cuda", "cudnn", "cupy", "curand", "cusolver", "cusparse", "nccl", "numpy", "python"]}

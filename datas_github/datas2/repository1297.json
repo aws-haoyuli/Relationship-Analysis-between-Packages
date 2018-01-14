@@ -1,0 +1,1 @@
+{"name": "tensorboard-pytorch", "description": "tensorboard for pytorch (and chainer, mxnet, numpy, ...)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 949, "folkNum": 90, "watchNum": 949, "topic": ["machine-learning", "pytorch", "tensorboard", "visualization"]}

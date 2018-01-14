@@ -1,0 +1,1 @@
+{"name": "flake8-import-order", "description": "Flake8 plugin that checks import order against various Python Style Guides", "license": {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0"}, "starNum": 107, "folkNum": 44, "watchNum": 107, "topic": ["flake8", "pylama", "python"]}

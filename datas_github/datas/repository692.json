@@ -1,0 +1,1 @@
+{"name": "todoapp-backend", "description": "backend todoapp in django", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["rafaelbandim"], "packages": ["os", "Django", "sys", "django"]}

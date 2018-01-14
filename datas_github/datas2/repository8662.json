@@ -1,0 +1,1 @@
+{"name": "python-binary-memcached", "description": "A pure python module (thread safe) to access memcached via it's binary protocol with SASL auth support.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 131, "folkNum": 41, "watchNum": 131, "topic": []}

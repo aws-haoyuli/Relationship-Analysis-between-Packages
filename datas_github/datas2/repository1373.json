@@ -1,0 +1,1 @@
+{"name": "basicRAT", "description": "python remote access trojan", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 903, "folkNum": 216, "watchNum": 903, "topic": ["python", "python-rat", "remote-access", "reverse-shell", "trojan"]}

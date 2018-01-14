@@ -1,0 +1,1 @@
+{"name": "adv_attack_capsnet", "description": "Tensorflow Implementation of Adversarial Attack to Capsule Networks", "license": null, "starNum": 91, "folkNum": 21, "watchNum": 91, "topic": ["adversarial-example", "capsule-network", "fgsm", "tensorflow"]}

@@ -1,0 +1,1 @@
+{"name": "classical", "description": "Convenience tools for working with Python classes", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["altvod"], "packages": ["os", "codecs", "unittest", "classical", "setuptools"]}

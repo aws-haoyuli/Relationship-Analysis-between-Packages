@@ -1,0 +1,1 @@
+{"name": "django-db-readonly", "description": "Force an entire site to become readonly. In a sort of hackish way.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 88, "folkNum": 20, "watchNum": 88, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "hyperlink", "description": "Immutable, Pythonic, correct URLs.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 64, "folkNum": 7, "watchNum": 64, "topic": ["internet", "python", "rfc-3986", "url", "url-parsing"]}

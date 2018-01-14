@@ -1,0 +1,1 @@
+{"name": "onedrived-dev", "description": "A Microsoft OneDrive client for Linux, written in Python3.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 284, "folkNum": 32, "watchNum": 284, "topic": ["inotify", "keyring", "microsoft-onedrive", "onedrive", "onedrive-client", "python-3", "python3"]}

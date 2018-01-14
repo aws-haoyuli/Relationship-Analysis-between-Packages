@@ -1,0 +1,1 @@
+{"name": "rpmvenv", "description": "RPM packager for Python virtualenv.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 89, "folkNum": 23, "watchNum": 89, "topic": ["packaging", "python", "rpm", "rpmbuild", "rpmbuilder", "virtualenv"]}

@@ -1,0 +1,1 @@
+{"name": "Github-Auto-Deploy", "description": "a server that allows you to automatically deploy the latest version of your github project at each git push", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 493, "folkNum": 169, "watchNum": 493, "topic": []}

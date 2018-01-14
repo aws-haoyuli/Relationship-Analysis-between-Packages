@@ -1,0 +1,1 @@
+{"name": "DeepAlignmentNetwork", "description": "A deep neural network for face alignment", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 131, "folkNum": 48, "watchNum": 131, "topic": ["computer-vision", "cvpr", "cvpr-2017", "deep-learning", "face-alignment", "lasagne", "theano"]}

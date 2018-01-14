@@ -1,0 +1,1 @@
+{"name": "file-search-for-windows", "description": "Used for searh a list of files in your computer(Windows), developed with  python", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["shousunny"], "packages": ["re"]}

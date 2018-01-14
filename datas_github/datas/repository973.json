@@ -1,0 +1,1 @@
+{"name": "RandomForestClassifier", "description": "Random Forest Classifier for classification of users from Social Network", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": [], "packages": ["the confusion matrix", "matplotlib", "sklearn", "numpy as np", "pandas as pd"]}

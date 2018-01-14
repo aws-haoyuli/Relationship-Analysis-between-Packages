@@ -1,0 +1,1 @@
+{"name": "flinck", "description": "Sort your movies on filesystem by dates, ratings, etc using symlinks", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 128, "folkNum": 3, "watchNum": 128, "topic": ["movie", "python", "symlink"]}

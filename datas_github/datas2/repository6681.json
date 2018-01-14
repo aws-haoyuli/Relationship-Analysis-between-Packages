@@ -1,0 +1,1 @@
+{"name": "super-adb", "description": "Enhance the adb shell using busybox, supporting vi\u3001grep and awk etc. No need root.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 178, "folkNum": 26, "watchNum": 178, "topic": ["adb", "busybox"]}

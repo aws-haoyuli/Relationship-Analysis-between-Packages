@@ -1,0 +1,1 @@
+{"name": "pipdeptree", "description": "A command line utility to display dependency tree of the installed Python packages", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 730, "folkNum": 42, "watchNum": 730, "topic": ["dependency-graph", "pip", "python"]}

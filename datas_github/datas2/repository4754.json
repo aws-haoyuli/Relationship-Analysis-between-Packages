@@ -1,0 +1,1 @@
+{"name": "etlalchemy", "description": "Extract, Transform, Load: Any SQL Database in 4 lines of Code.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 257, "folkNum": 16, "watchNum": 257, "topic": ["database", "etl", "etl-framework", "migrations", "python"]}

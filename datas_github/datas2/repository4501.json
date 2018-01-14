@@ -1,0 +1,1 @@
+{"name": "django-cacheback", "description": "Smart caching for Django using Celery to refresh cached items asynchronously.  ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 272, "folkNum": 62, "watchNum": 272, "topic": []}

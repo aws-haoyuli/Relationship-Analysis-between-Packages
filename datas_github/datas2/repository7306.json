@@ -1,0 +1,1 @@
+{"name": "irc3", "description": "plugable irc client library based on python's asyncio with DCC and SASL support", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 160, "folkNum": 42, "watchNum": 160, "topic": ["asyncio", "irc", "irc-bot", "irc-client", "ircv3-support", "python"]}

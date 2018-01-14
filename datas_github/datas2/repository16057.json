@@ -1,0 +1,1 @@
+{"name": "boto3-sample", "description": "Boto 3 sample application using Amazon Elastic Transcoder, S3, SNS, SQS, and AWS IAM.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 61, "folkNum": 36, "watchNum": 61, "topic": []}

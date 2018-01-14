@@ -1,0 +1,1 @@
+{"name": "rename_txt", "description": "Rename files or dirs via your text editor.", "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["undecV"], "packages": ["os", "terminaltables", "sys", "argparse", "json"]}

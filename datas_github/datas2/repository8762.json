@@ -1,0 +1,1 @@
+{"name": "future-fstrings", "description": "A backport of fstrings to python<3.6", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 129, "folkNum": 3, "watchNum": 129, "topic": ["f-strings", "hack", "python"]}

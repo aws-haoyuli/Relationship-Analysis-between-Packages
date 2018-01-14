@@ -1,0 +1,1 @@
+{"name": "chrome-prerender", "description": "Render JavaScript-rendered page as HTML/PDF/mhtml/png/jpeg using Headless Chrome", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 105, "folkNum": 14, "watchNum": 105, "topic": ["prerender", "prerender-daemon", "server-rendering"]}

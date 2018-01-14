@@ -1,0 +1,1 @@
+{"name": "cliff-sarsa-python", "description": "A program implementing the sarsa and qlearning algorithms in python with a kivy gui", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["trashtatur"], "packages": ["gui"]}

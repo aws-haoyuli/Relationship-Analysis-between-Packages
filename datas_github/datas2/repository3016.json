@@ -1,0 +1,1 @@
+{"name": "yeti", "description": "Your Everyday Threat Intelligence", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 411, "folkNum": 88, "watchNum": 411, "topic": ["dfir", "enrichment", "infosec", "intelligence", "threat-hunting", "threat-sharing", "threatintel"]}

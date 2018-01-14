@@ -1,0 +1,1 @@
+{"name": "tangent", "description": "Source-to-Source Debuggable Derivatives in Pure Python", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 1456, "folkNum": 89, "watchNum": 1456, "topic": ["autodiff", "automatic-differentiation", "deep-learning", "machine-learning"]}

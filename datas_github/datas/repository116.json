@@ -1,0 +1,1 @@
+{"name": "18vr", "description": "Client project for scraping and automation of an affiliate content site.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["johnorchard"], "packages": ["argparse", "scrapy", "sys", "affiliate_crawler"]}

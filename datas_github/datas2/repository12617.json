@@ -1,0 +1,1 @@
+{"name": "ec2-api", "description": "AWS EC2 and VPC API support in standalone service for OpenStack.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 83, "folkNum": 43, "watchNum": 83, "topic": []}

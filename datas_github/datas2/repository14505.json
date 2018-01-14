@@ -1,0 +1,1 @@
+{"name": "atac_dnase_pipelines", "description": "ATAC-seq and DNase-seq processing pipeline", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 71, "folkNum": 53, "watchNum": 71, "topic": ["atac-seq", "bioinformatics-pipeline", "dnase-seq"]}

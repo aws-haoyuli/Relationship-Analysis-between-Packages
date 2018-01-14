@@ -1,0 +1,1 @@
+{"name": "free_tls_certificates", "description": "A simple Python 2/Python 3 client library for Let's Encrypt, or any ACME server that issues TLS (aka SSL) certificates.", "license": {"key": "cc0-1.0", "name": "Creative Commons Zero v1.0 Universal", "spdx_id": "CC0-1.0", "url": "https://api.github.com/licenses/cc0-1.0"}, "starNum": 66, "folkNum": 9, "watchNum": 66, "topic": []}

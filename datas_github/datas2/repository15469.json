@@ -1,0 +1,1 @@
+{"name": "pyssdb", "description": "An SSDB Client Library for Python", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 65, "folkNum": 24, "watchNum": 65, "topic": ["python", "ssdb"]}

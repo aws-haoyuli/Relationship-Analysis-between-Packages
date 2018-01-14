@@ -1,0 +1,1 @@
+{"name": "openag_brain", "description": "ROS package for controlling an OpenAg food computer", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 174, "folkNum": 53, "watchNum": 174, "topic": ["couchdb", "farming", "ros"]}

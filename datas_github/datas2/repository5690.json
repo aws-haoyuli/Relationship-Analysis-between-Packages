@@ -1,0 +1,1 @@
+{"name": "aiotasks", "description": "A Celery like task manager that distributes Asyncio coroutines", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 212, "folkNum": 16, "watchNum": 212, "topic": ["asyncio", "celery", "celery-task", "coroutines", "python", "python-3"]}

@@ -1,0 +1,1 @@
+{"name": "flask-uwsgi-websocket", "description": "\ud83d\udd0c High-performance WebSockets for your Flask apps powered by uWSGI.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 214, "folkNum": 40, "watchNum": 214, "topic": ["flask", "python", "uwsgi", "websockets"]}

@@ -1,0 +1,1 @@
+{"name": "Email_Web_Crawler", "description": "extract emails and parse pages of URLs", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["hhiki"], "packages": ["argparse", "requests", "re", "bs4"]}

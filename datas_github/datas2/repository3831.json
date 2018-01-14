@@ -1,0 +1,1 @@
+{"name": "localshop", "description": "local pypi server (custom packages and auto-mirroring of pypi)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 323, "folkNum": 102, "watchNum": 323, "topic": ["packaging", "pypi", "python"]}

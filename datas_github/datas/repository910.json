@@ -1,0 +1,1 @@
+{"name": "api-ai-router", "description": "Api.ai bot router", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["sriramsv"], "packages": ["apiai_router as router"]}

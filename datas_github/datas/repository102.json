@@ -1,0 +1,1 @@
+{"name": "notice_me_senpai", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["alxshine"], "packages": ["scipy", "matplotlib", "sys", "__future__", "numpy as np"]}

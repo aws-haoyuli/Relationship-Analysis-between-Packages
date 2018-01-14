@@ -1,0 +1,1 @@
+{"name": "yspider", "description": "yspider -- \u8f7b\u91cf\u7ea7\u722c\u866b\u6846\u67b6", "license": null, "starNum": 3, "folkNum": 0, "watchNum": 3, "topic": ["abstraction", "flask", "mongodb", "spider", "train", "web"], "contributors": ["zhao94254"], "packages": ["os", "functools", "flask_rq", "pymongo", "yspider", "time", "requests", "server"]}

@@ -1,0 +1,1 @@
+{"name": "pytorch-yolo2", "description": "Convert https://pjreddie.com/darknet/yolo/ into pytorch", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 300, "folkNum": 91, "watchNum": 300, "topic": ["darknet", "focal", "focalloss", "yolo", "yolo2", "yolo9000", "yolov2"]}

@@ -1,0 +1,1 @@
+{"name": "yokadi", "description": "Command line oriented, sqlite powered, todo list", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 95, "folkNum": 11, "watchNum": 95, "topic": ["commandline", "gtd", "python", "sqlite", "todo"]}

@@ -1,0 +1,1 @@
+{"name": "zohmg", "description": "Zohmg is a data store for aggregation of multi-dimensional time series data, built on top of Hadoop, Dumbo and HBase.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 176, "folkNum": 11, "watchNum": 176, "topic": []}

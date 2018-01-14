@@ -1,0 +1,1 @@
+{"name": "text", "description": "Data loaders and abstractions for text and NLP", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 517, "folkNum": 107, "watchNum": 517, "topic": ["data-loader", "dataset", "deep-learning", "nlp", "pytorch"]}

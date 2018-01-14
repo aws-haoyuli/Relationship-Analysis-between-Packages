@@ -1,0 +1,1 @@
+{"name": "dynaconf", "description": "Dynamic config load for Python ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 209, "folkNum": 20, "watchNum": 209, "topic": ["config", "configuration", "configuration-management", "flask", "loader", "namespace", "python", "redis", "settings", "settings-storage"]}

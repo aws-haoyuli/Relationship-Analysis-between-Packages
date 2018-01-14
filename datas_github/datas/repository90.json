@@ -1,0 +1,1 @@
+{"name": "VanFinder", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["martincowell"], "packages": ["pandas as pd", "numpy as np", "matplotlib as mpl", "json", "matplotlib"]}

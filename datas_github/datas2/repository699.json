@@ -1,0 +1,1 @@
+{"name": "git-sweep", "description": "A command-line tool that helps you clean up Git branches that have been merged into master.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1678, "folkNum": 103, "watchNum": 1678, "topic": []}

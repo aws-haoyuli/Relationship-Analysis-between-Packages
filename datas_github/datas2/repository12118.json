@@ -1,0 +1,1 @@
+{"name": "opsdroid", "description": "\ud83e\udd16 An open source chat-ops bot framework", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 88, "folkNum": 33, "watchNum": 88, "topic": ["asyncio", "bot-framework", "botkit", "chatops", "devops", "opsdroid", "python3"]}

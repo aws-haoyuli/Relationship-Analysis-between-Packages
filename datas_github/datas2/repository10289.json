@@ -1,0 +1,1 @@
+{"name": "user_agent", "description": "Generator of User-Agent header", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 107, "folkNum": 18, "watchNum": 107, "topic": ["browser-detection", "browser-fingerprinting", "user-agent"]}

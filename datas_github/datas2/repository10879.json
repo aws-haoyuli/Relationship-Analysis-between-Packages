@@ -1,0 +1,1 @@
+{"name": "Inspector", "description": "The Inspector tool is a privilege escalation helper (PoC), easy to deployed on web server, this tool can list process running with root, check kernel version, check history file, get possible exploit ... ", "license": null, "starNum": 100, "folkNum": 42, "watchNum": 100, "topic": ["escalation", "inspector", "kernel", "privileges"]}

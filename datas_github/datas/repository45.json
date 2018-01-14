@@ -1,0 +1,1 @@
+{"name": "Hayman1stSystem", "description": "Hayman SystemTrading 1st", "license": null, "starNum": 2, "folkNum": 1, "watchNum": 2, "topic": [], "contributors": ["lyy9257"], "packages": ["win32com", "pandas as pd", "numpy as np", "xlrd", "pandas"]}

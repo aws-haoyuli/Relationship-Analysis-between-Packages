@@ -1,0 +1,1 @@
+{"name": "cuahsi-qa-automation-engine", "description": "Common core for CUAHSI automation test suites (HydroClient, HydroShare, etc.)", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["ndebuhr"], "packages": ["time", "selenium"]}

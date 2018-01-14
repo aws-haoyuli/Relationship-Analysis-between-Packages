@@ -1,0 +1,1 @@
+{"name": "boltons", "description": "Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton. ", "license": null, "starNum": 3090, "folkNum": 175, "watchNum": 3090, "topic": ["cache", "data-science", "data-structures", "file", "json", "python", "queue", "recursive", "statistics", "utilities"]}

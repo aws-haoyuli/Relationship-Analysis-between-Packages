@@ -1,0 +1,1 @@
+{"name": "CSP-Bypass", "description": "A Burp Plugin for Detecting Weaknesses in Content Security Policies", "license": null, "starNum": 103, "folkNum": 20, "watchNum": 103, "topic": ["burp-plugin", "content-security-policy", "csp", "security"]}

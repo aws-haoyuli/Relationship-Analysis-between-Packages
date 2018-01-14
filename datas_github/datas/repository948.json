@@ -1,0 +1,1 @@
+{"name": "cane_racel_lm", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["slivermoda"], "packages": ["language_model", "data_utils", "tensorflow as tf", "run_utils"]}

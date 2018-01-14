@@ -1,0 +1,1 @@
+{"name": "NaiveBayesSpamFilter", "description": ":email: \u5229\u7528\u6734\u7d20\u8d1d\u53f6\u65af\u7b97\u6cd5\u5b9e\u73b0\u5783\u573e\u90ae\u4ef6\u7684\u8fc7\u6ee4\uff0c\u5e76\u7ed3\u5408Adaboost\u6539\u8fdb\u8be5\u7b97\u6cd5", "license": null, "starNum": 78, "folkNum": 46, "watchNum": 78, "topic": ["adaboost", "naive-bayes-classifier"]}

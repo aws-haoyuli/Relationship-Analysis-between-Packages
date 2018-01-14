@@ -1,0 +1,1 @@
+{"name": "django-fsm-log", "description": "Automatic logging for Django FSM", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 60, "folkNum": 33, "watchNum": 60, "topic": ["django", "django-fsm"]}

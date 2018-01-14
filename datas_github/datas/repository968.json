@@ -1,0 +1,1 @@
+{"name": "vfc-gvnfm-vnflcm", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["fujinhua", "jwagantall", "tykeal", "mkr1481"], "packages": ["os", "sys", "django"]}

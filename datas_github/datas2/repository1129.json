@@ -1,0 +1,1 @@
+{"name": "gain", "description": "Web crawling framework  based on asyncio for everyone.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 1087, "folkNum": 70, "watchNum": 1087, "topic": ["aiohttp", "asyncio", "crawler", "python", "spider", "uvloop"]}

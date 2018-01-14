@@ -1,0 +1,1 @@
+{"name": "bittrex-sell-limit-stop-loss-bot", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["DominicOrga"], "packages": ["os", "datetime", "time", "bittrex", "json"]}

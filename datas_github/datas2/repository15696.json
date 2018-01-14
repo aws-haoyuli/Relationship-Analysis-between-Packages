@@ -1,0 +1,1 @@
+{"name": "pubmed_parser", "description": ":clipboard: Python XML parser for PubMed Open Access subset and MEDLINE dataset", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 64, "folkNum": 26, "watchNum": 64, "topic": ["medline-xml", "parse", "pubmed-central", "pubmed-parser", "python", "xml"]}

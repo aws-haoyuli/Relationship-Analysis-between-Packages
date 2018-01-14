@@ -1,0 +1,1 @@
+{"name": "cookiecutter-django-rest", "description": "Build best practiced apis fast with Python3", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 315, "folkNum": 51, "watchNum": 315, "topic": ["api", "boilerplate", "django", "docker", "python", "python3", "rest", "rest-api"]}

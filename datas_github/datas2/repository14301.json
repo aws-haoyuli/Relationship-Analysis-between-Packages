@@ -1,0 +1,1 @@
+{"name": "pyatv", "description": "A python client library for the Apple TV", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 72, "folkNum": 14, "watchNum": 72, "topic": ["apple-tv", "asyncio", "home-automation", "python3"]}

@@ -1,0 +1,1 @@
+{"name": "khmer", "description": "In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 490, "folkNum": 266, "watchNum": 490, "topic": ["bioinformatics", "bloom-filter", "count-min-sketch", "dna", "graph-traversal", "k-mer", "python"]}

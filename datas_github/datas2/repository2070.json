@@ -1,0 +1,1 @@
+{"name": "crayon", "description": "A language-agnostic interface to TensorBoard", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 611, "folkNum": 43, "watchNum": 611, "topic": ["crayon", "data-visualization", "deep-learning", "docker", "pytorch", "tensorboard", "tensorflow", "torch7"]}

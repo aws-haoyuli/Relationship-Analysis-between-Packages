@@ -1,0 +1,1 @@
+{"name": "framework_for_detecting_outlier_in_trajectories", "description": "A Framework for Outlier Detection in Heterogeneous User Trajectories", "license": null, "starNum": 1, "folkNum": 2, "watchNum": 1, "topic": [], "contributors": ["mohazahran"], "packages": ["MyEnums", "outlierEvaluation", "TestSample", "math", "random"]}

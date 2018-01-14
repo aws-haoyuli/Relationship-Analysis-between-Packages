@@ -1,0 +1,1 @@
+{"name": "voltron", "description": "A hacky debugger UI for hackers", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 4216, "folkNum": 260, "watchNum": 4216, "topic": ["debugger", "gdb", "lldb", "python", "voltron", "vtrace", "windbg"]}

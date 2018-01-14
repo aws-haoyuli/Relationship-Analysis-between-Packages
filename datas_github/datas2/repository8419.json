@@ -1,0 +1,1 @@
+{"name": "django-nopassword", "description": "Authentication backend for django that uses a one time code instead of passwords", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 134, "folkNum": 25, "watchNum": 134, "topic": []}

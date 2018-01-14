@@ -1,0 +1,1 @@
+{"name": "line_counter", "description": "Single file script that count all text lines and characters in files in current directory with sub-directories.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["catsymptote"], "packages": ["os"]}

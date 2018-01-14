@@ -1,0 +1,1 @@
+{"name": "django-discover-runner", "description": "A Django test runner based on unittest2's test discovery.", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 135, "folkNum": 11, "watchNum": 135, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "gimp-plugin-export-layers", "description": "GIMP plug-in that exports layers as separate images", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 182, "folkNum": 18, "watchNum": 182, "topic": ["gimp", "gimp-plugin", "python"]}

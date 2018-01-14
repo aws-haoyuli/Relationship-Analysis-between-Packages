@@ -1,0 +1,1 @@
+{"name": "python-scrapyd-api", "description": "A Python wrapper for working with Scrapyd's API.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 100, "folkNum": 10, "watchNum": 100, "topic": ["api-wrapper", "python", "scrapy-spider"]}

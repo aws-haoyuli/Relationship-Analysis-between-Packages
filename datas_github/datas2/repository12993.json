@@ -1,0 +1,1 @@
+{"name": "pytest-selenium", "description": "Plugin for running Selenium with pytest", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 81, "folkNum": 40, "watchNum": 81, "topic": ["plugin", "pytest", "selenium", "webdriver"]}

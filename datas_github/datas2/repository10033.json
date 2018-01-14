@@ -1,0 +1,1 @@
+{"name": "Sina-Weibo-Album-Downloader", "description": "Multithreading download all HD photos / pictures from someone's Sina Weibo album. ", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 110, "folkNum": 49, "watchNum": 110, "topic": ["crawler", "python", "weibo"]}

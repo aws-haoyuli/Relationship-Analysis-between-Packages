@@ -1,0 +1,1 @@
+{"name": "butterflow", "description": "Make motion interpolated and fluid slow motion videos from the command line", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 311, "folkNum": 23, "watchNum": 311, "topic": ["motion-interpolation", "slow-motion"]}

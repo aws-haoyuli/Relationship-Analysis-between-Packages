@@ -1,0 +1,1 @@
+{"name": "django-webpack-loader", "description": "Transparently use webpack with django", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1188, "folkNum": 139, "watchNum": 1188, "topic": ["assets", "django", "django-webpack-loader", "javascript", "reactjs", "static", "webpack"]}

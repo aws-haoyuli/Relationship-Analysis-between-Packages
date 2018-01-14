@@ -1,0 +1,1 @@
+{"name": "blackbox", "description": "A Python module for parallel optimization of expensive black-box functions", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 190, "folkNum": 22, "watchNum": 190, "topic": ["black-box", "expensive", "optimization", "parallel", "python"]}

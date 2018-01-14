@@ -1,0 +1,1 @@
+{"name": "freezer", "description": "OpenStack Swift incremental backup and restore automation tool for file system, MongoDB, MySQL. LVM snapshot and encryption support.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 163, "folkNum": 39, "watchNum": 163, "topic": []}

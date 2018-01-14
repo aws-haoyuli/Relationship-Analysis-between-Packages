@@ -1,0 +1,1 @@
+{"name": "speech-to-text-wavenet", "description": "Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 2056, "folkNum": 384, "watchNum": 2056, "topic": []}

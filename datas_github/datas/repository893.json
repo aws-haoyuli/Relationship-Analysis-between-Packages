@@ -1,0 +1,1 @@
+{"name": "pythonathon_v3", "description": "Yet another attempt to build a intro-to-coding CTF, this time using Django", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["scnerd"], "packages": ["os", "Django", "sys", "django"]}

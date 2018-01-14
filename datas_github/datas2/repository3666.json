@@ -1,0 +1,1 @@
+{"name": "imdb-pie", "description": "Python IMDB client using the IMDB json web service made available for their iOS app.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 338, "folkNum": 62, "watchNum": 338, "topic": ["api-client", "imdb", "movie", "python", "python-imdb-client", "television"]}

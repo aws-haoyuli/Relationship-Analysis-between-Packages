@@ -1,0 +1,1 @@
+{"name": "deis", "description": "Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 6072, "folkNum": 869, "watchNum": 6072, "topic": ["containers", "coreos", "deis-paas", "unsupported"]}

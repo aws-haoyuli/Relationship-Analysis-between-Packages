@@ -1,0 +1,1 @@
+{"name": "add-trailing-comma", "description": "A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 68, "folkNum": 3, "watchNum": 68, "topic": ["linter", "pre-commit", "python"]}

@@ -1,0 +1,1 @@
+{"name": "ac-gan", "description": "A tensorflow implementation of google's AC-GAN ( Auxiliary Classifier GAN ).", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 288, "folkNum": 72, "watchNum": 288, "topic": []}

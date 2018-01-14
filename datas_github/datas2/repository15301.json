@@ -1,0 +1,1 @@
+{"name": "BiLSTM-CRF", "description": "BiLSTM-CRF for sequence labeling in Dynet", "license": null, "starNum": 66, "folkNum": 12, "watchNum": 66, "topic": ["conditional-random-fields", "dynet", "neural-network", "nlp", "part-of-speech-tagger"]}

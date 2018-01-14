@@ -1,0 +1,1 @@
+{"name": "NBA_Crystal_Ball", "description": null, "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["wi11"], "packages": ["tensorflow as tf", "csvparser"]}

@@ -1,0 +1,1 @@
+{"name": "probeSniffer", "description": "\ud83d\udd0d A tool for sniffing unencrypted wireless probe requests from devices.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 147, "folkNum": 36, "watchNum": 147, "topic": ["packet-analyser", "probe-requests", "python", "sniffer", "wifi", "wireless"]}

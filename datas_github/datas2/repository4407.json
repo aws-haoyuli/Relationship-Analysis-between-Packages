@@ -1,0 +1,1 @@
+{"name": "todo", "description": "A simple command line todo list manager which can be as powerful as you want it to be.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 277, "folkNum": 29, "watchNum": 277, "topic": ["command-line-app", "todolist"]}

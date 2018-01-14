@@ -1,0 +1,1 @@
+{"name": "open-reid", "description": "Open source person re-identification library in python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 282, "folkNum": 108, "watchNum": 282, "topic": ["deep-learning", "metric-learning", "person-reidentification", "python", "pytorch"]}

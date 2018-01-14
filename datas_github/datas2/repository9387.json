@@ -1,0 +1,1 @@
+{"name": "prettyconf", "description": "A extensible library for Settings/Code separation", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 120, "folkNum": 6, "watchNum": 120, "topic": ["configuration", "mit", "python", "python-2", "python-3", "twelve-factor"]}

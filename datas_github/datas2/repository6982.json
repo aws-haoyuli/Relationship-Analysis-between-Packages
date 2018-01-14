@@ -1,0 +1,1 @@
+{"name": "vcspull", "description": ":arrow_down_small: synchronize your repos. built on libvcs", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 170, "folkNum": 7, "watchNum": 170, "topic": ["cli", "cli-utilities", "git", "hg", "json", "project-management", "svn", "terminal", "vcs", "yaml"]}

@@ -1,0 +1,1 @@
+{"name": "python-hpOneView", "description": "Python library for HPE OneView", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 66, "folkNum": 53, "watchNum": 66, "topic": ["bare-metal", "composable-infrastructure", "devops", "hpe-oneview", "infrastructure-as-code", "python"]}

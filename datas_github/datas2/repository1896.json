@@ -1,0 +1,1 @@
+{"name": "subuser", "description": "Run programs on linux with selectively restricted permissions.", "license": {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0"}, "starNum": 668, "folkNum": 55, "watchNum": 668, "topic": ["containers", "docker", "python", "security"]}

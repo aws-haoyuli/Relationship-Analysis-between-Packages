@@ -1,0 +1,1 @@
+{"name": "udev-joystick-blacklist", "description": "Fix for keyboard/mouse/tablet being detected as joystick in Linux", "license": null, "starNum": 79, "folkNum": 15, "watchNum": 79, "topic": ["joystick", "linux-kernel", "udev-rules", "workaround"]}

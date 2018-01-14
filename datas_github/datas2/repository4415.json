@@ -1,0 +1,1 @@
+{"name": "tbvaccine", "description": "A small utility to pretty-print Python tracebacks.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 277, "folkNum": 9, "watchNum": 277, "topic": ["error-handling", "python", "traceback"]}

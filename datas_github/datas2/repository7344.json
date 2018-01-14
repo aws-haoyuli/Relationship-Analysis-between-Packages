@@ -1,0 +1,1 @@
+{"name": "pulsemixer", "description": "cli and curses mixer for pulseaudio", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 159, "folkNum": 24, "watchNum": 159, "topic": ["audio", "cli", "console", "curses", "linux", "mixer", "pulseaudio", "sound", "terminal", "tui"]}

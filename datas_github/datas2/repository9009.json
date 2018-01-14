@@ -1,0 +1,1 @@
+{"name": "sqlalchemy_aio", "description": "Asyncio strategy for SQLAlchemy.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 125, "folkNum": 4, "watchNum": 125, "topic": ["async", "async-await", "asyncio", "python", "sqlalchemy"]}

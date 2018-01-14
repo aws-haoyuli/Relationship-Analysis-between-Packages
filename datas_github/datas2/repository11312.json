@@ -1,0 +1,1 @@
+{"name": "Densenet-Tensorflow", "description": "Simple Tensorflow implementation of Densenet using Cifar10, MNIST", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 95, "folkNum": 26, "watchNum": 95, "topic": ["densenet", "densenet-tensorflow", "tensorflow"]}

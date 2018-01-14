@@ -1,0 +1,1 @@
+{"name": "f5-common-python", "description": "Python SDK for configuration and monitoring of F5\u00ae BIG-IP\u00ae devices via the iControl\u00ae REST API.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 111, "folkNum": 60, "watchNum": 111, "topic": ["f5sdk"]}

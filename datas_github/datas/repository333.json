@@ -1,0 +1,1 @@
+{"name": "election-neural-net", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["christian-johnson"], "packages": ["matplotlib", "matplotlib as mpl", "numpy as np", "cartopy", "election_analysis"]}

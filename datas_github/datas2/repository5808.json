@@ -1,0 +1,1 @@
+{"name": "python-gsmmodem", "description": "Python module to control a GSM modem attached to the system: send/receive SMS messages, handle calls, etc", "license": {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0"}, "starNum": 207, "folkNum": 162, "watchNum": 207, "topic": []}

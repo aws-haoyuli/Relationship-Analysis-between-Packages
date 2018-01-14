@@ -1,0 +1,1 @@
+{"name": "scripts", "description": "\u30b9\u30af\u30ea\u30d7\u30c8\u307e\u3068\u3081\u3002\u4e3b\u306bpython", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["bash", "batch", "python"], "contributors": ["jiro4989"], "packages": ["os", "bs4", "sys", "datetime", "time", "urllib", "argparse", "calendar as cal", "re", "zipfile"]}

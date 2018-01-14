@@ -1,0 +1,1 @@
+{"name": "aws-spot-bot", "description": "A simple script to automate the creation of the cheapest and most stable AWS spot instances.", "license": null, "starNum": 226, "folkNum": 31, "watchNum": 226, "topic": ["ansible", "aws"]}

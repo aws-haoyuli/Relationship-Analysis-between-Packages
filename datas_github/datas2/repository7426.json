@@ -1,0 +1,1 @@
+{"name": "servoshell", "description": "A work-in-progress user interface for Servo, built in Rust.", "license": {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MPL-2.0", "url": "https://api.github.com/licenses/mpl-2.0"}, "starNum": 157, "folkNum": 5, "watchNum": 157, "topic": ["browser", "rust", "servo"]}

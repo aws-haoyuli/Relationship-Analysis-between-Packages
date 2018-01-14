@@ -1,0 +1,1 @@
+{"name": "mxnet-ssd", "description": "MXNet port of SSD: Single Shot MultiBox Object Detector.  Reimplementation of https://github.com/weiliu89/caffe/tree/ssd", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 488, "folkNum": 235, "watchNum": 488, "topic": ["object-detection"]}

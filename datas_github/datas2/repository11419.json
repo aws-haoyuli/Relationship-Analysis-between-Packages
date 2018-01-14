@@ -1,0 +1,1 @@
+{"name": "sounder", "description": "An intent recognizing algorithm to predict the intent of a given text. ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 94, "folkNum": 12, "watchNum": 94, "topic": ["algorithm", "intent-prediction", "python", "speech-recognition", "string-manipulation"]}

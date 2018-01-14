@@ -1,0 +1,1 @@
+{"name": "FakeDns", "description": "A regular-expression based python MITM DNS server with support for DNS Rebinding attacks", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 216, "folkNum": 74, "watchNum": 216, "topic": []}

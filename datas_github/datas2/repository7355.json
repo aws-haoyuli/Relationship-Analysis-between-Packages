@@ -1,0 +1,1 @@
+{"name": "django-geojson", "description": "django-geojson is a collection of helpers to (de)serialize (Geo)Django objects into GeoJSON.", "license": {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0"}, "starNum": 158, "folkNum": 56, "watchNum": 158, "topic": ["django", "geojson", "gis"]}

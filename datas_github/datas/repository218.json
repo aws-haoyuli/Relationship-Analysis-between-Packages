@@ -1,0 +1,1 @@
+{"name": "neural", "description": "Just having fun with machine learning/deep learning concepts.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["mordowiciel"], "packages": ["keras", "sklearn", "numpy as np", "numpy", "knn"]}

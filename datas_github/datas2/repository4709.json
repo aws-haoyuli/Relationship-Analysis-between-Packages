@@ -1,0 +1,1 @@
+{"name": "graphene-sqlalchemy", "description": "Graphene SQLAlchemy integration", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 260, "folkNum": 53, "watchNum": 260, "topic": ["graphene", "graphql", "python", "sqlalchemy"]}

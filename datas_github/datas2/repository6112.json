@@ -1,0 +1,1 @@
+{"name": "ebgan", "description": "A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper. ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 195, "folkNum": 39, "watchNum": 195, "topic": []}

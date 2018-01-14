@@ -1,0 +1,1 @@
+{"name": "dcpu16py", "description": "A Python implementation of Notch's DCPU-16 (complete with assembler, disassembler, debugger and video terminal implementations)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 194, "folkNum": 22, "watchNum": 194, "topic": ["dcpu16"]}

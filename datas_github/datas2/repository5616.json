@@ -1,0 +1,1 @@
+{"name": "pytest-mock", "description": "Thin-wrapper around the mock package for easier use with py.test", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 215, "folkNum": 39, "watchNum": 215, "topic": ["mock", "pytest"]}

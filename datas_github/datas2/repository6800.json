@@ -1,0 +1,1 @@
+{"name": "mxnet-memonger", "description": "Sublinear memory optimization for deep learning, reduce GPU memory cost to train deeper nets", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 175, "folkNum": 29, "watchNum": 175, "topic": []}

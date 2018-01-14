@@ -1,0 +1,1 @@
+{"name": "oplu_whitening", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["hcl14", "achernodub"], "packages": ["__future__", "sys", "random", "numpy as np", "scipy", "h5py #matlab v7", "datumio"]}

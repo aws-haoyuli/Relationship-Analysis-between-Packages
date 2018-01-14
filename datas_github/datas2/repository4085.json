@@ -1,0 +1,1 @@
+{"name": "betamax", "description": "A VCR imitation designed only for python-requests.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 299, "folkNum": 40, "watchNum": 299, "topic": ["http", "python", "recording", "testing", "vcr"]}

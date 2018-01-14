@@ -1,0 +1,1 @@
+{"name": "aws-waf-sample", "description": "This repository contains example scripts and sets of rules for the AWS WAF service. Please be aware that the applicability of these examples to specific workloads may vary.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 244, "folkNum": 103, "watchNum": 244, "topic": []}

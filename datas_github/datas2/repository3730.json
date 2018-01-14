@@ -1,0 +1,1 @@
+{"name": "Seth", "description": "Perform a MitM attack and extract clear text credentials from RDP connections", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 332, "folkNum": 106, "watchNum": 332, "topic": ["arp-spoofing", "mitm", "proof-of-concept", "rdp", "security"]}

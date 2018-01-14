@@ -1,0 +1,1 @@
+{"name": "utilities", "description": "Packages intended to assist in the preprocessing of SpaceNet satellite imagery data corpus to a format that is consumable by machine learning algorithms. ", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 85, "folkNum": 53, "watchNum": 85, "topic": []}

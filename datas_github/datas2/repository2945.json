@@ -1,0 +1,1 @@
+{"name": "pystan", "description": "PyStan, the Python interface to Stan", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 422, "folkNum": 102, "watchNum": 422, "topic": ["machine-learning", "probabilistic-programming", "python", "stan", "statistics"]}

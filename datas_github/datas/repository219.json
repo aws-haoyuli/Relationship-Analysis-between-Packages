@@ -1,0 +1,1 @@
+{"name": "python-learning", "description": "I place there Python project to learn that language", "license": {"key": "unlicense", "name": "The Unlicense", "spdx_id": "Unlicense", "url": "https://api.github.com/licenses/unlicense"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["dsonyy"], "packages": ["sys", "string"]}

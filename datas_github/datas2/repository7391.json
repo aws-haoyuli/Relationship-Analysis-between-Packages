@@ -1,0 +1,1 @@
+{"name": "OpenIE-Spider", "description": "Extract Information from web corpus using Open Information Extraction.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 158, "folkNum": 27, "watchNum": 158, "topic": ["extract-information", "fragments", "sentence", "web-corpus"]}

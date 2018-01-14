@@ -1,0 +1,1 @@
+{"name": "Label-Embedding-Network", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["feizhihui"], "packages": ["os", "sklearn", "numpy as np", "focal_cnn", "csv", "pickle", "tensorflow as tf", "data_input", "re"]}

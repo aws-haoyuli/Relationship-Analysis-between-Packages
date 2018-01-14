@@ -1,0 +1,1 @@
+{"name": "optnet", "description": "OptNet: Differentiable Optimization as a Layer in Neural Networks", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 183, "folkNum": 22, "watchNum": 183, "topic": ["deep-learning", "machine-learning", "optimization", "paper", "pytorch"]}

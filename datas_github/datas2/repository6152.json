@@ -1,0 +1,1 @@
+{"name": "python-json-patch", "description": "Applying JSON Patches in Python 2.6+ and 3.x", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 194, "folkNum": 40, "watchNum": 194, "topic": ["json", "json-patch", "python", "python-json"]}

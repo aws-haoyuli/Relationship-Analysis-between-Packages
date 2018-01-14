@@ -1,0 +1,1 @@
+{"name": "DishesIdentification", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["CCTV-lulu"], "packages": ["os", "numpy as np", "tensorflow as tf", "model"]}

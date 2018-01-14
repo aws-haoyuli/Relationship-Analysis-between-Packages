@@ -1,0 +1,1 @@
+{"name": "exchangelib", "description": "Python client for Microsoft Exchange Web Services (EWS)", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 209, "folkNum": 69, "watchNum": 209, "topic": ["autodiscover", "ews", "exchange", "exchange-web-services", "microsoft", "outlook", "python"]}

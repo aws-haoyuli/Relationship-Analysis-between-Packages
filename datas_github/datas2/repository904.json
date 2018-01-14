@@ -1,0 +1,1 @@
+{"name": "XlsxWriter", "description": "A Python module for creating Excel XLSX files.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 1315, "folkNum": 295, "watchNum": 1315, "topic": ["charts", "libxlsxwriter", "pandas", "python", "spreadsheet", "xlsx", "xlsx-files"]}

@@ -1,0 +1,1 @@
+{"name": "pyensembl", "description": "Python interface to ensembl reference genome metadata (exons, transcripts, etc...)", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 133, "folkNum": 28, "watchNum": 133, "topic": []}

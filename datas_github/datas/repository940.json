@@ -1,0 +1,1 @@
+{"name": "serial_tcp_clients", "description": "Python script create a tcp server for sharing serial console", "license": null, "starNum": 2, "folkNum": 0, "watchNum": 2, "topic": [], "contributors": ["maslovw"], "packages": ["socket", "serialtcp", "threading", "distutils", "time", "unittest", "logging"]}

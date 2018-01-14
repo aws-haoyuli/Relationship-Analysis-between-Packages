@@ -1,0 +1,1 @@
+{"name": "json-streamer", "description": "A fast streaming JSON parser for Python that generates SAX-like events using yajl", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 105, "folkNum": 10, "watchNum": 105, "topic": []}

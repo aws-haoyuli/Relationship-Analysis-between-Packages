@@ -1,0 +1,1 @@
+{"name": "FCN-semantic-segmentation", "description": "Fully convolutional networks for semantic segmentation", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 107, "folkNum": 25, "watchNum": 107, "topic": ["computer-vision", "deep-learning", "semantic-segmentation"]}

@@ -1,0 +1,1 @@
+{"name": "pyvcloud", "description": "Python SDK for VMware vCloud Director", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 77, "folkNum": 70, "watchNum": 77, "topic": ["iaas", "python", "sdk", "sdk-python", "vcloud", "vcloud-director"]}

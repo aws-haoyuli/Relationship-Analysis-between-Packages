@@ -1,0 +1,1 @@
+{"name": "dots", "description": "A portable tool for managing a single set of dotfiles in an organized fashion", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 208, "folkNum": 18, "watchNum": 208, "topic": ["dotfile-manager", "dotfiles", "python"]}

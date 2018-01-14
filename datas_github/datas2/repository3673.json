@@ -1,0 +1,1 @@
+{"name": "libact", "description": "Pool-based active learning in Python", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 338, "folkNum": 88, "watchNum": 338, "topic": ["active-learning", "machine-learning-library"]}

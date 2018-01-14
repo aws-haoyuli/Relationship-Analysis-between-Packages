@@ -1,0 +1,1 @@
+{"name": "joint-slu-lm", "description": "Tensorflow implementation of joint modeling of SLU (intent & slot filling) and LM with RNNs.", "license": null, "starNum": 75, "folkNum": 24, "watchNum": 75, "topic": []}

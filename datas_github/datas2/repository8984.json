@@ -1,0 +1,1 @@
+{"name": "git-pull-request", "description": "git command to automatically pull github pull requests into their own branch", "license": null, "starNum": 126, "folkNum": 38, "watchNum": 126, "topic": ["github", "github-api", "pull-requests", "python"]}

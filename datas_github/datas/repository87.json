@@ -1,0 +1,1 @@
+{"name": "xor", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["aheirich"], "packages": ["numpy", "scipy", "math"]}

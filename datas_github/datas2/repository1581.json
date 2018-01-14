@@ -1,0 +1,1 @@
+{"name": "cider", "description": "Hassle-free bootstrapping with Homebrew.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 784, "folkNum": 20, "watchNum": 784, "topic": ["bootstrap", "dotfiles", "homebrew", "python"]}

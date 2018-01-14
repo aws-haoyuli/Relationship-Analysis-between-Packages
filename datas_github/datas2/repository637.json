@@ -1,0 +1,1 @@
+{"name": "fake2db", "description": "create custom test databases that are populated with fake data", "license": {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0"}, "starNum": 1810, "folkNum": 85, "watchNum": 1810, "topic": ["data", "database", "fake-content", "faker", "python"]}

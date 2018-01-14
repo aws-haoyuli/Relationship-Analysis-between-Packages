@@ -1,0 +1,1 @@
+{"name": "pygemony", "description": "Python: A tool written to parse files for \"TODO\" and to raise an issue in the github repository with the todo message.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 87, "folkNum": 6, "watchNum": 87, "topic": []}

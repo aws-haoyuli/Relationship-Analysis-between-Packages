@@ -1,0 +1,1 @@
+{"name": "s3cmd-modification", "description": "Modification of the s3cmd by s3tools.org to add parallel downloads and uploads. Forked as of revision 437.", "license": null, "starNum": 59, "folkNum": 32, "watchNum": 59, "topic": []}

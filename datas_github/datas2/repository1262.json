@@ -1,0 +1,1 @@
+{"name": "viewflow", "description": "Reusable workflow library for Django", "license": {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0"}, "starNum": 968, "folkNum": 165, "watchNum": 968, "topic": ["bpmn", "django", "process-engine", "python", "workflow", "workflow-engine"]}

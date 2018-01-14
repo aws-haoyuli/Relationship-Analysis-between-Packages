@@ -1,0 +1,1 @@
+{"name": "nvidia-docker-compose", "description": "Simple wrapper for docker-compose to use GPU enabled docker under nvidia-docker", "license": null, "starNum": 127, "folkNum": 20, "watchNum": 127, "topic": ["docker", "docker-compose", "nvidia-docker"]}

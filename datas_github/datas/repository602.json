@@ -1,0 +1,1 @@
+{"name": "Composition-Musicale-par-Reseau-de-Neurones", "description": "Projet math 1er semestre GM4", "license": null, "starNum": 1, "folkNum": 1, "watchNum": 1, "topic": [], "contributors": ["XgLsuLzRMy", "jrmyyy"], "packages": ["decimal", "os", "keras", "matplotlib", "sys", "subprocess", "glob", "numpy as np", "midi", "shutil", "re"]}

@@ -1,0 +1,1 @@
+{"name": "text-sherlock", "description": "Text (source code) search engine with indexer and a front end web interface to search. Uses Python v2/3.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 70, "folkNum": 27, "watchNum": 70, "topic": ["indexer", "opengrok", "python", "search-engine"]}

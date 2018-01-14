@@ -1,0 +1,1 @@
+{"name": "latex-online", "description": "Online latex compiler. You give it a link, it gives you PDF", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 129, "folkNum": 30, "watchNum": 129, "topic": ["javascript", "latex", "latex-online", "pdf", "tex"]}

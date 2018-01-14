@@ -1,0 +1,1 @@
+{"name": "MobileDevice", "description": "A python package, and command line tool, which wraps Apple's MobileDevice API - providing access to iOS devices.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 145, "folkNum": 52, "watchNum": 145, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "file_sync", "description": "Detect file modification in background and push it to git automatically.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 81, "folkNum": 15, "watchNum": 81, "topic": []}

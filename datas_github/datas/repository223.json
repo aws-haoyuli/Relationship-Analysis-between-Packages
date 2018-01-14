@@ -1,0 +1,1 @@
+{"name": "plex-plugin-mythtv-livetv", "description": "PLEX plugin allowing to watch MythTV LiveTV in PLEX", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["warpme"], "packages": ["os", "datetime", "uuid", "time", "platform", "urllib", "json", "re"]}

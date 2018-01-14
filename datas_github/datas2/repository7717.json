@@ -1,0 +1,1 @@
+{"name": "drf-tracking", "description": "Utils to track requests to Django Rest Framework API views", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 150, "folkNum": 48, "watchNum": 150, "topic": []}

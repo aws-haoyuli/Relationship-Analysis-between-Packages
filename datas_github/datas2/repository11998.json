@@ -1,0 +1,1 @@
+{"name": "scroll-phat", "description": "Library and examples for Scroll pHAT. 11x5 LEDs of goodness!", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 89, "folkNum": 49, "watchNum": 89, "topic": ["docker", "led-display", "raspberry-pi", "raspberry-pi-library", "raspbian"]}

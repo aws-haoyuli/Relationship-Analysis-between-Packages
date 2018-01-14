@@ -1,0 +1,1 @@
+{"name": "LightCNN", "description": "A pytorch implement of \"A Light CNN for Deep Face Representation with Noisy Labels\"", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 129, "folkNum": 32, "watchNum": 129, "topic": ["face-recognition", "pytorch"]}

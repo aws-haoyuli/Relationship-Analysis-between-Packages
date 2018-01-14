@@ -1,0 +1,1 @@
+{"name": "bt2", "description": "Blaze Telegram Backdoor Toolkit is a post-exploitation tool that leverages the infrastructure of Telegram as a C&C", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 144, "folkNum": 48, "watchNum": 144, "topic": []}

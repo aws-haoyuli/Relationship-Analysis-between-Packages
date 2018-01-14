@@ -1,0 +1,1 @@
+{"name": "django-multitenant", "description": "Python/Django support for distributed multi-tenant databases like Postgres+Citus", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 96, "folkNum": 6, "watchNum": 96, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "docker-locust", "description": "Docker image for the Locust.io open source load testing tool", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 61, "folkNum": 16, "watchNum": 61, "topic": ["docker-locust", "load-testing", "loadtest", "locust", "performanceanalytics"]}

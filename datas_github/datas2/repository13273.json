@@ -1,0 +1,1 @@
+{"name": "discovery", "description": "This service provides a REST interface for querying for the list of hosts that belong to all microservices.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 78, "folkNum": 21, "watchNum": 78, "topic": []}

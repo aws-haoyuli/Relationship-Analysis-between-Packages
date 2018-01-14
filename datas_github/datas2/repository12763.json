@@ -1,0 +1,1 @@
+{"name": "pymediainfo", "description": "A Python wrapper around the MediaInfo library", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 82, "folkNum": 27, "watchNum": 82, "topic": ["mediainfo", "python"]}

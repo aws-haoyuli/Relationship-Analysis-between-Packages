@@ -1,0 +1,1 @@
+{"name": "lmfit-py", "description": "Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize.leastsq, and with many additional classes and methods for curve fitting ", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 235, "folkNum": 100, "watchNum": 235, "topic": ["curve-fitting", "python", "scipy"]}

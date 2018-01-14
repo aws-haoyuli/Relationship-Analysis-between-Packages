@@ -1,0 +1,1 @@
+{"name": "tensorflow-mnist-VAE", "description": "Tensorflow implementation of variational auto-encoder for MNIST", "license": null, "starNum": 92, "folkNum": 40, "watchNum": 92, "topic": ["autoencoder", "dae", "denoising-autoencoders", "mnist", "tensorflow", "vae", "variational-autoencoder"]}

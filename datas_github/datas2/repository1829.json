@@ -1,0 +1,1 @@
+{"name": "django-websocket-redis", "description": "Websockets for Django applications using Redis as message queue", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 687, "folkNum": 180, "watchNum": 687, "topic": []}

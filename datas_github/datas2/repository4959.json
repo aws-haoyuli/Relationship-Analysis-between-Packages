@@ -1,0 +1,1 @@
+{"name": "timy", "description": "Minimalist measurement of python code time", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 246, "folkNum": 9, "watchNum": 246, "topic": ["decorators", "measurement", "performance", "pip", "python", "python3", "time", "timy"]}

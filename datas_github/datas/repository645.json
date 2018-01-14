@@ -1,0 +1,1 @@
+{"name": "VSM", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["iraleviant"], "packages": ["scipy", "sklearn", "sys", "collections", "numpy as np", "h5sparse", "codecs", "ast", "json", "re", "h5py"]}

@@ -1,0 +1,1 @@
+{"name": "style-transfer", "description": "Keras Implementation of \"A Neural Algorithm of Artistic Style\"", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 70, "folkNum": 7, "watchNum": 70, "topic": ["convolutional-neural-networks", "deep-learning", "neural-style", "style-transfer"]}

@@ -1,0 +1,1 @@
+{"name": "impyla", "description": "Python DB API 2.0 client for Impala and Hive (HiveServer2 protocol)", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 356, "folkNum": 135, "watchNum": 356, "topic": []}

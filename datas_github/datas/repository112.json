@@ -1,0 +1,1 @@
+{"name": "ZiGate", "description": "python test framework for ZiGate", "license": null, "starNum": 2, "folkNum": 2, "watchNum": 2, "topic": [], "contributors": ["elric91", "ISO-B"], "packages": ["s & classes)", "functools", "collections", "asyncio", "serial", "threading", "binascii", "serial_asyncio", "time", "logging"]}

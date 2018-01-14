@@ -1,0 +1,1 @@
+{"name": "alfred-workflow-gauth", "description": ":key: TOTP - Google Authenticator Workflow for Alfred2 (Two-Factor authentication)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 78, "folkNum": 12, "watchNum": 78, "topic": ["alfred-workflow", "authentication", "gauth"]}

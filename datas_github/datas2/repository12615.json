@@ -1,0 +1,1 @@
+{"name": "karesansui", "description": "Karesansui is an open-source virtualization management application made in Japan.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 83, "folkNum": 16, "watchNum": 83, "topic": ["japan", "kvm", "libvirt", "python", "restful", "virtualization", "xen"]}

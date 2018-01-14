@@ -1,0 +1,1 @@
+{"name": "aetros-cli", "description": "AETROS SDK. Python library to manage/monitor deep learning training in AETROS Trainer", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 91, "folkNum": 28, "watchNum": 91, "topic": ["deep-learning", "machine-learning", "tensorflow", "theano"]}

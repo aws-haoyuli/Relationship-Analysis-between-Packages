@@ -1,0 +1,1 @@
+{"name": "safe-commit-hook", "description": "pre-commit hook for Git that checks for suspicious files.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 320, "folkNum": 21, "watchNum": 320, "topic": []}

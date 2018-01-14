@@ -1,0 +1,1 @@
+{"name": "obspy", "description": "ObsPy: A Python Toolbox for seismology/seismological observatories.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 353, "folkNum": 239, "watchNum": 353, "topic": ["data-center", "earthquakes", "lgplv3", "observatories", "python", "science", "seismology", "signal-processing", "waveforms", "web-services"]}

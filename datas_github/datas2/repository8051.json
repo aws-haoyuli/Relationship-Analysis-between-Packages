@@ -1,0 +1,1 @@
+{"name": "cifar-10-cnn", "description": "Using cifar-10 datasets to learn deep learning.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 143, "folkNum": 63, "watchNum": 143, "topic": ["cifar10", "convolutional-neural-networks", "deep-learning", "keras", "tensorflow"]}

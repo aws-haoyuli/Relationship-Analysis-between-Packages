@@ -1,0 +1,1 @@
+{"name": "wagtailmenus", "description": "An app to help you manage and render menus in your Wagtail projects more effectively", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 128, "folkNum": 38, "watchNum": 128, "topic": ["django", "menus", "python", "wagtail"]}

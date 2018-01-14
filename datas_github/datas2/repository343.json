@@ -1,0 +1,1 @@
+{"name": "dataset", "description": "Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 2958, "folkNum": 186, "watchNum": 2958, "topic": ["database", "python", "sql"]}

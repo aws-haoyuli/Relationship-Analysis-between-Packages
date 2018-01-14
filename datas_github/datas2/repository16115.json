@@ -1,0 +1,1 @@
+{"name": "aiosmtplib", "description": "asyncio smtplib implementation", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 61, "folkNum": 15, "watchNum": 61, "topic": ["asynchronous", "asyncio", "python", "python-3", "smtp-client"]}

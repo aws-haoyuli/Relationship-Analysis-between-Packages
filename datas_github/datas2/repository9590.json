@@ -1,0 +1,1 @@
+{"name": "keymaker", "description": "Lightweight SSH key management on AWS EC2", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 117, "folkNum": 16, "watchNum": 117, "topic": ["ec2", "iam", "ssh"]}

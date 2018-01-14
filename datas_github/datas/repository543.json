@@ -1,0 +1,1 @@
+{"name": "personal_site", "description": "My personal website / blog", "license": {"key": "cc-by-4.0", "name": "Creative Commons Attribution 4.0", "spdx_id": "CC-BY-4.0", "url": "https://api.github.com/licenses/cc-by-4.0"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["malramsay64"], "packages": ["time", "click"]}

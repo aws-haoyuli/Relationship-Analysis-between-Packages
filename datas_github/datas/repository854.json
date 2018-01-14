@@ -1,0 +1,1 @@
+{"name": "cs231n", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["vincent732"], "packages": ["past", "pkgutil", "os", "sys", "numpy as np", "struct", "pip", "it", "math", "tempfile", "shutil", "wheel  # noqa", "setuptools  # noqa", "base64"]}

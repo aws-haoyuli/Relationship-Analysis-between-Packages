@@ -1,0 +1,1 @@
+{"name": "django-mptt-admin", "description": "Django-mptt-admin provides a nice Django Admin interface for Mptt models", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 157, "folkNum": 43, "watchNum": 157, "topic": ["django", "django-admin", "django-mptt-admin", "mptt-models"]}

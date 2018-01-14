@@ -1,0 +1,1 @@
+{"name": "SRGAN-tensorflow", "description": "Tensorflow implementation of the SRGAN algorithm for single image super-resolution", "license": null, "starNum": 87, "folkNum": 32, "watchNum": 87, "topic": ["cnn", "deep-learning", "generative-adversarial-network", "pretrained-models", "srgan", "super-resolution", "tensorflow", "tf-slim", "vgg19"]}

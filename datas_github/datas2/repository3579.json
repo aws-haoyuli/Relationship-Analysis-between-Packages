@@ -1,0 +1,1 @@
+{"name": "SeleniumBase", "description": "A simple Python framework for building test automation with WebDriver.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 346, "folkNum": 66, "watchNum": 346, "topic": ["pytest", "selenium", "test-automation", "test-framework", "webdriver"]}

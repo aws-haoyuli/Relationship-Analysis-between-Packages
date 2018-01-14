@@ -1,0 +1,1 @@
+{"name": "modern-home-router-2017", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["m-mizutani"], "packages": ["os", "sys", "string", "__future__", "logging", "argparse", "random", "json"]}

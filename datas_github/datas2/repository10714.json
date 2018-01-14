@@ -1,0 +1,1 @@
+{"name": "python-subprocess32", "description": "A backport of the Python 3 subprocess module for use on Python 2.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 102, "folkNum": 27, "watchNum": 102, "topic": ["backport", "posix-platforms", "python2", "subprocess"]}

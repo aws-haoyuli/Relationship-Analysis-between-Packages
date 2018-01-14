@@ -1,0 +1,1 @@
+{"name": "django-fsm", "description": "Django friendly finite state machine support", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 986, "folkNum": 175, "watchNum": 986, "topic": ["django", "finite-state-machine", "fsm", "python", "state-machine", "state-machine-diagram"]}

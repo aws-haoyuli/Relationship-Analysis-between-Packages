@@ -1,0 +1,1 @@
+{"name": "toil", "description": "A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 427, "folkNum": 114, "watchNum": 427, "topic": ["aws", "azure", "cwl", "gridengine", "mesos", "pipeline", "python", "slurm", "workflow"]}

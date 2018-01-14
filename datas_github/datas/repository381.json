@@ -1,0 +1,1 @@
+{"name": "PyExSMT", "description": "Python Symbolic Execution", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["FedericoAureliano"], "packages": ["setuptools"]}

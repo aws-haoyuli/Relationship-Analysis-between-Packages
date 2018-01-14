@@ -1,0 +1,1 @@
+{"name": "KittiBox", "description": "A car detection model implemented in Tensorflow.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 219, "folkNum": 109, "watchNum": 219, "topic": ["autonomous-driving", "computer-vision", "deep-learning", "detection", "faster-rcnn", "tensorflow"]}

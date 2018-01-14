@@ -1,0 +1,1 @@
+{"name": "Web2Executable", "description": "Uses NW.js to generate \"native\" apps for already existing web apps.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 753, "folkNum": 83, "watchNum": 753, "topic": ["gui", "pyqt4", "pyside", "python", "standalone"]}

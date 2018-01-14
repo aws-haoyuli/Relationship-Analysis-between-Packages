@@ -1,0 +1,1 @@
+{"name": "pootle", "description": "Online translation tool", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 947, "folkNum": 246, "watchNum": 947, "topic": ["django", "i18n", "l10n", "localisation", "python", "translation"]}

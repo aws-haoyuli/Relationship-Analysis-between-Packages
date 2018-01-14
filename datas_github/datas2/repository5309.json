@@ -1,0 +1,1 @@
+{"name": "mwparserfromhell", "description": "A Python parser for MediaWiki wikicode", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 229, "folkNum": 36, "watchNum": 229, "topic": ["mediawiki", "parser", "python", "wikipedia"]}

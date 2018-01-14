@@ -1,0 +1,1 @@
+{"name": "hyperas", "description": "Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 733, "folkNum": 118, "watchNum": 733, "topic": ["hyperopt", "hyperparameter-optimization", "keras"]}

@@ -1,0 +1,1 @@
+{"name": "gaucho", "description": "A Python CLI tool for Rancher's API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 68, "folkNum": 33, "watchNum": 68, "topic": ["ci-cd", "deployment", "rancher", "rancher-api"]}

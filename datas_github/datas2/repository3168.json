@@ -1,0 +1,1 @@
+{"name": "TextRank", "description": "Python implementation of TextRank algorithm (https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf) for automatic keyword extraction and summarization using Levenshtein distance as relation between text units.", "license": null, "starNum": 392, "folkNum": 165, "watchNum": 392, "topic": []}

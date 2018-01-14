@@ -1,0 +1,1 @@
+{"name": "ModelManager", "description": "Handles numerical model prediction file io and processing. Contributing engineers are Samuel Roback and Emily Padvorac", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["scroback77", "scroback", "ep2247"], "packages": ["com", "unittest", "pygrib  # @UnresolvedImport", "sys"]}

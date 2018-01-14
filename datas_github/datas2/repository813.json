@@ -1,0 +1,1 @@
+{"name": "moto", "description": "Moto is a library that allows your python tests to easily mock out the boto library", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 1461, "folkNum": 477, "watchNum": 1461, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "segmentation", "description": "TensorFlow implementation of ENet, trained on the Cityscapes dataset.", "license": null, "starNum": 139, "folkNum": 28, "watchNum": 139, "topic": ["autonomous-driving", "computer-vision", "deep-learning", "semantic-segmentation", "tensorflow"]}

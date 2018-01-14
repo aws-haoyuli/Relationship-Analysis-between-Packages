@@ -1,0 +1,1 @@
+{"name": "appareden", "description": "Appareden (PC-98) romhacking notes and utilities.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 3, "folkNum": 0, "watchNum": 3, "topic": ["appareden", "gem", "pc-98", "romhacking"], "contributors": ["hollowaytape"], "packages": ["rominfo"]}

@@ -1,0 +1,1 @@
+{"name": "nginx-proxy", "description": "Automated nginx proxy for Docker containers using docker-gen", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 7023, "folkNum": 1425, "watchNum": 7023, "topic": ["docker", "docker-gen", "letsencrypt", "nginx"]}

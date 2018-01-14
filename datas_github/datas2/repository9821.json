@@ -1,0 +1,1 @@
+{"name": "flawless", "description": "A simple Python framework to catch exceptions, figure out which developer wrote the buggy code, and send them a stacktrace", "license": {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MPL-2.0", "url": "https://api.github.com/licenses/mpl-2.0"}, "starNum": 113, "folkNum": 7, "watchNum": 113, "topic": []}

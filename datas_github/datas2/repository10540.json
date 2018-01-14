@@ -1,0 +1,1 @@
+{"name": "SublimeFormatSQL", "description": "Sublime Text 2 command to format long SQL statement to a more readable form (also available via Package Control)", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 104, "folkNum": 41, "watchNum": 104, "topic": ["sql", "sublime-text"]}

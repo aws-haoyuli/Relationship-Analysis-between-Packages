@@ -1,0 +1,1 @@
+{"name": "pudb", "description": "Full-screen console debugger for Python", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 919, "folkNum": 98, "watchNum": 919, "topic": ["bpython", "debugger", "ipython", "pdb", "pytest", "pytest-plugin", "python", "urwid"]}

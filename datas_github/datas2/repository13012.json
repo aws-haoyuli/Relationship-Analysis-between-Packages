@@ -1,0 +1,1 @@
+{"name": "discogs-xml2db", "description": "Imports the discogs.com monthly XML dumps into databases", "license": null, "starNum": 80, "folkNum": 52, "watchNum": 80, "topic": ["discogs", "python"]}

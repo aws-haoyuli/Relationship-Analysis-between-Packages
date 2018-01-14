@@ -1,0 +1,1 @@
+{"name": "goatrider", "description": "GoatRider is a simple tool that will dynamically pull down Artillery Threat Intelligence Feeds, TOR, AlienVaults OTX, and the Alexa top 1 million websites and do a comparison to a hostname file or IP file. ", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 65, "folkNum": 20, "watchNum": 65, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "autopush", "description": "Python Web Push Server used by Mozilla", "license": {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MPL-2.0", "url": "https://api.github.com/licenses/mpl-2.0"}, "starNum": 111, "folkNum": 19, "watchNum": 111, "topic": ["mozilla", "python", "webpush"]}

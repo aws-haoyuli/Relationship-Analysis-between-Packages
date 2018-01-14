@@ -1,0 +1,1 @@
+{"name": "kubernetes-ec2-autoscaler", "description": "A batch-optimized scaling manager for Kubernetes", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 530, "folkNum": 87, "watchNum": 530, "topic": []}

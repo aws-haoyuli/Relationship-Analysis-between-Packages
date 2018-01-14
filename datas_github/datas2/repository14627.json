@@ -1,0 +1,1 @@
+{"name": "django-twitter-bootstrap", "description": "This package provides a Django app whose static folder contains the sources of Twitter Bootstrap, nothing more and nothing less.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 70, "folkNum": 19, "watchNum": 70, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "logtools", "description": "Command-line utilities for working with log files - filtering, sampling, IP-based geolocation, summary statistics etc.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 132, "folkNum": 20, "watchNum": 132, "topic": []}

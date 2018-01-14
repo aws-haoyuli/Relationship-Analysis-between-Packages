@@ -1,0 +1,1 @@
+{"name": "crtauth", "description": "a public key backed client/server authentication system", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 86, "folkNum": 11, "watchNum": 86, "topic": ["authentication", "python", "ssh"]}

@@ -1,0 +1,1 @@
+{"name": "wetterstation", "description": "read weather data with raspberry pi ", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["rabede"], "packages": ["keys", "mysql", "sys", "xively", "datetime", "serial", "time", "dropbox", "logging", "requests", "urllib2"]}

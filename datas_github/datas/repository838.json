@@ -1,0 +1,1 @@
+{"name": "wordpress-build-test", "description": "World's simplest CF script", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["craigwongva"], "packages": ["traceback", "boto3", "yaml", "sys"]}

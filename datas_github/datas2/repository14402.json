@@ -1,0 +1,1 @@
+{"name": "returnn", "description": "The RWTH extensible training framework for universal recurrent neural networks", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 71, "folkNum": 24, "watchNum": 71, "topic": ["deep-learning", "gpu", "recurrent-neural-networks", "tensorflow", "theano"]}

@@ -1,0 +1,1 @@
+{"name": "mdmvendorsign", "description": "Create a certificate signing request as a \"vendor\" of Apple's MDM push notification service", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 83, "folkNum": 26, "watchNum": 83, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "portSpider", "description": "\ud83d\udd77 A lightning fast multithreaded network scanner framework with modules.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 219, "folkNum": 49, "watchNum": 219, "topic": ["multi-threading", "networking", "portscan", "python", "scanner", "spider"]}

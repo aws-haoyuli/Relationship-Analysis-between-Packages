@@ -1,0 +1,1 @@
+{"name": "colander", "description": "A serialization/deserialization/validation library for strings, mappings and lists.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 312, "folkNum": 126, "watchNum": 312, "topic": ["deserialization", "forms", "serialization", "validation"]}

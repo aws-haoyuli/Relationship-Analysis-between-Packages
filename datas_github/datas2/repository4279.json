@@ -1,0 +1,1 @@
+{"name": "nanomsg-python", "description": "nanomsg wrapper for python with multiple backends (CPython and ctypes) should support 2/3 and Pypy", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 286, "folkNum": 59, "watchNum": 286, "topic": []}

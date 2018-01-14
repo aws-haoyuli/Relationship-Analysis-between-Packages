@@ -1,0 +1,1 @@
+{"name": "bicha", "description": "Python pip requirements checker.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["raulvillares"], "packages": ["mamba", "doublex", "model", "expects", "services"]}

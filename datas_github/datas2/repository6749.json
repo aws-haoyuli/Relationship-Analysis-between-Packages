@@ -1,0 +1,1 @@
+{"name": "CNN_face_detection", "description": "Implementation based on the paper Li et al., \u201cA Convolutional Neural Network Cascade for Face Detection, \u201d 2015 CVPR", "license": null, "starNum": 176, "folkNum": 116, "watchNum": 176, "topic": ["caffe", "cascade", "convolutional-neural-networks", "deep-learning", "face-detection", "machine-learning", "neural-networks"]}

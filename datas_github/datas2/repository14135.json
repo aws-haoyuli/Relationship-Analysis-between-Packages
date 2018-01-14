@@ -1,0 +1,1 @@
+{"name": "solidity-flattener", "description": "A python utility to flatten Solidity code with imports into a single file.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 73, "folkNum": 22, "watchNum": 73, "topic": ["solidity", "solidity-flattener"]}

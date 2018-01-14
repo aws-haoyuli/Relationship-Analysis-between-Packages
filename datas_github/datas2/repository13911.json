@@ -1,0 +1,1 @@
+{"name": "GulpIO", "description": "Binary storage format for deep learning on videos.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 74, "folkNum": 8, "watchNum": 74, "topic": ["data-format", "data-loader", "deep-learning", "io", "machine-learning", "serialization"]}

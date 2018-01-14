@@ -1,0 +1,1 @@
+{"name": "haishoku", "description": "A development tool for grabbing the dominant color or representative color palette from an image", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 143, "folkNum": 7, "watchNum": 143, "topic": ["design-tools", "dominant-colors", "palette", "pillow", "python3"]}

@@ -1,0 +1,1 @@
+{"name": "py-findpeaks", "description": "Overview of the peaks dectection algorithms available in Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 204, "folkNum": 57, "watchNum": 204, "topic": ["detect-peaks", "digital-signal-processing", "python", "scipy"]}

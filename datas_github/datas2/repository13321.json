@@ -1,0 +1,1 @@
+{"name": "protobuf-inspector", "description": ":detective: Tool to reverse-engineer Protocol Buffers with unknown definition", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 78, "folkNum": 11, "watchNum": 78, "topic": ["protocol-buffers", "reverse-engineering", "serialization"]}

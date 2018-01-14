@@ -1,0 +1,1 @@
+{"name": "pytest-catchlog", "description": "py.test plugin to catch log messages. Forked from pytest-capturelog. Pull Requests are welcome!", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 73, "folkNum": 20, "watchNum": 73, "topic": []}

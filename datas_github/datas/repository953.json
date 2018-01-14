@@ -1,0 +1,1 @@
+{"name": "gpiper-recipes", "description": "GPiper Recipes Repository.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["junipertcy"], "packages": ["six", "os", "yaml", "jsonschema", "sys", "glob", "logging", "tqdm", "argparse"]}

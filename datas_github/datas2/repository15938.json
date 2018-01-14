@@ -1,0 +1,1 @@
+{"name": "azure-iot-sdk-python", "description": "A Python SDK for connecting devices to Microsoft Azure IoT services", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 63, "folkNum": 67, "watchNum": 63, "topic": ["azure", "azure-iot", "azure-iot-sdks", "azure-iothub", "device-sdk", "iothub", "microsoft", "python", "sdk", "service-sdk"]}

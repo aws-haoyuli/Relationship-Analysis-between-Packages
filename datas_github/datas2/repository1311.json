@@ -1,0 +1,1 @@
+{"name": "kickthemout", "description": "\ud83d\udca4 Kick devices off your network by performing an ARP Spoof attack.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 940, "folkNum": 241, "watchNum": 940, "topic": ["arp-spoofing", "hacking", "infosec", "networking", "security"]}

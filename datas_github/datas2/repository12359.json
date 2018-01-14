@@ -1,0 +1,1 @@
+{"name": "sstp-server", "description": "Secure Socket Tunneling Protocol (SSTP VPN) server for Linux.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 86, "folkNum": 36, "watchNum": 86, "topic": ["python", "python-asyncio", "vpn-server"]}

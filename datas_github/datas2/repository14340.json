@@ -1,0 +1,1 @@
+{"name": "hyperface", "description": "Deep Neural Network (DNN) which predicts face/non-face, landmarks, pose and gender simultaneously with Chainer.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 72, "folkNum": 27, "watchNum": 72, "topic": []}

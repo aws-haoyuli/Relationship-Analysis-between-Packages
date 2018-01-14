@@ -1,0 +1,1 @@
+{"name": "deep-rl-tensorflow", "description": "TensorFlow implementation of Deep Reinforcement Learning papers", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1089, "folkNum": 268, "watchNum": 1089, "topic": ["deep-reinforcement-learning", "dqn", "tensorflow"]}

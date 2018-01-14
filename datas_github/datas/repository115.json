@@ -1,0 +1,1 @@
+{"name": "neko-bot", "description": null, "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["cgbahk"], "packages": ["datetime", "time", "logging", "command_light", "CONSTANTS", "telegram"]}

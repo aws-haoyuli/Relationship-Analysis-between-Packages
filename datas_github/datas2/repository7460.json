@@ -1,0 +1,1 @@
+{"name": "DjangoRestMultipleModels", "description": "View (and mixin) for serializing multiple models or querysets in Django Rest Framework", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 156, "folkNum": 25, "watchNum": 156, "topic": []}

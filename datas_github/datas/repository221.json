@@ -1,0 +1,1 @@
+{"name": "TravelSmart", "description": "An expert system based on Frame. It recommends you with the best tourists you like!", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": ["mysql", "pyhton", "pyqt4"], "contributors": ["JuntaoLiu01"], "packages": ["os", "PyQt4", "sys", "welcomePage", "resultPage", "selectPage", "math", "geoip2", "urllib2"]}

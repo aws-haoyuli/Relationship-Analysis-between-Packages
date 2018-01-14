@@ -1,0 +1,1 @@
+{"name": "cddpol", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["hsiuhsil"], "packages": ["os", "matplotlib", "astropy", "pulsar", "sys", "scipy", "glob", "numpy as np", "mpi4py", "paras", "math", "baseband", "copy", "itertools", "argparse", "random", "h5py"]}

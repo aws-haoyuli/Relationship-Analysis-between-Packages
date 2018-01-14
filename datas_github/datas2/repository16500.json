@@ -1,0 +1,1 @@
+{"name": "figgypy", "description": "A simple configuration parser for Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 59, "folkNum": 9, "watchNum": 59, "topic": ["configuration", "configuration-parser", "gnupg", "kms", "python", "python-gnupg"]}

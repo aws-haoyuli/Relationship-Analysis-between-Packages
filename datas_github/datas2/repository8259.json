@@ -1,0 +1,1 @@
+{"name": "pytest-flask", "description": "A set of pytest fixtures to test Flask applications", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 138, "folkNum": 30, "watchNum": 138, "topic": ["flask", "python", "testing", "unit-testing"]}

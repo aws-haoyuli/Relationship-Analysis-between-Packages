@@ -1,0 +1,1 @@
+{"name": "konch", "description": "Configures your Python shell.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 302, "folkNum": 9, "watchNum": 302, "topic": ["bpython", "command-line", "ipython", "ptpython", "python", "python-2", "python-3", "repl", "shell"]}

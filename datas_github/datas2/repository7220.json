@@ -1,0 +1,1 @@
+{"name": "Delaunay_Triangulation", "description": "My own implementation of a Delaunay triangulation  and Voronoi partition in Python applied to images.", "license": {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc"}, "starNum": 162, "folkNum": 15, "watchNum": 162, "topic": []}

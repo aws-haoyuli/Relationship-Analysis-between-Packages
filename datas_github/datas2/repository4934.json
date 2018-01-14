@@ -1,0 +1,1 @@
+{"name": "CVE-2017-12617", "description": "Apache Tomcat < 9.0.1 (Beta) / < 8.5.23 / < 8.0.47 / < 7.0.8 - JSP Upload Bypass / Remote Code Execution ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 247, "folkNum": 78, "watchNum": 247, "topic": []}

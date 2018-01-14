@@ -1,0 +1,1 @@
+{"name": "dircpdm", "description": "make backups automatically", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Shaige1120"], "packages": ["os", "sys", "asyncio", "datetime", "hashlib", "time", "zipfile"]}

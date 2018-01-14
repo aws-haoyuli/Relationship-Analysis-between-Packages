@@ -1,0 +1,1 @@
+{"name": "aws-extender", "description": "AWS Extender (Cloud Storage Tester) is a Burp plugin to assess permissions of cloud storage containers on AWS, Google Cloud and Azure.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 118, "folkNum": 28, "watchNum": 118, "topic": []}

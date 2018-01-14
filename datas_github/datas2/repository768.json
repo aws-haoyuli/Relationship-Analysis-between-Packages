@@ -1,0 +1,1 @@
+{"name": "cleverhans", "description": "An adversarial example library for constructing attacks, building defenses, and benchmarking both", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1534, "folkNum": 390, "watchNum": 1534, "topic": ["benchmarking", "machine-learning", "security"]}

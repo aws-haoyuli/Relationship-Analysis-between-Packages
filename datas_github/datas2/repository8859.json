@@ -1,0 +1,1 @@
+{"name": "BayesianRecurrentNN", "description": "Implementation of Bayesian Recurrent Neural Networks by Fortunato et. al", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 128, "folkNum": 21, "watchNum": 128, "topic": ["bayesian-inference", "deep-learning", "machine-learning"]}

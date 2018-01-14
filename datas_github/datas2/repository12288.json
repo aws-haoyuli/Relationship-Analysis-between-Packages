@@ -1,0 +1,1 @@
+{"name": "pyramid_celery", "description": "Pyramid configuration with celery integration. Allows you to use pyramid .ini files to configure celery and have your pyramid configuration inside celery tasks.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 86, "folkNum": 49, "watchNum": 86, "topic": []}

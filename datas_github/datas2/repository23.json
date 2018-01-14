@@ -1,0 +1,1 @@
+{"name": "YouCompleteMe", "description": "A code-completion engine for Vim", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 15474, "folkNum": 1764, "watchNum": 15474, "topic": ["code-analysis", "code-completion", "semantic-engine", "vim"]}

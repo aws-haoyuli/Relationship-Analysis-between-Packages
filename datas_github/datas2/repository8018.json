@@ -1,0 +1,1 @@
+{"name": "h11", "description": "A pure-Python, bring-your-own-I/O implementation of HTTP/1.1", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 143, "folkNum": 16, "watchNum": 143, "topic": ["http", "python", "sans-io"]}

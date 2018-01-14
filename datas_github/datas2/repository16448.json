@@ -1,0 +1,1 @@
+{"name": "asyncorm", "description": "Fully Async ORM inspired in django's", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 59, "folkNum": 9, "watchNum": 59, "topic": ["async", "async-await", "asynchronous", "metaprogramming", "orm", "postgres", "python", "python3", "sanic"]}

@@ -1,0 +1,1 @@
+{"name": "Chinese-Poetry-Generation", "description": "An RNN-based Chinese Poem Generator", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 66, "folkNum": 28, "watchNum": 66, "topic": ["nlp-machine-learning", "tensorflow"]}

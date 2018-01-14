@@ -1,0 +1,1 @@
+{"name": "sugartensor", "description": "A slim tensorflow wrapper that provides syntactic sugar for tensor variables. This library will be helpful for practical deep learning researchers not beginners.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 330, "folkNum": 42, "watchNum": 330, "topic": []}

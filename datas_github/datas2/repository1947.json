@@ -1,0 +1,1 @@
+{"name": "tensorflow-fcn", "description": "An Implementation of Fully Convolutional Networks in Tensorflow.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 650, "folkNum": 263, "watchNum": 650, "topic": ["segmentation", "tensorflow", "vgg"]}

@@ -1,0 +1,1 @@
+{"name": "esri2open", "description": "this repo is an ESRI toolbox and tool(s) that export ESRI Feature Classes to open data formats, CSV, JSON, and GeoJSON", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 221, "folkNum": 59, "watchNum": 221, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "KittiSeg", "description": "A Kitti Road Segmentation model implemented in tensorflow.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 455, "folkNum": 223, "watchNum": 455, "topic": ["autonomous-driving", "computer-vision", "fcn", "kitti-data", "segmentation", "semantic", "tensorflow"]}

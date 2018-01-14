@@ -1,0 +1,1 @@
+{"name": "PcbDraw", "description": "Convert your KiCAD board into a nice looking 2D drawing suitable for pinout diagrams", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 140, "folkNum": 8, "watchNum": 140, "topic": ["kicad", "pcb", "pcb-diagram"]}

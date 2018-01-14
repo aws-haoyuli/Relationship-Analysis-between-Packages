@@ -1,0 +1,1 @@
+{"name": "boto_rsync", "description": "An rsync-like utility using boto's S3 and Google Storage interfaces. [DEPRECATED -- Use awscli instead]", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 227, "folkNum": 65, "watchNum": 227, "topic": []}

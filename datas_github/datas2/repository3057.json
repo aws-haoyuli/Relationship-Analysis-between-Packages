@@ -1,0 +1,1 @@
+{"name": "potion", "description": "Flask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 405, "folkNum": 35, "watchNum": 405, "topic": ["flask", "flask-extensions", "mongoengine", "peewee", "sqlalchemy"]}

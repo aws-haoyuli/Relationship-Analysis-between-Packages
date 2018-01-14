@@ -1,0 +1,1 @@
+{"name": "pwntools", "description": "CTF framework and exploit development library", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 3459, "folkNum": 698, "watchNum": 3459, "topic": ["assembly", "capture-the-flag", "ctf", "ctf-framework", "defcon", "exploit", "pwnable", "pwntools", "python", "rop", "shellcode", "wargame"]}

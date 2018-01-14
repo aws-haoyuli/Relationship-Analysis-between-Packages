@@ -1,0 +1,1 @@
+{"name": "morphological_expander", "description": "A Python wrapper to mophologically expand terms using the UniMorph knowledge base. Lemmatises the input term and re-inflects the lemma to all possible surface forms.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["sumpe"], "packages": ["re", "sys"]}

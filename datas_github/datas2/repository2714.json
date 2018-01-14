@@ -1,0 +1,1 @@
+{"name": "binlog2sql", "description": "Parse MySQL binlog to SQL you want", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 460, "folkNum": 221, "watchNum": 460, "topic": ["binlog", "flashback", "mysql"]}

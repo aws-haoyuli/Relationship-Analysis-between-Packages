@@ -1,0 +1,1 @@
+{"name": "BayesianOptimization", "description": "A Python implementation of global optimization with gaussian processes.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1074, "folkNum": 309, "watchNum": 1074, "topic": ["bayesian-optimization", "gaussian-processes", "optimization", "python", "simple"]}

@@ -1,0 +1,1 @@
+{"name": "py-idstools", "description": "idstools: Snort and Suricata Rule and Event Utilities in Python (Including a Rule Update Tool)", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 122, "folkNum": 47, "watchNum": 122, "topic": ["ids", "intrusion-detection", "snort", "suricata", "unified2"]}

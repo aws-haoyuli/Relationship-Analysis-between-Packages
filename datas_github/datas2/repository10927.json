@@ -1,0 +1,1 @@
+{"name": "minijit", "description": "A naive, educational x86-64 JIT-compiler written from scratch in C++ and Python", "license": null, "starNum": 99, "folkNum": 4, "watchNum": 99, "topic": ["cxx", "jit-compiler", "python", "x86-64"]}

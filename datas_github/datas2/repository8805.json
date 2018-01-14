@@ -1,0 +1,1 @@
+{"name": "CVE-2017-11882", "description": "CVE-2017-11882 Exploit accepts over 17k bytes long command/code in maximum.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 129, "folkNum": 40, "watchNum": 129, "topic": ["cve-2017-11882", "exploit", "rtf", "shellcode"]}

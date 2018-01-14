@@ -1,0 +1,1 @@
+{"name": "PredictionCode", "description": "some data analysis tests ", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["monikascholz"], "packages": ["matplotlib", "sklearn", "numpy as np", "makePlots as mp", "dataHandler as dh", "dimReduction as dr", "h5py"]}

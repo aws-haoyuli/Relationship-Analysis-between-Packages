@@ -1,0 +1,1 @@
+{"name": "tf-3dgan", "description": "Tensorflow implementation of 3D Generative Adversarial Network.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 88, "folkNum": 31, "watchNum": 88, "topic": ["deep-learning", "generative-adversarial-network", "tensorflow"]}

@@ -1,0 +1,1 @@
+{"name": "customer-segmentation", "description": "Customer segmentation system", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["rudloffl"], "packages": ["os", "datetime", "modules", "time"]}

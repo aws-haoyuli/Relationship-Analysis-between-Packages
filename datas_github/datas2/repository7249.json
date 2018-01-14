@@ -1,0 +1,1 @@
+{"name": "CUPS-Cloud-Print", "description": "Google Cloud Print driver for CUPS, allows printing to printers hosted on Google Cloud Print", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 162, "folkNum": 27, "watchNum": 162, "topic": []}

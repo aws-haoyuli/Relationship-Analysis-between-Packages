@@ -1,0 +1,1 @@
+{"name": "discogs-yt-playlister", "description": "Under construction - Webapp to generate youtube playlists using the discogs monthly data dumps", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["dijksterhuis"], "packages": ["pprint", "xml", "sys"]}

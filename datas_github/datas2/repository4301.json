@@ -1,0 +1,1 @@
+{"name": "jasmin", "description": "Jasmin - Open source SMS gateway", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 284, "folkNum": 196, "watchNum": 284, "topic": ["celery", "python", "smpp", "smpp-client", "smpp-server", "sms", "sms-gateway", "twisted"]}

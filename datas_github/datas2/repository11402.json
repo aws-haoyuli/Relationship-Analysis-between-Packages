@@ -1,0 +1,1 @@
+{"name": "tesseract-web-service", "description": "An implementation of RESTful web service for tesseract-OCR using tornado", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 95, "folkNum": 27, "watchNum": 95, "topic": []}

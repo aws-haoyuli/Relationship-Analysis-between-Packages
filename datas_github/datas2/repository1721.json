@@ -1,0 +1,1 @@
+{"name": "usaddress", "description": ":us: a python library for parsing unstructured address strings into address components", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 728, "folkNum": 112, "watchNum": 728, "topic": ["address", "nlp", "python-library"]}

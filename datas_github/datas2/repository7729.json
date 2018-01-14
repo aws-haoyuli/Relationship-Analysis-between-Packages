@@ -1,0 +1,1 @@
+{"name": "jsondiff", "description": "Diff JSON and JSON-like structures in Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 150, "folkNum": 12, "watchNum": 150, "topic": ["diff", "json", "python"]}

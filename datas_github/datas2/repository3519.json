@@ -1,0 +1,1 @@
+{"name": "AutoLocalPrivilegeEscalation", "description": "An automated script that download potential exploit for linux kernel from exploitdb, and compile them automatically", "license": null, "starNum": 351, "folkNum": 141, "watchNum": 351, "topic": []}

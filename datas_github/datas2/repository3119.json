@@ -1,0 +1,1 @@
+{"name": "pbtk", "description": "A toolset for reverse engineering and fuzzing Protobuf-based apps", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 397, "folkNum": 35, "watchNum": 397, "topic": ["decompiler", "fuzzing", "protobuf", "python", "reverse-engineering"]}

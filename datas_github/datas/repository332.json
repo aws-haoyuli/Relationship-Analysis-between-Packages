@@ -1,0 +1,1 @@
+{"name": "stochastic_neuronal_variability", "description": "Correlated neuronal variability within artificial neural networks.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["shamak"], "packages": ["os", "matplotlib", "mpl_toolkits", "numpy as np", "tensorflow as tf", "linecache"]}

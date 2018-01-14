@@ -1,0 +1,1 @@
+{"name": "docker-py", "description": "A Python library for the Docker Engine API", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 2679, "folkNum": 986, "watchNum": 2679, "topic": ["docker", "docker-engine-api", "docker-swarm", "python", "python-library"]}

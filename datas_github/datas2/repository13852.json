@@ -1,0 +1,1 @@
+{"name": "Pytorch-DPPO", "description": "Pytorch implementation of Distributed Proximal Policy Optimization: https://arxiv.org/abs/1707.02286", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 75, "folkNum": 13, "watchNum": 75, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "project_flynn", "description": "Location and lifeform aware personal A.I. assistant", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": [], "packages": ["always return True", "cv2", "ed", "sys"]}

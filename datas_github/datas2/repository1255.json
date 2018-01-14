@@ -1,0 +1,1 @@
+{"name": "genpac", "description": "PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 972, "folkNum": 210, "watchNum": 972, "topic": ["dnsmasq", "gfw", "gfwlist", "pac", "pypi", "python", "wingy"]}

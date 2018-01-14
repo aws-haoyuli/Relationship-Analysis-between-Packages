@@ -1,0 +1,1 @@
+{"name": "notice-me", "description": "[Fixed by Github] A POC to show the flaw in project collaborator notifications on Github", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 140, "folkNum": 6, "watchNum": 140, "topic": ["concept", "flaw"]}

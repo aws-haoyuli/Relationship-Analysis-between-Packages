@@ -1,0 +1,1 @@
+{"name": "dnsdiag", "description": "DNS Diagnostics and Performance Measurement Tools", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 344, "folkNum": 30, "watchNum": 344, "topic": ["dns", "dns-diagnostics"]}

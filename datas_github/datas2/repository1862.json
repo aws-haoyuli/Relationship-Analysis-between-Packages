@@ -1,0 +1,1 @@
+{"name": "maestro-ng", "description": "Orchestration of Docker-based, multi-host environments", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 678, "folkNum": 88, "watchNum": 678, "topic": ["docker", "maestro", "maestro-ng", "orchestration"]}

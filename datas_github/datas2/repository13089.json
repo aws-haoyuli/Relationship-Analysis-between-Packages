@@ -1,0 +1,1 @@
+{"name": "clang-as-ios-dylib", "description": "A workaround to build iOS dynamic libraries from Xcode.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 80, "folkNum": 27, "watchNum": 80, "topic": []}

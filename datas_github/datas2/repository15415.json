@@ -1,0 +1,1 @@
+{"name": "snmpsim", "description": "SNMP Simulator", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 65, "folkNum": 15, "watchNum": 65, "topic": ["gather-simulation-data", "simulated-data", "snmp", "snmp-agent", "snmp-simulator"]}

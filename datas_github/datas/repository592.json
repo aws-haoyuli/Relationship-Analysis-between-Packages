@@ -1,0 +1,1 @@
+{"name": "object_detection", "description": null, "license": null, "starNum": 3, "folkNum": 1, "watchNum": 3, "topic": [], "contributors": ["jzhugithub"], "packages": ["os", "__future__", "numpy as np", "time", "math", "object_detection_image", "cv2"]}

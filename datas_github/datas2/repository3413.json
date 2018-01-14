@@ -1,0 +1,1 @@
+{"name": "momoko", "description": "Wraps (asynchronous) Psycopg2 for Tornado.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 360, "folkNum": 65, "watchNum": 360, "topic": ["asynchronous", "postgresql", "python", "tornado"]}

@@ -1,0 +1,1 @@
+{"name": "data-science-python", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": [], "packages": ["scipy", "matplotlib", "sklearn", "numpy as np", "pandas as pd", "seaborn as sb"]}

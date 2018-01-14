@@ -1,0 +1,1 @@
+{"name": "changes", "description": "changes automates python library release tasks.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 235, "folkNum": 15, "watchNum": 235, "topic": ["cli", "python", "release-helper", "release-management"]}

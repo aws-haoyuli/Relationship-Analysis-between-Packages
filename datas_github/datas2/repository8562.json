@@ -1,0 +1,1 @@
+{"name": "staged-recipes", "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 133, "folkNum": 697, "watchNum": 133, "topic": []}

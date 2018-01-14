@@ -1,0 +1,1 @@
+{"name": "feature_and_label_preparation", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["natalienie"], "packages": ["datetime", "numpy as np", "pandas as pd", "time", "urllib", "TimeMachine", "json"]}

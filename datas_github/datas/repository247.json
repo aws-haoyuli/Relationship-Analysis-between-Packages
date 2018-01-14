@@ -1,0 +1,1 @@
+{"name": "althea-firmware", "description": "Firmware building tool", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 4, "folkNum": 3, "watchNum": 4, "topic": [], "contributors": ["jkilpatr", "mrubacky", "descention", "drozdziak1"], "packages": ["time", "simplejson as json", "sys", "subprocess"]}

@@ -1,0 +1,1 @@
+{"name": "tox-pyenv", "description": "plugin that tells tox to use `pyenv which` to find python executables", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 69, "folkNum": 5, "watchNum": 69, "topic": []}

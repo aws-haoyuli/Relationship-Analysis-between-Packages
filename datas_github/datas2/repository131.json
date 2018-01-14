@@ -1,0 +1,1 @@
+{"name": "mycli", "description": "A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 5210, "folkNum": 299, "watchNum": 5210, "topic": ["auto-completion", "database", "mycli", "mysql", "python", "syntax-highlighting"]}

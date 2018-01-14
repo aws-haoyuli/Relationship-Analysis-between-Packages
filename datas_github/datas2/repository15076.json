@@ -1,0 +1,1 @@
+{"name": "tomcatmanager", "description": "A command line tool and python library for managing a tomcat server", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 67, "folkNum": 29, "watchNum": 67, "topic": ["command-line", "python", "tomcat"]}

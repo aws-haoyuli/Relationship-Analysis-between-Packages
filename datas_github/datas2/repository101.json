@@ -1,0 +1,1 @@
+{"name": "speedtest-cli", "description": "Command line interface for testing internet bandwidth using speedtest.net", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 6037, "folkNum": 857, "watchNum": 6037, "topic": ["python", "python-library", "python-script", "speedtest"]}

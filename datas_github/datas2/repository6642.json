@@ -1,0 +1,1 @@
+{"name": "tensorflow-convlstm-cell", "description": "A ConvLSTM cell with layer normalization and peepholes for TensorFlow's RNN API.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 180, "folkNum": 56, "watchNum": 180, "topic": []}

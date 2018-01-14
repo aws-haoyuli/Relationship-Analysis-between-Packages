@@ -1,0 +1,1 @@
+{"name": "python-can", "description": "The can package provides controller area network support for Python developers", "license": {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0"}, "starNum": 82, "folkNum": 47, "watchNum": 82, "topic": ["can-bus", "python"]}

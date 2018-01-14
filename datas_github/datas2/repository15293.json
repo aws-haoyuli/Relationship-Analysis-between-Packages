@@ -1,0 +1,1 @@
+{"name": "redset", "description": "A Redis-backed sorted set useful for coordinating distributed work.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 66, "folkNum": 6, "watchNum": 66, "topic": []}

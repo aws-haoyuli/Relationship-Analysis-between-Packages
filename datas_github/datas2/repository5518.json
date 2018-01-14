@@ -1,0 +1,1 @@
+{"name": "qiime", "description": "Official QIIME 1 software repository. QIIME 2 (https://qiime2.org) has succeeded QIIME 1 as of January 2018.", "license": {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0"}, "starNum": 219, "folkNum": 221, "watchNum": 219, "topic": ["analysis", "microbiome"]}

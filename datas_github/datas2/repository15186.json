@@ -1,0 +1,1 @@
+{"name": "pregel", "description": "Tensorflow implementation of Graph Convolutional Network", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 66, "folkNum": 6, "watchNum": 66, "topic": ["graph-convolutional-network", "tensorflow"]}

@@ -1,0 +1,1 @@
+{"name": "minio-py", "description": "Minio Client SDK for Python", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 92, "folkNum": 53, "watchNum": 92, "topic": ["aws-s3", "minio", "minio-client", "s3-bucket", "sdk"]}

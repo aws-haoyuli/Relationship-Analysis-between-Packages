@@ -1,0 +1,1 @@
+{"name": "mopidy-soundcloud", "description": "Mopidy extension for playing music from SoundCloud", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 117, "folkNum": 44, "watchNum": 117, "topic": ["mopidy", "mopidy-backend", "python", "soundcloud"]}

@@ -1,0 +1,1 @@
+{"name": "aiotg", "description": "Asynchronous Python library for building Telegram bots", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 257, "folkNum": 30, "watchNum": 257, "topic": ["asyncio", "bot", "python", "telegram"]}

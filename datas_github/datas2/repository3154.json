@@ -1,0 +1,1 @@
+{"name": "zget", "description": "Filename based peer to peer file transfer", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 393, "folkNum": 17, "watchNum": 393, "topic": ["file-transfer", "peer-to-peer", "zeroconf"]}

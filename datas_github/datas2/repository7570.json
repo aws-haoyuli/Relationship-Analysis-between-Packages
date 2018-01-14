@@ -1,0 +1,1 @@
+{"name": "django-auditlog", "description": "A Django app that keeps a log of changes made to an object.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 154, "folkNum": 104, "watchNum": 154, "topic": ["auditing", "django", "python"]}

@@ -1,0 +1,1 @@
+{"name": "iproute2mac", "description": "CLI wrapper for basic network utilites on Mac OS X inspired with iproute2 on Linux systems - ip command.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 227, "folkNum": 26, "watchNum": 227, "topic": []}

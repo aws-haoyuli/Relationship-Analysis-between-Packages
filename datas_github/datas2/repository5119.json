@@ -1,0 +1,1 @@
+{"name": "pycookiecheat", "description": "Borrow cookies from your browser's authenticated session for use in Python scripts.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 237, "folkNum": 50, "watchNum": 237, "topic": ["chrome", "cookies", "python3", "requests"]}

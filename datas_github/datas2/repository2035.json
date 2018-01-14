@@ -1,0 +1,1 @@
+{"name": "django-hijack", "description": "With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 619, "folkNum": 88, "watchNum": 619, "topic": ["django", "python"]}

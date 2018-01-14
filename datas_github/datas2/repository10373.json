@@ -1,0 +1,1 @@
+{"name": "gcp-audit", "description": "A tool for auditing security properties of GCP projects.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 106, "folkNum": 14, "watchNum": 106, "topic": ["google-cloud", "google-cloud-platform", "security", "security-audit"]}

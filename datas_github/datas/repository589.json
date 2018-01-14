@@ -1,0 +1,1 @@
+{"name": "40523117_cadp_final", "description": null, "license": {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["s40523117"], "packages": ["PyQt5", "ui", "sys"]}

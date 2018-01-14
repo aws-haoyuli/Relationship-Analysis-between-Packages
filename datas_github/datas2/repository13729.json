@@ -1,0 +1,1 @@
+{"name": "python-snap7", "description": "A Python wrapper for the snap7 PLC communication library", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 75, "folkNum": 44, "watchNum": 75, "topic": ["ctypes", "plc", "python", "s7", "siemens", "snap7", "wrapper"]}

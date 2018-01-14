@@ -1,0 +1,1 @@
+{"name": "wordsworth", "description": "Frequency analysis tool - counts words, letters, n-grams and more!", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 187, "folkNum": 60, "watchNum": 187, "topic": ["crypto", "cryptography", "frequency", "frequency-analysis"]}

@@ -1,0 +1,1 @@
+{"name": "mxnet-yolo", "description": "YOLO: You only look once real-time object detector", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 128, "folkNum": 45, "watchNum": 128, "topic": ["object-detection", "yolo", "yolo2", "you-only-look-once"]}

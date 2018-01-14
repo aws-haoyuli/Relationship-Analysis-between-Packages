@@ -1,0 +1,1 @@
+{"name": "symgdb", "description": "SymGDB - symbolic execution plugin for gdb", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 134, "folkNum": 14, "watchNum": 134, "topic": ["gdb", "gdb-plugin", "symbolic-execution", "triton"]}

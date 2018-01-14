@@ -1,0 +1,1 @@
+{"name": "aiomysql", "description": "aiomysql is a library for accessing a MySQL database from the asyncio", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 415, "folkNum": 65, "watchNum": 415, "topic": ["asyncio", "mariadb", "mysql", "sqlalchemy"]}

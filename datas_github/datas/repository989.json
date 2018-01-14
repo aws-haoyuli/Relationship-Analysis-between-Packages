@@ -1,0 +1,1 @@
+{"name": "gym-unrealcv", "description": "reinforcement learning for unrealcv environment", "license": null, "starNum": 29, "folkNum": 6, "watchNum": 29, "topic": ["reinforcement-learning", "unrealcv"], "contributors": ["zfw1226"], "packages": ["setuptools"]}

@@ -1,0 +1,1 @@
+{"name": "django-dynamodb-sessions", "description": "A Django session backend for Amazon's DynamoDB", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 87, "folkNum": 20, "watchNum": 87, "topic": []}

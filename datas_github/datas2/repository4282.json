@@ -1,0 +1,1 @@
+{"name": "pymemcache", "description": "A comprehensive, fast, pure-Python memcached client.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 286, "folkNum": 105, "watchNum": 286, "topic": ["memcache", "python"]}

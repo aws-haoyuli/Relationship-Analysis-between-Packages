@@ -1,0 +1,1 @@
+{"name": "Flask-Migrate", "description": "SQLAlchemy database migrations for Flask applications using Alembic", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 840, "folkNum": 101, "watchNum": 840, "topic": ["alembic", "database", "flask", "migrations", "python", "sqlalchemy-database-migrations"]}

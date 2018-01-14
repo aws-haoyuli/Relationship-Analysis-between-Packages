@@ -1,0 +1,1 @@
+{"name": "InstagramCrawler", "description": "A non API python program to crawl public photos, posts or followers ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 174, "folkNum": 64, "watchNum": 174, "topic": ["crawler", "instagram", "python", "selenium"]}

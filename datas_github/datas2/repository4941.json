@@ -1,0 +1,1 @@
+{"name": "ironic", "description": "A service for managing and provisioning Bare Metal servers.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 247, "folkNum": 210, "watchNum": 247, "topic": ["follows-standard-deprecation"]}

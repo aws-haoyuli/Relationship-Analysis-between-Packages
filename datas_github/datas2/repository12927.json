@@ -1,0 +1,1 @@
+{"name": "afl-crash-analyzer", "description": "Another crash analyzer tool for the American Fuzzy Lop (AFL) fuzzer", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 81, "folkNum": 24, "watchNum": 81, "topic": []}

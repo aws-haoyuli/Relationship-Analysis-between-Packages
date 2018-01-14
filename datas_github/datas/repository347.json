@@ -1,0 +1,1 @@
+{"name": "EXcolorPicker", "description": "Raspberry Pi python program so my kids can control the LIFX bulbs in their room", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["wrickert"], "packages": ["lifxlan", "sys", "tkinter", "PIL", "tkinter as tk"]}

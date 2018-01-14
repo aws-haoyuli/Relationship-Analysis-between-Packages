@@ -1,0 +1,1 @@
+{"name": "django-boundaryservice", "description": "A ready-to-deploy system for aggregating regional boundary data (from shapefiles) and republishing that data via a RESTful JSON API.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 84, "folkNum": 39, "watchNum": 84, "topic": []}

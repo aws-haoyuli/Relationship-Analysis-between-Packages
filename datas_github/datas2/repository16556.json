@@ -1,0 +1,1 @@
+{"name": "dedupfs", "description": "A Python FUSE file system that features transparent deduplication and compression which make it ideal for archiving backups.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 59, "folkNum": 9, "watchNum": 59, "topic": []}

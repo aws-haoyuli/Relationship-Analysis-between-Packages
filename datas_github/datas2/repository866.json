@@ -1,0 +1,1 @@
+{"name": "cowrie", "description": "Cowrie SSH/Telnet Honeypot", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 1380, "folkNum": 311, "watchNum": 1380, "topic": ["attacker", "cowrie", "cowrie-ssh", "honeypot", "kippo", "scp", "security", "sftp", "ssh", "telnet", "telnet-honeypot", "threat-analysis", "threat-sharing", "threatintel"]}

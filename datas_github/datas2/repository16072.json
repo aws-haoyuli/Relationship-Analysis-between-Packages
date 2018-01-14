@@ -1,0 +1,1 @@
+{"name": "segment", "description": "A tool to segment text based on frequencies and the Viterbi algorithm \"#TheBoyWhoLived\" => ['#', 'The', 'Boy', 'Who', 'Lived']", "license": null, "starNum": 61, "folkNum": 12, "watchNum": 61, "topic": ["python", "segment", "viterbi-algorithm"]}

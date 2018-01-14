@@ -1,0 +1,1 @@
+{"name": "ec2instancespricing", "description": "Quick and dirty Python (and also PHP) API and CLI (PHP is without CLI) to get EC2 instance pricing for On-Demand and Reserved Instances", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 143, "folkNum": 87, "watchNum": 143, "topic": []}

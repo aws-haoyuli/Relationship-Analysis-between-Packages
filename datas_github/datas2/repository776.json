@@ -1,0 +1,1 @@
+{"name": "elasticsearch-py", "description": "Official Python low-level client for Elasticsearch.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 1517, "folkNum": 573, "watchNum": 1517, "topic": ["client", "elasticsearch", "python", "search"]}

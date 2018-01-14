@@ -1,0 +1,1 @@
+{"name": "django-concurrency", "description": "Optimistic lock implementation for Django. Prevents users from doing concurrent editing.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 190, "folkNum": 29, "watchNum": 190, "topic": ["concurrency", "django", "optimistic-locking"]}

@@ -1,0 +1,1 @@
+{"name": "objc_cover", "description": "Quick Python script over otool to help spotting potentially unused methods in Objective-C Mach-O executable files", "license": null, "starNum": 103, "folkNum": 14, "watchNum": 103, "topic": []}

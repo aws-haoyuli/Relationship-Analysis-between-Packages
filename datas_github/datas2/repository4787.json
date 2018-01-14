@@ -1,0 +1,1 @@
+{"name": "kademlia", "description": "A DHT in Python using asyncio", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 256, "folkNum": 101, "watchNum": 256, "topic": []}

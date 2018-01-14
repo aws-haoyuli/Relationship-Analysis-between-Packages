@@ -1,0 +1,1 @@
+{"name": "bitcoin-price-prediction", "description": "Bayesian regression for latent source model and Bitcoin", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 139, "folkNum": 65, "watchNum": 139, "topic": ["bitcoin", "machine-learning", "python", "trading"]}

@@ -1,0 +1,1 @@
+{"name": "tacotron", "description": "A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 339, "folkNum": 128, "watchNum": 339, "topic": ["speech-synthesis", "tacotron", "tensorflow"]}

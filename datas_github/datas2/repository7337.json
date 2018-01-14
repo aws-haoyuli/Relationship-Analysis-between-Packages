@@ -1,0 +1,1 @@
+{"name": "fabricio", "description": "Docker deploy automation tool", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 159, "folkNum": 16, "watchNum": 159, "topic": ["deploy", "django", "docker", "docker-compose", "docker-swarm", "fabfile", "k8s", "kubernetes", "moby", "swarm-mode"]}

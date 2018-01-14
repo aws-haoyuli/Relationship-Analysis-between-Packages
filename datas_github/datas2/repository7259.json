@@ -1,0 +1,1 @@
+{"name": "asyncpgsa", "description": "A wrapper around asyncpg for use with sqlalchemy", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 161, "folkNum": 24, "watchNum": 161, "topic": ["asyncio", "postgres", "python", "sqlalchemy"]}

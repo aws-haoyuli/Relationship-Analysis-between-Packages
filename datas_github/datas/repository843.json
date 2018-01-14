@@ -1,0 +1,1 @@
+{"name": "niamoto-portal", "description": "niamoto django main project, including REST APIs and web application.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["dimitri-justeau"], "packages": ["collections", "web", "apps", "account", "niamoto", "constance", "json", "django"]}

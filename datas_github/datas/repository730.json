@@ -1,0 +1,1 @@
+{"name": "st-attention-network", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["jay1204"], "packages": ["tools", "os", "mxnet", "utils", "threading", "config", "numpy as np", "time", "multiprocessing", "logging", "mxnet as mx"]}

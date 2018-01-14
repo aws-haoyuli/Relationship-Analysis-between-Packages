@@ -1,0 +1,1 @@
+{"name": "djangoecommerce5", "description": "ecommerce", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["VenancioAvila"], "packages": ["django", "os", "dj_static"]}

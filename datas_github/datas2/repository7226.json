@@ -1,0 +1,1 @@
+{"name": "stock-rnn", "description": "Predict stock market prices using RNN model with multilayer LSTM cells + optional multi-stock embeddings.", "license": null, "starNum": 162, "folkNum": 89, "watchNum": 162, "topic": ["embeddings", "lstm", "rnn-tensorflow", "stock-price-prediction"]}

@@ -1,0 +1,1 @@
+{"name": "monkey", "description": "Infection Monkey - An automated pentest tool", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 178, "folkNum": 52, "watchNum": 178, "topic": ["infection-monkey", "penetration-testing", "security-automation", "security-tools"]}

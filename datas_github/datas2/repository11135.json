@@ -1,0 +1,1 @@
+{"name": "VGG19_with_tensorflow", "description": "An easy implement of VGG19 with tensorflow, which has a detailed explanation.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 97, "folkNum": 34, "watchNum": 97, "topic": ["deep-learning-tutorial", "tensorflow", "vgg"]}

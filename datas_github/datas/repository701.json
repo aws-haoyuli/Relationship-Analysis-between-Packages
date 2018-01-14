@@ -1,0 +1,1 @@
+{"name": "LearnPy", "description": "LearnPy the Hard Way", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["QYQSDTC"], "packages": ["requests as req", "os", "bs4", "sys", "typing", "xxhash", "time", "ujson as json", "multiprocessing", "tqdm", "re"]}

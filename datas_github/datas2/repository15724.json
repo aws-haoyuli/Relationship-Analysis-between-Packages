@@ -1,0 +1,1 @@
+{"name": "shiftpi", "description": "ShiftPi is the easiest way to work with 74HC595 shift registers on your Raspberry Pi in Arduino style :)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 64, "folkNum": 32, "watchNum": 64, "topic": []}

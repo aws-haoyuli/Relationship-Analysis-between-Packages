@@ -1,0 +1,1 @@
+{"name": "validator.py", "description": "A library for validating that dictionary values meet certain sets of parameters. Much like form validators, but for dicts.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 102, "folkNum": 16, "watchNum": 102, "topic": []}

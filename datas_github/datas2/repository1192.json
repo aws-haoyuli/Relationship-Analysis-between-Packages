@@ -1,0 +1,1 @@
+{"name": "laboratory", "description": "A Python library for carefully refactoring critical paths (and a port of Github's Scientist)", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1027, "folkNum": 23, "watchNum": 1027, "topic": ["developer-tools", "pypi", "python", "refactoring", "scientist"]}

@@ -1,0 +1,1 @@
+{"name": "git-review", "description": "Tool for uploading changesets to Gerrit from git", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 177, "folkNum": 76, "watchNum": 177, "topic": []}

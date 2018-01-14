@@ -1,0 +1,1 @@
+{"name": "pyekaboo", "description": "Proof-of-concept program that is able to to hijack/hook/proxy Python module(s) thanks to $PYTHONPATH variable", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 95, "folkNum": 15, "watchNum": 95, "topic": []}

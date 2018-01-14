@@ -1,0 +1,1 @@
+{"name": "aws-lambda-ddns-function", "description": "Dynamically create Route 53 resource records using CloudWatch Events and Lambda", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 125, "folkNum": 47, "watchNum": 125, "topic": []}

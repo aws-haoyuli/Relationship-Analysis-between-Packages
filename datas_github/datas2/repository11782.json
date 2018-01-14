@@ -1,0 +1,1 @@
+{"name": "slack-sql", "description": ":tada: Bring SQL console to Slack", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 91, "folkNum": 11, "watchNum": 91, "topic": ["heroku", "pygresql", "slack", "slack-bot", "sql", "tool"]}

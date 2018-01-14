@@ -1,0 +1,1 @@
+{"name": "shootback", "description": "a reverse TCP tunnel let you access target behind NAT or firewall", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 407, "folkNum": 110, "watchNum": 407, "topic": ["reverse", "reverse-tcp-tunnel", "tcp", "tunnel"]}

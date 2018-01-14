@@ -1,0 +1,1 @@
+{"name": "djurl", "description": "Simple yet helpful library for writing Django urls by an easy, short an intuitive way.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 88, "folkNum": 3, "watchNum": 88, "topic": ["django", "django-routing", "python", "regex", "routing", "tokenizer", "url", "urls", "web"]}

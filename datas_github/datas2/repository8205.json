@@ -1,0 +1,1 @@
+{"name": "chat", "description": "A simple chat app created to experiment with Redis, Gevent, Flask & Server-Sent Events.  ", "license": null, "starNum": 139, "folkNum": 32, "watchNum": 139, "topic": ["experiment", "flask", "jakubroztocil", "python", "redis", "server-sent-events"]}

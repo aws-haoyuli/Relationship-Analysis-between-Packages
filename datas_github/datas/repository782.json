@@ -1,0 +1,1 @@
+{"name": "gef_enes_esgf_processing", "description": "gef - enes - esgf interoperability usecase", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["pagecp", "xpivan"], "packages": ["os", "setuptools"]}

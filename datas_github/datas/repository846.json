@@ -1,0 +1,1 @@
+{"name": "minecraft_to_vmf", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["MaxfieldHorwood"], "packages": ["getpass", "tkinter", "PIL", "nbt", "mc_to_vmf", "math", "json"]}

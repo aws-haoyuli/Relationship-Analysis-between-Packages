@@ -1,0 +1,1 @@
+{"name": "python.io", "description": "python project", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1, "folkNum": 1, "watchNum": 1, "topic": [], "contributors": ["731288559"], "packages": ["plotly", "bs4", "selenium", "time", "pymysql", "requests"]}

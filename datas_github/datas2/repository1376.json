@@ -1,0 +1,1 @@
+{"name": "async-rl", "description": "Tensorflow + Keras + OpenAI Gym implementation of 1-step Q Learning from  \"Asynchronous Methods for Deep Reinforcement Learning\"", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 902, "folkNum": 159, "watchNum": 902, "topic": []}

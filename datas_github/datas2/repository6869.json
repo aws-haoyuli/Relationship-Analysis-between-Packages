@@ -1,0 +1,1 @@
+{"name": "sRDI", "description": "Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 173, "folkNum": 46, "watchNum": 173, "topic": []}

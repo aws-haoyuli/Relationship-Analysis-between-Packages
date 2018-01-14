@@ -1,0 +1,1 @@
+{"name": "pytracemalloc", "description": "This project is no longer maintained here, instead, for Python < 3.4, please see 'https://github.com/haypo/pytracemalloc', maintained by Victor Stinner.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 93, "folkNum": 13, "watchNum": 93, "topic": []}

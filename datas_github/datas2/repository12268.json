@@ -1,0 +1,1 @@
+{"name": "django-salmonella", "description": "A raw_id_fields widget replacement that handles display of an object's string value on change and can be overridden via a template.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 86, "folkNum": 28, "watchNum": 86, "topic": []}

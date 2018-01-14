@@ -1,0 +1,1 @@
+{"name": "tmux2html", "description": ":cat2: Render full tmux windows or individual panes as HTML", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 525, "folkNum": 11, "watchNum": 525, "topic": ["animation", "capture", "html", "tmux"]}

@@ -1,0 +1,1 @@
+{"name": "docker-ansible", "description": "Ansible module for Docker. Note: This module is now part of Ansible core, please see https://github.com/ansible/ansible.", "license": null, "starNum": 119, "folkNum": 17, "watchNum": 119, "topic": []}

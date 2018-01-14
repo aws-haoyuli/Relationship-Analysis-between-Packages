@@ -1,0 +1,1 @@
+{"name": "peak_detection", "description": "Signal peak detection ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Tingerlink"], "packages": ["numpy as np", "matplotlib", "PyQt5"]}

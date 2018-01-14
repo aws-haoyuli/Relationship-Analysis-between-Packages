@@ -1,0 +1,1 @@
+{"name": "pytest-sugar", "description": "a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 284, "folkNum": 35, "watchNum": 284, "topic": ["pytest", "pytest-sugar", "python", "testing"]}

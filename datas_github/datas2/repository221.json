@@ -1,0 +1,1 @@
+{"name": "node-gyp", "description": "Node.js native addon build tool", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 3796, "folkNum": 657, "watchNum": 3796, "topic": ["gyp", "node-addon", "node-gyp"]}

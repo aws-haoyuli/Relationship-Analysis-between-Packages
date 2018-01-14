@@ -1,0 +1,1 @@
+{"name": "command-line-chess", "description": "A python program to play chess against an AI in the terminal.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 272, "folkNum": 94, "watchNum": 272, "topic": ["chess", "python"]}

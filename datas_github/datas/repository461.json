@@ -1,0 +1,1 @@
+{"name": "Finance", "description": "Finance things to make us more finance muns.", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["CookieDoughTwist"], "packages": ["sys", "datetime", "time", "DataStructures", "winsound", "requests"]}

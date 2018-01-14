@@ -1,0 +1,1 @@
+{"name": "collectd-rabbitmq", "description": "A collected plugin, written in python, to collect statistics from RabbitMQ.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 106, "folkNum": 70, "watchNum": 106, "topic": []}

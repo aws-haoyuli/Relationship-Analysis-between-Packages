@@ -1,0 +1,1 @@
+{"name": "sumy", "description": "Module for automatic summarization of text documents and HTML pages.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 1235, "folkNum": 253, "watchNum": 1235, "topic": ["html-page", "lsa", "python", "sumy", "textteaser"]}

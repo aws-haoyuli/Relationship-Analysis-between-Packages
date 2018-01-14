@@ -1,0 +1,1 @@
+{"name": "rtlsdr-433m-sensor", "description": "Decoder for Oregon Scientific v1 protocol wireless temperature sensors with RTL-SDR and GNU Radio.", "license": null, "starNum": 130, "folkNum": 25, "watchNum": 130, "topic": ["gnuradio", "rtl-sdr", "software-defined-radio", "temperature-sensor"]}

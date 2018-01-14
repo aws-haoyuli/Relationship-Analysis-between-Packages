@@ -1,0 +1,1 @@
+{"name": "ATX", "description": "Smart phone automation tool. Support iOS, Android, WebApp and game.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 729, "folkNum": 229, "watchNum": 729, "topic": ["android", "atx", "ios", "python", "test-automation"]}

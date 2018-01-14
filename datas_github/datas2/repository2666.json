@@ -1,0 +1,1 @@
+{"name": "flask-bones", "description": "An example of a large scale Flask application using blueprints and extensions.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 469, "folkNum": 58, "watchNum": 469, "topic": ["alembic", "babel", "docker", "flask", "rq", "sqlalchemy", "travis-ci", "yarn"]}

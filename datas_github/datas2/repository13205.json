@@ -1,0 +1,1 @@
+{"name": "salesforce-bulk", "description": "Python interface to the Salesforce.com Bulk API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 79, "folkNum": 89, "watchNum": 79, "topic": ["bulk", "bulk-api", "heroku-connect", "python", "salesforce-bulk"]}

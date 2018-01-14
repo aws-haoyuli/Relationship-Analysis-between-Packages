@@ -1,0 +1,1 @@
+{"name": "pyspaces", "description": "Works with Linux namespaces througth glibc with pure python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 59, "folkNum": 5, "watchNum": 59, "topic": ["containers", "glibc", "linux-namespaces", "python"]}

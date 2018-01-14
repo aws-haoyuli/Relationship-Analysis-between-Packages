@@ -1,0 +1,1 @@
+{"name": "destalinator", "description": "Code for managing Cleanup of Stale Channels", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 72, "folkNum": 48, "watchNum": 72, "topic": ["slack", "stale-channels"]}

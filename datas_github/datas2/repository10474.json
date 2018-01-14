@@ -1,0 +1,1 @@
+{"name": "django-test-without-migrations", "description": "Django Test Without Migrations: Disable migrations when running your Django tests", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 105, "folkNum": 12, "watchNum": 105, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "skill-installer", "description": null, "license": null, "starNum": 1, "folkNum": 7, "watchNum": 1, "topic": [], "contributors": ["penrods", "augustnmonteiro", "kfezer", "forslund", "aleale99"], "packages": ["os", "subprocess", "mycroft", "re", "adapt"]}

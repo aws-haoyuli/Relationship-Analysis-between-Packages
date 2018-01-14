@@ -1,0 +1,1 @@
+{"name": "flask-marshmallow", "description": "Flask + marshmallow for beautiful APIs", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 272, "folkNum": 23, "watchNum": 272, "topic": ["flask", "marshmallow", "python", "python-2", "python-3", "rest-api", "sqlalchemy"]}

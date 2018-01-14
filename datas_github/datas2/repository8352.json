@@ -1,0 +1,1 @@
+{"name": "seq2seq", "description": "Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 137, "folkNum": 15, "watchNum": 137, "topic": ["deep-learning", "machine-translation", "seq2seq"]}

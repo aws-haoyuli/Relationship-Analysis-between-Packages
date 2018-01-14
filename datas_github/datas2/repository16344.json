@@ -1,0 +1,1 @@
+{"name": "djangosaml2", "description": "A maintenance fork of the original and no longer maintained djangosaml2 library.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 60, "folkNum": 50, "watchNum": 60, "topic": ["authentication", "django", "saml2", "sso"]}

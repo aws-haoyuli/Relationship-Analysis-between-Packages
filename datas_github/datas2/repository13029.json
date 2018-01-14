@@ -1,0 +1,1 @@
+{"name": "auto_backup", "description": "Automated database backups from Odoo, both locally and on an FTP server", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 80, "folkNum": 121, "watchNum": 80, "topic": []}

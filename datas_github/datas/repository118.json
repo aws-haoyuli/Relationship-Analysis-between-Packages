@@ -1,0 +1,1 @@
+{"name": "deepLearning3", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["SimonPreisinger"], "packages": ["json", "numpy as np", "keras", "tensorflow as tf"]}

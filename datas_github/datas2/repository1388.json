@@ -1,0 +1,1 @@
+{"name": "docker-grafana-graphite", "description": "Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 893, "folkNum": 416, "watchNum": 893, "topic": []}

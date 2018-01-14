@@ -1,0 +1,1 @@
+{"name": "dotfiles", "description": "dotfiles for vim, git, zsh, weechat, openbox, xterm, and many others. Install with: lndir -silent /path/to/dotfiles $HOME", "license": null, "starNum": 206, "folkNum": 35, "watchNum": 206, "topic": ["dotfiles", "linux", "tmux", "vim"]}

@@ -1,0 +1,1 @@
+{"name": "hdfs", "description": "API and command line interface for HDFS", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 108, "folkNum": 44, "watchNum": 108, "topic": ["cli", "hdfs", "python"]}

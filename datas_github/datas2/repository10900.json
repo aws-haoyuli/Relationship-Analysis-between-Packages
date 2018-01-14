@@ -1,0 +1,1 @@
+{"name": "simpleRaft", "description": "A implementation of Raft in pure Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 100, "folkNum": 28, "watchNum": 100, "topic": []}

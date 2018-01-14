@@ -1,0 +1,1 @@
+{"name": "rust-python-example", "description": "Example of using Rust to Extend Python", "license": null, "starNum": 115, "folkNum": 13, "watchNum": 115, "topic": ["c", "cargo", "cffi", "comparison", "cpython", "cython", "ffi", "llvm", "numba", "python", "redhat", "rust", "rust-cpython", "rust-packages"]}

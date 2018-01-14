@@ -1,0 +1,1 @@
+{"name": "Guesstimator", "description": "Uses Google, Yelp, and Foursquare APIs to retrieve and rank bars", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 64, "folkNum": 7, "watchNum": 64, "topic": ["api", "foursquare", "foursquare-api", "google", "google-places", "python", "yelp", "yelp-api"]}

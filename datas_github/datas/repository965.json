@@ -1,0 +1,1 @@
+{"name": "RFCN-ALL-IN-ONE", "description": null, "license": null, "starNum": 1, "folkNum": 0, "watchNum": 1, "topic": [], "contributors": ["genema"], "packages": ["os", "subprocess", "distutils", "numpy as np", "Cython", "time", "caffe", "fast_rcnn", "setuptools"]}

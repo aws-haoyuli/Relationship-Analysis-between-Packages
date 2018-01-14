@@ -1,0 +1,1 @@
+{"name": "django-softdelete", "description": "Soft delete for Django ORM, with support for undelete.", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 98, "folkNum": 45, "watchNum": 98, "topic": []}

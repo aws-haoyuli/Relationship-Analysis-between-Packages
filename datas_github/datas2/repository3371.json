@@ -1,0 +1,1 @@
+{"name": "HttpRunner", "description": "HTTP test runner, more than api test and load test.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 366, "folkNum": 155, "watchNum": 366, "topic": ["api-test", "httptest", "locust", "locustio", "performance-testing"]}

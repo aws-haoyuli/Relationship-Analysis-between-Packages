@@ -1,0 +1,1 @@
+{"name": "Arpeggio", "description": "Parser interpreter based on PEG grammars written in Python", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 92, "folkNum": 27, "watchNum": 92, "topic": ["parser", "parsing", "parsing-expression-grammar", "python"]}

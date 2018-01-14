@@ -1,0 +1,1 @@
+{"name": "django-friendship", "description": "Django app to manage following and bi-directional friendships", "license": {"key": "bsd-3-clause", "name": "BSD 3-clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause"}, "starNum": 328, "folkNum": 108, "watchNum": 328, "topic": ["django", "friendship", "python"]}

@@ -1,0 +1,1 @@
+{"name": "chinesemoon", "description": "A vocabulary and phrase manager to help my girlfriend learn Chinese!", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["spaderthomas"], "packages": ["main", "sys", "tkinter", "ttk", "Tkinter"]}

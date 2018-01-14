@@ -1,0 +1,1 @@
+{"name": "iot-python", "description": "Client libraries and samples for connecting to IBM Watson IoT using Python 2.7 and 3.x", "license": {"key": "epl-1.0", "name": "Eclipse Public License 1.0", "spdx_id": "EPL-1.0", "url": "https://api.github.com/licenses/epl-1.0"}, "starNum": 112, "folkNum": 119, "watchNum": 112, "topic": ["client-library", "iot", "python"]}

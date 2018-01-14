@@ -1,0 +1,1 @@
+{"name": "gitlint", "description": "Linting for your git commit messages", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 88, "folkNum": 22, "watchNum": 88, "topic": ["git", "git-addons", "lint", "linter", "linting", "python"]}

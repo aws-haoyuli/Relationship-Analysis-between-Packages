@@ -1,0 +1,1 @@
+{"name": "SafeText", "description": "Script to remove homoglyphs and zero-width characters to allow for safe distribution of documents from anonymous sources.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 66, "folkNum": 4, "watchNum": 66, "topic": ["forensic-analysis"]}

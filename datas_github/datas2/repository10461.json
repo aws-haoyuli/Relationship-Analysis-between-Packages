@@ -1,0 +1,1 @@
+{"name": "dilettante", "description": "Maven central doesn't do SSL when serving you JARs. Dilettante is a MiTM proxy for exploiting that.", "license": null, "starNum": 105, "folkNum": 8, "watchNum": 105, "topic": []}

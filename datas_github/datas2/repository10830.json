@@ -1,0 +1,1 @@
+{"name": "autoflake", "description": "Removes unused imports and unused variables as reported by pyflakes", "license": null, "starNum": 100, "folkNum": 9, "watchNum": 100, "topic": []}

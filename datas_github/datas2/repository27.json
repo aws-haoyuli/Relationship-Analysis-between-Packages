@@ -1,0 +1,1 @@
+{"name": "tornado", "description": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 14966, "folkNum": 4390, "watchNum": 14966, "topic": ["asynchronous", "python"]}

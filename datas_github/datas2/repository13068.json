@@ -1,0 +1,1 @@
+{"name": "pysendfile", "description": "A Python interface to sendfile(2) syscall", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 80, "folkNum": 26, "watchNum": 80, "topic": []}

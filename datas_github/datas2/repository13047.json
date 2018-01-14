@@ -1,0 +1,1 @@
+{"name": "danderspritz-evtx", "description": "Parse evtx files and detect use of the DanderSpritz eventlogedit module", "license": null, "starNum": 80, "folkNum": 18, "watchNum": 80, "topic": ["danderspritz", "eventlogedit", "evtx", "python"]}

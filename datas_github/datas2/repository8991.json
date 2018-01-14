@@ -1,0 +1,1 @@
+{"name": "RPLCD", "description": "A Raspberry Pi LCD library for the widely used Hitachi HD44780 controller, written in Python. GPIO (parallel) and I\u00b2C modes supported.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 126, "folkNum": 40, "watchNum": 126, "topic": []}

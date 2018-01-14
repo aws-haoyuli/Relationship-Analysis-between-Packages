@@ -1,0 +1,1 @@
+{"name": "gTTS", "description": "Module and command line utility to save spoken text to mp3 via the Google Text to Speech (TTS) API", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 523, "folkNum": 125, "watchNum": 523, "topic": ["python", "speech", "text-to-speech", "tts"]}

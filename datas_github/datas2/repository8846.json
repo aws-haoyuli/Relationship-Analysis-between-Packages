@@ -1,0 +1,1 @@
+{"name": "sadb", "description": "(safe adb)\u5728\u591a\u8bbe\u5907\u65f6\u66f4\u65b9\u4fbf\u5730\u64cd\u4f5cadb", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 128, "folkNum": 15, "watchNum": 128, "topic": ["adb", "android", "pypi", "python"]}

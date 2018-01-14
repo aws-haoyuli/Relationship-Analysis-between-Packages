@@ -1,0 +1,1 @@
+{"name": "common-cathode-triode", "description": "Python model of a tube audio amplifier stage", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["KostasKaram"], "packages": ["matplotlib", "scipy", "numpy", "triode_amp", "math", "json"]}

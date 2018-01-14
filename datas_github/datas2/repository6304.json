@@ -1,0 +1,1 @@
+{"name": "struts-pwn_CVE-2017-9805", "description": "An exploit for Apache Struts CVE-2017-9805", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 189, "folkNum": 56, "watchNum": 189, "topic": ["struts-pwn"]}

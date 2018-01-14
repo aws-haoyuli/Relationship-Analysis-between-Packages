@@ -1,0 +1,1 @@
+{"name": "riprova", "description": "Versatile Python library for retrying failed operations with configurable backoff strategies", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 68, "folkNum": 5, "watchNum": 68, "topic": ["backoff", "decorator", "python", "retry"]}

@@ -1,0 +1,1 @@
+{"name": "tmuxp", "description": ":computer: tmux session manager. built on libtmux", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 1794, "folkNum": 126, "watchNum": 1794, "topic": ["cli", "cli-utilities", "json", "python", "session-manager", "terminal", "tmux", "yaml"]}

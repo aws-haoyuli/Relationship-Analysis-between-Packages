@@ -1,0 +1,1 @@
+{"name": "pointer-network-tensorflow", "description": "TensorFlow implementation of \"Pointer Networks\"", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 201, "folkNum": 50, "watchNum": 201, "topic": ["deep-learning", "pointer-networks", "tensorflow"]}

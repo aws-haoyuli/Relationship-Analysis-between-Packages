@@ -1,0 +1,1 @@
+{"name": "Github-Auto-Issue-Creator", "description": "An automatic issue creator for Github, written in Python. It'll go through your entire git repo, look for any lines that start with TODO: and add them as issues to your repo.", "license": null, "starNum": 79, "folkNum": 7, "watchNum": 79, "topic": []}

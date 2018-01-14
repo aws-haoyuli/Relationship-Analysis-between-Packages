@@ -1,0 +1,1 @@
+{"name": "sea-cucumber", "description": "A Django email backend for Amazon Simple Email Service, backed by celery", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 136, "folkNum": 28, "watchNum": 136, "topic": []}

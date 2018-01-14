@@ -1,0 +1,1 @@
+{"name": "TelegramBot", "description": "Source del bot di telegram @Letame_bot", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Aiku1"], "packages": ["os", "datetime", "traceback", "time", "math", "random", "telegram"]}

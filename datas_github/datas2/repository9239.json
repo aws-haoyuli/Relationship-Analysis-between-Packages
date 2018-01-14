@@ -1,0 +1,1 @@
+{"name": "jinja2-cli", "description": "CLI for Jinja2", "license": {"key": "bsd-2-clause", "name": "BSD 2-clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause"}, "starNum": 122, "folkNum": 82, "watchNum": 122, "topic": ["cli", "jinja2", "python", "toml", "xml", "yaml"]}

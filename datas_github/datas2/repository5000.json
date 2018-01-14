@@ -1,0 +1,1 @@
+{"name": "seq2seq.pytorch", "description": "Sequence-to-Sequence learning using PyTorch", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 244, "folkNum": 29, "watchNum": 244, "topic": ["deep-learning", "neural-machine-translation", "seq2seq"]}

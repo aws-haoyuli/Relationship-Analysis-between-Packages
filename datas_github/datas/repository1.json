@@ -1,0 +1,1 @@
+{"name": "mypy", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["swordft"], "packages": ["time", "datetime", "json", "flask", "traceback", "MySQLdb as mysql"]}

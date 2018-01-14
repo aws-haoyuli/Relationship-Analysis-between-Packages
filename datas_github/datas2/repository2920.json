@@ -1,0 +1,1 @@
+{"name": "django-paypal", "description": "A pluggable Django application for integrating PayPal Payments Standard or Payments Pro", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 426, "folkNum": 134, "watchNum": 426, "topic": ["django", "paypal", "paypal-express-checkout", "paypal-ipn", "python"]}

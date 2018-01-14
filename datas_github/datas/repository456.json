@@ -1,0 +1,1 @@
+{"name": "oled_server", "description": "A managed server for displaying log on a i2c oled", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["Kyalma"], "packages": ["struct", "queue", "pickle", "enum", "logging", "select", "concurrent", "socketserver"]}

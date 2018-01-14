@@ -1,0 +1,1 @@
+{"name": "WSL-Distribution-Switcher", "description": "Scripts to replace the distribution behind Windows Subsystem for Linux with any other Linux distribution published on Docker Hub.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 962, "folkNum": 72, "watchNum": 962, "topic": []}

@@ -1,0 +1,1 @@
+{"name": "luma.lcd", "description": " Python module to drive PCD8544, HT1621, ST7735 and UC1701X-based LCDs", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 67, "folkNum": 25, "watchNum": 67, "topic": ["ht1621", "lcd", "pcd8544", "python", "raspberry-pi", "spi", "st7735", "uc1701x"]}

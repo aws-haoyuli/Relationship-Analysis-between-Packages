@@ -1,0 +1,1 @@
+{"name": "twisted", "description": "Event-driven networking engine written in Python.", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 2393, "folkNum": 696, "watchNum": 2393, "topic": ["async", "async-python", "dns", "event-driven", "html5", "http", "imap", "irc", "network", "python", "smtp", "ssl", "tls", "twisted", "xmpp"]}

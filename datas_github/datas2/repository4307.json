@@ -1,0 +1,1 @@
+{"name": "ansigenome", "description": "A tool to help you gather information and manage your Ansible roles.", "license": {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0"}, "starNum": 284, "folkNum": 29, "watchNum": 284, "topic": ["ansible", "python"]}

@@ -1,0 +1,1 @@
+{"name": "django-fluent-comments", "description": "A modern, ajax-based appearance for django.contrib.comments", "license": {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0"}, "starNum": 140, "folkNum": 80, "watchNum": 140, "topic": ["comment-spam", "commenting", "django"]}

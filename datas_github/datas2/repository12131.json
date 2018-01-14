@@ -1,0 +1,1 @@
+{"name": "py-ts3", "description": "A Python 3 API for the TeamSpeak 3 server query and file transfer interface.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 87, "folkNum": 20, "watchNum": 87, "topic": ["client-query", "filetransfer", "python", "server-query", "teamspeak", "ts3"]}

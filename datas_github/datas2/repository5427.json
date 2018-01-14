@@ -1,0 +1,1 @@
+{"name": "yolo_tensorflow", "description": "Tensorflow implementation of YOLO, including training and test phase.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 223, "folkNum": 114, "watchNum": 223, "topic": ["detection", "tensorflow", "yolo"]}

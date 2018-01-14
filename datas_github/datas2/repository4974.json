@@ -1,0 +1,1 @@
+{"name": "deoplete-go", "description": "Asynchronous Go completion for Neovim. deoplete source for Go. ", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 246, "folkNum": 22, "watchNum": 246, "topic": ["deoplete", "go", "gocode", "neovim", "neovim-plugin"]}

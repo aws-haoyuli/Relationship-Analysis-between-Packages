@@ -1,0 +1,1 @@
+{"name": "cso_digitalocean", "description": "cso viewer on digital ocean", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 0, "folkNum": 1, "watchNum": 0, "topic": [], "contributors": ["keum", "flott"], "packages": ["csv", "urllib2", "subprocess", "geojson"]}

@@ -1,0 +1,1 @@
+{"name": "tilde_enum", "description": "Takes a URL and checks the system for the tilde enum vuln and then find the files.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 61, "folkNum": 21, "watchNum": 61, "topic": []}

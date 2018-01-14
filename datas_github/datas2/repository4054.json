@@ -1,0 +1,1 @@
+{"name": "BicycleGAN", "description": "[NIPS 2017] Toward Multimodal Image-to-Image Translation", "license": {"key": "other", "name": "Other", "spdx_id": null, "url": null}, "starNum": 301, "folkNum": 39, "watchNum": 301, "topic": ["deep-learning", "gans", "generative-adversarial-network", "pix2pix", "pytorch"]}

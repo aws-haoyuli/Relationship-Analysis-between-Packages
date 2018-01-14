@@ -1,0 +1,1 @@
+{"name": "keras_snli", "description": "Simple Keras model that tackles the Stanford Natural Language Inference (SNLI) corpus using summation and/or recurrent neural networks", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 209, "folkNum": 35, "watchNum": 209, "topic": []}

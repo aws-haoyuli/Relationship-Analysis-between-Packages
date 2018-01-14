@@ -1,0 +1,1 @@
+{"name": "arouteserver", "description": "A tool to automatically build (and test) feature-rich configurations for BGP route servers.", "license": null, "starNum": 67, "folkNum": 6, "watchNum": 67, "topic": ["bgp", "bgp-daemon", "bird", "ixp", "ixps", "openbgpd", "route-server", "routing"]}

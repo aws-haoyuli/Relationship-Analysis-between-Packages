@@ -1,0 +1,1 @@
+{"name": "honcho", "description": "Honcho: a python clone of Foreman. For managing Procfile-based applications.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 1053, "folkNum": 106, "watchNum": 1053, "topic": ["devtools", "operations", "python"]}

@@ -1,0 +1,1 @@
+{"name": "nok-smart", "description": null, "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["eman000tahaz"], "packages": ["os", "sys", "subprocess", "glob", "babel", "docutils", "distutils", "reportlab", "passlib", "py2exe", "pytz", "requests", "re", "setuptools"]}

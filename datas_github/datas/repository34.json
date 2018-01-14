@@ -1,0 +1,1 @@
+{"name": "historyclockimage", "description": "makes a fun clock", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["efarbereger"], "packages": ["urllib2 as url_request", "time", "datetime", "argparse", "urllib", "json", "pygit2"]}

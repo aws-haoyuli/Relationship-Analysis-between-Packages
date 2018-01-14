@@ -1,0 +1,1 @@
+{"name": "DeepFace", "description": "Face analysis mainly based on Caffe. At this time, face analysis tasks like detection, alignment and recognition have been done.", "license": null, "starNum": 833, "folkNum": 433, "watchNum": 833, "topic": ["deep-learning", "face-analysis", "face-dataset", "face-detection", "face-recognition"]}

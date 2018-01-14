@@ -1,0 +1,1 @@
+{"name": "Flask-simple-Restful", "description": "Create a basic RestFul API with flask", "license": null, "starNum": 0, "folkNum": 0, "watchNum": 0, "topic": [], "contributors": ["quangvinh86"], "packages": ["flask", "flask_restful"]}

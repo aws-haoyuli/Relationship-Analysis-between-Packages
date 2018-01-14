@@ -1,0 +1,1 @@
+{"name": "cookiecutter-flask", "description": "A flask template with Bootstrap 3, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.", "license": null, "starNum": 1610, "folkNum": 356, "watchNum": 1610, "topic": ["bootstrap", "cookiecutter", "flask", "python", "webpack"]}

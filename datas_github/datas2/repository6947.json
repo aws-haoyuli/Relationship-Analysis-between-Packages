@@ -1,0 +1,1 @@
+{"name": "Flask-Moment", "description": "Formatting of dates and times in Flask templates using moment.js.", "license": {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit"}, "starNum": 171, "folkNum": 21, "watchNum": 171, "topic": ["flask-moment", "moment-js", "python", "render-timestamps", "timestamp", "utc"]}

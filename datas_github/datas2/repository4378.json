@@ -1,0 +1,1 @@
+{"name": "ViperMonkey", "description": "A VBA parser and emulation engine to analyze malicious macros.", "license": null, "starNum": 279, "folkNum": 61, "watchNum": 279, "topic": ["emulation", "macros", "malware-analysis", "parser", "pyparsing", "python", "security", "vba"]}
